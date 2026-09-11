@@ -4,6 +4,18 @@ const GROUP_ID = 5971;
 const GROUP_URL = `https://api.wiseoldman.net/v2/groups/${GROUP_ID}`;
 const HISCORES_BASE = `https://api.wiseoldman.net/v2/groups/${GROUP_ID}/hiscores`;
 
+// Read API key from environment variables (GitHub Secret or .env)
+const API_KEY = process.env.WOM_API_KEY || '';
+
+// Attach x-api-key header if available
+const FETCH_HEADERS = {
+  'User-Agent': 'OnlyFEs-Clan-Leaderboard/1.0',
+  ...(API_KEY && { 'x-api-key': API_KEY })
+};
+
+// WOM rate limits: 20 req/min (~3000ms delay) without key; 100 req/min (~600ms delay) with key
+const REQUEST_DELAY_MS = API_KEY ? 700 : 3100;
+
 const METRICS = [
   // Computed & Efficiency
   'ehp', 'ehb',
@@ -38,16 +50,40 @@ const METRICS = [
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-async function updateLeaderboardData() {
-  const memberMap = {}; // Lowercase username -> player object
+/**
+ * Fetch wrapper handling rate limits (429) and header injection
+ */
+async function fetchWithRetry(url, options = {}, retries = 5, backoff = 3000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const res = await fetch(url, { ...options, headers: { ...FETCH_HEADERS, ...options.headers } });
 
+    if (res.ok) return res;
+
+    if (res.status === 429) {
+      // Check if WOM provided a Retry-After header in seconds
+      const retryAfterHeader = res.headers.get('retry-after');
+      const waitTime = retryAfterHeader ? parseInt(retryAfterHeader, 10) * 1000 : backoff;
+
+      console.warn(`Rate limited (429) on ${url}. Waiting ${(waitTime / 1000).toFixed(1)}s (Attempt ${attempt}/${retries})...`);
+      await sleep(waitTime);
+      backoff *= 2; // Exponential backoff fallback
+    } else {
+      throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+    }
+  }
+
+  throw new Error(`Failed to fetch ${url} after ${retries} attempts due to rate limiting.`);
+}
+
+async function updateLeaderboardData() {
+  const memberMap = {};
+
+  console.log(`API Key detected: ${API_KEY ? 'Yes (700ms request delay)' : 'No (3100ms request delay)'}`);
   console.log(`Fetching official group data from ${GROUP_URL}...`);
-  
+
   // Step 1: Fetch group data to retrieve full memberships list
   try {
-    const groupRes = await fetch(GROUP_URL);
-    if (!groupRes.ok) throw new Error(`Failed to fetch group: ${groupRes.statusText}`);
-    
+    const groupRes = await fetchWithRetry(GROUP_URL);
     const groupData = await groupRes.json();
     const memberships = groupData.memberships || [];
 
@@ -55,7 +91,7 @@ async function updateLeaderboardData() {
       if (!m.player || !m.player.displayName) continue;
 
       const lowerName = m.player.displayName.toLowerCase();
-      
+
       memberMap[lowerName] = {
         username: m.player.displayName,
         role: m.role || 'member',
@@ -73,13 +109,7 @@ async function updateLeaderboardData() {
   for (const metric of METRICS) {
     try {
       console.log(`Fetching metric: ${metric}...`);
-      const response = await fetch(`${HISCORES_BASE}?metric=${metric}`);
-      
-      if (!response.ok) {
-        console.warn(`Failed to fetch ${metric}: ${response.statusText}`);
-        continue;
-      }
-
+      const response = await fetchWithRetry(`${HISCORES_BASE}?metric=${metric}`);
       const entries = await response.json();
 
       for (const entry of entries) {
@@ -102,7 +132,7 @@ async function updateLeaderboardData() {
         memberMap[lowerName].metrics[metric] = { value, level };
       }
 
-      await sleep(1000); // 1s buffer for rate limiting
+      await sleep(REQUEST_DELAY_MS);
     } catch (err) {
       console.error(`Error processing ${metric}:`, err.message);
     }
