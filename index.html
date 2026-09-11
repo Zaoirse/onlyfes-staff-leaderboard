@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clan Leaderboards & Staff Hall of Fame</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background-color: #0f172a; color: #f8fafc; }
+  </style>
+</head>
+<body class="min-h-screen p-4 sm:p-8 max-w-7xl mx-auto">
+
+  <!-- Header -->
+  <header class="mb-8 border-b border-slate-800 pb-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+    <div>
+      <h1 class="text-3xl font-bold text-amber-500 tracking-tight">Clan Leaderboards</h1>
+      <p id="lastUpdated" class="text-xs text-slate-400 mt-1">Loading sync time...</p>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <div class="flex items-center gap-2 bg-slate-900 p-1.5 rounded-xl border border-slate-800">
+      <button id="tabLeaderboard" onclick="switchView('leaderboard')" class="px-4 py-2 text-sm font-semibold rounded-lg bg-amber-500 text-slate-950 shadow transition-all">
+        Leaderboards
+      </button>
+      <button id="tabHof" onclick="switchView('hof')" class="px-4 py-2 text-sm font-semibold rounded-lg text-slate-400 hover:text-white transition-all">
+        👑 Staff Hall of Fame
+      </button>
+    </div>
+  </header>
+
+  <!-- VIEW 1: Leaderboards Section -->
+  <section id="leaderboardView">
+    <!-- Controls & Filters -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6 bg-slate-900 p-4 rounded-xl border border-slate-800">
+      <!-- Metric Selector -->
+      <div>
+        <label class="block text-xs uppercase tracking-wider text-slate-400 mb-1 font-semibold">Select Metric</label>
+        <select id="metricSelect" onchange="filterData()" class="w-full bg-slate-800 text-white p-2.5 rounded-lg border border-slate-700 focus:outline-none focus:border-amber-500 text-sm">
+          <optgroup label="Overall & Efficiency">
+            <option value="overall">Overall Experience</option>
+            <option value="ehp">Efficient Hours Played (EHP)</option>
+            <option value="ehb">Efficient Hours Bossed (EHB)</option>
+          </optgroup>
+          <optgroup label="Skills">
+            <option value="attack">Attack</option>
+            <option value="defence">Defence</option>
+            <option value="strength">Strength</option>
+            <option value="hitpoints">Hitpoints</option>
+            <option value="ranged">Ranged</option>
+            <option value="prayer">Prayer</option>
+            <option value="magic">Magic</option>
+            <option value="cooking">Cooking</option>
+            <option value="woodcutting">Woodcutting</option>
+            <option value="fletching">Fletching</option>
+            <option value="fishing">Fishing</option>
+            <option value="firemaking">Firemaking</option>
+            <option value="crafting">Crafting</option>
+            <option value="smithing">Smithing</option>
+            <option value="mining">Mining</option>
+            <option value="herblore">Herblore</option>
+            <option value="agility">Agility</option>
+            <option value="thieving">Thieving</option>
+            <option value="slayer">Slayer</option>
+            <option value="farming">Farming</option>
+            <option value="runecrafting">Runecrafting</option>
+            <option value="hunter">Hunter</option>
+            <option value="construction">Construction</option>
+            <option value="sailing">Sailing</option>
+          </optgroup>
+          <optgroup label="Clues">
+            <option value="clue_scrolls_all">All Clues</option>
+            <option value="clue_scrolls_beginner">Beginner Clues</option>
+            <option value="clue_scrolls_easy">Easy Clues</option>
+            <option value="clue_scrolls_medium">Medium Clues</option>
+            <option value="clue_scrolls_hard">Hard Clues</option>
+            <option value="clue_scrolls_elite">Elite Clues</option>
+            <option value="clue_scrolls_master">Master Clues</option>
+          </optgroup>
+          <optgroup label="Activities & Minigames">
+            <option value="collections_logged">Collection Logged</option>
+            <option value="colosseum_glory">Fortis Colosseum Glory</option>
+            <option value="guardians_of_the_rift">Guardians of the Rift</option>
+            <option value="last_man_standing">Last Man Standing</option>
+            <option value="soul_wars_zeal">Soul Wars Zeal</option>
+            <option value="pvp_arena">PvP Arena</option>
+            <option value="bounty_hunter_hunter">Bounty Hunter (Hunter)</option>
+            <option value="bounty_hunter_rogue">Bounty Hunter (Rogue)</option>
+          </optgroup>
+          <optgroup label="Raids & Bosses">
+            <option value="chambers_of_xeric">Chambers of Xeric</option>
+            <option value="chambers_of_xeric_challenge_mode">CoX: Challenge Mode</option>
+            <option value="theatre_of_blood">Theatre of Blood</option>
+            <option value="theatre_of_blood_hard_mode">ToB: Hard Mode</option>
+            <option value="tombs_of_amascut">Tombs of Amascut</option>
+            <option value="tombs_of_amascut_expert">ToA: Expert Mode</option>
+            <option value="tzkal_zuk">Inferno (Zuk)</option>
+            <option value="tztok_jad">Fight Caves (Jad)</option>
+            <option value="the_gauntlet">The Gauntlet</option>
+            <option value="the_corrupted_gauntlet">Corrupted Gauntlet</option>
+            <option value="alchemical_hydra">Alchemical Hydra</option>
+            <option value="amoxliatl">Amoxliatl</option>
+            <option value="araxxor">Araxxor</option>
+            <option value="artio">Artio</option>
+            <option value="barrows_chests">Barrows Chests</option>
+            <option value="brutus">Brutus</option>
+            <option value="bryophyta">Bryophyta</option>
+            <option value="callisto">Callisto</option>
+            <option value="calvarion">Calvar'ion</option>
+            <option value="cerberus">Cerberus</option>
+            <option value="commander_zilyana">Commander Zilyana</option>
+            <option value="corporeal_beast">Corporeal Beast</option>
+            <option value="dagannoth_prime">Dagannoth Prime</option>
+            <option value="dagannoth_rex">Dagannoth Rex</option>
+            <option value="dagannoth_supreme">Dagannoth Supreme</option>
+            <option value="doom_of_mokhaiotl">Doom of Mokhaiotl</option>
+            <option value="duke_sucellus">Duke Sucellus</option>
+            <option value="general_graardor">General Graardor</option>
+            <option value="giant_mole">Giant Mole</option>
+            <option value="grotesque_guardians">Grotesque Guardians</option>
+            <option value="hespori">Hespori</option>
+            <option value="kalphite_queen">Kalphite Queen</option>
+            <option value="king_black_dragon">King Black Dragon</option>
+            <option value="kraken">Kraken</option>
+            <option value="kreearra">Kree'arra</option>
+            <option value="kril_tsutsaroth">K'ril Tsutsaroth</option>
+            <option value="lunar_chests">Lunar Chests</option>
+            <option value="mad_angel">Mad Angel</option>
+            <option value="maggot_king">Maggot King</option>
+            <option value="mimic">Mimic</option>
+            <option value="nex">Nex</option>
+            <option value="nightmare">The Nightmare</option>
+            <option value="phosanis_nightmare">Phosani's Nightmare</option>
+            <option value="phantom_muspah">Phantom Muspah</option>
+            <option value="sarachnis">Sarachnis</option>
+            <option value="scurrius">Scurrius</option>
+            <option value="shellbane_gryphon">Shellbane Gryphon</option>
+            <option value="skotizo">Skotizo</option>
+            <option value="sol_heredit">Sol Heredit</option>
+            <option value="spindel">Spindel</option>
+            <option value="tempoross">Tempoross</option>
+            <option value="the_hueycoatl">The Hueycoatl</option>
+            <option value="the_leviathan">The Leviathan</option>
+            <option value="the_royal_titans">The Royal Titans</option>
+            <option value="the_whisperer">The Whisperer</option>
+            <option value="thermonuclear_smoke_devil">Thermonuclear Smoke Devil</option>
+            <option value="vardorvis">Vardorvis</option>
+            <option value="venenatis">Venenatis</option>
+            <option value="vetion">Vet'ion</option>
+            <option value="vorkath">Vorkath</option>
+            <option value="wintertodt">Wintertodt</option>
+            <option value="yama">Yama</option>
+            <option value="zalcano">Zalcano</option>
+            <option value="zulrah">Zulrah</option>
+          </optgroup>
+        </select>
+      </div>
+
+      <!-- Rank Filter -->
+      <div>
+        <label class="block text-xs uppercase tracking-wider text-slate-400 mb-1 font-semibold">Filter Ranks</label>
+        <select id="rankSelect" onchange="filterData()" class="w-full bg-slate-800 text-white p-2.5 rounded-lg border border-slate-700 focus:outline-none focus:border-amber-500 text-sm">
+          <option value="ALL">All Members</option>
+          <option value="STAFF">Staff Only</option>
+        </select>
+      </div>
+
+      <!-- Search Input -->
+      <div>
+        <label class="block text-xs uppercase tracking-wider text-slate-400 mb-1 font-semibold">Search Player</label>
+        <input type="text" id="searchInput" onkeyup="filterData()" placeholder="Search username..." class="w-full bg-slate-800 text-white p-2.5 rounded-lg border border-slate-700 focus:outline-none focus:border-amber-500 text-sm placeholder-slate-500" />
+      </div>
+    </div>
+
+    <!-- Leaderboard Table -->
+    <div class="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden shadow-xl">
+      <div class="overflow-x-auto">
+        <table class="w-full text-left border-collapse">
+          <thead>
+            <tr id="tableHeader" class="bg-slate-800/60 text-slate-400 text-xs uppercase tracking-wider border-b border-slate-800">
+              <th class="p-4 w-16 text-center">#</th>
+              <th class="p-4">Player</th>
+              <th class="p-4">Clan Role</th>
+              <th class="p-4 text-right">Level</th>
+              <th class="p-4 text-right">Score / Value</th>
+            </tr>
+          </thead>
+          <tbody id="leaderboardBody" class="divide-y divide-slate-800/50 text-sm">
+            <tr>
+              <td colspan="5" class="p-8 text-center text-slate-500">Loading data.json...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- VIEW 2: Staff Hall of Fame Section -->
+  <section id="hofView" class="hidden">
+    <div class="mb-6 p-4 rounded-xl bg-slate-900 border border-slate-800 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+      <div>
+        <h2 class="text-xl font-bold text-amber-400">👑 Staff Hall of Fame</h2>
+        <p class="text-xs text-slate-400">Staff record holders across all Old School RuneScape metrics.</p>
+      </div>
+
+      <div class="flex flex-wrap items-center gap-3 w-full md:w-auto">
+        <!-- Category Filter -->
+        <select id="hofCategoryFilter" onchange="renderHallOfFame()" class="bg-slate-800 text-white px-3 py-1.5 rounded-lg border border-slate-700 text-xs focus:outline-none focus:border-amber-500">
+          <option value="ALL">All Categories</option>
+          <option value="efficiency">Efficiency & Overall</option>
+          <option value="skill">Skills</option>
+          <option value="clue">Clues</option>
+          <option value="activity">Activities & Minigames</option>
+          <option value="boss">Bosses & Raids</option>
+        </select>
+
+        <!-- Search Bar -->
+        <input type="text" id="hofSearchInput" onkeyup="renderHallOfFame()" placeholder="Filter metric..." class="bg-slate-800 text-white px-3 py-1.5 rounded-lg border border-slate-700 text-xs focus:outline-none focus:border-amber-500 placeholder-slate-500" />
+      </div>
+    </div>
+
+    <!-- Cards Grid -->
+    <div id="hofContainer" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      <!-- Generated via JavaScript -->
+    </div>
+  </section>
+
+  <script>
+    let allMembers = [];
+
+    // Exact clan staff ranks as specified
+    const STAFF_ROLES = [
+      'owner', 'deputy owner', 'commander', 'master', 'general', 'captain'
+    ];
+
+    const SKILL_METRICS = [
+      'overall', 'attack', 'defence', 'strength', 'hitpoints', 'ranged', 'prayer', 'magic',
+      'cooking', 'woodcutting', 'fletching', 'fishing', 'firemaking', 'crafting', 'smithing',
+      'mining', 'herblore', 'agility', 'thieving', 'slayer', 'farming', 'runecrafting',
+      'hunter', 'construction', 'sailing'
+    ];
+
+    // Complete Staff Hall of Fame Metrics
+    const HOF_METRICS = [
+      // Computed & Efficiency
+      { id: 'ehp', name: 'Efficient Hours Played', icon: '⏳', type: 'hours', category: 'efficiency' },
+      { id: 'ehb', name: 'Efficient Hours Bossed', icon: '🛡️', type: 'hours', category: 'efficiency' },
+
+      // Skills
+      { id: 'overall', name: 'Overall Experience', icon: '⚔️', type: 'skill', category: 'skill' },
+      { id: 'attack', name: 'Attack', icon: '⚔️', type: 'skill', category: 'skill' },
+      { id: 'defence', name: 'Defence', icon: '🛡️', type: 'skill', category: 'skill' },
+      { id: 'strength', name: 'Strength', icon: '💪', type: 'skill', category: 'skill' },
+      { id: 'hitpoints', name: 'Hitpoints', icon: '❤️', type: 'skill', category: 'skill' },
+      { id: 'ranged', name: 'Ranged', icon: '🏹', type: 'skill', category: 'skill' },
+      { id: 'prayer', name: 'Prayer', icon: '✨', type: 'skill', category: 'skill' },
+      { id: 'magic', name: 'Magic', icon: '🪄', type: 'skill', category: 'skill' },
+      { id: 'cooking', name: 'Cooking', icon: '🍳', type: 'skill', category: 'skill' },
+      { id: 'woodcutting', name: 'Woodcutting', icon: '🪓', type: 'skill', category: 'skill' },
+      { id: 'fletching', name: 'Fletching', icon: '🏹', type: 'skill', category: 'skill' },
+      { id: 'fishing', name: 'Fishing', icon: '🎣', type: 'skill', category: 'skill' },
+      { id: 'firemaking', name: 'Firemaking', icon: '🔥', type: 'skill', category: 'skill' },
+      { id: 'crafting', name: 'Crafting', icon: '💎', type: 'skill', category: 'skill' },
+      { id: 'smithing', name: 'Smithing', icon: '🔨', type: 'skill', category: 'skill' },
+      { id: 'mining', name: 'Mining', icon: '⛏️', type: 'skill', category: 'skill' },
+      { id: 'herblore', name: 'Herblore', icon: '🧪', type: 'skill', category: 'skill' },
+      { id: 'agility', name: 'Agility', icon: '🏃', type: 'skill', category: 'skill' },
+      { id: 'thieving', name: 'Thieving', icon: '🪙', type: 'skill', category: 'skill' },
+      { id: 'slayer', name: 'Slayer', icon: '💀', type: 'skill', category: 'skill' },
+      { id: 'farming', name: 'Farming', icon: '🌱', type: 'skill', category: 'skill' },
+      { id: 'runecrafting', name: 'Runecrafting', icon: '🌀', type: 'skill', category: 'skill' },
+      { id: 'hunter', name: 'Hunter', icon: '🐾', type: 'skill', category: 'skill' },
+      { id: 'construction', name: 'Construction', icon: '🏠', type: 'skill', category: 'skill' },
+      { id: 'sailing', name: 'Sailing', icon: '⛵', type: 'skill', category: 'skill' },
+
+      // Activities & Minigames
+      { id: 'bounty_hunter_hunter', name: 'Bounty Hunter (Hunter)', icon: '🎯', type: 'activity', category: 'activity' },
+      { id: 'bounty_hunter_rogue', name: 'Bounty Hunter (Rogue)', icon: '🗡️', type: 'activity', category: 'activity' },
+      { id: 'clue_scrolls_all', name: 'All Clues', icon: '📜', type: 'clue', category: 'clue' },
+      { id: 'clue_scrolls_beginner', name: 'Beginner Clues', icon: '📄', type: 'clue', category: 'clue' },
+      { id: 'clue_scrolls_easy', name: 'Easy Clues', icon: '📘', type: 'clue', category: 'clue' },
+      { id: 'clue_scrolls_medium', name: 'Medium Clues', icon: '📗', type: 'clue', category: 'clue' },
+      { id: 'clue_scrolls_hard', name: 'Hard Clues', icon: '📙', type: 'clue', category: 'clue' },
+      { id: 'clue_scrolls_elite', name: 'Elite Clues', icon: '📓', type: 'clue', category: 'clue' },
+      { id: 'clue_scrolls_master', name: 'Master Clues', icon: '🔮', type: 'clue', category: 'clue' },
+      { id: 'last_man_standing', name: 'Last Man Standing', icon: '🏆', type: 'activity', category: 'activity' },
+      { id: 'pvp_arena', name: 'PvP Arena', icon: '⚔️', type: 'activity', category: 'activity' },
+      { id: 'soul_wars_zeal', name: 'Soul Wars Zeal', icon: '👻', type: 'activity', category: 'activity' },
+      { id: 'guardians_of_the_rift', name: 'Guardians of the Rift', icon: '🌀', type: 'activity', category: 'activity' },
+      { id: 'colosseum_glory', name: 'Fortis Colosseum Glory', icon: '🏛️', type: 'activity', category: 'activity' },
+      { id: 'collections_logged', name: 'Collections Logged', icon: '📖', type: 'activity', category: 'activity' },
+
+      // Bosses
+      { id: 'abyssal_sire', name: 'Abyssal Sire', icon: '👾', type: 'boss', category: 'boss' },
+      { id: 'alchemical_hydra', name: 'Alchemical Hydra', icon: '🐉', type: 'boss', category: 'boss' },
+      { id: 'amoxliatl', name: 'Amoxliatl', icon: '❄️', type: 'boss', category: 'boss' },
+      { id: 'araxxor', name: 'Araxxor', icon: '🕷️', type: 'boss', category: 'boss' },
+      { id: 'artio', name: 'Artio', icon: '🐻', type: 'boss', category: 'boss' },
+      { id: 'barrows_chests', name: 'Barrows Chests', icon: '⚰️', type: 'boss', category: 'boss' },
+      { id: 'brutus', name: 'Brutus', icon: '👹', type: 'boss', category: 'boss' },
+      { id: 'bryophyta', name: 'Bryophyta', icon: '🌿', type: 'boss', category: 'boss' },
+      { id: 'callisto', name: 'Callisto', icon: '🐻', type: 'boss', category: 'boss' },
+      { id: 'calvarion', name: "Calvar'ion", icon: '💀', type: 'boss', category: 'boss' },
+      { id: 'cerberus', name: 'Cerberus', icon: '🐕', type: 'boss', category: 'boss' },
+      { id: 'chambers_of_xeric', name: 'Chambers of Xeric', icon: '🏔️', type: 'boss', category: 'boss' },
+      { id: 'chambers_of_xeric_challenge_mode', name: 'CoX: Challenge Mode', icon: '🔥', type: 'boss', category: 'boss' },
+      { id: 'chaos_elemental', name: 'Chaos Elemental', icon: '🌀', type: 'boss', category: 'boss' },
+      { id: 'chaos_fanatic', name: 'Chaos Fanatic', icon: '🧙', type: 'boss', category: 'boss' },
+      { id: 'commander_zilyana', name: 'Commander Zilyana', icon: '⚔️', type: 'boss', category: 'boss' },
+      { id: 'corporeal_beast', name: 'Corporeal Beast', icon: '🐾', type: 'boss', category: 'boss' },
+      { id: 'crazy_archaeologist', name: 'Crazy Archaeologist', icon: '⛏️', type: 'boss', category: 'boss' },
+      { id: 'dagannoth_prime', name: 'Dagannoth Prime', icon: '🦎', type: 'boss', category: 'boss' },
+      { id: 'dagannoth_rex', name: 'Dagannoth Rex', icon: '🦖', type: 'boss', category: 'boss' },
+      { id: 'dagannoth_supreme', name: 'Dagannoth Supreme', icon: '👑', type: 'boss', category: 'boss' },
+      { id: 'deranged_archaeologist', name: 'Deranged Archaeologist', icon: '🧟', type: 'boss', category: 'boss' },
+      { id: 'doom_of_mokhaiotl', name: 'Doom of Mokhaiotl', icon: '🌋', type: 'boss', category: 'boss' },
+      { id: 'duke_sucellus', name: 'Duke Sucellus', icon: '👁️', type: 'boss', category: 'boss' },
+      { id: 'general_graardor', name: 'General Graardor', icon: '🛡️', type: 'boss', category: 'boss' },
+      { id: 'giant_mole', name: 'Giant Mole', icon: '🕳️', type: 'boss', category: 'boss' },
+      { id: 'grotesque_guardians', name: 'Grotesque Guardians', icon: '🗿', type: 'boss', category: 'boss' },
+      { id: 'hespori', name: 'Hespori', icon: '🌺', type: 'boss', category: 'boss' },
+      { id: 'kalphite_queen', name: 'Kalphite Queen', icon: '👑', type: 'boss', category: 'boss' },
+      { id: 'king_black_dragon', name: 'King Black Dragon', icon: '🐉', type: 'boss', category: 'boss' },
+      { id: 'kraken', name: 'Kraken', icon: '🦑', type: 'boss', category: 'boss' },
+      { id: 'kreearra', name: "Kree'arra", icon: '🦅', type: 'boss', category: 'boss' },
+      { id: 'kril_tsutsaroth', name: "K'ril Tsutsaroth", icon: '😈', type: 'boss', category: 'boss' },
+      { id: 'lunar_chests', name: 'Lunar Chests', icon: '🌙', type: 'boss', category: 'boss' },
+      { id: 'mad_angel', name: 'Mad Angel', icon: '👼', type: 'boss', category: 'boss' },
+      { id: 'maggot_king', name: 'Maggot King', icon: '🐛', type: 'boss', category: 'boss' },
+      { id: 'mimic', name: 'Mimic', icon: '🧰', type: 'boss', category: 'boss' },
+      { id: 'nex', name: 'Nex', icon: '❄️', type: 'boss', category: 'boss' },
+      { id: 'nightmare', name: 'The Nightmare', icon: '🛌', type: 'boss', category: 'boss' },
+      { id: 'phosanis_nightmare', name: "Phosani's Nightmare", icon: '👻', type: 'boss', category: 'boss' },
+      { id: 'obor', name: 'Obor', icon: '👹', type: 'boss', category: 'boss' },
+      { id: 'phantom_muspah', name: 'Phantom Muspah', icon: '👻', type: 'boss', category: 'boss' },
+      { id: 'sarachnis', name: 'Sarachnis', icon: '🕷️', type: 'boss', category: 'boss' },
+      { id: 'scorpia', name: 'Scorpia', icon: '🦂', type: 'boss', category: 'boss' },
+      { id: 'scurrius', name: 'Scurrius', icon: '🐀', type: 'boss', category: 'boss' },
+      { id: 'shellbane_gryphon', name: 'Shellbane Gryphon', icon: '🦅', type: 'boss', category: 'boss' },
+      { id: 'skotizo', name: 'Skotizo', icon: '😈', type: 'boss', category: 'boss' },
+      { id: 'sol_heredit', name: 'Sol Heredit', icon: '☀️', type: 'boss', category: 'boss' },
+      { id: 'spindel', name: 'Spindel', icon: '🕷️', type: 'boss', category: 'boss' },
+      { id: 'tempoross', name: 'Tempoross', icon: '🌊', type: 'boss', category: 'boss' },
+      { id: 'the_gauntlet', name: 'The Gauntlet', icon: '🛡️', type: 'boss', category: 'boss' },
+      { id: 'the_corrupted_gauntlet', name: 'Corrupted Gauntlet', icon: '💎', type: 'boss', category: 'boss' },
+      { id: 'the_hueycoatl', name: 'The Hueycoatl', icon: '🐍', type: 'boss', category: 'boss' },
+      { id: 'the_leviathan', name: 'The Leviathan', icon: '🌊', type: 'boss', category: 'boss' },
+      { id: 'the_royal_titans', name: 'The Royal Titans', icon: '🗿', type: 'boss', category: 'boss' },
+      { id: 'the_whisperer', name: 'The Whisperer', icon: '🧠', type: 'boss', category: 'boss' },
+      { id: 'theatre_of_blood', name: 'Theatre of Blood', icon: '🩸', type: 'boss', category: 'boss' },
+      { id: 'theatre_of_blood_hard_mode', name: 'ToB: Hard Mode', icon: '☠️', type: 'boss', category: 'boss' },
+      { id: 'thermonuclear_smoke_devil', name: 'Thermonuclear Smoke Devil', icon: '💨', type: 'boss', category: 'boss' },
+      { id: 'tombs_of_amascut', name: 'Tombs of Amascut', icon: '🏛️', type: 'boss', category: 'boss' },
+      { id: 'tombs_of_amascut_expert', name: 'ToA: Expert Mode', icon: '👑', type: 'boss', category: 'boss' },
+      { id: 'tzkal_zuk', name: 'Inferno (TzKal-Zuk)', icon: '🌋', type: 'boss', category: 'boss' },
+      { id: 'tztok_jad', name: 'Fight Caves (TzTok-Jad)', icon: '🔥', type: 'boss', category: 'boss' },
+      { id: 'vardorvis', name: 'Vardorvis', icon: '🪓', type: 'boss', category: 'boss' },
+      { id: 'venenatis', name: 'Venenatis', icon: '🕷️', type: 'boss', category: 'boss' },
+      { id: 'vetion', name: "Vet'ion", icon: '💀', type: 'boss', category: 'boss' },
+      { id: 'vorkath', name: 'Vorkath', icon: '🐲', type: 'boss', category: 'boss' },
+      { id: 'wintertodt', name: 'Wintertodt', icon: '❄️', type: 'boss', category: 'boss' },
+      { id: 'yama', name: 'Yama', icon: '👹', type: 'boss', category: 'boss' },
+      { id: 'zalcano', name: 'Zalcano', icon: '☄️', type: 'boss', category: 'boss' },
+      { id: 'zulrah', name: 'Zulrah', icon: '🐍', type: 'boss', category: 'boss' }
+    ];
+
+    async function loadData() {
+      try {
+        const res = await fetch('./data.json');
+        if (!res.ok) throw new Error('data.json not found');
+        
+        const data = await res.json();
+        
+        if (data.updatedAt) {
+          const date = new Date(data.updatedAt);
+          document.getElementById('lastUpdated').innerText = `Last synced: ${date.toLocaleString()}`;
+        }
+
+        allMembers = data.members || [];
+        filterData();
+        renderHallOfFame();
+      } catch (err) {
+        console.error('Error loading data:', err);
+        document.getElementById('leaderboardBody').innerHTML = `
+          <tr>
+            <td colspan="5" class="p-8 text-center text-red-400">
+              Unable to load <code>data.json</code>. Run your GitHub Action workflow to generate it.
+            </td>
+          </tr>
+        `;
+      }
+    }
+
+    function switchView(view) {
+      const leaderboardSec = document.getElementById('leaderboardView');
+      const hofSec = document.getElementById('hofView');
+      const btnLeaderboard = document.getElementById('tabLeaderboard');
+      const btnHof = document.getElementById('tabHof');
+
+      if (view === 'leaderboard') {
+        leaderboardSec.classList.remove('hidden');
+        hofSec.classList.add('hidden');
+        btnLeaderboard.className = 'px-4 py-2 text-sm font-semibold rounded-lg bg-amber-500 text-slate-950 shadow transition-all';
+        btnHof.className = 'px-4 py-2 text-sm font-semibold rounded-lg text-slate-400 hover:text-white transition-all';
+      } else {
+        leaderboardSec.classList.add('hidden');
+        hofSec.classList.remove('hidden');
+        btnHof.className = 'px-4 py-2 text-sm font-semibold rounded-lg bg-amber-500 text-slate-950 shadow transition-all';
+        btnLeaderboard.className = 'px-4 py-2 text-sm font-semibold rounded-lg text-slate-400 hover:text-white transition-all';
+      }
+    }
+
+    function filterData() {
+      const selectedMetric = document.getElementById('metricSelect').value;
+      const rankFilter = document.getElementById('rankSelect').value;
+      const searchQuery = document.getElementById('searchInput').value.toLowerCase().trim();
+
+      let filtered = allMembers.map(m => {
+        const metricData = (m.metrics && m.metrics[selectedMetric]) || { value: 0, level: null };
+        return {
+          username: m.username,
+          role: m.role,
+          metricValue: metricData.value || 0,
+          metricLevel: metricData.level
+        };
+      }).filter(m => {
+        if (searchQuery && !m.username.toLowerCase().includes(searchQuery)) return false;
+
+        const role = (m.role || '').toLowerCase().replace(/_/g, ' ');
+        if (rankFilter === 'STAFF' && !STAFF_ROLES.includes(role)) return false;
+
+        return m.metricValue > 0;
+      });
+
+      filtered.sort((a, b) => b.metricValue - a.metricValue);
+
+      renderTableHeader(selectedMetric);
+      renderTable(filtered, selectedMetric);
+    }
+
+    function renderTableHeader(metric) {
+      const headerRow = document.getElementById('tableHeader');
+      const isSkill = SKILL_METRICS.includes(metric);
+
+      let valueColTitle = 'Score';
+      if (isSkill) valueColTitle = 'Experience';
+      else if (metric === 'ehp' || metric === 'ehb') valueColTitle = 'Hours';
+      else if (metric.startsWith('clue')) valueColTitle = 'Clues Completed';
+      else if (metric === 'collections_logged') valueColTitle = 'Items Logged';
+      else valueColTitle = 'Kill Count / Score';
+
+      headerRow.innerHTML = `
+        <th class="p-4 w-16 text-center">#</th>
+        <th class="p-4">Player</th>
+        <th class="p-4">Clan Role</th>
+        ${isSkill ? '<th class="p-4 text-right">Level</th>' : ''}
+        <th class="p-4 text-right">${valueColTitle}</th>
+      `;
+    }
+
+    function renderTable(members, metric) {
+      const tbody = document.getElementById('leaderboardBody');
+      const isSkill = SKILL_METRICS.includes(metric);
+
+      if (members.length === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="${isSkill ? 5 : 4}" class="p-8 text-center text-slate-500">No players match the selected filters or have recorded stats for this metric.</td>
+          </tr>
+        `;
+        return;
+      }
+
+      tbody.innerHTML = members.map((m, idx) => {
+        const rankNumber = idx + 1;
+        let rankBadgeClass = 'text-slate-500';
+        if (rankNumber === 1) rankBadgeClass = 'text-amber-400 font-bold';
+        else if (rankNumber === 2) rankBadgeClass = 'text-slate-300 font-bold';
+        else if (rankNumber === 3) rankBadgeClass = 'text-amber-700 font-bold';
+
+        const formattedRole = (m.role || 'Member').replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        
+        let displayValue = m.metricValue.toLocaleString();
+        if (metric === 'ehp' || metric === 'ehb') displayValue = `${m.metricValue.toFixed(1)} hrs`;
+        else if (isSkill) displayValue = `${displayValue} XP`;
+
+        return `
+          <tr class="hover:bg-slate-800/40 transition-colors">
+            <td class="p-4 text-center ${rankBadgeClass}">${rankNumber}</td>
+            <td class="p-4 font-semibold text-slate-100">
+              <a href="https://wiseoldman.net/players/${encodeURIComponent(m.username)}" target="_blank" rel="noopener noreferrer" class="hover:text-amber-400 hover:underline">
+                ${m.username}
+              </a>
+            </td>
+            <td class="p-4">
+              <span class="px-2.5 py-1 text-xs rounded-md bg-slate-800 text-slate-300 border border-slate-700 font-mono">
+                ${formattedRole}
+              </span>
+            </td>
+            ${isSkill ? `<td class="p-4 text-right font-mono text-slate-300">${m.metricLevel || '-'}</td>` : ''}
+            <td class="p-4 text-right font-mono text-amber-400 font-medium">${displayValue}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderHallOfFame() {
+      const hofContainer = document.getElementById('hofContainer');
+      const categoryFilter = document.getElementById('hofCategoryFilter').value;
+      const searchQuery = (document.getElementById('hofSearchInput').value || '').toLowerCase().trim();
+
+      const filteredMetrics = HOF_METRICS.filter(m => {
+        if (categoryFilter !== 'ALL' && m.category !== categoryFilter) return false;
+        if (searchQuery && !m.name.toLowerCase().includes(searchQuery) && !m.id.toLowerCase().includes(searchQuery)) return false;
+        return true;
+      });
+
+      if (filteredMetrics.length === 0) {
+        hofContainer.innerHTML = `
+          <div class="col-span-full p-8 text-center text-slate-500 bg-slate-900 rounded-xl border border-slate-800">
+            No Hall of Fame metrics match your filter criteria.
+          </div>
+        `;
+        return;
+      }
+
+      const cardsHtml = filteredMetrics.map(m => {
+        const staffCandidates = allMembers.map(mem => {
+          const metricData = (mem.metrics && mem.metrics[m.id]) || { value: 0, level: null };
+          return {
+            username: mem.username,
+            role: mem.role,
+            value: metricData.value || 0
+          };
+        }).filter(mem => {
+          const role = (mem.role || '').toLowerCase().replace(/_/g, ' ');
+          return STAFF_ROLES.includes(role) && mem.value > 0;
+        });
+
+        staffCandidates.sort((a, b) => b.value - a.value);
+        const leader = staffCandidates[0];
+
+        if (!leader) {
+          return `
+            <div class="bg-slate-900 border border-slate-800 p-4 rounded-xl opacity-50 flex flex-col justify-between">
+              <div>
+                <div class="flex justify-between items-start mb-2">
+                  <span class="text-xl">${m.icon}</span>
+                  <span class="text-[10px] font-mono bg-slate-800 text-slate-500 px-2 py-0.5 rounded border border-slate-700">Unclaimed</span>
+                </div>
+                <div class="text-xs uppercase tracking-wider text-slate-400 font-semibold">${m.name}</div>
+              </div>
+              <div class="mt-3">
+                <div class="text-sm font-bold text-slate-600">No Record</div>
+                <div class="text-xs text-slate-600 font-mono">-</div>
+              </div>
+            </div>
+          `;
+        }
+
+        const formattedRole = (leader.role || 'Staff').replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        
+        let valDisplay = leader.value.toLocaleString();
+        if (m.type === 'hours') valDisplay = `${leader.value.toFixed(1)} hrs`;
+        else if (m.type === 'skill') valDisplay = `${valDisplay} XP`;
+        else if (m.type === 'clue') valDisplay = `${valDisplay} completed`;
+        else if (m.type === 'activity') valDisplay = `${valDisplay} score`;
+        else if (m.type === 'boss') valDisplay = `${valDisplay} KC`;
+
+        return `
+          <div class="bg-slate-900 border border-amber-500/30 p-4 rounded-xl relative overflow-hidden shadow-lg hover:border-amber-500/60 transition-all flex flex-col justify-between">
+            <div>
+              <div class="flex justify-between items-start mb-2">
+                <span class="text-xl">${m.icon}</span>
+                <span class="text-[10px] font-mono bg-amber-500/10 text-amber-400 px-2 py-0.5 rounded border border-amber-500/30 font-semibold">${formattedRole}</span>
+              </div>
+              <div class="text-xs uppercase tracking-wider text-slate-400 font-semibold truncate" title="${m.name}">${m.name}</div>
+            </div>
+            <div class="mt-3">
+              <div class="text-lg font-bold text-slate-100 truncate">
+                <a href="https://wiseoldman.net/players/${encodeURIComponent(leader.username)}" target="_blank" rel="noopener noreferrer" class="hover:text-amber-400 hover:underline">
+                  ${leader.username}
+                </a>
+              </div>
+              <div class="text-amber-400 font-mono text-xs font-semibold mt-0.5">${valDisplay}</div>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      hofContainer.innerHTML = cardsHtml;
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
