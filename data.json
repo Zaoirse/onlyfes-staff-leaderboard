@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T15:21:30.225Z",
+  "updatedAt": "2026-09-17T16:21:26.593Z",
   "members": [
     {
       "username": "Corvids",
@@ -7,7 +7,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 727.1478499999998,
+          "value": 727.16679,
           "level": null
         },
         "ehb": {
@@ -15,7 +15,7 @@
           "level": null
         },
         "overall": {
-          "value": 297746928,
+          "value": 297748438,
           "level": 2257
         },
         "attack": {
@@ -70,6 +70,10 @@
           "value": 7221230,
           "level": 93
         },
+        "smithing": {
+          "value": 3877409,
+          "level": 86
+        },
         "mining": {
           "value": 13140023,
           "level": 99
@@ -79,7 +83,7 @@
           "level": 91
         },
         "agility": {
-          "value": 3039456,
+          "value": 3040966,
           "level": 84
         },
         "thieving": {
@@ -462,7 +466,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1836.34737,
+          "value": 1836.56091,
           "level": null
         },
         "ehb": {
@@ -470,7 +474,7 @@
           "level": null
         },
         "overall": {
-          "value": 479555984,
+          "value": 479594296,
           "level": 2343
         },
         "attack": {
@@ -486,11 +490,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 49669724,
+          "value": 49670255,
           "level": 99
         },
         "ranged": {
-          "value": 56732221,
+          "value": 56733821,
           "level": 99
         },
         "prayer": {
@@ -514,7 +518,7 @@
           "level": 99
         },
         "fishing": {
-          "value": 15653552,
+          "value": 15689714,
           "level": 99
         },
         "firemaking": {
@@ -524,6 +528,10 @@
         "crafting": {
           "value": 14490208,
           "level": 99
+        },
+        "smithing": {
+          "value": 7687228,
+          "level": 93
         },
         "mining": {
           "value": 16043736,
@@ -562,7 +570,7 @@
           "level": 99
         },
         "sailing": {
-          "value": 8597647,
+          "value": 8597666,
           "level": 94
         },
         "bounty_hunter_hunter": {
@@ -979,6 +987,10 @@
         "crafting": {
           "value": 7549978,
           "level": 93
+        },
+        "smithing": {
+          "value": 3323872,
+          "level": 85
         },
         "mining": {
           "value": 6800219,
@@ -1435,6 +1447,10 @@
           "value": 13076281,
           "level": 99
         },
+        "smithing": {
+          "value": 6677255,
+          "level": 92
+        },
         "mining": {
           "value": 15653237,
           "level": 99
@@ -1827,35 +1843,35 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 115.90356,
+          "value": 115.91758,
           "level": null
         },
         "ehb": {
-          "value": 8.92653,
+          "value": 8.943200000000001,
           "level": null
         },
         "overall": {
-          "value": 24574670,
+          "value": 24600053,
           "level": 1701
         },
         "attack": {
-          "value": 901604,
+          "value": 901891,
           "level": 72
         },
         "defence": {
-          "value": 984080,
+          "value": 984367,
           "level": 72
         },
         "strength": {
-          "value": 928394,
+          "value": 928974,
           "level": 72
         },
         "hitpoints": {
-          "value": 2105624,
+          "value": 2106012,
           "level": 80
         },
         "ranged": {
-          "value": 3187968,
+          "value": 3187980,
           "level": 84
         },
         "prayer": {
@@ -1863,7 +1879,7 @@
           "level": 72
         },
         "magic": {
-          "value": 2618532,
+          "value": 2618763,
           "level": 82
         },
         "cooking": {
@@ -1890,12 +1906,16 @@
           "value": 1286124,
           "level": 75
         },
+        "smithing": {
+          "value": 892000,
+          "level": 71
+        },
         "mining": {
           "value": 845703,
           "level": 71
         },
         "herblore": {
-          "value": 1026540,
+          "value": 1027162,
           "level": 73
         },
         "agility": {
@@ -1911,7 +1931,7 @@
           "level": 70
         },
         "farming": {
-          "value": 1265810,
+          "value": 1288786,
           "level": 75
         },
         "runecrafting": {
@@ -2099,7 +2119,7 @@
           "level": null
         },
         "hespori": {
-          "value": 14,
+          "value": 15,
           "level": null
         },
         "kalphite_queen": {
@@ -2282,15 +2302,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1102.55143,
+          "value": 1102.7865,
           "level": null
         },
         "ehb": {
-          "value": 373.91266,
+          "value": 374.15404,
           "level": null
         },
         "overall": {
-          "value": 245659411,
+          "value": 245731268,
           "level": 2235
         },
         "attack": {
@@ -2306,11 +2326,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 26093864,
+          "value": 26106189,
           "level": 99
         },
         "ranged": {
-          "value": 31852911,
+          "value": 31889886,
           "level": 99
         },
         "prayer": {
@@ -2318,7 +2338,7 @@
           "level": 85
         },
         "magic": {
-          "value": 16099723,
+          "value": 16099883,
           "level": 99
         },
         "cooking": {
@@ -2345,12 +2365,16 @@
           "value": 9008395,
           "level": 95
         },
+        "smithing": {
+          "value": 6465124,
+          "level": 91
+        },
         "mining": {
           "value": 9373285,
           "level": 95
         },
         "herblore": {
-          "value": 7949993,
+          "value": 7950085,
           "level": 94
         },
         "agility": {
@@ -2362,11 +2386,11 @@
           "level": 93
         },
         "slayer": {
-          "value": 9729222,
+          "value": 9738462,
           "level": 96
         },
         "farming": {
-          "value": 17435497,
+          "value": 17448562,
           "level": 99
         },
         "runecrafting": {
@@ -2450,7 +2474,7 @@
           "level": null
         },
         "alchemical_hydra": {
-          "value": 566,
+          "value": 573,
           "level": null
         },
         "amoxliatl": {
@@ -2799,6 +2823,10 @@
         "crafting": {
           "value": 2300197,
           "level": 81
+        },
+        "smithing": {
+          "value": 2043263,
+          "level": 80
         },
         "mining": {
           "value": 5063198,
@@ -3255,6 +3283,10 @@
           "value": 3299622,
           "level": 85
         },
+        "smithing": {
+          "value": 1551475,
+          "level": 77
+        },
         "mining": {
           "value": 3154823,
           "level": 84
@@ -3709,6 +3741,10 @@
         "crafting": {
           "value": 9006723,
           "level": 95
+        },
+        "smithing": {
+          "value": 4491829,
+          "level": 88
         },
         "mining": {
           "value": 13757516,
@@ -4165,6 +4201,10 @@
           "value": 10845178,
           "level": 97
         },
+        "smithing": {
+          "value": 5435791,
+          "level": 90
+        },
         "mining": {
           "value": 7296039,
           "level": 93
@@ -4619,6 +4659,10 @@
         "crafting": {
           "value": 7533709,
           "level": 93
+        },
+        "smithing": {
+          "value": 3038753,
+          "level": 84
         },
         "mining": {
           "value": 7135731,
@@ -5075,6 +5119,10 @@
           "value": 13661821,
           "level": 99
         },
+        "smithing": {
+          "value": 5627627,
+          "level": 90
+        },
         "mining": {
           "value": 10061510,
           "level": 96
@@ -5529,6 +5577,10 @@
         "crafting": {
           "value": 7062006,
           "level": 92
+        },
+        "smithing": {
+          "value": 5483539,
+          "level": 90
         },
         "mining": {
           "value": 14433916,
@@ -5985,6 +6037,10 @@
           "value": 3839411,
           "level": 86
         },
+        "smithing": {
+          "value": 3114802,
+          "level": 84
+        },
         "mining": {
           "value": 7088684,
           "level": 92
@@ -6438,6 +6494,10 @@
         },
         "crafting": {
           "value": 14270586,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13150699,
           "level": 99
         },
         "mining": {
@@ -6895,6 +6955,10 @@
           "value": 3335581,
           "level": 85
         },
+        "smithing": {
+          "value": 1460285,
+          "level": 76
+        },
         "mining": {
           "value": 3789229,
           "level": 86
@@ -7349,6 +7413,10 @@
         "crafting": {
           "value": 8145501,
           "level": 94
+        },
+        "smithing": {
+          "value": 4052321,
+          "level": 87
         },
         "mining": {
           "value": 9970265,
@@ -7805,6 +7873,10 @@
           "value": 8109949,
           "level": 94
         },
+        "smithing": {
+          "value": 5462663,
+          "level": 90
+        },
         "mining": {
           "value": 10930162,
           "level": 97
@@ -8197,15 +8269,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1066.06303,
+          "value": 1066.44084,
           "level": null
         },
         "ehb": {
-          "value": 273.17463,
+          "value": 273.45241,
           "level": null
         },
         "overall": {
-          "value": 284622512,
+          "value": 284703567,
           "level": 2228
         },
         "attack": {
@@ -8213,7 +8285,7 @@
           "level": 99
         },
         "defence": {
-          "value": 9910820,
+          "value": 9914493,
           "level": 96
         },
         "strength": {
@@ -8221,11 +8293,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 19465734,
+          "value": 19472794,
           "level": 99
         },
         "ranged": {
-          "value": 12822741,
+          "value": 12830617,
           "level": 98
         },
         "prayer": {
@@ -8233,15 +8305,15 @@
           "level": 83
         },
         "magic": {
-          "value": 13897010,
+          "value": 13901324,
           "level": 99
         },
         "cooking": {
-          "value": 13767425,
+          "value": 13772060,
           "level": 99
         },
         "woodcutting": {
-          "value": 13122650,
+          "value": 13123010,
           "level": 99
         },
         "fletching": {
@@ -8249,7 +8321,7 @@
           "level": 94
         },
         "fishing": {
-          "value": 5544627,
+          "value": 5595446,
           "level": 90
         },
         "firemaking": {
@@ -8257,15 +8329,19 @@
           "level": 99
         },
         "crafting": {
-          "value": 7115787,
+          "value": 7116747,
           "level": 92
         },
+        "smithing": {
+          "value": 3779614,
+          "level": 86
+        },
         "mining": {
-          "value": 4811999,
+          "value": 4812269,
           "level": 88
         },
         "herblore": {
-          "value": 5625955,
+          "value": 5626045,
           "level": 90
         },
         "agility": {
@@ -8281,7 +8357,7 @@
           "level": 89
         },
         "farming": {
-          "value": 9096328,
+          "value": 9096366,
           "level": 95
         },
         "runecrafting": {
@@ -8557,7 +8633,7 @@
           "level": null
         },
         "tempoross": {
-          "value": 293,
+          "value": 296,
           "level": null
         },
         "the_gauntlet": {
@@ -8565,7 +8641,7 @@
           "level": null
         },
         "the_corrupted_gauntlet": {
-          "value": 98,
+          "value": 100,
           "level": null
         },
         "the_hueycoatl": {
@@ -8714,6 +8790,10 @@
         "crafting": {
           "value": 5296799,
           "level": 89
+        },
+        "smithing": {
+          "value": 3712395,
+          "level": 86
         },
         "mining": {
           "value": 13483928,
@@ -9168,6 +9248,10 @@
         },
         "crafting": {
           "value": 16463931,
+          "level": 99
+        },
+        "smithing": {
+          "value": 14107249,
           "level": 99
         },
         "mining": {
@@ -9625,6 +9709,10 @@
           "value": 15661185,
           "level": 99
         },
+        "smithing": {
+          "value": 15586460,
+          "level": 99
+        },
         "mining": {
           "value": 18546423,
           "level": 99
@@ -10017,7 +10105,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1547.09148,
+          "value": 1547.31714,
           "level": null
         },
         "ehb": {
@@ -10025,7 +10113,7 @@
           "level": null
         },
         "overall": {
-          "value": 718250593,
+          "value": 718267743,
           "level": 2257
         },
         "attack": {
@@ -10080,12 +10168,16 @@
           "value": 13244247,
           "level": 99
         },
+        "smithing": {
+          "value": 4988176,
+          "level": 89
+        },
         "mining": {
           "value": 8817988,
           "level": 95
         },
         "herblore": {
-          "value": 15106515,
+          "value": 15123665,
           "level": 99
         },
         "agility": {
@@ -10472,15 +10564,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2017.79352,
+          "value": 2017.81633,
           "level": null
         },
         "ehb": {
-          "value": 327.4301099999999,
+          "value": 327.6152999999999,
           "level": null
         },
         "overall": {
-          "value": 442132882,
+          "value": 442180506,
           "level": 2376
         },
         "attack": {
@@ -10496,11 +10588,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 37956348,
+          "value": 37968175,
           "level": 99
         },
         "ranged": {
-          "value": 30216591,
+          "value": 30252094,
           "level": 99
         },
         "prayer": {
@@ -10508,7 +10600,7 @@
           "level": 99
         },
         "magic": {
-          "value": 22184860,
+          "value": 22185154,
           "level": 99
         },
         "cooking": {
@@ -10533,6 +10625,10 @@
         },
         "crafting": {
           "value": 17871989,
+          "level": 99
+        },
+        "smithing": {
+          "value": 14685169,
           "level": 99
         },
         "mining": {
@@ -10848,7 +10944,7 @@
           "level": null
         },
         "the_leviathan": {
-          "value": 90,
+          "value": 95,
           "level": null
         },
         "the_royal_titans": {
@@ -10989,6 +11085,10 @@
         "crafting": {
           "value": 7203055,
           "level": 93
+        },
+        "smithing": {
+          "value": 1572250,
+          "level": 77
         },
         "mining": {
           "value": 2213458,
@@ -11445,6 +11545,10 @@
           "value": 13492008,
           "level": 99
         },
+        "smithing": {
+          "value": 4402848,
+          "level": 88
+        },
         "mining": {
           "value": 12653374,
           "level": 98
@@ -11898,6 +12002,10 @@
         },
         "crafting": {
           "value": 15739215,
+          "level": 99
+        },
+        "smithing": {
+          "value": 15147608,
           "level": 99
         },
         "mining": {
@@ -12355,6 +12463,10 @@
           "value": 3985316,
           "level": 87
         },
+        "smithing": {
+          "value": 1432785,
+          "level": 76
+        },
         "mining": {
           "value": 3997339,
           "level": 87
@@ -12809,6 +12921,10 @@
         "crafting": {
           "value": 5463821,
           "level": 90
+        },
+        "smithing": {
+          "value": 6538453,
+          "level": 92
         },
         "mining": {
           "value": 11450828,
@@ -13265,6 +13381,10 @@
           "value": 5466907,
           "level": 90
         },
+        "smithing": {
+          "value": 4035430,
+          "level": 87
+        },
         "mining": {
           "value": 3407241,
           "level": 85
@@ -13718,6 +13838,10 @@
         },
         "crafting": {
           "value": 13596159,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13311877,
           "level": 99
         },
         "mining": {
@@ -14175,6 +14299,10 @@
           "value": 16772112,
           "level": 99
         },
+        "smithing": {
+          "value": 14433577,
+          "level": 99
+        },
         "mining": {
           "value": 14917174,
           "level": 99
@@ -14628,6 +14756,10 @@
         },
         "crafting": {
           "value": 14192734,
+          "level": 99
+        },
+        "smithing": {
+          "value": 14103430,
           "level": 99
         },
         "mining": {
@@ -15085,6 +15217,10 @@
           "value": 14007279,
           "level": 99
         },
+        "smithing": {
+          "value": 13614544,
+          "level": 99
+        },
         "mining": {
           "value": 13755198,
           "level": 99
@@ -15538,6 +15674,10 @@
         },
         "crafting": {
           "value": 16155523,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13448528,
           "level": 99
         },
         "mining": {
@@ -15995,6 +16135,10 @@
           "value": 17202885,
           "level": 99
         },
+        "smithing": {
+          "value": 14881244,
+          "level": 99
+        },
         "mining": {
           "value": 15328731,
           "level": 99
@@ -16448,6 +16592,10 @@
         },
         "crafting": {
           "value": 14354518,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13886854,
           "level": 99
         },
         "mining": {
@@ -16905,6 +17053,10 @@
           "value": 16312528,
           "level": 99
         },
+        "smithing": {
+          "value": 13645327,
+          "level": 99
+        },
         "mining": {
           "value": 14188707,
           "level": 99
@@ -17360,6 +17512,10 @@
           "value": 18533549,
           "level": 99
         },
+        "smithing": {
+          "value": 14259976,
+          "level": 99
+        },
         "mining": {
           "value": 13478766,
           "level": 99
@@ -17752,15 +17908,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2045.66878,
+          "value": 2045.67182,
           "level": null
         },
         "ehb": {
-          "value": 369.74406,
+          "value": 370.2996200000001,
           "level": null
         },
         "overall": {
-          "value": 507936314,
+          "value": 508049240,
           "level": 2376
         },
         "attack": {
@@ -17772,11 +17928,11 @@
           "level": 99
         },
         "strength": {
-          "value": 40697613,
+          "value": 40703601,
           "level": 99
         },
         "hitpoints": {
-          "value": 58900190,
+          "value": 58934278,
           "level": 99
         },
         "ranged": {
@@ -17788,7 +17944,7 @@
           "level": 99
         },
         "magic": {
-          "value": 25113683,
+          "value": 25186288,
           "level": 99
         },
         "cooking": {
@@ -17815,6 +17971,10 @@
           "value": 14555867,
           "level": 99
         },
+        "smithing": {
+          "value": 13652941,
+          "level": 99
+        },
         "mining": {
           "value": 18213236,
           "level": 99
@@ -17824,7 +17984,7 @@
           "level": 99
         },
         "agility": {
-          "value": 13453324,
+          "value": 13453569,
           "level": 99
         },
         "thieving": {
@@ -18188,7 +18348,7 @@
           "level": null
         },
         "yama": {
-          "value": 535,
+          "value": 545,
           "level": null
         },
         "zalcano": {
@@ -18268,6 +18428,10 @@
         },
         "crafting": {
           "value": 34048774,
+          "level": 99
+        },
+        "smithing": {
+          "value": 20137128,
           "level": 99
         },
         "mining": {
@@ -18725,6 +18889,10 @@
           "value": 16276768,
           "level": 99
         },
+        "smithing": {
+          "value": 15020427,
+          "level": 99
+        },
         "mining": {
           "value": 19744231,
           "level": 99
@@ -19178,6 +19346,10 @@
         },
         "crafting": {
           "value": 13117765,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13034804,
           "level": 99
         },
         "mining": {
@@ -19635,6 +19807,10 @@
           "value": 15549789,
           "level": 99
         },
+        "smithing": {
+          "value": 13075409,
+          "level": 99
+        },
         "mining": {
           "value": 18884535,
           "level": 99
@@ -20027,15 +20203,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2159.650339999999,
+          "value": 2159.660649999999,
           "level": null
         },
         "ehb": {
-          "value": 968.1439500000001,
+          "value": 968.7803200000002,
           "level": null
         },
         "overall": {
-          "value": 554246245,
+          "value": 554279261,
           "level": 2376
         },
         "attack": {
@@ -20043,15 +20219,15 @@
           "level": 99
         },
         "defence": {
-          "value": 17936332,
+          "value": 17944152,
           "level": 99
         },
         "strength": {
-          "value": 59346646,
+          "value": 59346666,
           "level": 99
         },
         "hitpoints": {
-          "value": 66320807,
+          "value": 66332968,
           "level": 99
         },
         "ranged": {
@@ -20063,7 +20239,7 @@
           "level": 99
         },
         "magic": {
-          "value": 27230583,
+          "value": 27243598,
           "level": 99
         },
         "cooking": {
@@ -20088,6 +20264,10 @@
         },
         "crafting": {
           "value": 14956200,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13414931,
           "level": 99
         },
         "mining": {
@@ -20211,7 +20391,7 @@
           "level": null
         },
         "barrows_chests": {
-          "value": 667,
+          "value": 681,
           "level": null
         },
         "brutus": {
@@ -20544,6 +20724,10 @@
         "crafting": {
           "value": 15726843,
           "level": 99
+        },
+        "smithing": {
+          "value": 4990089,
+          "level": 89
         },
         "mining": {
           "value": 7776887,
@@ -20998,6 +21182,10 @@
         },
         "crafting": {
           "value": 14296396,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13283398,
           "level": 99
         },
         "mining": {
@@ -21455,6 +21643,10 @@
           "value": 14983500,
           "level": 99
         },
+        "smithing": {
+          "value": 13056000,
+          "level": 99
+        },
         "mining": {
           "value": 9774265,
           "level": 96
@@ -21909,6 +22101,10 @@
         "crafting": {
           "value": 10731457,
           "level": 97
+        },
+        "smithing": {
+          "value": 6998608,
+          "level": 92
         },
         "mining": {
           "value": 8877010,
@@ -22365,6 +22561,10 @@
           "value": 7877215,
           "level": 93
         },
+        "smithing": {
+          "value": 3737374,
+          "level": 86
+        },
         "mining": {
           "value": 10949568,
           "level": 97
@@ -22818,6 +23018,10 @@
         },
         "crafting": {
           "value": 15167052,
+          "level": 99
+        },
+        "smithing": {
+          "value": 15477690,
           "level": 99
         },
         "mining": {
@@ -23275,6 +23479,10 @@
           "value": 11944310,
           "level": 98
         },
+        "smithing": {
+          "value": 8088321,
+          "level": 94
+        },
         "mining": {
           "value": 18882932,
           "level": 99
@@ -23729,6 +23937,10 @@
         "crafting": {
           "value": 13483945,
           "level": 99
+        },
+        "smithing": {
+          "value": 4333377,
+          "level": 87
         },
         "mining": {
           "value": 5167570,
@@ -24185,6 +24397,10 @@
           "value": 9208202,
           "level": 95
         },
+        "smithing": {
+          "value": 5531881,
+          "level": 90
+        },
         "mining": {
           "value": 9755393,
           "level": 96
@@ -24640,6 +24856,10 @@
           "value": 13358034,
           "level": 99
         },
+        "smithing": {
+          "value": 14542079,
+          "level": 99
+        },
         "mining": {
           "value": 17584513,
           "level": 99
@@ -25032,7 +25252,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 917.0314400000002,
+          "value": 917.0555700000002,
           "level": null
         },
         "ehb": {
@@ -25040,7 +25260,7 @@
           "level": null
         },
         "overall": {
-          "value": 217548337,
+          "value": 217554047,
           "level": 2139
         },
         "attack": {
@@ -25068,7 +25288,7 @@
           "level": 82
         },
         "magic": {
-          "value": 25579000,
+          "value": 25582090,
           "level": 99
         },
         "cooking": {
@@ -25095,8 +25315,12 @@
           "value": 13435609,
           "level": 99
         },
+        "smithing": {
+          "value": 3484644,
+          "level": 85
+        },
         "mining": {
-          "value": 7616475,
+          "value": 7619095,
           "level": 93
         },
         "herblore": {
@@ -25549,6 +25773,10 @@
         "crafting": {
           "value": 11990888,
           "level": 98
+        },
+        "smithing": {
+          "value": 5387156,
+          "level": 90
         },
         "mining": {
           "value": 7903363,
@@ -26005,6 +26233,10 @@
           "value": 1241367,
           "level": 75
         },
+        "smithing": {
+          "value": 853969,
+          "level": 71
+        },
         "mining": {
           "value": 1092266,
           "level": 73
@@ -26459,6 +26691,10 @@
         "crafting": {
           "value": 13725704,
           "level": 99
+        },
+        "smithing": {
+          "value": 3005151,
+          "level": 84
         },
         "mining": {
           "value": 9907467,
@@ -26915,6 +27151,10 @@
           "value": 3675297,
           "level": 86
         },
+        "smithing": {
+          "value": 3427227,
+          "level": 85
+        },
         "mining": {
           "value": 3512453,
           "level": 85
@@ -27369,6 +27609,10 @@
         "crafting": {
           "value": 1914223,
           "level": 79
+        },
+        "smithing": {
+          "value": 558379,
+          "level": 67
         },
         "mining": {
           "value": 4795281,
@@ -27825,6 +28069,10 @@
           "value": 13034602,
           "level": 99
         },
+        "smithing": {
+          "value": 9275583,
+          "level": 95
+        },
         "mining": {
           "value": 13689831,
           "level": 99
@@ -28279,6 +28527,10 @@
         "crafting": {
           "value": 13806339,
           "level": 99
+        },
+        "smithing": {
+          "value": 10588967,
+          "level": 96
         },
         "mining": {
           "value": 14216728,
@@ -28735,6 +28987,10 @@
           "value": 918680,
           "level": 72
         },
+        "smithing": {
+          "value": 1141477,
+          "level": 74
+        },
         "mining": {
           "value": 1065390,
           "level": 73
@@ -29189,6 +29445,10 @@
         "crafting": {
           "value": 4095007,
           "level": 87
+        },
+        "smithing": {
+          "value": 1118707,
+          "level": 74
         },
         "mining": {
           "value": 4769381,
@@ -29645,6 +29905,10 @@
           "value": 13977284,
           "level": 99
         },
+        "smithing": {
+          "value": 10706316,
+          "level": 97
+        },
         "mining": {
           "value": 9980799,
           "level": 96
@@ -30099,6 +30363,10 @@
         "crafting": {
           "value": 12745070,
           "level": 98
+        },
+        "smithing": {
+          "value": 6701462,
+          "level": 92
         },
         "mining": {
           "value": 12616200,
@@ -30555,6 +30823,10 @@
           "value": 13576861,
           "level": 99
         },
+        "smithing": {
+          "value": 4033477,
+          "level": 87
+        },
         "mining": {
           "value": 7259141,
           "level": 93
@@ -31009,6 +31281,10 @@
         "crafting": {
           "value": 10146958,
           "level": 96
+        },
+        "smithing": {
+          "value": 5725964,
+          "level": 90
         },
         "mining": {
           "value": 13128099,
@@ -31465,6 +31741,10 @@
           "value": 13174922,
           "level": 99
         },
+        "smithing": {
+          "value": 12305636,
+          "level": 98
+        },
         "mining": {
           "value": 13057711,
           "level": 99
@@ -31919,6 +32199,10 @@
         "crafting": {
           "value": 9369996,
           "level": 95
+        },
+        "smithing": {
+          "value": 5559499,
+          "level": 90
         },
         "mining": {
           "value": 11054469,
@@ -32375,6 +32659,10 @@
           "value": 8098883,
           "level": 94
         },
+        "smithing": {
+          "value": 3685273,
+          "level": 86
+        },
         "mining": {
           "value": 8964277,
           "level": 95
@@ -32829,6 +33117,10 @@
         "crafting": {
           "value": 13635268,
           "level": 99
+        },
+        "smithing": {
+          "value": 5362814,
+          "level": 90
         },
         "mining": {
           "value": 8547950,
@@ -33285,6 +33577,10 @@
           "value": 13999326,
           "level": 99
         },
+        "smithing": {
+          "value": 9870969,
+          "level": 96
+        },
         "mining": {
           "value": 12667796,
           "level": 98
@@ -33738,6 +34034,10 @@
         },
         "crafting": {
           "value": 13435163,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13048939,
           "level": 99
         },
         "mining": {
@@ -34195,6 +34495,10 @@
           "value": 8771369,
           "level": 94
         },
+        "smithing": {
+          "value": 5364067,
+          "level": 90
+        },
         "mining": {
           "value": 7566568,
           "level": 93
@@ -34649,6 +34953,10 @@
         "crafting": {
           "value": 9012036,
           "level": 95
+        },
+        "smithing": {
+          "value": 4180662,
+          "level": 87
         },
         "mining": {
           "value": 12623158,
@@ -35105,6 +35413,10 @@
           "value": 13277043,
           "level": 99
         },
+        "smithing": {
+          "value": 7197120,
+          "level": 93
+        },
         "mining": {
           "value": 9217157,
           "level": 95
@@ -35559,6 +35871,10 @@
         "crafting": {
           "value": 11167111,
           "level": 97
+        },
+        "smithing": {
+          "value": 4734378,
+          "level": 88
         },
         "mining": {
           "value": 6638506,
@@ -36015,6 +36331,10 @@
           "value": 9496156,
           "level": 95
         },
+        "smithing": {
+          "value": 3957131,
+          "level": 86
+        },
         "mining": {
           "value": 13108568,
           "level": 99
@@ -36469,6 +36789,10 @@
         "crafting": {
           "value": 14056717,
           "level": 99
+        },
+        "smithing": {
+          "value": 4654947,
+          "level": 88
         },
         "mining": {
           "value": 8257849,
@@ -36925,6 +37249,10 @@
           "value": 7203554,
           "level": 93
         },
+        "smithing": {
+          "value": 3710158,
+          "level": 86
+        },
         "mining": {
           "value": 3345357,
           "level": 85
@@ -37379,6 +37707,10 @@
         "crafting": {
           "value": 8435733,
           "level": 94
+        },
+        "smithing": {
+          "value": 3274947,
+          "level": 85
         },
         "mining": {
           "value": 7851125,
@@ -37835,6 +38167,10 @@
           "value": 5204315,
           "level": 89
         },
+        "smithing": {
+          "value": 3831693,
+          "level": 86
+        },
         "mining": {
           "value": 5433249,
           "level": 90
@@ -38227,15 +38563,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1801.94249,
+          "value": 1802.48324,
           "level": null
         },
         "ehb": {
-          "value": 302.9139300000001,
+          "value": 303.4139300000001,
           "level": null
         },
         "overall": {
-          "value": 432737111,
+          "value": 432905472,
           "level": 2342
         },
         "attack": {
@@ -38251,7 +38587,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 37245048,
+          "value": 37254947,
           "level": 99
         },
         "ranged": {
@@ -38263,7 +38599,7 @@
           "level": 99
         },
         "magic": {
-          "value": 17220947,
+          "value": 17249389,
           "level": 99
         },
         "cooking": {
@@ -38287,8 +38623,12 @@
           "level": 97
         },
         "crafting": {
-          "value": 11882480,
+          "value": 11882680,
           "level": 98
+        },
+        "smithing": {
+          "value": 11115618,
+          "level": 97
         },
         "mining": {
           "value": 8954285,
@@ -38319,7 +38659,7 @@
           "level": 91
         },
         "hunter": {
-          "value": 21744121,
+          "value": 21747997,
           "level": 99
         },
         "construction": {
@@ -38327,7 +38667,7 @@
           "level": 95
         },
         "sailing": {
-          "value": 20814228,
+          "value": 20940172,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -38411,7 +38751,7 @@
           "level": null
         },
         "barrows_chests": {
-          "value": 371,
+          "value": 382,
           "level": null
         },
         "brutus": {
@@ -38744,6 +39084,10 @@
         "crafting": {
           "value": 3659709,
           "level": 86
+        },
+        "smithing": {
+          "value": 4069712,
+          "level": 87
         },
         "mining": {
           "value": 13067842,
@@ -39137,7 +39481,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1467.73174,
+          "value": 1468.2731,
           "level": null
         },
         "ehb": {
@@ -39145,7 +39489,7 @@
           "level": null
         },
         "overall": {
-          "value": 406215961,
+          "value": 406269144,
           "level": 2274
         },
         "attack": {
@@ -39173,7 +39517,7 @@
           "level": 95
         },
         "magic": {
-          "value": 32077304,
+          "value": 32077798,
           "level": 99
         },
         "cooking": {
@@ -39200,12 +39544,16 @@
           "value": 8602682,
           "level": 94
         },
+        "smithing": {
+          "value": 6130694,
+          "level": 91
+        },
         "mining": {
           "value": 8096085,
           "level": 94
         },
         "herblore": {
-          "value": 12958415,
+          "value": 12996003,
           "level": 98
         },
         "agility": {
@@ -39221,7 +39569,7 @@
           "level": 99
         },
         "farming": {
-          "value": 14707199,
+          "value": 14722300,
           "level": 99
         },
         "runecrafting": {
@@ -39654,6 +40002,10 @@
         "crafting": {
           "value": 13294901,
           "level": 99
+        },
+        "smithing": {
+          "value": 10239700,
+          "level": 96
         },
         "mining": {
           "value": 12723258,
@@ -40108,6 +40460,10 @@
         },
         "crafting": {
           "value": 4058868,
+          "level": 87
+        },
+        "smithing": {
+          "value": 4026728,
           "level": 87
         },
         "mining": {
@@ -40565,6 +40921,10 @@
           "value": 8564620,
           "level": 94
         },
+        "smithing": {
+          "value": 3790363,
+          "level": 86
+        },
         "mining": {
           "value": 7645420,
           "level": 93
@@ -41019,6 +41379,10 @@
         "crafting": {
           "value": 7848175,
           "level": 93
+        },
+        "smithing": {
+          "value": 2818623,
+          "level": 83
         },
         "mining": {
           "value": 4448495,
@@ -41475,6 +41839,10 @@
           "value": 8039091,
           "level": 94
         },
+        "smithing": {
+          "value": 4160782,
+          "level": 87
+        },
         "mining": {
           "value": 3523262,
           "level": 85
@@ -41929,6 +42297,10 @@
         "crafting": {
           "value": 3355140,
           "level": 85
+        },
+        "smithing": {
+          "value": 3686899,
+          "level": 86
         },
         "mining": {
           "value": 4335650,
@@ -42385,6 +42757,10 @@
           "value": 7699464,
           "level": 93
         },
+        "smithing": {
+          "value": 4843792,
+          "level": 89
+        },
         "mining": {
           "value": 8062489,
           "level": 94
@@ -42839,6 +43215,10 @@
         "crafting": {
           "value": 7399857,
           "level": 93
+        },
+        "smithing": {
+          "value": 2046325,
+          "level": 80
         },
         "mining": {
           "value": 7656816,
@@ -43295,6 +43675,10 @@
           "value": 5411992,
           "level": 90
         },
+        "smithing": {
+          "value": 3848418,
+          "level": 86
+        },
         "mining": {
           "value": 5986241,
           "level": 91
@@ -43750,6 +44134,10 @@
           "value": 8054973,
           "level": 94
         },
+        "smithing": {
+          "value": 5352374,
+          "level": 90
+        },
         "mining": {
           "value": 9499047,
           "level": 95
@@ -44203,6 +44591,10 @@
         },
         "crafting": {
           "value": 15445088,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13523883,
           "level": 99
         },
         "mining": {
@@ -44660,6 +45052,10 @@
           "value": 6605923,
           "level": 92
         },
+        "smithing": {
+          "value": 3856405,
+          "level": 86
+        },
         "mining": {
           "value": 5431866,
           "level": 90
@@ -45114,6 +45510,10 @@
         "crafting": {
           "value": 8905107,
           "level": 95
+        },
+        "smithing": {
+          "value": 3998920,
+          "level": 87
         },
         "mining": {
           "value": 6858543,
@@ -45570,6 +45970,10 @@
           "value": 8008207,
           "level": 94
         },
+        "smithing": {
+          "value": 3329882,
+          "level": 85
+        },
         "mining": {
           "value": 7255333,
           "level": 93
@@ -46024,6 +46428,10 @@
         "crafting": {
           "value": 8737164,
           "level": 94
+        },
+        "smithing": {
+          "value": 3647614,
+          "level": 86
         },
         "mining": {
           "value": 8318362,
@@ -46480,6 +46888,10 @@
           "value": 7231580,
           "level": 93
         },
+        "smithing": {
+          "value": 4898073,
+          "level": 89
+        },
         "mining": {
           "value": 10287226,
           "level": 96
@@ -46935,6 +47347,10 @@
           "value": 7317720,
           "level": 93
         },
+        "smithing": {
+          "value": 1997726,
+          "level": 80
+        },
         "mining": {
           "value": 6525230,
           "level": 92
@@ -47327,7 +47743,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1552.80257,
+          "value": 1552.82147,
           "level": null
         },
         "ehb": {
@@ -47335,7 +47751,7 @@
           "level": null
         },
         "overall": {
-          "value": 324732105,
+          "value": 324793734,
           "level": 2313
         },
         "attack": {
@@ -47343,7 +47759,7 @@
           "level": 99
         },
         "defence": {
-          "value": 14860743,
+          "value": 14863436,
           "level": 99
         },
         "strength": {
@@ -47351,11 +47767,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 33389078,
+          "value": 33402397,
           "level": 99
         },
         "ranged": {
-          "value": 27082206,
+          "value": 27111489,
           "level": 99
         },
         "prayer": {
@@ -47363,7 +47779,7 @@
           "level": 91
         },
         "magic": {
-          "value": 16239450,
+          "value": 16255784,
           "level": 99
         },
         "cooking": {
@@ -47389,6 +47805,10 @@
         "crafting": {
           "value": 9548264,
           "level": 95
+        },
+        "smithing": {
+          "value": 5937193,
+          "level": 91
         },
         "mining": {
           "value": 13470127,
@@ -47845,6 +48265,10 @@
           "value": 3005734,
           "level": 84
         },
+        "smithing": {
+          "value": 4204098,
+          "level": 87
+        },
         "mining": {
           "value": 5807763,
           "level": 90
@@ -48299,6 +48723,10 @@
         "crafting": {
           "value": 14351306,
           "level": 99
+        },
+        "smithing": {
+          "value": 3629117,
+          "level": 86
         },
         "mining": {
           "value": 10189451,
@@ -48755,6 +49183,10 @@
           "value": 7528164,
           "level": 93
         },
+        "smithing": {
+          "value": 3704879,
+          "level": 86
+        },
         "mining": {
           "value": 7207489,
           "level": 93
@@ -49209,6 +49641,10 @@
         "crafting": {
           "value": 9965803,
           "level": 96
+        },
+        "smithing": {
+          "value": 6351396,
+          "level": 91
         },
         "mining": {
           "value": 7073497,
@@ -49665,6 +50101,10 @@
           "value": 13064024,
           "level": 99
         },
+        "smithing": {
+          "value": 4011829,
+          "level": 87
+        },
         "mining": {
           "value": 13334626,
           "level": 99
@@ -50119,6 +50559,10 @@
         "crafting": {
           "value": 12697914,
           "level": 98
+        },
+        "smithing": {
+          "value": 11328878,
+          "level": 97
         },
         "mining": {
           "value": 12524586,
@@ -50575,6 +51019,10 @@
           "value": 8244975,
           "level": 94
         },
+        "smithing": {
+          "value": 3296471,
+          "level": 85
+        },
         "mining": {
           "value": 7258301,
           "level": 93
@@ -51029,6 +51477,10 @@
         "crafting": {
           "value": 2973425,
           "level": 84
+        },
+        "smithing": {
+          "value": 3617317,
+          "level": 86
         },
         "mining": {
           "value": 3530835,
@@ -51485,6 +51937,10 @@
           "value": 4305870,
           "level": 87
         },
+        "smithing": {
+          "value": 3265309,
+          "level": 85
+        },
         "mining": {
           "value": 4043527,
           "level": 87
@@ -51940,6 +52396,10 @@
           "value": 2087620,
           "level": 80
         },
+        "smithing": {
+          "value": 1636983,
+          "level": 78
+        },
         "mining": {
           "value": 1514262,
           "level": 77
@@ -52332,43 +52792,43 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 830.6676699999998,
+          "value": 831.0521000000001,
           "level": null
         },
         "ehb": {
-          "value": 205.04031,
+          "value": 206.20698,
           "level": null
         },
         "overall": {
-          "value": 163711801,
-          "level": 2120
+          "value": 164160473,
+          "level": 2122
         },
         "attack": {
-          "value": 5704915,
+          "value": 5709180,
           "level": 90
         },
         "defence": {
-          "value": 5904050,
+          "value": 5904778,
           "level": 91
         },
         "strength": {
-          "value": 15419688,
+          "value": 15420478,
           "level": 99
         },
         "hitpoints": {
-          "value": 19038560,
+          "value": 19042032,
           "level": 99
         },
         "ranged": {
-          "value": 15562728,
+          "value": 15566087,
           "level": 99
         },
         "prayer": {
-          "value": 2091730,
+          "value": 2093530,
           "level": 80
         },
         "magic": {
-          "value": 12429369,
+          "value": 12432668,
           "level": 98
         },
         "cooking": {
@@ -52380,8 +52840,8 @@
           "level": 94
         },
         "fletching": {
-          "value": 2882267,
-          "level": 83
+          "value": 3299413,
+          "level": 85
         },
         "fishing": {
           "value": 1359721,
@@ -52392,23 +52852,27 @@
           "level": 76
         },
         "crafting": {
-          "value": 7334521,
+          "value": 7335144,
           "level": 93
+        },
+        "smithing": {
+          "value": 2715587,
+          "level": 83
         },
         "mining": {
           "value": 7994670,
           "level": 94
         },
         "herblore": {
-          "value": 6355813,
+          "value": 6357430,
           "level": 91
         },
         "agility": {
-          "value": 1674079,
+          "value": 1674246,
           "level": 78
         },
         "thieving": {
-          "value": 3974299,
+          "value": 3974849,
           "level": 87
         },
         "slayer": {
@@ -52424,15 +52888,15 @@
           "level": 77
         },
         "hunter": {
-          "value": 4793330,
+          "value": 4793378,
           "level": 88
         },
         "construction": {
-          "value": 3132807,
+          "value": 3143487,
           "level": 84
         },
         "sailing": {
-          "value": 3701317,
+          "value": 3701445,
           "level": 86
         },
         "bounty_hunter_hunter": {
@@ -52492,7 +52956,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 464,
+          "value": 468,
           "level": null
         },
         "abyssal_sire": {
@@ -52524,7 +52988,7 @@
           "level": null
         },
         "bryophyta": {
-          "value": 3,
+          "value": 12,
           "level": null
         },
         "callisto": {
@@ -52656,7 +53120,7 @@
           "level": null
         },
         "obor": {
-          "value": 3,
+          "value": 5,
           "level": null
         },
         "phantom_muspah": {
@@ -52848,6 +53312,10 @@
         },
         "crafting": {
           "value": 14647166,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13576899,
           "level": 99
         },
         "mining": {
@@ -53305,6 +53773,10 @@
           "value": 4596122,
           "level": 88
         },
+        "smithing": {
+          "value": 1130529,
+          "level": 74
+        },
         "mining": {
           "value": 2768808,
           "level": 83
@@ -53759,6 +54231,10 @@
         "crafting": {
           "value": 16649236,
           "level": 99
+        },
+        "smithing": {
+          "value": 6518639,
+          "level": 92
         },
         "mining": {
           "value": 14644470,
@@ -54215,6 +54691,10 @@
           "value": 7407131,
           "level": 93
         },
+        "smithing": {
+          "value": 2736872,
+          "level": 83
+        },
         "mining": {
           "value": 6611715,
           "level": 92
@@ -54669,6 +55149,10 @@
         "crafting": {
           "value": 5427550,
           "level": 90
+        },
+        "smithing": {
+          "value": 3308722,
+          "level": 85
         },
         "mining": {
           "value": 6581919,
@@ -55125,6 +55609,10 @@
           "value": 6119570,
           "level": 91
         },
+        "smithing": {
+          "value": 4012629,
+          "level": 87
+        },
         "mining": {
           "value": 7355730,
           "level": 93
@@ -55579,6 +56067,10 @@
         "crafting": {
           "value": 7244888,
           "level": 93
+        },
+        "smithing": {
+          "value": 6716508,
+          "level": 92
         },
         "mining": {
           "value": 8155907,
@@ -56035,6 +56527,10 @@
           "value": 7608425,
           "level": 93
         },
+        "smithing": {
+          "value": 5903250,
+          "level": 91
+        },
         "mining": {
           "value": 4516747,
           "level": 88
@@ -56488,6 +56984,10 @@
         },
         "crafting": {
           "value": 5559981,
+          "level": 90
+        },
+        "smithing": {
+          "value": 5619833,
           "level": 90
         },
         "mining": {
@@ -56945,6 +57445,10 @@
           "value": 13802198,
           "level": 99
         },
+        "smithing": {
+          "value": 6942982,
+          "level": 92
+        },
         "mining": {
           "value": 16900380,
           "level": 99
@@ -57399,6 +57903,10 @@
         "crafting": {
           "value": 7896106,
           "level": 93
+        },
+        "smithing": {
+          "value": 3973876,
+          "level": 87
         },
         "mining": {
           "value": 7599890,
@@ -57855,6 +58363,10 @@
           "value": 7271244,
           "level": 93
         },
+        "smithing": {
+          "value": 3332162,
+          "level": 85
+        },
         "mining": {
           "value": 6522029,
           "level": 92
@@ -58310,6 +58822,10 @@
           "value": 7361051,
           "level": 93
         },
+        "smithing": {
+          "value": 3040559,
+          "level": 84
+        },
         "mining": {
           "value": 6644692,
           "level": 92
@@ -58763,6 +59279,10 @@
         },
         "crafting": {
           "value": 3938828,
+          "level": 86
+        },
+        "smithing": {
+          "value": 3798065,
           "level": 86
         },
         "mining": {
@@ -59220,6 +59740,10 @@
           "value": 7874445,
           "level": 93
         },
+        "smithing": {
+          "value": 3073736,
+          "level": 84
+        },
         "mining": {
           "value": 6831064,
           "level": 92
@@ -59674,6 +60198,10 @@
         "crafting": {
           "value": 9684600,
           "level": 96
+        },
+        "smithing": {
+          "value": 3268537,
+          "level": 85
         },
         "mining": {
           "value": 8303749,
@@ -60130,6 +60658,10 @@
           "value": 4405202,
           "level": 88
         },
+        "smithing": {
+          "value": 1718631,
+          "level": 78
+        },
         "mining": {
           "value": 7066343,
           "level": 92
@@ -60584,6 +61116,10 @@
         "crafting": {
           "value": 7907774,
           "level": 93
+        },
+        "smithing": {
+          "value": 3016228,
+          "level": 84
         },
         "mining": {
           "value": 7310659,
@@ -61040,6 +61576,10 @@
           "value": 9576313,
           "level": 95
         },
+        "smithing": {
+          "value": 5543675,
+          "level": 90
+        },
         "mining": {
           "value": 6651581,
           "level": 92
@@ -61494,6 +62034,10 @@
         "crafting": {
           "value": 4044889,
           "level": 87
+        },
+        "smithing": {
+          "value": 6080631,
+          "level": 91
         },
         "mining": {
           "value": 7978363,
@@ -61950,6 +62494,10 @@
           "value": 8171827,
           "level": 94
         },
+        "smithing": {
+          "value": 3730239,
+          "level": 86
+        },
         "mining": {
           "value": 2939778,
           "level": 83
@@ -62405,6 +62953,10 @@
           "value": 6244873,
           "level": 91
         },
+        "smithing": {
+          "value": 3296125,
+          "level": 85
+        },
         "mining": {
           "value": 8978053,
           "level": 95
@@ -62797,7 +63349,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1175.77631,
+          "value": 1178.63357,
           "level": null
         },
         "ehb": {
@@ -62805,23 +63357,23 @@
           "level": null
         },
         "overall": {
-          "value": 239134143,
-          "level": 2270
+          "value": 239789298,
+          "level": 2272
         },
         "attack": {
-          "value": 13163219,
+          "value": 13167971,
           "level": 99
         },
         "defence": {
-          "value": 8864459,
+          "value": 8866935,
           "level": 95
         },
         "strength": {
-          "value": 12628365,
+          "value": 12628513,
           "level": 98
         },
         "hitpoints": {
-          "value": 20420063,
+          "value": 20422517,
           "level": 99
         },
         "ranged": {
@@ -62829,11 +63381,11 @@
           "level": 99
         },
         "prayer": {
-          "value": 5557178,
-          "level": 90
+          "value": 5960612,
+          "level": 91
         },
         "magic": {
-          "value": 12588283,
+          "value": 12601459,
           "level": 98
         },
         "cooking": {
@@ -62857,19 +63409,23 @@
           "level": 95
         },
         "crafting": {
-          "value": 9551513,
-          "level": 95
+          "value": 9700983,
+          "level": 96
+        },
+        "smithing": {
+          "value": 7996672,
+          "level": 94
         },
         "mining": {
-          "value": 8420430,
+          "value": 8426993,
           "level": 94
         },
         "herblore": {
-          "value": 6189666,
+          "value": 6190529,
           "level": 91
         },
         "agility": {
-          "value": 6333805,
+          "value": 6333840,
           "level": 91
         },
         "thieving": {
@@ -62881,7 +63437,7 @@
           "level": 96
         },
         "farming": {
-          "value": 9114089,
+          "value": 9185873,
           "level": 95
         },
         "runecrafting": {
@@ -63314,6 +63870,10 @@
         "crafting": {
           "value": 7841445,
           "level": 93
+        },
+        "smithing": {
+          "value": 5348474,
+          "level": 90
         },
         "mining": {
           "value": 8469084,
@@ -63770,6 +64330,10 @@
           "value": 2235757,
           "level": 81
         },
+        "smithing": {
+          "value": 1527045,
+          "level": 77
+        },
         "mining": {
           "value": 3484617,
           "level": 85
@@ -64223,6 +64787,10 @@
         },
         "crafting": {
           "value": 13900359,
+          "level": 99
+        },
+        "smithing": {
+          "value": 15432528,
           "level": 99
         },
         "mining": {
@@ -64680,6 +65248,10 @@
           "value": 5386202,
           "level": 90
         },
+        "smithing": {
+          "value": 3600841,
+          "level": 86
+        },
         "mining": {
           "value": 6694820,
           "level": 92
@@ -65134,6 +65706,10 @@
         "crafting": {
           "value": 7975226,
           "level": 94
+        },
+        "smithing": {
+          "value": 3133209,
+          "level": 84
         },
         "mining": {
           "value": 2544718,
@@ -65590,6 +66166,10 @@
           "value": 3532302,
           "level": 85
         },
+        "smithing": {
+          "value": 3975908,
+          "level": 87
+        },
         "mining": {
           "value": 2451034,
           "level": 82
@@ -66044,6 +66624,10 @@
         "crafting": {
           "value": 3689536,
           "level": 86
+        },
+        "smithing": {
+          "value": 3098149,
+          "level": 84
         },
         "mining": {
           "value": 2272501,
@@ -66500,6 +67084,10 @@
           "value": 8998005,
           "level": 95
         },
+        "smithing": {
+          "value": 3978999,
+          "level": 87
+        },
         "mining": {
           "value": 8694708,
           "level": 94
@@ -66954,6 +67542,10 @@
         "crafting": {
           "value": 7288252,
           "level": 93
+        },
+        "smithing": {
+          "value": 1534526,
+          "level": 77
         },
         "mining": {
           "value": 7044508,
@@ -67410,6 +68002,10 @@
           "value": 7398705,
           "level": 93
         },
+        "smithing": {
+          "value": 4102659,
+          "level": 87
+        },
         "mining": {
           "value": 7656076,
           "level": 93
@@ -67863,6 +68459,10 @@
         },
         "crafting": {
           "value": 4631028,
+          "level": 88
+        },
+        "smithing": {
+          "value": 4459364,
           "level": 88
         },
         "mining": {
@@ -68320,6 +68920,10 @@
           "value": 15409074,
           "level": 99
         },
+        "smithing": {
+          "value": 13051837,
+          "level": 99
+        },
         "mining": {
           "value": 20684522,
           "level": 99
@@ -68774,6 +69378,10 @@
         "crafting": {
           "value": 4875140,
           "level": 89
+        },
+        "smithing": {
+          "value": 6018952,
+          "level": 91
         },
         "mining": {
           "value": 6803858,
@@ -69230,6 +69838,10 @@
           "value": 13090664,
           "level": 99
         },
+        "smithing": {
+          "value": 4723626,
+          "level": 88
+        },
         "mining": {
           "value": 9817805,
           "level": 96
@@ -69685,6 +70297,10 @@
           "value": 7424848,
           "level": 93
         },
+        "smithing": {
+          "value": 3725591,
+          "level": 86
+        },
         "mining": {
           "value": 8093255,
           "level": 94
@@ -70138,6 +70754,10 @@
         },
         "crafting": {
           "value": 3311788,
+          "level": 85
+        },
+        "smithing": {
+          "value": 3273603,
           "level": 85
         },
         "mining": {
@@ -70595,6 +71215,10 @@
           "value": 8912448,
           "level": 95
         },
+        "smithing": {
+          "value": 3853451,
+          "level": 86
+        },
         "mining": {
           "value": 13091290,
           "level": 99
@@ -71049,6 +71673,10 @@
         "crafting": {
           "value": 5376437,
           "level": 90
+        },
+        "smithing": {
+          "value": 1912118,
+          "level": 79
         },
         "mining": {
           "value": 5477133,
@@ -71505,6 +72133,10 @@
           "value": 3981167,
           "level": 87
         },
+        "smithing": {
+          "value": 1730204,
+          "level": 78
+        },
         "mining": {
           "value": 2811586,
           "level": 83
@@ -71959,6 +72591,10 @@
         "crafting": {
           "value": 1349248,
           "level": 76
+        },
+        "smithing": {
+          "value": 1293077,
+          "level": 75
         },
         "mining": {
           "value": 7821966,
@@ -72415,6 +73051,10 @@
           "value": 7448965,
           "level": 93
         },
+        "smithing": {
+          "value": 3358833,
+          "level": 85
+        },
         "mining": {
           "value": 6695811,
           "level": 92
@@ -72869,6 +73509,10 @@
         "crafting": {
           "value": 1459768,
           "level": 76
+        },
+        "smithing": {
+          "value": 883374,
+          "level": 71
         },
         "mining": {
           "value": 1241786,
@@ -73325,6 +73969,10 @@
           "value": 4556687,
           "level": 88
         },
+        "smithing": {
+          "value": 2060856,
+          "level": 80
+        },
         "mining": {
           "value": 13035643,
           "level": 99
@@ -73779,6 +74427,10 @@
         "crafting": {
           "value": 10448877,
           "level": 96
+        },
+        "smithing": {
+          "value": 5422040,
+          "level": 90
         },
         "mining": {
           "value": 3260094,
@@ -74235,6 +74887,10 @@
           "value": 13132105,
           "level": 99
         },
+        "smithing": {
+          "value": 5635886,
+          "level": 90
+        },
         "mining": {
           "value": 10377683,
           "level": 96
@@ -74627,15 +75283,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 592.8899799999999,
+          "value": 592.8902999999999,
           "level": null
         },
         "ehb": {
-          "value": 846.2689899999997,
+          "value": 846.5689899999996,
           "level": null
         },
         "overall": {
-          "value": 337589465,
+          "value": 337654513,
           "level": 2155
         },
         "attack": {
@@ -74651,7 +75307,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 58351729,
+          "value": 58371885,
           "level": 99
         },
         "ranged": {
@@ -74663,7 +75319,7 @@
           "level": 90
         },
         "magic": {
-          "value": 35001348,
+          "value": 35046240,
           "level": 99
         },
         "cooking": {
@@ -74689,6 +75345,10 @@
         "crafting": {
           "value": 13109314,
           "level": 99
+        },
+        "smithing": {
+          "value": 3708820,
+          "level": 86
         },
         "mining": {
           "value": 4833992,
@@ -74851,7 +75511,7 @@
           "level": null
         },
         "commander_zilyana": {
-          "value": 1091,
+          "value": 1109,
           "level": null
         },
         "corporeal_beast": {
@@ -75144,6 +75804,10 @@
         "crafting": {
           "value": 5690689,
           "level": 90
+        },
+        "smithing": {
+          "value": 13276015,
+          "level": 99
         },
         "mining": {
           "value": 14419165,
@@ -75600,6 +76264,10 @@
           "value": 13207728,
           "level": 99
         },
+        "smithing": {
+          "value": 4335515,
+          "level": 87
+        },
         "mining": {
           "value": 12685716,
           "level": 98
@@ -76054,6 +76722,10 @@
         "crafting": {
           "value": 5399835,
           "level": 90
+        },
+        "smithing": {
+          "value": 3026537,
+          "level": 84
         },
         "mining": {
           "value": 10320739,
@@ -76510,6 +77182,10 @@
           "value": 4685905,
           "level": 88
         },
+        "smithing": {
+          "value": 3418149,
+          "level": 85
+        },
         "mining": {
           "value": 6762416,
           "level": 92
@@ -76964,6 +77640,10 @@
         "crafting": {
           "value": 2486598,
           "level": 82
+        },
+        "smithing": {
+          "value": 1558958,
+          "level": 77
         },
         "mining": {
           "value": 2123074,
@@ -77420,6 +78100,10 @@
           "value": 7492053,
           "level": 93
         },
+        "smithing": {
+          "value": 4114206,
+          "level": 87
+        },
         "mining": {
           "value": 6844086,
           "level": 92
@@ -77874,6 +78558,10 @@
         "crafting": {
           "value": 13108449,
           "level": 99
+        },
+        "smithing": {
+          "value": 4938835,
+          "level": 89
         },
         "mining": {
           "value": 7193593,
@@ -78330,6 +79018,10 @@
           "value": 1193590,
           "level": 74
         },
+        "smithing": {
+          "value": 2018669,
+          "level": 80
+        },
         "mining": {
           "value": 13872352,
           "level": 99
@@ -78784,6 +79476,10 @@
         "crafting": {
           "value": 3300089,
           "level": 85
+        },
+        "smithing": {
+          "value": 1496903,
+          "level": 77
         },
         "mining": {
           "value": 13067784,
@@ -79240,6 +79936,10 @@
           "value": 7949121,
           "level": 94
         },
+        "smithing": {
+          "value": 6021872,
+          "level": 91
+        },
         "mining": {
           "value": 3763431,
           "level": 86
@@ -79694,6 +80394,10 @@
         "crafting": {
           "value": 1389133,
           "level": 76
+        },
+        "smithing": {
+          "value": 1630153,
+          "level": 78
         },
         "mining": {
           "value": 1134845,
@@ -80150,6 +80854,10 @@
           "value": 2780166,
           "level": 83
         },
+        "smithing": {
+          "value": 3547010,
+          "level": 85
+        },
         "mining": {
           "value": 4786192,
           "level": 88
@@ -80604,6 +81312,10 @@
         "crafting": {
           "value": 5116677,
           "level": 89
+        },
+        "smithing": {
+          "value": 3455929,
+          "level": 85
         },
         "mining": {
           "value": 8263903,
@@ -81060,6 +81772,10 @@
           "value": 14506215,
           "level": 99
         },
+        "smithing": {
+          "value": 7301914,
+          "level": 93
+        },
         "mining": {
           "value": 13169598,
           "level": 99
@@ -81452,7 +82168,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 369.69359,
+          "value": 370.0719700000001,
           "level": null
         },
         "ehb": {
@@ -81460,8 +82176,8 @@
           "level": null
         },
         "overall": {
-          "value": 158585660,
-          "level": 2111
+          "value": 158667760,
+          "level": 2112
         },
         "attack": {
           "value": 13771429,
@@ -81476,7 +82192,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 21530531,
+          "value": 21531209,
           "level": 99
         },
         "ranged": {
@@ -81488,7 +82204,7 @@
           "level": 86
         },
         "magic": {
-          "value": 14064544,
+          "value": 14065562,
           "level": 99
         },
         "cooking": {
@@ -81514,6 +82230,10 @@
         "crafting": {
           "value": 4234355,
           "level": 87
+        },
+        "smithing": {
+          "value": 1679325,
+          "level": 78
         },
         "mining": {
           "value": 3168719,
@@ -81552,8 +82272,8 @@
           "level": 83
         },
         "sailing": {
-          "value": 1921359,
-          "level": 79
+          "value": 1996763,
+          "level": 80
         },
         "bounty_hunter_hunter": {
           "value": 0,
@@ -81612,7 +82332,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 554,
+          "value": 555,
           "level": null
         },
         "abyssal_sire": {
@@ -81969,6 +82689,10 @@
         "crafting": {
           "value": 3617890,
           "level": 86
+        },
+        "smithing": {
+          "value": 4021041,
+          "level": 87
         },
         "mining": {
           "value": 5265950,
@@ -82423,6 +83147,10 @@
         },
         "crafting": {
           "value": 13150301,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13165402,
           "level": 99
         },
         "mining": {
@@ -82880,6 +83608,10 @@
           "value": 5207964,
           "level": 89
         },
+        "smithing": {
+          "value": 1987108,
+          "level": 80
+        },
         "mining": {
           "value": 13048099,
           "level": 99
@@ -83334,6 +84066,10 @@
         "crafting": {
           "value": 6026813,
           "level": 91
+        },
+        "smithing": {
+          "value": 4604384,
+          "level": 88
         },
         "mining": {
           "value": 8023583,
@@ -83790,6 +84526,10 @@
           "value": 936491,
           "level": 72
         },
+        "smithing": {
+          "value": 1001037,
+          "level": 73
+        },
         "mining": {
           "value": 2276785,
           "level": 81
@@ -84244,6 +84984,10 @@
         "crafting": {
           "value": 6078252,
           "level": 91
+        },
+        "smithing": {
+          "value": 2997965,
+          "level": 84
         },
         "mining": {
           "value": 8154872,
@@ -84700,6 +85444,10 @@
           "value": 841934,
           "level": 71
         },
+        "smithing": {
+          "value": 2551615,
+          "level": 82
+        },
         "mining": {
           "value": 6625718,
           "level": 92
@@ -85154,6 +85902,10 @@
         "crafting": {
           "value": 3872033,
           "level": 86
+        },
+        "smithing": {
+          "value": 7429262,
+          "level": 93
         },
         "mining": {
           "value": 13063022,
@@ -85610,6 +86362,10 @@
           "value": 13152943,
           "level": 99
         },
+        "smithing": {
+          "value": 4014105,
+          "level": 87
+        },
         "mining": {
           "value": 8249832,
           "level": 94
@@ -86064,6 +86820,10 @@
         "crafting": {
           "value": 2548149,
           "level": 82
+        },
+        "smithing": {
+          "value": 1366282,
+          "level": 76
         },
         "mining": {
           "value": 946816,
@@ -86520,6 +87280,10 @@
           "value": 13338414,
           "level": 99
         },
+        "smithing": {
+          "value": 6325410,
+          "level": 91
+        },
         "mining": {
           "value": 8832336,
           "level": 95
@@ -86974,6 +87738,10 @@
         "crafting": {
           "value": 5552811,
           "level": 90
+        },
+        "smithing": {
+          "value": 2114997,
+          "level": 80
         },
         "mining": {
           "value": 2978790,
@@ -87430,6 +88198,10 @@
           "value": 7353917,
           "level": 93
         },
+        "smithing": {
+          "value": 2973066,
+          "level": 84
+        },
         "mining": {
           "value": 2029425,
           "level": 80
@@ -87885,6 +88657,10 @@
           "value": 7533348,
           "level": 93
         },
+        "smithing": {
+          "value": 3640989,
+          "level": 86
+        },
         "mining": {
           "value": 6802040,
           "level": 92
@@ -88338,6 +89114,10 @@
         },
         "crafting": {
           "value": 35928217,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13788479,
           "level": 99
         },
         "mining": {
@@ -88795,6 +89575,10 @@
           "value": 5407965,
           "level": 90
         },
+        "smithing": {
+          "value": 3972824,
+          "level": 87
+        },
         "mining": {
           "value": 3791974,
           "level": 86
@@ -89249,6 +90033,10 @@
         "crafting": {
           "value": 2352203,
           "level": 81
+        },
+        "smithing": {
+          "value": 1704755,
+          "level": 78
         },
         "mining": {
           "value": 7196055,
@@ -89705,6 +90493,10 @@
           "value": 7340502,
           "level": 93
         },
+        "smithing": {
+          "value": 3295534,
+          "level": 85
+        },
         "mining": {
           "value": 7572808,
           "level": 93
@@ -90159,6 +90951,10 @@
         "crafting": {
           "value": 1635542,
           "level": 78
+        },
+        "smithing": {
+          "value": 1005966,
+          "level": 73
         },
         "mining": {
           "value": 2582424,
@@ -90615,6 +91411,10 @@
           "value": 4640445,
           "level": 88
         },
+        "smithing": {
+          "value": 4035087,
+          "level": 87
+        },
         "mining": {
           "value": 6598551,
           "level": 92
@@ -91069,6 +91869,10 @@
         "crafting": {
           "value": 4228750,
           "level": 87
+        },
+        "smithing": {
+          "value": 1124192,
+          "level": 74
         },
         "mining": {
           "value": 2736667,
@@ -91525,6 +92329,10 @@
           "value": 13278540,
           "level": 99
         },
+        "smithing": {
+          "value": 3841680,
+          "level": 86
+        },
         "mining": {
           "value": 10279637,
           "level": 96
@@ -91979,6 +92787,10 @@
         "crafting": {
           "value": 3733597,
           "level": 86
+        },
+        "smithing": {
+          "value": 4546503,
+          "level": 88
         },
         "mining": {
           "value": 7110574,
@@ -92435,6 +93247,10 @@
           "value": 7218987,
           "level": 93
         },
+        "smithing": {
+          "value": 1304761,
+          "level": 75
+        },
         "mining": {
           "value": 4649244,
           "level": 88
@@ -92889,6 +93705,10 @@
         "crafting": {
           "value": 3974549,
           "level": 87
+        },
+        "smithing": {
+          "value": 3898969,
+          "level": 86
         },
         "mining": {
           "value": 6806492,
@@ -93345,6 +94165,10 @@
           "value": 1303517,
           "level": 75
         },
+        "smithing": {
+          "value": 1165199,
+          "level": 74
+        },
         "mining": {
           "value": 3279365,
           "level": 85
@@ -93799,6 +94623,10 @@
         "crafting": {
           "value": 1999507,
           "level": 80
+        },
+        "smithing": {
+          "value": 1357236,
+          "level": 76
         },
         "mining": {
           "value": 1189930,
@@ -94255,6 +95083,10 @@
           "value": 2008812,
           "level": 80
         },
+        "smithing": {
+          "value": 1009009,
+          "level": 73
+        },
         "mining": {
           "value": 3001190,
           "level": 84
@@ -94709,6 +95541,10 @@
         "crafting": {
           "value": 8148824,
           "level": 94
+        },
+        "smithing": {
+          "value": 4022758,
+          "level": 87
         },
         "mining": {
           "value": 6619259,
@@ -95165,6 +96001,10 @@
           "value": 4049516,
           "level": 87
         },
+        "smithing": {
+          "value": 1522870,
+          "level": 77
+        },
         "mining": {
           "value": 2208922,
           "level": 81
@@ -95619,6 +96459,10 @@
         "crafting": {
           "value": 3110757,
           "level": 84
+        },
+        "smithing": {
+          "value": 2798562,
+          "level": 83
         },
         "mining": {
           "value": 7585237,
@@ -96075,6 +96919,10 @@
           "value": 7590198,
           "level": 93
         },
+        "smithing": {
+          "value": 4527146,
+          "level": 88
+        },
         "mining": {
           "value": 5979572,
           "level": 91
@@ -96529,6 +97377,10 @@
         "crafting": {
           "value": 7666993,
           "level": 93
+        },
+        "smithing": {
+          "value": 3362814,
+          "level": 85
         },
         "mining": {
           "value": 3313106,
@@ -96985,6 +97837,10 @@
           "value": 6121382,
           "level": 91
         },
+        "smithing": {
+          "value": 5038098,
+          "level": 89
+        },
         "mining": {
           "value": 7915911,
           "level": 93
@@ -97439,6 +98295,10 @@
         "crafting": {
           "value": 5354162,
           "level": 90
+        },
+        "smithing": {
+          "value": 1274935,
+          "level": 75
         },
         "mining": {
           "value": 1847153,
@@ -97895,6 +98755,10 @@
           "value": 3092828,
           "level": 84
         },
+        "smithing": {
+          "value": 4726554,
+          "level": 88
+        },
         "mining": {
           "value": 2619493,
           "level": 82
@@ -98349,6 +99213,10 @@
         "crafting": {
           "value": 2114818,
           "level": 80
+        },
+        "smithing": {
+          "value": 1190523,
+          "level": 74
         },
         "mining": {
           "value": 1509917,
@@ -98805,6 +99673,10 @@
           "value": 5365422,
           "level": 90
         },
+        "smithing": {
+          "value": 5315334,
+          "level": 89
+        },
         "mining": {
           "value": 5837253,
           "level": 90
@@ -99259,6 +100131,10 @@
         "crafting": {
           "value": 7108646,
           "level": 92
+        },
+        "smithing": {
+          "value": 3456572,
+          "level": 85
         },
         "mining": {
           "value": 3850252,
@@ -99715,6 +100591,10 @@
           "value": 3268254,
           "level": 85
         },
+        "smithing": {
+          "value": 1607332,
+          "level": 77
+        },
         "mining": {
           "value": 6552963,
           "level": 92
@@ -100169,6 +101049,10 @@
         "crafting": {
           "value": 4123119,
           "level": 87
+        },
+        "smithing": {
+          "value": 2083150,
+          "level": 80
         },
         "mining": {
           "value": 6989213,
@@ -100625,6 +101509,10 @@
           "value": 8265851,
           "level": 94
         },
+        "smithing": {
+          "value": 3264209,
+          "level": 85
+        },
         "mining": {
           "value": 6053539,
           "level": 91
@@ -101079,6 +101967,10 @@
         "crafting": {
           "value": 4854106,
           "level": 89
+        },
+        "smithing": {
+          "value": 2740358,
+          "level": 83
         },
         "mining": {
           "value": 6643684,
@@ -101535,6 +102427,10 @@
           "value": 2155110,
           "level": 80
         },
+        "smithing": {
+          "value": 1162464,
+          "level": 74
+        },
         "mining": {
           "value": 825651,
           "level": 71
@@ -101927,7 +102823,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 391.21018,
+          "value": 391.34995,
           "level": null
         },
         "ehb": {
@@ -101935,8 +102831,8 @@
           "level": null
         },
         "overall": {
-          "value": 47277297,
-          "level": 1870
+          "value": 47450141,
+          "level": 1872
         },
         "attack": {
           "value": 2228861,
@@ -101975,8 +102871,8 @@
           "level": 78
         },
         "fletching": {
-          "value": 1181096,
-          "level": 74
+          "value": 1347512,
+          "level": 76
         },
         "fishing": {
           "value": 1671731,
@@ -101987,8 +102883,12 @@
           "level": 75
         },
         "crafting": {
-          "value": 3057014,
+          "value": 3057274,
           "level": 84
+        },
+        "smithing": {
+          "value": 1098229,
+          "level": 74
         },
         "mining": {
           "value": 4890384,
@@ -101999,7 +102899,7 @@
           "level": 74
         },
         "agility": {
-          "value": 3184441,
+          "value": 3184905,
           "level": 84
         },
         "thieving": {
@@ -102019,11 +102919,11 @@
           "level": 73
         },
         "hunter": {
-          "value": 1536524,
+          "value": 1536548,
           "level": 77
         },
         "construction": {
-          "value": 844234,
+          "value": 849914,
           "level": 71
         },
         "sailing": {
@@ -102443,6 +103343,10 @@
         },
         "crafting": {
           "value": 2076618,
+          "level": 80
+        },
+        "smithing": {
+          "value": 2066745,
           "level": 80
         },
         "mining": {
@@ -102900,6 +103804,10 @@
           "value": 4062910,
           "level": 87
         },
+        "smithing": {
+          "value": 4089438,
+          "level": 87
+        },
         "mining": {
           "value": 10273889,
           "level": 96
@@ -103354,6 +104262,10 @@
         "crafting": {
           "value": 2194622,
           "level": 81
+        },
+        "smithing": {
+          "value": 2972239,
+          "level": 84
         },
         "mining": {
           "value": 2321345,
@@ -103810,6 +104722,10 @@
           "value": 4160415,
           "level": 87
         },
+        "smithing": {
+          "value": 3315722,
+          "level": 85
+        },
         "mining": {
           "value": 4471958,
           "level": 88
@@ -104264,6 +105180,10 @@
         "crafting": {
           "value": 7562430,
           "level": 93
+        },
+        "smithing": {
+          "value": 1778766,
+          "level": 78
         },
         "mining": {
           "value": 7315142,
@@ -104720,6 +105640,10 @@
           "value": 3604244,
           "level": 86
         },
+        "smithing": {
+          "value": 2091498,
+          "level": 80
+        },
         "mining": {
           "value": 7070261,
           "level": 92
@@ -105175,6 +106099,10 @@
           "value": 2554749,
           "level": 82
         },
+        "smithing": {
+          "value": 1350879,
+          "level": 76
+        },
         "mining": {
           "value": 2919342,
           "level": 83
@@ -105587,15 +106515,15 @@
           "level": 99
         },
         "strength": {
-          "value": 31454004,
+          "value": 31471140,
           "level": 99
         },
         "hitpoints": {
-          "value": 39558617,
+          "value": 39567697,
           "level": 99
         },
         "ranged": {
-          "value": 38819796,
+          "value": 38829944,
           "level": 99
         },
         "prayer": {
@@ -105603,7 +106531,7 @@
           "level": 99
         },
         "magic": {
-          "value": 19074588,
+          "value": 19074673,
           "level": 99
         },
         "cooking": {
@@ -105630,16 +106558,20 @@
           "value": 15789529,
           "level": 99
         },
+        "smithing": {
+          "value": 13045469,
+          "level": 99
+        },
         "mining": {
           "value": 16537553,
           "level": 99
         },
         "herblore": {
-          "value": 13119940,
+          "value": 13121051,
           "level": 99
         },
         "agility": {
-          "value": 13035653,
+          "value": 13035656,
           "level": 99
         },
         "thieving": {
@@ -105647,11 +106579,11 @@
           "level": 99
         },
         "slayer": {
-          "value": 15688232,
+          "value": 15697140,
           "level": 99
         },
         "farming": {
-          "value": 27710963,
+          "value": 27745857,
           "level": 99
         },
         "runecrafting": {
@@ -106084,6 +107016,10 @@
         "crafting": {
           "value": 5365485,
           "level": 90
+        },
+        "smithing": {
+          "value": 1808712,
+          "level": 79
         },
         "mining": {
           "value": 5670768,
@@ -106540,6 +107476,10 @@
           "value": 12973841,
           "level": 98
         },
+        "smithing": {
+          "value": 5360246,
+          "level": 90
+        },
         "mining": {
           "value": 13245810,
           "level": 99
@@ -106994,6 +107934,10 @@
         "crafting": {
           "value": 8061201,
           "level": 94
+        },
+        "smithing": {
+          "value": 1969084,
+          "level": 79
         },
         "mining": {
           "value": 1515098,
@@ -107450,6 +108394,10 @@
           "value": 3991864,
           "level": 87
         },
+        "smithing": {
+          "value": 2733499,
+          "level": 83
+        },
         "mining": {
           "value": 8733971,
           "level": 94
@@ -107904,6 +108852,10 @@
         "crafting": {
           "value": 4402787,
           "level": 88
+        },
+        "smithing": {
+          "value": 1930051,
+          "level": 79
         },
         "mining": {
           "value": 2437984,
@@ -108360,6 +109312,10 @@
           "value": 5049453,
           "level": 89
         },
+        "smithing": {
+          "value": 948840,
+          "level": 72
+        },
         "mining": {
           "value": 1986630,
           "level": 80
@@ -108815,6 +109771,10 @@
           "value": 2158242,
           "level": 80
         },
+        "smithing": {
+          "value": 1351280,
+          "level": 76
+        },
         "mining": {
           "value": 4271471,
           "level": 87
@@ -109268,6 +110228,10 @@
         },
         "crafting": {
           "value": 4926347,
+          "level": 89
+        },
+        "smithing": {
+          "value": 4886088,
           "level": 89
         },
         "mining": {
@@ -109725,6 +110689,10 @@
           "value": 1354605,
           "level": 76
         },
+        "smithing": {
+          "value": 2768896,
+          "level": 83
+        },
         "mining": {
           "value": 5551558,
           "level": 90
@@ -110180,6 +111148,10 @@
           "value": 13982188,
           "level": 99
         },
+        "smithing": {
+          "value": 3557684,
+          "level": 85
+        },
         "mining": {
           "value": 6993412,
           "level": 92
@@ -110633,6 +111605,10 @@
         },
         "crafting": {
           "value": 16105174,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13333805,
           "level": 99
         },
         "mining": {
@@ -111090,6 +112066,10 @@
           "value": 5547428,
           "level": 90
         },
+        "smithing": {
+          "value": 5530182,
+          "level": 90
+        },
         "mining": {
           "value": 13046695,
           "level": 99
@@ -111544,6 +112524,10 @@
         "crafting": {
           "value": 2089428,
           "level": 80
+        },
+        "smithing": {
+          "value": 1478876,
+          "level": 77
         },
         "mining": {
           "value": 1943902,
@@ -112000,6 +112984,10 @@
           "value": 5065076,
           "level": 89
         },
+        "smithing": {
+          "value": 2332788,
+          "level": 81
+        },
         "mining": {
           "value": 9243022,
           "level": 95
@@ -112454,6 +113442,10 @@
         "crafting": {
           "value": 1904762,
           "level": 79
+        },
+        "smithing": {
+          "value": 985790,
+          "level": 72
         },
         "mining": {
           "value": 6956616,
@@ -112910,6 +113902,10 @@
           "value": 3607369,
           "level": 86
         },
+        "smithing": {
+          "value": 4248483,
+          "level": 87
+        },
         "mining": {
           "value": 2000656,
           "level": 80
@@ -113364,6 +114360,10 @@
         "crafting": {
           "value": 8316920,
           "level": 94
+        },
+        "smithing": {
+          "value": 3262867,
+          "level": 85
         },
         "mining": {
           "value": 8017867,
@@ -113820,6 +114820,10 @@
           "value": 777536,
           "level": 70
         },
+        "smithing": {
+          "value": 3484352,
+          "level": 85
+        },
         "mining": {
           "value": 3403806,
           "level": 85
@@ -114275,6 +115279,10 @@
           "value": 251384,
           "level": 59
         },
+        "smithing": {
+          "value": 744391,
+          "level": 70
+        },
         "mining": {
           "value": 1029943,
           "level": 73
@@ -114324,23 +115332,23 @@
           "level": null
         },
         "clue_scrolls_all": {
-          "value": 41,
+          "value": 48,
           "level": null
         },
         "clue_scrolls_beginner": {
-          "value": 20,
+          "value": 22,
           "level": null
         },
         "clue_scrolls_easy": {
-          "value": 17,
+          "value": 18,
           "level": null
         },
         "clue_scrolls_medium": {
-          "value": 3,
+          "value": 5,
           "level": null
         },
         "clue_scrolls_hard": {
-          "value": 1,
+          "value": 3,
           "level": null
         },
         "clue_scrolls_elite": {
@@ -114372,7 +115380,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 102,
+          "value": 103,
           "level": null
         },
         "abyssal_sire": {
@@ -114729,6 +115737,10 @@
         "crafting": {
           "value": 1159153,
           "level": 74
+        },
+        "smithing": {
+          "value": 910449,
+          "level": 72
         },
         "mining": {
           "value": 2742936,
@@ -115185,6 +116197,10 @@
           "value": 3282369,
           "level": 85
         },
+        "smithing": {
+          "value": 1055627,
+          "level": 73
+        },
         "mining": {
           "value": 2385510,
           "level": 81
@@ -115639,6 +116655,10 @@
         "crafting": {
           "value": 1236386,
           "level": 75
+        },
+        "smithing": {
+          "value": 4550758,
+          "level": 88
         },
         "mining": {
           "value": 3760096,
@@ -116095,6 +117115,10 @@
           "value": 7265629,
           "level": 93
         },
+        "smithing": {
+          "value": 2264459,
+          "level": 81
+        },
         "mining": {
           "value": 4250533,
           "level": 87
@@ -116549,6 +117573,10 @@
         "crafting": {
           "value": 749460,
           "level": 70
+        },
+        "smithing": {
+          "value": 381555,
+          "level": 63
         },
         "mining": {
           "value": 2128804,
@@ -117005,6 +118033,10 @@
           "value": 5681452,
           "level": 90
         },
+        "smithing": {
+          "value": 6145306,
+          "level": 91
+        },
         "mining": {
           "value": 13140445,
           "level": 99
@@ -117459,6 +118491,10 @@
         "crafting": {
           "value": 7494454,
           "level": 93
+        },
+        "smithing": {
+          "value": 8380708,
+          "level": 94
         },
         "mining": {
           "value": 3459218,
@@ -117915,6 +118951,10 @@
           "value": 407115,
           "level": 64
         },
+        "smithing": {
+          "value": 914684,
+          "level": 72
+        },
         "mining": {
           "value": 1092264,
           "level": 73
@@ -118370,6 +119410,10 @@
           "value": 384011,
           "level": 63
         },
+        "smithing": {
+          "value": 745610,
+          "level": 70
+        },
         "mining": {
           "value": 412324,
           "level": 64
@@ -118823,6 +119867,10 @@
         },
         "crafting": {
           "value": 781968,
+          "level": 70
+        },
+        "smithing": {
+          "value": 786225,
           "level": 70
         },
         "mining": {
@@ -119280,6 +120328,10 @@
           "value": 7711724,
           "level": 93
         },
+        "smithing": {
+          "value": 4197864,
+          "level": 87
+        },
         "mining": {
           "value": 3409918,
           "level": 85
@@ -119734,6 +120786,10 @@
         "crafting": {
           "value": 2200218,
           "level": 81
+        },
+        "smithing": {
+          "value": 1103060,
+          "level": 74
         },
         "mining": {
           "value": 1309722,
@@ -120190,6 +121246,10 @@
           "value": 8510527,
           "level": 94
         },
+        "smithing": {
+          "value": 6412610,
+          "level": 91
+        },
         "mining": {
           "value": 10214271,
           "level": 96
@@ -120644,6 +121704,10 @@
         "crafting": {
           "value": 10168657,
           "level": 96
+        },
+        "smithing": {
+          "value": 6853843,
+          "level": 92
         },
         "mining": {
           "value": 13491950,
@@ -121100,6 +122164,10 @@
           "value": 13550511,
           "level": 99
         },
+        "smithing": {
+          "value": 4069697,
+          "level": 87
+        },
         "mining": {
           "value": 8388860,
           "level": 94
@@ -121555,6 +122623,10 @@
           "value": 182739,
           "level": 55
         },
+        "smithing": {
+          "value": 451271,
+          "level": 65
+        },
         "mining": {
           "value": 2285467,
           "level": 81
@@ -121947,15 +123019,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 793.3223399999999,
+          "value": 793.7443800000001,
           "level": null
         },
         "ehb": {
-          "value": 211.3221699999999,
+          "value": 211.39114,
           "level": null
         },
         "overall": {
-          "value": 182650676,
+          "value": 182695346,
           "level": 2076
         },
         "attack": {
@@ -121971,11 +123043,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 28189966,
+          "value": 28193493,
           "level": 99
         },
         "ranged": {
-          "value": 20946230,
+          "value": 20956810,
           "level": 99
         },
         "prayer": {
@@ -121983,7 +123055,7 @@
           "level": 81
         },
         "magic": {
-          "value": 14017805,
+          "value": 14018350,
           "level": 99
         },
         "cooking": {
@@ -122010,12 +123082,16 @@
           "value": 7213639,
           "level": 93
         },
+        "smithing": {
+          "value": 1138003,
+          "level": 74
+        },
         "mining": {
-          "value": 5085025,
+          "value": 5086117,
           "level": 89
         },
         "herblore": {
-          "value": 5360314,
+          "value": 5383498,
           "level": 90
         },
         "agility": {
@@ -122027,11 +123103,11 @@
           "level": 79
         },
         "slayer": {
-          "value": 10759291,
+          "value": 10761931,
           "level": 97
         },
         "farming": {
-          "value": 15542833,
+          "value": 15545935,
           "level": 99
         },
         "runecrafting": {
@@ -122115,7 +123191,7 @@
           "level": null
         },
         "alchemical_hydra": {
-          "value": 802,
+          "value": 804,
           "level": null
         },
         "amoxliatl": {
@@ -122464,6 +123540,10 @@
         "crafting": {
           "value": 8071221,
           "level": 94
+        },
+        "smithing": {
+          "value": 3348982,
+          "level": 85
         },
         "mining": {
           "value": 2937532,
@@ -122920,6 +124000,10 @@
           "value": 1819837,
           "level": 79
         },
+        "smithing": {
+          "value": 1510881,
+          "level": 77
+        },
         "mining": {
           "value": 2839379,
           "level": 83
@@ -123374,6 +124458,10 @@
         "crafting": {
           "value": 177788,
           "level": 55
+        },
+        "smithing": {
+          "value": 740164,
+          "level": 70
         },
         "mining": {
           "value": 226830,
@@ -123830,6 +124918,10 @@
           "value": 1530942,
           "level": 77
         },
+        "smithing": {
+          "value": 880016,
+          "level": 71
+        },
         "mining": {
           "value": 1676783,
           "level": 78
@@ -124285,6 +125377,10 @@
           "value": 177503,
           "level": 55
         },
+        "smithing": {
+          "value": 99146,
+          "level": 49
+        },
         "mining": {
           "value": 2044511,
           "level": 80
@@ -124738,6 +125834,10 @@
         },
         "crafting": {
           "value": 8437254,
+          "level": 94
+        },
+        "smithing": {
+          "value": 7962952,
           "level": 94
         },
         "mining": {
@@ -125195,6 +126295,10 @@
           "value": 16140993,
           "level": 99
         },
+        "smithing": {
+          "value": 8570384,
+          "level": 94
+        },
         "mining": {
           "value": 14238883,
           "level": 99
@@ -125650,6 +126754,10 @@
           "value": 6542501,
           "level": 92
         },
+        "smithing": {
+          "value": 3870089,
+          "level": 86
+        },
         "mining": {
           "value": 4590285,
           "level": 88
@@ -126103,6 +127211,10 @@
         },
         "crafting": {
           "value": 13535665,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13303707,
           "level": 99
         },
         "mining": {
@@ -126560,6 +127672,10 @@
           "value": 176531,
           "level": 55
         },
+        "smithing": {
+          "value": 753924,
+          "level": 70
+        },
         "mining": {
           "value": 1150128,
           "level": 74
@@ -127014,6 +128130,10 @@
         "crafting": {
           "value": 1021477,
           "level": 73
+        },
+        "smithing": {
+          "value": 1109709,
+          "level": 74
         },
         "mining": {
           "value": 1136590,
@@ -127470,6 +128590,10 @@
           "value": 4242097,
           "level": 87
         },
+        "smithing": {
+          "value": 2379472,
+          "level": 81
+        },
         "mining": {
           "value": 4422069,
           "level": 88
@@ -127924,6 +129048,10 @@
         "crafting": {
           "value": 413672,
           "level": 64
+        },
+        "smithing": {
+          "value": 974951,
+          "level": 72
         },
         "mining": {
           "value": 908204,
@@ -128380,6 +129508,10 @@
           "value": 5016800,
           "level": 89
         },
+        "smithing": {
+          "value": 1494129,
+          "level": 77
+        },
         "mining": {
           "value": 1221697,
           "level": 75
@@ -128834,6 +129966,10 @@
         "crafting": {
           "value": 13696427,
           "level": 99
+        },
+        "smithing": {
+          "value": 6648607,
+          "level": 92
         },
         "mining": {
           "value": 12819505,
@@ -129290,6 +130426,10 @@
           "value": 5330462,
           "level": 89
         },
+        "smithing": {
+          "value": 2690532,
+          "level": 83
+        },
         "mining": {
           "value": 4772461,
           "level": 88
@@ -129745,6 +130885,10 @@
           "value": 1502009,
           "level": 77
         },
+        "smithing": {
+          "value": 2318871,
+          "level": 81
+        },
         "mining": {
           "value": 2146478,
           "level": 80
@@ -130137,19 +131281,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2071.69723,
+          "value": 2071.79257,
           "level": null
         },
         "ehb": {
-          "value": 966.78098,
+          "value": 967.11431,
           "level": null
         },
         "overall": {
-          "value": 589185328,
+          "value": 589347593,
           "level": 2376
         },
         "attack": {
-          "value": 17904235,
+          "value": 17908635,
           "level": 99
         },
         "defence": {
@@ -130157,11 +131301,11 @@
           "level": 99
         },
         "strength": {
-          "value": 67407655,
+          "value": 67475138,
           "level": 99
         },
         "hitpoints": {
-          "value": 71586274,
+          "value": 71626679,
           "level": 99
         },
         "ranged": {
@@ -130173,7 +131317,7 @@
           "level": 99
         },
         "magic": {
-          "value": 37093981,
+          "value": 37129675,
           "level": 99
         },
         "cooking": {
@@ -130189,7 +131333,7 @@
           "level": 99
         },
         "fishing": {
-          "value": 13407124,
+          "value": 13412764,
           "level": 99
         },
         "firemaking": {
@@ -130197,7 +131341,11 @@
           "level": 99
         },
         "crafting": {
-          "value": 16208769,
+          "value": 16209693,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13215393,
           "level": 99
         },
         "mining": {
@@ -130209,7 +131357,7 @@
           "level": 99
         },
         "agility": {
-          "value": 13170328,
+          "value": 13170880,
           "level": 99
         },
         "thieving": {
@@ -130229,7 +131377,7 @@
           "level": 99
         },
         "hunter": {
-          "value": 14408912,
+          "value": 14416079,
           "level": 99
         },
         "construction": {
@@ -130441,7 +131589,7 @@
           "level": null
         },
         "maggot_king": {
-          "value": 1716,
+          "value": 1726,
           "level": null
         },
         "mimic": {
@@ -130654,6 +131802,10 @@
         "crafting": {
           "value": 4007100,
           "level": 87
+        },
+        "smithing": {
+          "value": 3038740,
+          "level": 84
         },
         "mining": {
           "value": 6675306,
@@ -131110,6 +132262,10 @@
           "value": 7273240,
           "level": 93
         },
+        "smithing": {
+          "value": 4546267,
+          "level": 88
+        },
         "mining": {
           "value": 6235887,
           "level": 91
@@ -131565,6 +132721,10 @@
           "value": 13074816,
           "level": 99
         },
+        "smithing": {
+          "value": 4463647,
+          "level": 88
+        },
         "mining": {
           "value": 5733933,
           "level": 90
@@ -131957,7 +133117,7 @@
       "type": "hardcore",
       "metrics": {
         "ehp": {
-          "value": 791.9669499999999,
+          "value": 792.89963,
           "level": null
         },
         "ehb": {
@@ -131965,7 +133125,7 @@
           "level": null
         },
         "overall": {
-          "value": 160762564,
+          "value": 161002845,
           "level": 2144
         },
         "attack": {
@@ -131973,7 +133133,7 @@
           "level": 92
         },
         "defence": {
-          "value": 4556887,
+          "value": 4596898,
           "level": 88
         },
         "strength": {
@@ -131981,19 +133141,19 @@
           "level": 98
         },
         "hitpoints": {
-          "value": 14532425,
+          "value": 14585891,
           "level": 99
         },
         "ranged": {
-          "value": 11009937,
+          "value": 11010269,
           "level": 97
         },
         "prayer": {
-          "value": 1636226,
+          "value": 1641529,
           "level": 78
         },
         "magic": {
-          "value": 9311542,
+          "value": 9382296,
           "level": 95
         },
         "cooking": {
@@ -132005,7 +133165,7 @@
           "level": 99
         },
         "fletching": {
-          "value": 2568161,
+          "value": 2568881,
           "level": 82
         },
         "fishing": {
@@ -132019,6 +133179,10 @@
         "crafting": {
           "value": 5062168,
           "level": 89
+        },
+        "smithing": {
+          "value": 1569265,
+          "level": 77
         },
         "mining": {
           "value": 7987980,
@@ -132037,11 +133201,11 @@
           "level": 95
         },
         "slayer": {
-          "value": 5295703,
+          "value": 5325313,
           "level": 89
         },
         "farming": {
-          "value": 16443130,
+          "value": 16483215,
           "level": 99
         },
         "runecrafting": {
@@ -132474,6 +133638,10 @@
         "crafting": {
           "value": 13430251,
           "level": 99
+        },
+        "smithing": {
+          "value": 5610821,
+          "level": 90
         },
         "mining": {
           "value": 13084380,
@@ -132930,6 +134098,10 @@
           "value": 947972,
           "level": 72
         },
+        "smithing": {
+          "value": 3042627,
+          "level": 84
+        },
         "mining": {
           "value": 8642366,
           "level": 94
@@ -133383,6 +134555,10 @@
         },
         "crafting": {
           "value": 13206778,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13089975,
           "level": 99
         },
         "mining": {
@@ -133840,6 +135016,10 @@
           "value": 8133379,
           "level": 94
         },
+        "smithing": {
+          "value": 4061725,
+          "level": 87
+        },
         "mining": {
           "value": 6620870,
           "level": 92
@@ -134294,6 +135474,10 @@
         "crafting": {
           "value": 10244879,
           "level": 96
+        },
+        "smithing": {
+          "value": 4942870,
+          "level": 89
         },
         "mining": {
           "value": 8836762,
@@ -134750,6 +135934,10 @@
           "value": 1989891,
           "level": 80
         },
+        "smithing": {
+          "value": 1310209,
+          "level": 75
+        },
         "mining": {
           "value": 2357831,
           "level": 81
@@ -135204,6 +136392,10 @@
         "crafting": {
           "value": 7845144,
           "level": 93
+        },
+        "smithing": {
+          "value": 4995854,
+          "level": 89
         },
         "mining": {
           "value": 1712751,
@@ -135660,6 +136852,10 @@
           "value": 8486668,
           "level": 94
         },
+        "smithing": {
+          "value": 4911365,
+          "level": 89
+        },
         "mining": {
           "value": 13035269,
           "level": 99
@@ -136114,6 +137310,10 @@
         "crafting": {
           "value": 5006283,
           "level": 89
+        },
+        "smithing": {
+          "value": 1558006,
+          "level": 77
         },
         "mining": {
           "value": 7691177,
@@ -136570,6 +137770,10 @@
           "value": 13034434,
           "level": 99
         },
+        "smithing": {
+          "value": 5647976,
+          "level": 90
+        },
         "mining": {
           "value": 10551693,
           "level": 96
@@ -137024,6 +138228,10 @@
         "crafting": {
           "value": 1022268,
           "level": 73
+        },
+        "smithing": {
+          "value": 1116560,
+          "level": 74
         },
         "mining": {
           "value": 3809735,
@@ -137480,6 +138688,10 @@
           "value": 2204821,
           "level": 81
         },
+        "smithing": {
+          "value": 1556537,
+          "level": 77
+        },
         "mining": {
           "value": 6082467,
           "level": 91
@@ -137872,7 +139084,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1130.24374,
+          "value": 1134.67959,
           "level": null
         },
         "ehb": {
@@ -137880,8 +139092,8 @@
           "level": null
         },
         "overall": {
-          "value": 231376313,
-          "level": 2231
+          "value": 231686823,
+          "level": 2232
         },
         "attack": {
           "value": 14555644,
@@ -137935,13 +139147,17 @@
           "value": 10124198,
           "level": 96
         },
+        "smithing": {
+          "value": 4925083,
+          "level": 89
+        },
         "mining": {
           "value": 4931249,
           "level": 89
         },
         "herblore": {
-          "value": 6215325,
-          "level": 91
+          "value": 6525835,
+          "level": 92
         },
         "agility": {
           "value": 3972842,
@@ -138389,6 +139605,10 @@
         "crafting": {
           "value": 812812,
           "level": 70
+        },
+        "smithing": {
+          "value": 1706859,
+          "level": 78
         },
         "mining": {
           "value": 2231698,
@@ -138845,6 +140065,10 @@
           "value": 8092584,
           "level": 94
         },
+        "smithing": {
+          "value": 2256838,
+          "level": 81
+        },
         "mining": {
           "value": 6897812,
           "level": 92
@@ -139237,7 +140461,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 373.76515,
+          "value": 374.20655,
           "level": null
         },
         "ehb": {
@@ -139245,7 +140469,7 @@
           "level": null
         },
         "overall": {
-          "value": 66389628,
+          "value": 66424670,
           "level": 1933
         },
         "attack": {
@@ -139273,7 +140497,7 @@
           "level": 74
         },
         "magic": {
-          "value": 4629021,
+          "value": 4629176,
           "level": 88
         },
         "cooking": {
@@ -139300,12 +140524,16 @@
           "value": 4002347,
           "level": 87
         },
+        "smithing": {
+          "value": 1230757,
+          "level": 75
+        },
         "mining": {
           "value": 1654295,
           "level": 78
         },
         "herblore": {
-          "value": 2547644,
+          "value": 2578397,
           "level": 82
         },
         "agility": {
@@ -139321,7 +140549,7 @@
           "level": 76
         },
         "farming": {
-          "value": 2155879,
+          "value": 2160013,
           "level": 80
         },
         "runecrafting": {
@@ -139754,6 +140982,10 @@
         "crafting": {
           "value": 4679764,
           "level": 88
+        },
+        "smithing": {
+          "value": 2987441,
+          "level": 84
         },
         "mining": {
           "value": 3299382,
@@ -140208,6 +141440,10 @@
         },
         "crafting": {
           "value": 3872720,
+          "level": 86
+        },
+        "smithing": {
+          "value": 3818749,
           "level": 86
         },
         "mining": {
@@ -140665,6 +141901,10 @@
           "value": 1224074,
           "level": 75
         },
+        "smithing": {
+          "value": 868422,
+          "level": 71
+        },
         "mining": {
           "value": 857347,
           "level": 71
@@ -141119,6 +142359,10 @@
         "crafting": {
           "value": 3981128,
           "level": 87
+        },
+        "smithing": {
+          "value": 1684360,
+          "level": 78
         },
         "mining": {
           "value": 1938218,
@@ -141575,6 +142819,10 @@
           "value": 2896132,
           "level": 83
         },
+        "smithing": {
+          "value": 4136794,
+          "level": 87
+        },
         "mining": {
           "value": 3200677,
           "level": 84
@@ -142028,6 +143276,10 @@
         },
         "crafting": {
           "value": 2912867,
+          "level": 83
+        },
+        "smithing": {
+          "value": 2751042,
           "level": 83
         },
         "mining": {
@@ -142485,6 +143737,10 @@
           "value": 4925134,
           "level": 89
         },
+        "smithing": {
+          "value": 1407227,
+          "level": 76
+        },
         "mining": {
           "value": 4462573,
           "level": 88
@@ -142939,6 +144195,10 @@
         "crafting": {
           "value": 6519662,
           "level": 92
+        },
+        "smithing": {
+          "value": 3702413,
+          "level": 86
         },
         "mining": {
           "value": 3166651,
@@ -143395,6 +144655,10 @@
           "value": 1532058,
           "level": 77
         },
+        "smithing": {
+          "value": 1247090,
+          "level": 75
+        },
         "mining": {
           "value": 13126767,
           "level": 99
@@ -143849,6 +145113,10 @@
         "crafting": {
           "value": 13129254,
           "level": 99
+        },
+        "smithing": {
+          "value": 3307032,
+          "level": 85
         },
         "mining": {
           "value": 8054762,
@@ -144305,6 +145573,10 @@
           "value": 3349044,
           "level": 85
         },
+        "smithing": {
+          "value": 1111979,
+          "level": 74
+        },
         "mining": {
           "value": 5153900,
           "level": 89
@@ -144759,6 +146031,10 @@
         "crafting": {
           "value": 1376120,
           "level": 76
+        },
+        "smithing": {
+          "value": 1022233,
+          "level": 73
         },
         "mining": {
           "value": 3382568,
@@ -145215,6 +146491,10 @@
           "value": 13181230,
           "level": 99
         },
+        "smithing": {
+          "value": 4337812,
+          "level": 87
+        },
         "mining": {
           "value": 8820056,
           "level": 95
@@ -145669,6 +146949,10 @@
         "crafting": {
           "value": 5347522,
           "level": 90
+        },
+        "smithing": {
+          "value": 1124503,
+          "level": 74
         },
         "mining": {
           "value": 2331712,
@@ -146125,6 +147409,10 @@
           "value": 3577225,
           "level": 85
         },
+        "smithing": {
+          "value": 3097214,
+          "level": 84
+        },
         "mining": {
           "value": 10733946,
           "level": 97
@@ -146579,6 +147867,10 @@
         "crafting": {
           "value": 577414,
           "level": 67
+        },
+        "smithing": {
+          "value": 280029,
+          "level": 60
         },
         "mining": {
           "value": 319101,
@@ -147035,6 +148327,10 @@
           "value": 1340072,
           "level": 76
         },
+        "smithing": {
+          "value": 1233908,
+          "level": 75
+        },
         "mining": {
           "value": 1378331,
           "level": 76
@@ -147490,6 +148786,10 @@
           "value": 2723806,
           "level": 83
         },
+        "smithing": {
+          "value": 1747196,
+          "level": 78
+        },
         "mining": {
           "value": 8703264,
           "level": 94
@@ -147943,6 +149243,10 @@
         },
         "crafting": {
           "value": 26398622,
+          "level": 99
+        },
+        "smithing": {
+          "value": 15416232,
           "level": 99
         },
         "mining": {
@@ -148400,6 +149704,10 @@
           "value": 913746,
           "level": 72
         },
+        "smithing": {
+          "value": 2030683,
+          "level": 80
+        },
         "mining": {
           "value": 995217,
           "level": 73
@@ -148854,6 +150162,10 @@
         "crafting": {
           "value": 9828903,
           "level": 96
+        },
+        "smithing": {
+          "value": 6524466,
+          "level": 92
         },
         "mining": {
           "value": 8100044,
@@ -149310,6 +150622,10 @@
           "value": 8214295,
           "level": 94
         },
+        "smithing": {
+          "value": 4146149,
+          "level": 87
+        },
         "mining": {
           "value": 7173763,
           "level": 92
@@ -149764,6 +151080,10 @@
         "crafting": {
           "value": 14511544,
           "level": 99
+        },
+        "smithing": {
+          "value": 4962344,
+          "level": 89
         },
         "mining": {
           "value": 16765631,
@@ -150220,6 +151540,10 @@
           "value": 821228,
           "level": 71
         },
+        "smithing": {
+          "value": 1222417,
+          "level": 75
+        },
         "mining": {
           "value": 953016,
           "level": 72
@@ -150674,6 +151998,10 @@
         "crafting": {
           "value": 3412370,
           "level": 85
+        },
+        "smithing": {
+          "value": 1345382,
+          "level": 76
         },
         "mining": {
           "value": 4406423,
@@ -151130,6 +152458,10 @@
           "value": 8381304,
           "level": 94
         },
+        "smithing": {
+          "value": 3994529,
+          "level": 87
+        },
         "mining": {
           "value": 2767505,
           "level": 83
@@ -151583,6 +152915,10 @@
         },
         "crafting": {
           "value": 14772424,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13223098,
           "level": 99
         },
         "mining": {
@@ -152040,6 +153376,10 @@
           "value": 7956367,
           "level": 94
         },
+        "smithing": {
+          "value": 3812794,
+          "level": 86
+        },
         "mining": {
           "value": 8698576,
           "level": 94
@@ -152493,6 +153833,10 @@
         },
         "crafting": {
           "value": 16538130,
+          "level": 99
+        },
+        "smithing": {
+          "value": 14209350,
           "level": 99
         },
         "mining": {
@@ -152950,6 +154294,10 @@
           "value": 1942405,
           "level": 79
         },
+        "smithing": {
+          "value": 1328589,
+          "level": 75
+        },
         "mining": {
           "value": 3489346,
           "level": 85
@@ -153404,6 +154752,10 @@
         "crafting": {
           "value": 7981532,
           "level": 94
+        },
+        "smithing": {
+          "value": 3992210,
+          "level": 87
         },
         "mining": {
           "value": 7209011,
@@ -153860,6 +155212,10 @@
           "value": 1696377,
           "level": 78
         },
+        "smithing": {
+          "value": 1908745,
+          "level": 79
+        },
         "mining": {
           "value": 6938230,
           "level": 92
@@ -154314,6 +155670,10 @@
         "crafting": {
           "value": 8332048,
           "level": 94
+        },
+        "smithing": {
+          "value": 3196274,
+          "level": 84
         },
         "mining": {
           "value": 8521970,
@@ -154770,6 +156130,10 @@
           "value": 2714027,
           "level": 83
         },
+        "smithing": {
+          "value": 1217734,
+          "level": 75
+        },
         "mining": {
           "value": 2020406,
           "level": 80
@@ -155224,6 +156588,10 @@
         "crafting": {
           "value": 13541857,
           "level": 99
+        },
+        "smithing": {
+          "value": 5589453,
+          "level": 90
         },
         "mining": {
           "value": 11763903,
@@ -155680,6 +157048,10 @@
           "value": 273751,
           "level": 60
         },
+        "smithing": {
+          "value": 751317,
+          "level": 70
+        },
         "mining": {
           "value": 7017832,
           "level": 92
@@ -156134,6 +157506,10 @@
         "crafting": {
           "value": 467265,
           "level": 65
+        },
+        "smithing": {
+          "value": 232768,
+          "level": 58
         },
         "mining": {
           "value": 2655865,
@@ -156590,6 +157966,10 @@
           "value": 3602924,
           "level": 86
         },
+        "smithing": {
+          "value": 1404688,
+          "level": 76
+        },
         "mining": {
           "value": 2950206,
           "level": 83
@@ -157044,6 +158424,10 @@
         "crafting": {
           "value": 22309,
           "level": 34
+        },
+        "smithing": {
+          "value": 11215,
+          "level": 28
         },
         "mining": {
           "value": 27481,
@@ -157500,6 +158884,10 @@
           "value": 217378,
           "level": 57
         },
+        "smithing": {
+          "value": 522341,
+          "level": 66
+        },
         "mining": {
           "value": 1024192,
           "level": 73
@@ -157954,6 +159342,10 @@
         "crafting": {
           "value": 899984,
           "level": 72
+        },
+        "smithing": {
+          "value": 1597493,
+          "level": 77
         },
         "mining": {
           "value": 1699464,
@@ -158410,6 +159802,10 @@
           "value": 8491777,
           "level": 94
         },
+        "smithing": {
+          "value": 3598065,
+          "level": 86
+        },
         "mining": {
           "value": 8328524,
           "level": 94
@@ -158802,7 +160198,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 276.27131,
+          "value": 276.35938,
           "level": null
         },
         "ehb": {
@@ -158810,7 +160206,7 @@
           "level": null
         },
         "overall": {
-          "value": 96076143,
+          "value": 96098730,
           "level": 2010
         },
         "attack": {
@@ -158826,7 +160222,7 @@
           "level": 98
         },
         "hitpoints": {
-          "value": 11210694,
+          "value": 11211371,
           "level": 97
         },
         "ranged": {
@@ -158838,7 +160234,7 @@
           "level": 82
         },
         "magic": {
-          "value": 6229350,
+          "value": 6230368,
           "level": 91
         },
         "cooking": {
@@ -158863,6 +160259,10 @@
         },
         "crafting": {
           "value": 974641,
+          "level": 72
+        },
+        "smithing": {
+          "value": 986617,
           "level": 72
         },
         "mining": {
@@ -158902,7 +160302,7 @@
           "level": 74
         },
         "sailing": {
-          "value": 1842110,
+          "value": 1858002,
           "level": 79
         },
         "bounty_hunter_hunter": {
@@ -158962,7 +160362,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 474,
+          "value": 475,
           "level": null
         },
         "abyssal_sire": {
@@ -159319,6 +160719,10 @@
         "crafting": {
           "value": 6392776,
           "level": 91
+        },
+        "smithing": {
+          "value": 2500707,
+          "level": 82
         },
         "mining": {
           "value": 12025144,
@@ -159775,6 +161179,10 @@
           "value": 1504376,
           "level": 77
         },
+        "smithing": {
+          "value": 839412,
+          "level": 71
+        },
         "mining": {
           "value": 1388397,
           "level": 76
@@ -160229,6 +161637,10 @@
         "crafting": {
           "value": 3388119,
           "level": 85
+        },
+        "smithing": {
+          "value": 5531592,
+          "level": 90
         },
         "mining": {
           "value": 13822049,
@@ -160685,6 +162097,10 @@
           "value": 2804270,
           "level": 83
         },
+        "smithing": {
+          "value": 1256030,
+          "level": 75
+        },
         "mining": {
           "value": 2470845,
           "level": 82
@@ -161140,6 +162556,10 @@
           "value": 5933158,
           "level": 91
         },
+        "smithing": {
+          "value": 4386458,
+          "level": 88
+        },
         "mining": {
           "value": 8056394,
           "level": 94
@@ -161593,6 +163013,10 @@
         },
         "crafting": {
           "value": 16590319,
+          "level": 99
+        },
+        "smithing": {
+          "value": 17031528,
           "level": 99
         },
         "mining": {
@@ -162050,6 +163474,10 @@
           "value": 1308683,
           "level": 75
         },
+        "smithing": {
+          "value": 1255257,
+          "level": 75
+        },
         "mining": {
           "value": 1492078,
           "level": 77
@@ -162504,6 +163932,10 @@
         "crafting": {
           "value": 2439852,
           "level": 82
+        },
+        "smithing": {
+          "value": 3091875,
+          "level": 84
         },
         "mining": {
           "value": 13266481,
@@ -162960,6 +164392,10 @@
           "value": 6771593,
           "level": 92
         },
+        "smithing": {
+          "value": 2966519,
+          "level": 84
+        },
         "mining": {
           "value": 7945654,
           "level": 94
@@ -163414,6 +164850,10 @@
         "crafting": {
           "value": 13041609,
           "level": 99
+        },
+        "smithing": {
+          "value": 2978312,
+          "level": 84
         },
         "mining": {
           "value": 7188234,
@@ -163870,6 +165310,10 @@
           "value": 319653,
           "level": 61
         },
+        "smithing": {
+          "value": 233241,
+          "level": 58
+        },
         "mining": {
           "value": 634317,
           "level": 68
@@ -164324,6 +165768,10 @@
         "crafting": {
           "value": 2808612,
           "level": 83
+        },
+        "smithing": {
+          "value": 2627982,
+          "level": 82
         },
         "mining": {
           "value": 3841262,
@@ -164780,6 +166228,10 @@
           "value": 7304027,
           "level": 93
         },
+        "smithing": {
+          "value": 1855719,
+          "level": 79
+        },
         "mining": {
           "value": 6712569,
           "level": 92
@@ -165234,6 +166686,10 @@
         "crafting": {
           "value": 9213510,
           "level": 95
+        },
+        "smithing": {
+          "value": 4924828,
+          "level": 89
         },
         "mining": {
           "value": 13401089,
@@ -165690,6 +167146,10 @@
           "value": 8037943,
           "level": 94
         },
+        "smithing": {
+          "value": 2461264,
+          "level": 82
+        },
         "mining": {
           "value": 3602020,
           "level": 86
@@ -166144,6 +167604,10 @@
         "crafting": {
           "value": 13360541,
           "level": 99
+        },
+        "smithing": {
+          "value": 3002494,
+          "level": 84
         },
         "mining": {
           "value": 13568768,
@@ -166600,6 +168064,10 @@
           "value": 1684193,
           "level": 78
         },
+        "smithing": {
+          "value": 1144879,
+          "level": 74
+        },
         "mining": {
           "value": 5635459,
           "level": 90
@@ -167055,6 +168523,10 @@
           "value": 9835008,
           "level": 96
         },
+        "smithing": {
+          "value": 3631132,
+          "level": 86
+        },
         "mining": {
           "value": 8200192,
           "level": 94
@@ -167508,6 +168980,10 @@
         },
         "crafting": {
           "value": 807476,
+          "level": 70
+        },
+        "smithing": {
+          "value": 788750,
           "level": 70
         },
         "mining": {
@@ -167965,6 +169441,10 @@
           "value": 7781911,
           "level": 93
         },
+        "smithing": {
+          "value": 2958682,
+          "level": 84
+        },
         "mining": {
           "value": 7468640,
           "level": 93
@@ -168419,6 +169899,10 @@
         "crafting": {
           "value": 7761767,
           "level": 93
+        },
+        "smithing": {
+          "value": 2643961,
+          "level": 82
         },
         "mining": {
           "value": 4609667,
@@ -168875,6 +170359,10 @@
           "value": 4917691,
           "level": 89
         },
+        "smithing": {
+          "value": 2891152,
+          "level": 83
+        },
         "mining": {
           "value": 4012043,
           "level": 87
@@ -169329,6 +170817,10 @@
         "crafting": {
           "value": 7211146,
           "level": 93
+        },
+        "smithing": {
+          "value": 3380695,
+          "level": 85
         },
         "mining": {
           "value": 1761568,
@@ -169785,6 +171277,10 @@
           "value": 13048678,
           "level": 99
         },
+        "smithing": {
+          "value": 3088186,
+          "level": 84
+        },
         "mining": {
           "value": 7045610,
           "level": 92
@@ -170239,6 +171735,10 @@
         "crafting": {
           "value": 4320493,
           "level": 87
+        },
+        "smithing": {
+          "value": 1591796,
+          "level": 77
         },
         "mining": {
           "value": 2929812,
@@ -170695,6 +172195,10 @@
           "value": 5482176,
           "level": 90
         },
+        "smithing": {
+          "value": 1507940,
+          "level": 77
+        },
         "mining": {
           "value": 6641835,
           "level": 92
@@ -171149,6 +172653,10 @@
         "crafting": {
           "value": 1215287,
           "level": 75
+        },
+        "smithing": {
+          "value": 761150,
+          "level": 70
         },
         "mining": {
           "value": 4345576,
@@ -171605,6 +173113,10 @@
           "value": 8156664,
           "level": 94
         },
+        "smithing": {
+          "value": 5085537,
+          "level": 89
+        },
         "mining": {
           "value": 4649953,
           "level": 88
@@ -172059,6 +173571,10 @@
         "crafting": {
           "value": 684629,
           "level": 69
+        },
+        "smithing": {
+          "value": 121726,
+          "level": 51
         },
         "mining": {
           "value": 2070053,
@@ -172515,6 +174031,10 @@
           "value": 13045538,
           "level": 99
         },
+        "smithing": {
+          "value": 4395552,
+          "level": 88
+        },
         "mining": {
           "value": 13143631,
           "level": 99
@@ -172968,6 +174488,10 @@
         },
         "crafting": {
           "value": 864752,
+          "level": 71
+        },
+        "smithing": {
+          "value": 827355,
           "level": 71
         },
         "mining": {
@@ -173425,6 +174949,10 @@
           "value": 1830116,
           "level": 79
         },
+        "smithing": {
+          "value": 2699707,
+          "level": 83
+        },
         "mining": {
           "value": 3913393,
           "level": 86
@@ -173879,6 +175407,10 @@
         "crafting": {
           "value": 8743307,
           "level": 94
+        },
+        "smithing": {
+          "value": 2605835,
+          "level": 82
         },
         "mining": {
           "value": 12077274,
@@ -174335,6 +175867,10 @@
           "value": 5930177,
           "level": 91
         },
+        "smithing": {
+          "value": 1101012,
+          "level": 74
+        },
         "mining": {
           "value": 13512161,
           "level": 99
@@ -174789,6 +176325,10 @@
         "crafting": {
           "value": 274137,
           "level": 60
+        },
+        "smithing": {
+          "value": 3311047,
+          "level": 85
         },
         "mining": {
           "value": 4133682,
@@ -175245,6 +176785,10 @@
           "value": 986812,
           "level": 72
         },
+        "smithing": {
+          "value": 1147156,
+          "level": 74
+        },
         "mining": {
           "value": 1694227,
           "level": 78
@@ -175700,6 +177244,10 @@
           "value": 3979320,
           "level": 87
         },
+        "smithing": {
+          "value": 1164234,
+          "level": 74
+        },
         "mining": {
           "value": 2118886,
           "level": 80
@@ -176092,35 +177640,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1995.63471,
+          "value": 1996.14515,
           "level": null
         },
         "ehb": {
-          "value": 701.1273900000001,
+          "value": 703.46073,
           "level": null
         },
         "overall": {
-          "value": 503155035,
+          "value": 503521829,
           "level": 2376
         },
         "attack": {
-          "value": 21999687,
+          "value": 22001278,
           "level": 99
         },
         "defence": {
-          "value": 24308901,
+          "value": 24323240,
           "level": 99
         },
         "strength": {
-          "value": 44849983,
+          "value": 44894711,
           "level": 99
         },
         "hitpoints": {
-          "value": 57608037,
+          "value": 57702600,
           "level": 99
         },
         "ranged": {
-          "value": 50902250,
+          "value": 50945040,
           "level": 99
         },
         "prayer": {
@@ -176128,7 +177676,7 @@
           "level": 99
         },
         "magic": {
-          "value": 30421307,
+          "value": 30547492,
           "level": 99
         },
         "cooking": {
@@ -176136,7 +177684,7 @@
           "level": 99
         },
         "woodcutting": {
-          "value": 15649788,
+          "value": 15650866,
           "level": 99
         },
         "fletching": {
@@ -176148,35 +177696,39 @@
           "level": 99
         },
         "firemaking": {
-          "value": 15267815,
+          "value": 15268113,
           "level": 99
         },
         "crafting": {
-          "value": 15247233,
+          "value": 15248693,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13161493,
           "level": 99
         },
         "mining": {
-          "value": 13836028,
+          "value": 13836263,
           "level": 99
         },
         "herblore": {
-          "value": 15390738,
+          "value": 15391196,
           "level": 99
         },
         "agility": {
-          "value": 13522092,
+          "value": 13522113,
           "level": 99
         },
         "thieving": {
-          "value": 13322589,
+          "value": 13323555,
           "level": 99
         },
         "slayer": {
-          "value": 17949042,
+          "value": 17986342,
           "level": 99
         },
         "farming": {
-          "value": 20388553,
+          "value": 20388805,
           "level": 99
         },
         "runecrafting": {
@@ -176188,7 +177740,7 @@
           "level": 99
         },
         "construction": {
-          "value": 13363319,
+          "value": 13363799,
           "level": 99
         },
         "sailing": {
@@ -176252,7 +177804,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 977,
+          "value": 978,
           "level": null
         },
         "abyssal_sire": {
@@ -176304,7 +177856,7 @@
           "level": null
         },
         "chambers_of_xeric_challenge_mode": {
-          "value": 47,
+          "value": 48,
           "level": null
         },
         "chaos_elemental": {
@@ -176380,7 +177932,7 @@
           "level": null
         },
         "kreearra": {
-          "value": 66,
+          "value": 116,
           "level": null
         },
         "kril_tsutsaroth": {
@@ -176496,7 +178048,7 @@
           "level": null
         },
         "tombs_of_amascut_expert": {
-          "value": 202,
+          "value": 203,
           "level": null
         },
         "tzkal_zuk": {
@@ -176609,6 +178161,10 @@
         "crafting": {
           "value": 5912578,
           "level": 91
+        },
+        "smithing": {
+          "value": 1276445,
+          "level": 75
         },
         "mining": {
           "value": 4168296,
@@ -177065,6 +178621,10 @@
           "value": 1612111,
           "level": 77
         },
+        "smithing": {
+          "value": 817805,
+          "level": 71
+        },
         "mining": {
           "value": 3727058,
           "level": 86
@@ -177519,6 +179079,10 @@
         "crafting": {
           "value": 1266569,
           "level": 75
+        },
+        "smithing": {
+          "value": 740139,
+          "level": 70
         },
         "mining": {
           "value": 3418928,
@@ -177975,6 +179539,10 @@
           "value": 207153,
           "level": 57
         },
+        "smithing": {
+          "value": 793229,
+          "level": 70
+        },
         "mining": {
           "value": 809589,
           "level": 70
@@ -178429,6 +179997,10 @@
         "crafting": {
           "value": 2041693,
           "level": 80
+        },
+        "smithing": {
+          "value": 1853769,
+          "level": 79
         },
         "mining": {
           "value": 3944843,
@@ -178885,6 +180457,10 @@
           "value": 16290705,
           "level": 99
         },
+        "smithing": {
+          "value": 14294284,
+          "level": 99
+        },
         "mining": {
           "value": 13749228,
           "level": 99
@@ -179329,7 +180905,7 @@
           "level": 86
         },
         "fishing": {
-          "value": 2596491,
+          "value": 2631891,
           "level": 82
         },
         "firemaking": {
@@ -179339,6 +180915,10 @@
         "crafting": {
           "value": 4923221,
           "level": 89
+        },
+        "smithing": {
+          "value": 3054818,
+          "level": 84
         },
         "mining": {
           "value": 6842376,
@@ -179361,7 +180941,7 @@
           "level": 94
         },
         "farming": {
-          "value": 3643905,
+          "value": 3647675,
           "level": 86
         },
         "runecrafting": {
@@ -179794,6 +181374,10 @@
         "crafting": {
           "value": 7347181,
           "level": 93
+        },
+        "smithing": {
+          "value": 4199360,
+          "level": 87
         },
         "mining": {
           "value": 13938952,
@@ -180250,6 +181834,10 @@
           "value": 7291648,
           "level": 93
         },
+        "smithing": {
+          "value": 2820383,
+          "level": 83
+        },
         "mining": {
           "value": 5921916,
           "level": 91
@@ -180704,6 +182292,10 @@
         "crafting": {
           "value": 195236,
           "level": 56
+        },
+        "smithing": {
+          "value": 20224,
+          "level": 34
         },
         "mining": {
           "value": 83554,
@@ -181160,6 +182752,10 @@
           "value": 179671,
           "level": 55
         },
+        "smithing": {
+          "value": 16432,
+          "level": 31
+        },
         "mining": {
           "value": 523738,
           "level": 66
@@ -181614,6 +183210,10 @@
         "crafting": {
           "value": 6564986,
           "level": 92
+        },
+        "smithing": {
+          "value": 3069086,
+          "level": 84
         },
         "mining": {
           "value": 6556548,
@@ -182070,6 +183670,10 @@
           "value": 7797035,
           "level": 93
         },
+        "smithing": {
+          "value": 3638828,
+          "level": 86
+        },
         "mining": {
           "value": 5938772,
           "level": 91
@@ -182524,6 +184128,10 @@
         "crafting": {
           "value": 451106,
           "level": 65
+        },
+        "smithing": {
+          "value": 745293,
+          "level": 70
         },
         "mining": {
           "value": 676208,
@@ -182980,6 +184588,10 @@
           "value": 3261102,
           "level": 85
         },
+        "smithing": {
+          "value": 1366265,
+          "level": 76
+        },
         "mining": {
           "value": 3285266,
           "level": 85
@@ -183434,6 +185046,10 @@
         "crafting": {
           "value": 8238037,
           "level": 94
+        },
+        "smithing": {
+          "value": 3453093,
+          "level": 85
         },
         "mining": {
           "value": 2801592,
@@ -183890,6 +185506,10 @@
           "value": 1159198,
           "level": 74
         },
+        "smithing": {
+          "value": 843569,
+          "level": 71
+        },
         "mining": {
           "value": 2506098,
           "level": 82
@@ -184344,6 +185964,10 @@
         "crafting": {
           "value": 1157854,
           "level": 74
+        },
+        "smithing": {
+          "value": 749485,
+          "level": 70
         },
         "mining": {
           "value": 1288179,
@@ -184800,6 +186424,10 @@
           "value": 5549307,
           "level": 90
         },
+        "smithing": {
+          "value": 3628852,
+          "level": 86
+        },
         "mining": {
           "value": 7077428,
           "level": 92
@@ -185254,6 +186882,10 @@
         "crafting": {
           "value": 3261695,
           "level": 85
+        },
+        "smithing": {
+          "value": 742134,
+          "level": 70
         },
         "mining": {
           "value": 6452017,
@@ -185710,6 +187342,10 @@
           "value": 9335497,
           "level": 95
         },
+        "smithing": {
+          "value": 4966512,
+          "level": 89
+        },
         "mining": {
           "value": 9026978,
           "level": 95
@@ -186164,6 +187800,10 @@
         "crafting": {
           "value": 3293960,
           "level": 85
+        },
+        "smithing": {
+          "value": 3190126,
+          "level": 84
         },
         "mining": {
           "value": 16165673,
@@ -186620,6 +188260,10 @@
           "value": 444210,
           "level": 64
         },
+        "smithing": {
+          "value": 887924,
+          "level": 71
+        },
         "mining": {
           "value": 1107541,
           "level": 74
@@ -187074,6 +188718,10 @@
         "crafting": {
           "value": 4625938,
           "level": 88
+        },
+        "smithing": {
+          "value": 2961602,
+          "level": 84
         },
         "mining": {
           "value": 8554151,
@@ -187530,6 +189178,10 @@
           "value": 144550,
           "level": 53
         },
+        "smithing": {
+          "value": 121030,
+          "level": 51
+        },
         "mining": {
           "value": 179933,
           "level": 55
@@ -187559,8 +189211,8 @@
           "level": 50
         },
         "hunter": {
-          "value": 216745,
-          "level": 57
+          "value": 231745,
+          "level": 58
         },
         "construction": {
           "value": 45079,
@@ -187984,6 +189636,10 @@
         "crafting": {
           "value": 7198873,
           "level": 93
+        },
+        "smithing": {
+          "value": 2705641,
+          "level": 83
         },
         "mining": {
           "value": 4038587,
@@ -188440,6 +190096,10 @@
           "value": 7196620,
           "level": 93
         },
+        "smithing": {
+          "value": 954962,
+          "level": 72
+        },
         "mining": {
           "value": 2049556,
           "level": 80
@@ -188894,6 +190554,10 @@
         "crafting": {
           "value": 137215,
           "level": 53
+        },
+        "smithing": {
+          "value": 279949,
+          "level": 60
         },
         "mining": {
           "value": 301925,
@@ -189350,6 +191014,10 @@
           "value": 104456,
           "level": 50
         },
+        "smithing": {
+          "value": 818866,
+          "level": 71
+        },
         "mining": {
           "value": 210365,
           "level": 57
@@ -189804,6 +191472,10 @@
         "crafting": {
           "value": 15027654,
           "level": 99
+        },
+        "smithing": {
+          "value": 6615095,
+          "level": 92
         },
         "mining": {
           "value": 13688597,
@@ -190260,6 +191932,10 @@
           "value": 585307,
           "level": 67
         },
+        "smithing": {
+          "value": 748114,
+          "level": 70
+        },
         "mining": {
           "value": 697980,
           "level": 69
@@ -190714,6 +192390,10 @@
         "crafting": {
           "value": 499886,
           "level": 66
+        },
+        "smithing": {
+          "value": 1051493,
+          "level": 73
         },
         "mining": {
           "value": 2274980,
@@ -191170,6 +192850,10 @@
           "value": 193076,
           "level": 56
         },
+        "smithing": {
+          "value": 773590,
+          "level": 70
+        },
         "mining": {
           "value": 577912,
           "level": 67
@@ -191624,6 +193308,10 @@
         "crafting": {
           "value": 9146222,
           "level": 95
+        },
+        "smithing": {
+          "value": 1929019,
+          "level": 79
         },
         "mining": {
           "value": 23819675,
@@ -192080,6 +193768,10 @@
           "value": 533300,
           "level": 66
         },
+        "smithing": {
+          "value": 423519,
+          "level": 64
+        },
         "mining": {
           "value": 718977,
           "level": 69
@@ -192534,6 +194226,10 @@
         "crafting": {
           "value": 123704,
           "level": 52
+        },
+        "smithing": {
+          "value": 112407,
+          "level": 51
         },
         "mining": {
           "value": 802706,
@@ -192990,6 +194686,10 @@
           "value": 675720,
           "level": 69
         },
+        "smithing": {
+          "value": 573662,
+          "level": 67
+        },
         "mining": {
           "value": 428255,
           "level": 64
@@ -193444,6 +195144,10 @@
         "crafting": {
           "value": 1728793,
           "level": 78
+        },
+        "smithing": {
+          "value": 899478,
+          "level": 72
         },
         "mining": {
           "value": 1954082,
@@ -193900,6 +195604,10 @@
           "value": 50333,
           "level": 42
         },
+        "smithing": {
+          "value": 43013,
+          "level": 41
+        },
         "mining": {
           "value": 74917,
           "level": 46
@@ -194353,6 +196061,10 @@
         },
         "crafting": {
           "value": 13274319,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13060120,
           "level": 99
         },
         "mining": {
@@ -194810,6 +196522,10 @@
           "value": 578516,
           "level": 67
         },
+        "smithing": {
+          "value": 750690,
+          "level": 70
+        },
         "mining": {
           "value": 2006940,
           "level": 80
@@ -195264,6 +196980,10 @@
         "crafting": {
           "value": 140319,
           "level": 53
+        },
+        "smithing": {
+          "value": 110024,
+          "level": 50
         },
         "mining": {
           "value": 86143,
@@ -195720,6 +197440,10 @@
           "value": 878033,
           "level": 71
         },
+        "smithing": {
+          "value": 919953,
+          "level": 72
+        },
         "mining": {
           "value": 1170837,
           "level": 74
@@ -196174,6 +197898,10 @@
         "crafting": {
           "value": 3293296,
           "level": 85
+        },
+        "smithing": {
+          "value": 3854946,
+          "level": 86
         },
         "mining": {
           "value": 8546145,
@@ -196630,6 +198358,10 @@
           "value": 1156756,
           "level": 74
         },
+        "smithing": {
+          "value": 1322581,
+          "level": 75
+        },
         "mining": {
           "value": 1391638,
           "level": 76
@@ -197084,6 +198816,10 @@
         "crafting": {
           "value": 825,
           "level": 8
+        },
+        "smithing": {
+          "value": 51421,
+          "level": 43
         },
         "mining": {
           "value": 214163,
@@ -197540,6 +199276,10 @@
           "value": 7274477,
           "level": 93
         },
+        "smithing": {
+          "value": 1782658,
+          "level": 78
+        },
         "mining": {
           "value": 2279871,
           "level": 81
@@ -197995,6 +199735,10 @@
           "value": 830755,
           "level": 71
         },
+        "smithing": {
+          "value": 1016522,
+          "level": 73
+        },
         "mining": {
           "value": 1067364,
           "level": 73
@@ -198448,6 +200192,10 @@
         },
         "crafting": {
           "value": 1655416,
+          "level": 78
+        },
+        "smithing": {
+          "value": 1648478,
           "level": 78
         },
         "mining": {
@@ -198905,6 +200653,10 @@
           "value": 16413996,
           "level": 99
         },
+        "smithing": {
+          "value": 15095297,
+          "level": 99
+        },
         "mining": {
           "value": 14364999,
           "level": 99
@@ -199359,6 +201111,10 @@
         "crafting": {
           "value": 41032,
           "level": 40
+        },
+        "smithing": {
+          "value": 36339,
+          "level": 39
         },
         "mining": {
           "value": 59860,
@@ -199815,6 +201571,10 @@
           "value": 3633396,
           "level": 86
         },
+        "smithing": {
+          "value": 13059120,
+          "level": 99
+        },
         "mining": {
           "value": 14021706,
           "level": 99
@@ -200268,6 +202028,10 @@
         },
         "crafting": {
           "value": 844122,
+          "level": 71
+        },
+        "smithing": {
+          "value": 848477,
           "level": 71
         },
         "mining": {
@@ -200725,6 +202489,10 @@
           "value": 501705,
           "level": 66
         },
+        "smithing": {
+          "value": 518980,
+          "level": 66
+        },
         "mining": {
           "value": 717521,
           "level": 69
@@ -201179,6 +202947,10 @@
         "crafting": {
           "value": 335512,
           "level": 62
+        },
+        "smithing": {
+          "value": 782144,
+          "level": 70
         },
         "mining": {
           "value": 506773,
@@ -201635,6 +203407,10 @@
           "value": 3256,
           "level": 17
         },
+        "smithing": {
+          "value": 7237,
+          "level": 24
+        },
         "mining": {
           "value": 2036264,
           "level": 80
@@ -202089,6 +203865,10 @@
         "crafting": {
           "value": 2395754,
           "level": 81
+        },
+        "smithing": {
+          "value": 1125422,
+          "level": 74
         },
         "mining": {
           "value": 3495752,
@@ -202545,6 +204325,10 @@
           "value": 1212109,
           "level": 75
         },
+        "smithing": {
+          "value": 750855,
+          "level": 70
+        },
         "mining": {
           "value": 1138615,
           "level": 74
@@ -202999,6 +204783,10 @@
         "crafting": {
           "value": 7296103,
           "level": 93
+        },
+        "smithing": {
+          "value": 3457685,
+          "level": 85
         },
         "mining": {
           "value": 3763851,
@@ -203455,6 +205243,10 @@
           "value": 31962,
           "level": 38
         },
+        "smithing": {
+          "value": 54307,
+          "level": 43
+        },
         "mining": {
           "value": 303213,
           "level": 61
@@ -203909,6 +205701,10 @@
         "crafting": {
           "value": 7384455,
           "level": 93
+        },
+        "smithing": {
+          "value": 2018060,
+          "level": 80
         },
         "mining": {
           "value": 7047718,
@@ -204365,6 +206161,10 @@
           "value": 2001896,
           "level": 80
         },
+        "smithing": {
+          "value": 273924,
+          "level": 60
+        },
         "mining": {
           "value": 13096560,
           "level": 99
@@ -204819,6 +206619,10 @@
         "crafting": {
           "value": 1240641,
           "level": 75
+        },
+        "smithing": {
+          "value": 2218849,
+          "level": 81
         },
         "mining": {
           "value": 1934466,
@@ -205275,6 +207079,10 @@
           "value": 7202546,
           "level": 93
         },
+        "smithing": {
+          "value": 1224796,
+          "level": 75
+        },
         "mining": {
           "value": 3972353,
           "level": 87
@@ -205729,6 +207537,10 @@
         "crafting": {
           "value": 154329,
           "level": 54
+        },
+        "smithing": {
+          "value": 757212,
+          "level": 70
         },
         "mining": {
           "value": 155191,
@@ -206185,6 +207997,10 @@
           "value": 185303,
           "level": 56
         },
+        "smithing": {
+          "value": 511136,
+          "level": 66
+        },
         "mining": {
           "value": 283689,
           "level": 60
@@ -206640,6 +208456,10 @@
           "value": 7564567,
           "level": 93
         },
+        "smithing": {
+          "value": 3034447,
+          "level": 84
+        },
         "mining": {
           "value": 7976368,
           "level": 94
@@ -207032,35 +208852,35 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 2397.14595,
+          "value": 2397.35175,
           "level": null
         },
         "ehb": {
-          "value": 968.0576100000001,
+          "value": 970.0576100000001,
           "level": null
         },
         "overall": {
-          "value": 532690429,
+          "value": 532984568,
           "level": 2376
         },
         "attack": {
-          "value": 22459858,
+          "value": 22497827,
           "level": 99
         },
         "defence": {
-          "value": 24955279,
+          "value": 24975621,
           "level": 99
         },
         "strength": {
-          "value": 51729701,
+          "value": 51757087,
           "level": 99
         },
         "hitpoints": {
-          "value": 63786509,
+          "value": 63861286,
           "level": 99
         },
         "ranged": {
-          "value": 57660817,
+          "value": 57730342,
           "level": 99
         },
         "prayer": {
@@ -207068,7 +208888,7 @@
           "level": 99
         },
         "magic": {
-          "value": 33858190,
+          "value": 33902823,
           "level": 99
         },
         "cooking": {
@@ -207076,7 +208896,7 @@
           "level": 99
         },
         "woodcutting": {
-          "value": 16345630,
+          "value": 16356611,
           "level": 99
         },
         "fletching": {
@@ -207088,11 +208908,15 @@
           "level": 99
         },
         "firemaking": {
-          "value": 13224139,
+          "value": 13226075,
           "level": 99
         },
         "crafting": {
           "value": 15999848,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13255864,
           "level": 99
         },
         "mining": {
@@ -207100,15 +208924,15 @@
           "level": 99
         },
         "herblore": {
-          "value": 17709636,
+          "value": 17710923,
           "level": 99
         },
         "agility": {
-          "value": 13217194,
+          "value": 13217289,
           "level": 99
         },
         "thieving": {
-          "value": 13591060,
+          "value": 13595473,
           "level": 99
         },
         "slayer": {
@@ -207116,7 +208940,7 @@
           "level": 99
         },
         "farming": {
-          "value": 24925884,
+          "value": 24926679,
           "level": 99
         },
         "runecrafting": {
@@ -207244,7 +209068,7 @@
           "level": null
         },
         "chambers_of_xeric_challenge_mode": {
-          "value": 252,
+          "value": 257,
           "level": null
         },
         "chaos_elemental": {
@@ -207549,6 +209373,10 @@
         "crafting": {
           "value": 7326822,
           "level": 93
+        },
+        "smithing": {
+          "value": 4528697,
+          "level": 88
         },
         "mining": {
           "value": 3967665,
@@ -208005,6 +209833,10 @@
           "value": 8633061,
           "level": 94
         },
+        "smithing": {
+          "value": 2684477,
+          "level": 83
+        },
         "mining": {
           "value": 3269257,
           "level": 85
@@ -208459,6 +210291,10 @@
         "crafting": {
           "value": 148619,
           "level": 53
+        },
+        "smithing": {
+          "value": 117161,
+          "level": 51
         },
         "mining": {
           "value": 197487,
@@ -208915,6 +210751,10 @@
           "value": 250071,
           "level": 59
         },
+        "smithing": {
+          "value": 103571,
+          "level": 50
+        },
         "mining": {
           "value": 295454,
           "level": 60
@@ -209369,6 +211209,10 @@
         "crafting": {
           "value": 7710287,
           "level": 93
+        },
+        "smithing": {
+          "value": 1165114,
+          "level": 74
         },
         "mining": {
           "value": 1874619,
@@ -209825,6 +211669,10 @@
           "value": 7201271,
           "level": 93
         },
+        "smithing": {
+          "value": 4069794,
+          "level": 87
+        },
         "mining": {
           "value": 7239256,
           "level": 93
@@ -210279,6 +212127,10 @@
         "crafting": {
           "value": 2723544,
           "level": 83
+        },
+        "smithing": {
+          "value": 2176176,
+          "level": 80
         },
         "mining": {
           "value": 1136221,
@@ -210735,6 +212587,10 @@
           "value": 355933,
           "level": 62
         },
+        "smithing": {
+          "value": 798722,
+          "level": 70
+        },
         "mining": {
           "value": 413320,
           "level": 64
@@ -211188,6 +213044,10 @@
         },
         "crafting": {
           "value": 14575675,
+          "level": 99
+        },
+        "smithing": {
+          "value": 13430985,
           "level": 99
         },
         "mining": {
@@ -211645,6 +213505,10 @@
           "value": 23355,
           "level": 35
         },
+        "smithing": {
+          "value": 20982,
+          "level": 34
+        },
         "mining": {
           "value": 38937,
           "level": 40
@@ -212037,7 +213901,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 643.01804,
+          "value": 643.36506,
           "level": null
         },
         "ehb": {
@@ -212045,7 +213909,7 @@
           "level": null
         },
         "overall": {
-          "value": 279766223,
+          "value": 279945612,
           "level": 2233
         },
         "attack": {
@@ -212053,19 +213917,19 @@
           "level": 99
         },
         "defence": {
-          "value": 15221818,
+          "value": 15222017,
           "level": 99
         },
         "strength": {
-          "value": 30527987,
+          "value": 30529638,
           "level": 99
         },
         "hitpoints": {
-          "value": 36490688,
+          "value": 36501801,
           "level": 99
         },
         "ranged": {
-          "value": 35287599,
+          "value": 35318521,
           "level": 99
         },
         "prayer": {
@@ -212073,7 +213937,7 @@
           "level": 88
         },
         "magic": {
-          "value": 18461360,
+          "value": 18463567,
           "level": 99
         },
         "cooking": {
@@ -212081,11 +213945,11 @@
           "level": 92
         },
         "woodcutting": {
-          "value": 8905682,
+          "value": 8955902,
           "level": 95
         },
         "fletching": {
-          "value": 6018445,
+          "value": 6021630,
           "level": 91
         },
         "fishing": {
@@ -212097,15 +213961,19 @@
           "level": 91
         },
         "crafting": {
-          "value": 5415972,
+          "value": 5416192,
           "level": 90
+        },
+        "smithing": {
+          "value": 3999466,
+          "level": 87
         },
         "mining": {
           "value": 9046235,
           "level": 95
         },
         "herblore": {
-          "value": 10779068,
+          "value": 10823208,
           "level": 97
         },
         "agility": {
@@ -212121,7 +213989,7 @@
           "level": 99
         },
         "farming": {
-          "value": 19124892,
+          "value": 19155624,
           "level": 99
         },
         "runecrafting": {
@@ -212129,7 +213997,7 @@
           "level": 82
         },
         "hunter": {
-          "value": 5574963,
+          "value": 5579763,
           "level": 90
         },
         "construction": {
@@ -212553,6 +214421,10 @@
         },
         "crafting": {
           "value": 184125,
+          "level": 56
+        },
+        "smithing": {
+          "value": 200526,
           "level": 56
         },
         "mining": {
@@ -213010,6 +214882,10 @@
           "value": 3982053,
           "level": 87
         },
+        "smithing": {
+          "value": 1024544,
+          "level": 73
+        },
         "mining": {
           "value": 1432334,
           "level": 76
@@ -213463,6 +215339,10 @@
         },
         "crafting": {
           "value": 16798,
+          "level": 32
+        },
+        "smithing": {
+          "value": 17419,
           "level": 32
         },
         "mining": {
@@ -213920,6 +215800,10 @@
           "value": 106498,
           "level": 50
         },
+        "smithing": {
+          "value": 61381,
+          "level": 44
+        },
         "mining": {
           "value": 276886,
           "level": 60
@@ -214374,6 +216258,10 @@
         "crafting": {
           "value": 13208409,
           "level": 99
+        },
+        "smithing": {
+          "value": 6103446,
+          "level": 91
         },
         "mining": {
           "value": 8112259,
@@ -214830,6 +216718,10 @@
           "value": 8033951,
           "level": 94
         },
+        "smithing": {
+          "value": 5149033,
+          "level": 89
+        },
         "mining": {
           "value": 6631597,
           "level": 92
@@ -215284,6 +217176,10 @@
         "crafting": {
           "value": 44408,
           "level": 41
+        },
+        "smithing": {
+          "value": 78905,
+          "level": 47
         },
         "mining": {
           "value": 140990,
@@ -215740,6 +217636,10 @@
           "value": 8188405,
           "level": 94
         },
+        "smithing": {
+          "value": 1182318,
+          "level": 74
+        },
         "mining": {
           "value": 7204849,
           "level": 93
@@ -216194,6 +218094,10 @@
         "crafting": {
           "value": 2228866,
           "level": 81
+        },
+        "smithing": {
+          "value": 3086341,
+          "level": 84
         },
         "mining": {
           "value": 2455484,
@@ -216650,6 +218554,10 @@
           "value": 4981476,
           "level": 89
         },
+        "smithing": {
+          "value": 2684859,
+          "level": 83
+        },
         "mining": {
           "value": 1664061,
           "level": 78
@@ -217104,6 +219012,10 @@
         "crafting": {
           "value": 8991163,
           "level": 95
+        },
+        "smithing": {
+          "value": 4424219,
+          "level": 88
         },
         "mining": {
           "value": 7244423,
@@ -217560,6 +219472,10 @@
           "value": 4258492,
           "level": 87
         },
+        "smithing": {
+          "value": 2093484,
+          "level": 80
+        },
         "mining": {
           "value": 1480693,
           "level": 77
@@ -218014,6 +219930,10 @@
         "crafting": {
           "value": 6155168,
           "level": 91
+        },
+        "smithing": {
+          "value": 5415457,
+          "level": 90
         },
         "mining": {
           "value": 7438898,
@@ -218470,6 +220390,10 @@
           "value": 13124049,
           "level": 99
         },
+        "smithing": {
+          "value": 8996159,
+          "level": 95
+        },
         "mining": {
           "value": 9230907,
           "level": 95
@@ -218924,6 +220848,10 @@
         "crafting": {
           "value": 13574348,
           "level": 99
+        },
+        "smithing": {
+          "value": 4085185,
+          "level": 87
         },
         "mining": {
           "value": 9183094,
@@ -219380,6 +221308,10 @@
           "value": 7320101,
           "level": 93
         },
+        "smithing": {
+          "value": 2438590,
+          "level": 82
+        },
         "mining": {
           "value": 4741436,
           "level": 88
@@ -219834,6 +221766,10 @@
         "crafting": {
           "value": 8933027,
           "level": 95
+        },
+        "smithing": {
+          "value": 5420322,
+          "level": 90
         },
         "mining": {
           "value": 10078109,
@@ -220290,6 +222226,10 @@
           "value": 125990,
           "level": 52
         },
+        "smithing": {
+          "value": 756713,
+          "level": 70
+        },
         "mining": {
           "value": 119588,
           "level": 51
@@ -220744,6 +222684,10 @@
         "crafting": {
           "value": 4408332,
           "level": 88
+        },
+        "smithing": {
+          "value": 902333,
+          "level": 72
         },
         "mining": {
           "value": 1091435,
@@ -221200,6 +223144,10 @@
           "value": 7737082,
           "level": 93
         },
+        "smithing": {
+          "value": 5362009,
+          "level": 90
+        },
         "mining": {
           "value": 6668219,
           "level": 92
@@ -221654,6 +223602,10 @@
         "crafting": {
           "value": 8199262,
           "level": 94
+        },
+        "smithing": {
+          "value": 4041674,
+          "level": 87
         },
         "mining": {
           "value": 7223048,
@@ -222110,6 +224062,10 @@
           "value": 2443456,
           "level": 82
         },
+        "smithing": {
+          "value": 1773571,
+          "level": 78
+        },
         "mining": {
           "value": 1528502,
           "level": 77
@@ -222564,6 +224520,10 @@
         "crafting": {
           "value": 7593135,
           "level": 93
+        },
+        "smithing": {
+          "value": 3662243,
+          "level": 86
         },
         "mining": {
           "value": 6892595,
@@ -223020,6 +224980,10 @@
           "value": 451147,
           "level": 65
         },
+        "smithing": {
+          "value": 812063,
+          "level": 70
+        },
         "mining": {
           "value": 2991195,
           "level": 84
@@ -223474,6 +225438,10 @@
         "crafting": {
           "value": 454012,
           "level": 65
+        },
+        "smithing": {
+          "value": 172144,
+          "level": 55
         },
         "mining": {
           "value": 750834,
@@ -223930,6 +225898,10 @@
           "value": 2076275,
           "level": 80
         },
+        "smithing": {
+          "value": 1234175,
+          "level": 75
+        },
         "mining": {
           "value": 2766897,
           "level": 83
@@ -224322,7 +226294,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 109.65039,
+          "value": 109.67528,
           "level": null
         },
         "ehb": {
@@ -224330,15 +226302,15 @@
           "level": null
         },
         "overall": {
-          "value": 20277270,
-          "level": 1403
+          "value": 20288740,
+          "level": 1405
         },
         "attack": {
           "value": 683940,
           "level": 69
         },
         "defence": {
-          "value": 737928,
+          "value": 737960,
           "level": 70
         },
         "strength": {
@@ -224346,7 +226318,7 @@
           "level": 65
         },
         "hitpoints": {
-          "value": 718456,
+          "value": 718466,
           "level": 69
         },
         "ranged": {
@@ -224358,7 +226330,7 @@
           "level": 53
         },
         "magic": {
-          "value": 275828,
+          "value": 276013,
           "level": 60
         },
         "cooking": {
@@ -224385,6 +226357,10 @@
           "value": 267950,
           "level": 59
         },
+        "smithing": {
+          "value": 103496,
+          "level": 50
+        },
         "mining": {
           "value": 376600,
           "level": 63
@@ -224394,11 +226370,11 @@
           "level": 43
         },
         "agility": {
-          "value": 254909,
+          "value": 254916,
           "level": 59
         },
         "thieving": {
-          "value": 103297,
+          "value": 104028,
           "level": 50
         },
         "slayer": {
@@ -224406,8 +226382,8 @@
           "level": 38
         },
         "farming": {
-          "value": 74825,
-          "level": 46
+          "value": 85330,
+          "level": 48
         },
         "runecrafting": {
           "value": 405289,
@@ -224777,15 +226753,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 708.3940900000002,
+          "value": 708.4095199999999,
           "level": null
         },
         "ehb": {
-          "value": 429.04554,
+          "value": 429.25388,
           "level": null
         },
         "overall": {
-          "value": 317949673,
+          "value": 317990554,
           "level": 2262
         },
         "attack": {
@@ -224793,19 +226769,19 @@
           "level": 99
         },
         "defence": {
-          "value": 14094644,
+          "value": 14094806,
           "level": 99
         },
         "strength": {
-          "value": 36860141,
+          "value": 36876505,
           "level": 99
         },
         "hitpoints": {
-          "value": 40298825,
+          "value": 40304493,
           "level": 99
         },
         "ranged": {
-          "value": 39517829,
+          "value": 39517852,
           "level": 99
         },
         "prayer": {
@@ -224813,7 +226789,7 @@
           "level": 87
         },
         "magic": {
-          "value": 15844039,
+          "value": 15846467,
           "level": 99
         },
         "cooking": {
@@ -224839,6 +226815,10 @@
         "crafting": {
           "value": 13692654,
           "level": 99
+        },
+        "smithing": {
+          "value": 3334370,
+          "level": 85
         },
         "mining": {
           "value": 10505536,
@@ -224873,7 +226853,7 @@
           "level": 84
         },
         "construction": {
-          "value": 3131576,
+          "value": 3147812,
           "level": 84
         },
         "sailing": {
@@ -225097,7 +227077,7 @@
           "level": null
         },
         "phosanis_nightmare": {
-          "value": 41,
+          "value": 43,
           "level": null
         },
         "obor": {
@@ -225232,43 +227212,43 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 262.17511,
+          "value": 263.63818,
           "level": null
         },
         "ehb": {
-          "value": 39.64299999999999,
+          "value": 39.73099999999999,
           "level": null
         },
         "overall": {
-          "value": 41545390,
-          "level": 1746
+          "value": 41717329,
+          "level": 1750
         },
         "attack": {
-          "value": 2394274,
-          "level": 81
+          "value": 2422174,
+          "level": 82
         },
         "defence": {
           "value": 2379640,
           "level": 81
         },
         "strength": {
-          "value": 3175160,
+          "value": 3209708,
           "level": 84
         },
         "hitpoints": {
-          "value": 3489803,
+          "value": 3516953,
           "level": 85
         },
         "ranged": {
-          "value": 1810907,
+          "value": 1830055,
           "level": 79
         },
         "prayer": {
-          "value": 1229549,
+          "value": 1230429,
           "level": 75
         },
         "magic": {
-          "value": 1806333,
+          "value": 1813107,
           "level": 79
         },
         "cooking": {
@@ -225276,11 +227256,11 @@
           "level": 72
         },
         "woodcutting": {
-          "value": 990360,
+          "value": 990760,
           "level": 72
         },
         "fletching": {
-          "value": 738305,
+          "value": 738565,
           "level": 70
         },
         "fishing": {
@@ -225292,7 +227272,11 @@
           "level": 99
         },
         "crafting": {
-          "value": 762708,
+          "value": 768568,
+          "level": 70
+        },
+        "smithing": {
+          "value": 797901,
           "level": 70
         },
         "mining": {
@@ -225312,11 +227296,11 @@
           "level": 70
         },
         "slayer": {
-          "value": 593176,
-          "level": 67
+          "value": 613771,
+          "level": 68
         },
         "farming": {
-          "value": 836455,
+          "value": 851439,
           "level": 71
         },
         "runecrafting": {
@@ -225332,8 +227316,8 @@
           "level": 55
         },
         "sailing": {
-          "value": 55806,
-          "level": 44
+          "value": 69246,
+          "level": 46
         },
         "bounty_hunter_hunter": {
           "value": 0,
@@ -225420,7 +227404,7 @@
           "level": null
         },
         "brutus": {
-          "value": 96,
+          "value": 118,
           "level": null
         },
         "bryophyta": {
@@ -225749,6 +227733,10 @@
         "crafting": {
           "value": 122026,
           "level": 51
+        },
+        "smithing": {
+          "value": 505055,
+          "level": 66
         },
         "mining": {
           "value": 122579,
@@ -226204,6 +228192,10 @@
         "crafting": {
           "value": 50341,
           "level": 43
+        },
+        "smithing": {
+          "value": 748277,
+          "level": 70
         },
         "mining": {
           "value": 110868,
