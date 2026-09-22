@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:20:19.528Z",
+  "updatedAt": "2026-09-22T23:19:52.868Z",
   "members": [
     {
       "username": "Corvids",
@@ -220,6 +220,10 @@
         },
         "chambers_of_xeric": {
           "value": 50,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -677,6 +681,10 @@
           "value": 294,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 129,
           "level": null
@@ -1130,6 +1138,10 @@
         },
         "chambers_of_xeric": {
           "value": 111,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
           "level": null
         },
         "chaos_elemental": {
@@ -1587,6 +1599,10 @@
           "value": 202,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -1827,31 +1843,31 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 117.59306,
+          "value": 117.59686,
           "level": null
         },
         "ehb": {
-          "value": 19.26614,
+          "value": 19.37725,
           "level": null
         },
         "overall": {
-          "value": 26688767,
+          "value": 26707561,
           "level": 1721
         },
         "attack": {
-          "value": 1215688,
+          "value": 1217260,
           "level": 75
         },
         "defence": {
-          "value": 1216635,
+          "value": 1218207,
           "level": 75
         },
         "strength": {
-          "value": 1245886,
+          "value": 1256298,
           "level": 75
         },
         "hitpoints": {
-          "value": 2500923,
+          "value": 2505437,
           "level": 82
         },
         "ranged": {
@@ -1863,11 +1879,11 @@
           "level": 72
         },
         "magic": {
-          "value": 2721755,
+          "value": 2721785,
           "level": 83
         },
         "cooking": {
-          "value": 1001547,
+          "value": 1002078,
           "level": 73
         },
         "woodcutting": {
@@ -1879,7 +1895,7 @@
           "level": 61
         },
         "fishing": {
-          "value": 303349,
+          "value": 303487,
           "level": 61
         },
         "firemaking": {
@@ -1923,7 +1939,7 @@
           "level": 58
         },
         "hunter": {
-          "value": 788839,
+          "value": 788864,
           "level": 70
         },
         "construction": {
@@ -1991,7 +2007,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 124,
+          "value": 125,
           "level": null
         },
         "abyssal_sire": {
@@ -2040,6 +2056,10 @@
         },
         "chambers_of_xeric": {
           "value": 3,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -2123,7 +2143,7 @@
           "level": null
         },
         "lunar_chests": {
-          "value": 94,
+          "value": 96,
           "level": null
         },
         "mad_angel": {
@@ -2495,6 +2515,10 @@
         },
         "chambers_of_xeric": {
           "value": 15,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -2952,6 +2976,10 @@
           "value": 42,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 33,
           "level": null
@@ -3405,6 +3433,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -3862,6 +3894,10 @@
           "value": 69,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 7,
           "level": null
@@ -4315,6 +4351,10 @@
         },
         "chambers_of_xeric": {
           "value": 38,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -4772,6 +4812,10 @@
           "value": 6,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -5227,6 +5271,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -5467,7 +5515,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1070.75054,
+          "value": 1070.76767,
           "level": null
         },
         "ehb": {
@@ -5475,7 +5523,7 @@
           "level": null
         },
         "overall": {
-          "value": 338671282,
+          "value": 338723915,
           "level": 2176
         },
         "attack": {
@@ -5487,15 +5535,15 @@
           "level": 96
         },
         "strength": {
-          "value": 55502572,
+          "value": 55518272,
           "level": 99
         },
         "hitpoints": {
-          "value": 60550343,
+          "value": 60560616,
           "level": 99
         },
         "ranged": {
-          "value": 63814722,
+          "value": 63841382,
           "level": 99
         },
         "prayer": {
@@ -5680,6 +5728,10 @@
         },
         "chambers_of_xeric": {
           "value": 240,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
           "level": null
         },
         "chaos_elemental": {
@@ -6137,6 +6189,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 2,
           "level": null
@@ -6377,7 +6433,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1200.86165,
+          "value": 1201.26081,
           "level": null
         },
         "ehb": {
@@ -6385,35 +6441,35 @@
           "level": null
         },
         "overall": {
-          "value": 537904771,
+          "value": 538101208,
           "level": 2376
         },
         "attack": {
-          "value": 19135354,
+          "value": 19135682,
           "level": 99
         },
         "defence": {
-          "value": 20260388,
+          "value": 20265161,
           "level": 99
         },
         "strength": {
-          "value": 48228444,
+          "value": 48228944,
           "level": 99
         },
         "hitpoints": {
-          "value": 53777951,
+          "value": 53784621,
           "level": 99
         },
         "ranged": {
-          "value": 46637147,
+          "value": 46731907,
           "level": 99
         },
         "prayer": {
-          "value": 13220314,
+          "value": 13220329,
           "level": 99
         },
         "magic": {
-          "value": 27998331,
+          "value": 28012948,
           "level": 99
         },
         "cooking": {
@@ -6453,7 +6509,7 @@
           "level": 99
         },
         "agility": {
-          "value": 13231461,
+          "value": 13231490,
           "level": 99
         },
         "thieving": {
@@ -6469,11 +6525,11 @@
           "level": 99
         },
         "runecrafting": {
-          "value": 13076643,
+          "value": 13077633,
           "level": 99
         },
         "hunter": {
-          "value": 17708937,
+          "value": 17709072,
           "level": 99
         },
         "construction": {
@@ -6481,7 +6537,7 @@
           "level": 99
         },
         "sailing": {
-          "value": 16337422,
+          "value": 16411042,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -6541,7 +6597,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 1065,
+          "value": 1066,
           "level": null
         },
         "abyssal_sire": {
@@ -6590,6 +6646,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -6832,7 +6892,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 576.2949799999999,
+          "value": 576.7028199999999,
           "level": null
         },
         "ehb": {
@@ -6840,7 +6900,7 @@
           "level": null
         },
         "overall": {
-          "value": 99494200,
+          "value": 99678550,
           "level": 2028
         },
         "attack": {
@@ -6860,19 +6920,19 @@
           "level": 92
         },
         "ranged": {
-          "value": 4266692,
+          "value": 4370796,
           "level": 87
         },
         "prayer": {
-          "value": 1657408,
+          "value": 1658143,
           "level": 78
         },
         "magic": {
-          "value": 6572244,
+          "value": 6573949,
           "level": 92
         },
         "cooking": {
-          "value": 2564167,
+          "value": 2564171,
           "level": 82
         },
         "woodcutting": {
@@ -6932,11 +6992,11 @@
           "level": 89
         },
         "construction": {
-          "value": 2258924,
+          "value": 2260781,
           "level": 81
         },
         "sailing": {
-          "value": 13274105,
+          "value": 13350050,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -6996,7 +7056,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 648,
+          "value": 649,
           "level": null
         },
         "abyssal_sire": {
@@ -7044,6 +7104,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -7502,6 +7566,10 @@
           "value": 54,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -7955,6 +8023,10 @@
         },
         "chambers_of_xeric": {
           "value": 308,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -8412,6 +8484,10 @@
           "value": 343,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -8867,6 +8943,10 @@
           "value": 43,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -9107,15 +9187,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1340.87571,
+          "value": 1341.44631,
           "level": null
         },
         "ehb": {
-          "value": 290.90166,
+          "value": 292.10166,
           "level": null
         },
         "overall": {
-          "value": 522790257,
+          "value": 523093290,
           "level": 2376
         },
         "attack": {
@@ -9131,11 +9211,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 52964941,
+          "value": 53028413,
           "level": 99
         },
         "ranged": {
-          "value": 48388491,
+          "value": 48578907,
           "level": 99
         },
         "prayer": {
@@ -9143,7 +9223,7 @@
           "level": 99
         },
         "magic": {
-          "value": 34227834,
+          "value": 34229459,
           "level": 99
         },
         "cooking": {
@@ -9191,7 +9271,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 28650844,
+          "value": 28698364,
           "level": 99
         },
         "farming": {
@@ -9279,7 +9359,7 @@
           "level": null
         },
         "alchemical_hydra": {
-          "value": 800,
+          "value": 836,
           "level": null
         },
         "amoxliatl": {
@@ -9320,6 +9400,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -9777,6 +9861,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -10230,6 +10318,10 @@
         },
         "chambers_of_xeric": {
           "value": 1650,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 230,
           "level": null
         },
         "chaos_elemental": {
@@ -10687,6 +10779,10 @@
           "value": 14,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 30,
           "level": null
@@ -10927,35 +11023,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 684.0202700000001,
+          "value": 684.08288,
           "level": null
         },
         "ehb": {
-          "value": 316.6645599999999,
+          "value": 317.7888999999999,
           "level": null
         },
         "overall": {
-          "value": 169586655,
+          "value": 169746771,
           "level": 2066
         },
         "attack": {
-          "value": 7679033,
+          "value": 7681520,
           "level": 93
         },
         "defence": {
-          "value": 9551254,
+          "value": 9557025,
           "level": 95
         },
         "strength": {
-          "value": 18098519,
+          "value": 18160452,
           "level": 99
         },
         "hitpoints": {
-          "value": 26071184,
+          "value": 26109486,
           "level": 99
         },
         "ranged": {
-          "value": 22934150,
+          "value": 22969107,
           "level": 99
         },
         "prayer": {
@@ -10963,7 +11059,7 @@
           "level": 82
         },
         "magic": {
-          "value": 18844695,
+          "value": 18856205,
           "level": 99
         },
         "cooking": {
@@ -10971,7 +11067,7 @@
           "level": 87
         },
         "woodcutting": {
-          "value": 1251717,
+          "value": 1254925,
           "level": 75
         },
         "fletching": {
@@ -10983,7 +11079,7 @@
           "level": 74
         },
         "firemaking": {
-          "value": 13181361,
+          "value": 13181813,
           "level": 99
         },
         "crafting": {
@@ -10999,11 +11095,11 @@
           "level": 81
         },
         "herblore": {
-          "value": 3842079,
+          "value": 3842502,
           "level": 86
         },
         "agility": {
-          "value": 1027198,
+          "value": 1027211,
           "level": 73
         },
         "thieving": {
@@ -11015,7 +11111,7 @@
           "level": 95
         },
         "farming": {
-          "value": 7961556,
+          "value": 7962616,
           "level": 94
         },
         "runecrafting": {
@@ -11091,7 +11187,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 398,
+          "value": 400,
           "level": null
         },
         "abyssal_sire": {
@@ -11139,7 +11235,11 @@
           "level": null
         },
         "chambers_of_xeric": {
-          "value": 117,
+          "value": 118,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -11255,7 +11355,7 @@
           "level": null
         },
         "phantom_muspah": {
-          "value": 102,
+          "value": 106,
           "level": null
         },
         "sarachnis": {
@@ -11371,7 +11471,7 @@
           "level": null
         },
         "zulrah": {
-          "value": 430,
+          "value": 459,
           "level": null
         }
       }
@@ -11595,6 +11695,10 @@
         },
         "chambers_of_xeric": {
           "value": 578,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -12052,6 +12156,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 76,
           "level": null
@@ -12505,6 +12613,10 @@
         },
         "chambers_of_xeric": {
           "value": 11,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -12962,6 +13074,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -13415,6 +13531,10 @@
         },
         "chambers_of_xeric": {
           "value": 11,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -13872,6 +13992,10 @@
           "value": 779,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 259,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 141,
           "level": null
@@ -14325,6 +14449,10 @@
         },
         "chambers_of_xeric": {
           "value": 329,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 6,
           "level": null
         },
         "chaos_elemental": {
@@ -14782,6 +14910,10 @@
           "value": 155,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 52,
           "level": null
@@ -15235,6 +15367,10 @@
         },
         "chambers_of_xeric": {
           "value": 315,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 226,
           "level": null
         },
         "chaos_elemental": {
@@ -15692,6 +15828,10 @@
           "value": 300,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 38,
           "level": null
@@ -16147,6 +16287,10 @@
           "value": 85,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 147,
           "level": null
@@ -16387,7 +16531,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1650.04567,
+          "value": 1650.22332,
           "level": null
         },
         "ehb": {
@@ -16395,7 +16539,7 @@
           "level": null
         },
         "overall": {
-          "value": 780729457,
+          "value": 780897376,
           "level": 2376
         },
         "attack": {
@@ -16407,11 +16551,11 @@
           "level": 99
         },
         "strength": {
-          "value": 78577387,
+          "value": 78680943,
           "level": 99
         },
         "hitpoints": {
-          "value": 97007002,
+          "value": 97041472,
           "level": 99
         },
         "ranged": {
@@ -16419,11 +16563,11 @@
           "level": 99
         },
         "prayer": {
-          "value": 16946880,
+          "value": 16947973,
           "level": 99
         },
         "magic": {
-          "value": 43650355,
+          "value": 43650745,
           "level": 99
         },
         "cooking": {
@@ -16471,7 +16615,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 40909067,
+          "value": 40937477,
           "level": 99
         },
         "farming": {
@@ -16600,6 +16744,10 @@
         },
         "chambers_of_xeric": {
           "value": 23,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -17057,6 +17205,10 @@
           "value": 42,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 27,
           "level": null
@@ -17510,6 +17662,10 @@
         },
         "chambers_of_xeric": {
           "value": 776,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 18,
           "level": null
         },
         "chaos_elemental": {
@@ -17967,6 +18123,10 @@
           "value": 272,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 143,
           "level": null
@@ -18422,6 +18582,10 @@
           "value": 24,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 26,
           "level": null
@@ -18662,7 +18826,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 6819.82483,
+          "value": 6822.1931,
           "level": null
         },
         "ehb": {
@@ -18670,7 +18834,7 @@
           "level": null
         },
         "overall": {
-          "value": 2099128043,
+          "value": 2099432592,
           "level": 2376
         },
         "attack": {
@@ -18698,7 +18862,7 @@
           "level": 99
         },
         "magic": {
-          "value": 60777238,
+          "value": 60777830,
           "level": 99
         },
         "cooking": {
@@ -18722,23 +18886,23 @@
           "level": 99
         },
         "crafting": {
-          "value": 34052629,
+          "value": 34053069,
           "level": 99
         },
         "smithing": {
-          "value": 20137637,
+          "value": 20137717,
           "level": 99
         },
         "mining": {
-          "value": 114857546,
+          "value": 115021647,
           "level": 99
         },
         "herblore": {
-          "value": 36214412,
+          "value": 36289636,
           "level": 99
         },
         "agility": {
-          "value": 20539205,
+          "value": 20540195,
           "level": 99
         },
         "thieving": {
@@ -18750,7 +18914,7 @@
           "level": 99
         },
         "farming": {
-          "value": 93789946,
+          "value": 93843468,
           "level": 99
         },
         "runecrafting": {
@@ -18758,7 +18922,7 @@
           "level": 99
         },
         "hunter": {
-          "value": 48264585,
+          "value": 48274185,
           "level": 99
         },
         "construction": {
@@ -18875,6 +19039,10 @@
         },
         "chambers_of_xeric": {
           "value": 1122,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 373,
           "level": null
         },
         "chaos_elemental": {
@@ -19332,6 +19500,10 @@
           "value": 74,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 262,
           "level": null
@@ -19785,6 +19957,10 @@
         },
         "chambers_of_xeric": {
           "value": 220,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 10,
           "level": null
         },
         "chaos_elemental": {
@@ -20242,6 +20418,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -20695,6 +20875,10 @@
         },
         "chambers_of_xeric": {
           "value": 96,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -21152,6 +21336,10 @@
           "value": 400,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 530,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 50,
           "level": null
@@ -21605,6 +21793,10 @@
         },
         "chambers_of_xeric": {
           "value": 819,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 31,
           "level": null
         },
         "chaos_elemental": {
@@ -22062,6 +22254,10 @@
           "value": 531,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 25,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -22302,15 +22498,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 861.91795,
+          "value": 862.2236899999998,
           "level": null
         },
         "ehb": {
-          "value": 790.5216800000002,
+          "value": 790.6283500000002,
           "level": null
         },
         "overall": {
-          "value": 445123435,
+          "value": 445287398,
           "level": 2315
         },
         "attack": {
@@ -22318,7 +22514,7 @@
           "level": 99
         },
         "defence": {
-          "value": 19275959,
+          "value": 19280410,
           "level": 99
         },
         "strength": {
@@ -22326,11 +22522,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 66131948,
+          "value": 66158723,
           "level": 99
         },
         "ranged": {
-          "value": 63841620,
+          "value": 63931990,
           "level": 99
         },
         "prayer": {
@@ -22338,7 +22534,7 @@
           "level": 97
         },
         "magic": {
-          "value": 39750540,
+          "value": 39759562,
           "level": 99
         },
         "cooking": {
@@ -22378,7 +22574,7 @@
           "level": 97
         },
         "agility": {
-          "value": 6839844,
+          "value": 6840764,
           "level": 92
         },
         "thieving": {
@@ -22386,7 +22582,7 @@
           "level": 95
         },
         "slayer": {
-          "value": 16057228,
+          "value": 16089653,
           "level": 99
         },
         "farming": {
@@ -22515,6 +22711,10 @@
         },
         "chambers_of_xeric": {
           "value": 276,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 57,
           "level": null
         },
         "chaos_elemental": {
@@ -22698,7 +22898,7 @@
           "level": null
         },
         "thermonuclear_smoke_devil": {
-          "value": 377,
+          "value": 393,
           "level": null
         },
         "tombs_of_amascut": {
@@ -22970,6 +23170,10 @@
         },
         "chambers_of_xeric": {
           "value": 41,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -23427,6 +23631,10 @@
           "value": 299,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 30,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 146,
           "level": null
@@ -23880,6 +24088,10 @@
         },
         "chambers_of_xeric": {
           "value": 307,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 93,
           "level": null
         },
         "chaos_elemental": {
@@ -24337,6 +24549,10 @@
           "value": 438,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 92,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -24792,6 +25008,10 @@
           "value": 205,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 183,
           "level": null
@@ -25032,15 +25252,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2113.79787,
+          "value": 2113.89683,
           "level": null
         },
         "ehb": {
-          "value": 884.3584899999998,
+          "value": 884.6184899999998,
           "level": null
         },
         "overall": {
-          "value": 556175171,
+          "value": 556218255,
           "level": 2376
         },
         "attack": {
@@ -25048,7 +25268,7 @@
           "level": 99
         },
         "defence": {
-          "value": 19387204,
+          "value": 19394112,
           "level": 99
         },
         "strength": {
@@ -25056,11 +25276,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 69258011,
+          "value": 69269220,
           "level": 99
         },
         "ranged": {
-          "value": 88351729,
+          "value": 88357761,
           "level": 99
         },
         "prayer": {
@@ -25068,7 +25288,7 @@
           "level": 99
         },
         "magic": {
-          "value": 30661840,
+          "value": 30673012,
           "level": 99
         },
         "cooking": {
@@ -25108,7 +25328,7 @@
           "level": 99
         },
         "agility": {
-          "value": 17473488,
+          "value": 17473494,
           "level": 99
         },
         "thieving": {
@@ -25116,7 +25336,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 19239719,
+          "value": 19247476,
           "level": 99
         },
         "farming": {
@@ -25245,6 +25465,10 @@
         },
         "chambers_of_xeric": {
           "value": 256,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
           "level": null
         },
         "chaos_elemental": {
@@ -25428,7 +25652,7 @@
           "level": null
         },
         "thermonuclear_smoke_devil": {
-          "value": 952,
+          "value": 978,
           "level": null
         },
         "tombs_of_amascut": {
@@ -25700,6 +25924,10 @@
         },
         "chambers_of_xeric": {
           "value": 275,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 20,
           "level": null
         },
         "chaos_elemental": {
@@ -26157,6 +26385,10 @@
           "value": 76,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 28,
           "level": null
@@ -26609,6 +26841,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -27067,6 +27303,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -27522,6 +27762,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -27974,6 +28218,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -28432,6 +28680,10 @@
           "value": 65,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 299,
           "level": null
@@ -28884,6 +29136,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -29342,6 +29598,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -29794,6 +30054,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -30252,6 +30516,10 @@
           "value": 506,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 11,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -30705,6 +30973,10 @@
         },
         "chambers_of_xeric": {
           "value": 812,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 19,
           "level": null
         },
         "chaos_elemental": {
@@ -31162,6 +31434,10 @@
           "value": 11,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -31615,6 +31891,10 @@
         },
         "chambers_of_xeric": {
           "value": 48,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -32072,6 +32352,10 @@
           "value": 4,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 335,
           "level": null
@@ -32525,6 +32809,10 @@
         },
         "chambers_of_xeric": {
           "value": 24,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -32982,6 +33270,10 @@
           "value": 112,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 16,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 53,
           "level": null
@@ -33435,6 +33727,10 @@
         },
         "chambers_of_xeric": {
           "value": 81,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 16,
           "level": null
         },
         "chaos_elemental": {
@@ -33892,6 +34188,10 @@
           "value": 264,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 53,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -34345,6 +34645,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -34802,6 +35106,10 @@
           "value": 270,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -35255,6 +35563,10 @@
         },
         "chambers_of_xeric": {
           "value": 160,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
           "level": null
         },
         "chaos_elemental": {
@@ -35712,6 +36024,10 @@
           "value": 136,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -36165,6 +36481,10 @@
         },
         "chambers_of_xeric": {
           "value": 49,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -36622,6 +36942,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -37075,6 +37399,10 @@
         },
         "chambers_of_xeric": {
           "value": 2,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -37532,6 +37860,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -37985,6 +38317,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -38442,6 +38778,10 @@
           "value": 61,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 8,
           "level": null
@@ -38682,43 +39022,43 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 809.4097399999999,
+          "value": 811.1487400000001,
           "level": null
         },
         "ehb": {
-          "value": 208.62235,
+          "value": 210.2587100000001,
           "level": null
         },
         "overall": {
-          "value": 162616635,
+          "value": 162973220,
           "level": 2132
         },
         "attack": {
-          "value": 8661773,
+          "value": 8722876,
           "level": 94
         },
         "defence": {
-          "value": 9778172,
+          "value": 9822947,
           "level": 96
         },
         "strength": {
-          "value": 13869311,
+          "value": 13914694,
           "level": 99
         },
         "hitpoints": {
-          "value": 21286195,
+          "value": 21355967,
           "level": 99
         },
         "ranged": {
-          "value": 20950145,
+          "value": 21017952,
           "level": 99
         },
         "prayer": {
-          "value": 5377080,
+          "value": 5382785,
           "level": 90
         },
         "magic": {
-          "value": 12647851,
+          "value": 12653375,
           "level": 98
         },
         "cooking": {
@@ -38766,7 +39106,7 @@
           "level": 92
         },
         "slayer": {
-          "value": 9593978,
+          "value": 9650494,
           "level": 95
         },
         "farming": {
@@ -38846,11 +39186,11 @@
           "level": null
         },
         "collections_logged": {
-          "value": 505,
+          "value": 506,
           "level": null
         },
         "abyssal_sire": {
-          "value": 346,
+          "value": 418,
           "level": null
         },
         "alchemical_hydra": {
@@ -38895,6 +39235,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -39137,15 +39481,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1813.64498,
+          "value": 1813.98779,
           "level": null
         },
         "ehb": {
-          "value": 316.2424100000001,
+          "value": 316.8894700000001,
           "level": null
         },
         "overall": {
-          "value": 438211189,
+          "value": 438490309,
           "level": 2343
         },
         "attack": {
@@ -39157,11 +39501,11 @@
           "level": 99
         },
         "strength": {
-          "value": 39174359,
+          "value": 39338159,
           "level": 99
         },
         "hitpoints": {
-          "value": 37951189,
+          "value": 38005686,
           "level": 99
         },
         "ranged": {
@@ -39169,11 +39513,11 @@
           "level": 99
         },
         "prayer": {
-          "value": 13722815,
+          "value": 13727795,
           "level": 99
         },
         "magic": {
-          "value": 17457743,
+          "value": 17458523,
           "level": 99
         },
         "cooking": {
@@ -39189,7 +39533,7 @@
           "level": 95
         },
         "fishing": {
-          "value": 10604864,
+          "value": 10619504,
           "level": 96
         },
         "firemaking": {
@@ -39197,7 +39541,7 @@
           "level": 97
         },
         "crafting": {
-          "value": 11885080,
+          "value": 11885280,
           "level": 98
         },
         "smithing": {
@@ -39213,7 +39557,7 @@
           "level": 99
         },
         "agility": {
-          "value": 7962707,
+          "value": 7962713,
           "level": 94
         },
         "thieving": {
@@ -39221,19 +39565,19 @@
           "level": 99
         },
         "slayer": {
-          "value": 25589508,
+          "value": 25622178,
           "level": 99
         },
         "farming": {
-          "value": 39858546,
+          "value": 39860907,
           "level": 99
         },
         "runecrafting": {
-          "value": 6250472,
+          "value": 6251382,
           "level": 91
         },
         "hunter": {
-          "value": 21794815,
+          "value": 21798691,
           "level": 99
         },
         "construction": {
@@ -39241,7 +39585,7 @@
           "level": 95
         },
         "sailing": {
-          "value": 21874057,
+          "value": 21874457,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -39352,6 +39696,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 10,
           "level": null
@@ -39405,7 +39753,7 @@
           "level": null
         },
         "grotesque_guardians": {
-          "value": 1008,
+          "value": 1030,
           "level": null
         },
         "hespori": {
@@ -39807,6 +40155,10 @@
           "value": 51,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -40047,19 +40399,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1470.50698,
+          "value": 1470.53272,
           "level": null
         },
         "ehb": {
-          "value": 673.0740499999999,
+          "value": 673.71921,
           "level": null
         },
         "overall": {
-          "value": 409114495,
+          "value": 409170904,
           "level": 2277
         },
         "attack": {
-          "value": 17411639,
+          "value": 17416415,
           "level": 99
         },
         "defence": {
@@ -40067,15 +40419,15 @@
           "level": 99
         },
         "strength": {
-          "value": 39368601,
+          "value": 39401961,
           "level": 99
         },
         "hitpoints": {
-          "value": 60279221,
+          "value": 60291935,
           "level": 99
         },
         "ranged": {
-          "value": 81972898,
+          "value": 81972957,
           "level": 99
         },
         "prayer": {
@@ -40083,7 +40435,7 @@
           "level": 95
         },
         "magic": {
-          "value": 32509746,
+          "value": 32515246,
           "level": 99
         },
         "cooking": {
@@ -40262,6 +40614,10 @@
           "value": 158,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 718,
           "level": null
@@ -40367,7 +40723,7 @@
           "level": null
         },
         "phosanis_nightmare": {
-          "value": 200,
+          "value": 206,
           "level": null
         },
         "obor": {
@@ -40715,6 +41071,10 @@
         },
         "chambers_of_xeric": {
           "value": 9,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -41169,6 +41529,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -41627,6 +41991,10 @@
           "value": 56,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 7,
           "level": null
@@ -42080,6 +42448,10 @@
         },
         "chambers_of_xeric": {
           "value": 240,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 32,
           "level": null
         },
         "chaos_elemental": {
@@ -42537,6 +42909,10 @@
           "value": 463,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 19,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 73,
           "level": null
@@ -42990,6 +43366,10 @@
         },
         "chambers_of_xeric": {
           "value": 7,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -43447,6 +43827,10 @@
           "value": 723,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 73,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 37,
           "level": null
@@ -43900,6 +44284,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -44357,6 +44745,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 14,
           "level": null
@@ -44810,6 +45202,10 @@
         },
         "chambers_of_xeric": {
           "value": 6,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -45267,6 +45663,10 @@
           "value": 63,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 53,
           "level": null
@@ -45722,6 +46122,10 @@
           "value": 18,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -46174,6 +46578,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -46632,6 +47040,10 @@
           "value": 202,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 26,
           "level": null
@@ -47084,6 +47496,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -47542,6 +47958,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -47995,6 +48415,10 @@
         },
         "chambers_of_xeric": {
           "value": 45,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -48452,6 +48876,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -48905,6 +49333,10 @@
         },
         "chambers_of_xeric": {
           "value": 20,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -49362,6 +49794,10 @@
           "value": 33,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -49815,6 +50251,10 @@
         },
         "chambers_of_xeric": {
           "value": 243,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 36,
           "level": null
         },
         "chaos_elemental": {
@@ -50272,6 +50712,10 @@
           "value": 234,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 74,
           "level": null
@@ -50725,6 +51169,10 @@
         },
         "chambers_of_xeric": {
           "value": 8,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -51182,6 +51630,10 @@
           "value": 124,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -51637,6 +52089,10 @@
           "value": 15,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 11,
           "level": null
@@ -51877,7 +52333,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 460.23906,
+          "value": 460.2392,
           "level": null
         },
         "ehb": {
@@ -51885,7 +52341,7 @@
           "level": null
         },
         "overall": {
-          "value": 206053028,
+          "value": 206080318,
           "level": 2167
         },
         "attack": {
@@ -51897,11 +52353,11 @@
           "level": 99
         },
         "strength": {
-          "value": 21867785,
+          "value": 21888097,
           "level": 99
         },
         "hitpoints": {
-          "value": 28616820,
+          "value": 28623581,
           "level": 99
         },
         "ranged": {
@@ -51909,11 +52365,11 @@
           "level": 99
         },
         "prayer": {
-          "value": 4034507,
+          "value": 4034694,
           "level": 87
         },
         "magic": {
-          "value": 14607559,
+          "value": 14607589,
           "level": 99
         },
         "cooking": {
@@ -52041,7 +52497,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 528,
+          "value": 529,
           "level": null
         },
         "abyssal_sire": {
@@ -52090,6 +52546,10 @@
         },
         "chambers_of_xeric": {
           "value": 208,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -52332,43 +52792,43 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 280.74031,
+          "value": 280.81002,
           "level": null
         },
         "ehb": {
-          "value": 101.82167,
+          "value": 101.98167,
           "level": null
         },
         "overall": {
-          "value": 96295249,
+          "value": 96330682,
           "level": 2009
         },
         "attack": {
-          "value": 4388223,
+          "value": 4393345,
           "level": 88
         },
         "defence": {
-          "value": 4545919,
+          "value": 4551042,
           "level": 88
         },
         "strength": {
-          "value": 11233544,
+          "value": 11238667,
           "level": 97
         },
         "hitpoints": {
-          "value": 12888174,
+          "value": 12895428,
           "level": 98
         },
         "ranged": {
-          "value": 13289447,
+          "value": 13295847,
           "level": 99
         },
         "prayer": {
-          "value": 2236263,
+          "value": 2236858,
           "level": 81
         },
         "magic": {
-          "value": 6646840,
+          "value": 6647232,
           "level": 92
         },
         "cooking": {
@@ -52416,7 +52876,7 @@
           "level": 77
         },
         "slayer": {
-          "value": 5322499,
+          "value": 5327923,
           "level": 89
         },
         "farming": {
@@ -52496,11 +52956,11 @@
           "level": null
         },
         "collections_logged": {
-          "value": 369,
+          "value": 370,
           "level": null
         },
         "abyssal_sire": {
-          "value": 248,
+          "value": 256,
           "level": null
         },
         "alchemical_hydra": {
@@ -52545,6 +53005,10 @@
         },
         "chambers_of_xeric": {
           "value": 12,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -53002,6 +53466,10 @@
           "value": 8,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 28,
           "level": null
@@ -53455,6 +53923,10 @@
         },
         "chambers_of_xeric": {
           "value": 235,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -53912,6 +54384,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 12,
           "level": null
@@ -54364,6 +54840,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -54822,6 +55302,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -55274,6 +55758,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -55732,6 +56220,10 @@
           "value": 9,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 2,
           "level": null
@@ -56185,6 +56677,10 @@
         },
         "chambers_of_xeric": {
           "value": 23,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -56642,6 +57138,10 @@
           "value": 505,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 7,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 5,
           "level": null
@@ -57097,6 +57597,10 @@
           "value": 45,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -57337,15 +57841,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1080.76636,
+          "value": 1080.76857,
           "level": null
         },
         "ehb": {
-          "value": 309.6715100000001,
+          "value": 309.77962,
           "level": null
         },
         "overall": {
-          "value": 275740194,
+          "value": 275755285,
           "level": 2230
         },
         "attack": {
@@ -57357,11 +57861,11 @@
           "level": 99
         },
         "strength": {
-          "value": 31392543,
+          "value": 31403639,
           "level": 99
         },
         "hitpoints": {
-          "value": 37954367,
+          "value": 37958063,
           "level": 99
         },
         "ranged": {
@@ -57373,7 +57877,7 @@
           "level": 85
         },
         "magic": {
-          "value": 19984865,
+          "value": 19984953,
           "level": 99
         },
         "cooking": {
@@ -57405,11 +57909,11 @@
           "level": 87
         },
         "mining": {
-          "value": 7607911,
+          "value": 7608026,
           "level": 93
         },
         "herblore": {
-          "value": 6539342,
+          "value": 6539422,
           "level": 92
         },
         "agility": {
@@ -57425,7 +57929,7 @@
           "level": 97
         },
         "farming": {
-          "value": 15537869,
+          "value": 15537885,
           "level": 99
         },
         "runecrafting": {
@@ -57550,6 +58054,10 @@
         },
         "chambers_of_xeric": {
           "value": 23,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -57792,7 +58300,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1154.55962,
+          "value": 1154.78278,
           "level": null
         },
         "ehb": {
@@ -57800,7 +58308,7 @@
           "level": null
         },
         "overall": {
-          "value": 269307494,
+          "value": 269437767,
           "level": 2183
         },
         "attack": {
@@ -57820,15 +58328,15 @@
           "level": 99
         },
         "ranged": {
-          "value": 45428656,
+          "value": 45514308,
           "level": 99
         },
         "prayer": {
-          "value": 3265385,
+          "value": 3266020,
           "level": 85
         },
         "magic": {
-          "value": 19842826,
+          "value": 19847295,
           "level": 99
         },
         "cooking": {
@@ -57896,7 +58404,7 @@
           "level": 83
         },
         "sailing": {
-          "value": 7835105,
+          "value": 7874622,
           "level": 93
         },
         "bounty_hunter_hunter": {
@@ -57956,7 +58464,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 561,
+          "value": 562,
           "level": null
         },
         "abyssal_sire": {
@@ -58005,6 +58513,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -58462,6 +58974,10 @@
           "value": 115,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -58915,6 +59431,10 @@
         },
         "chambers_of_xeric": {
           "value": 28,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -59372,6 +59892,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 76,
           "level": null
@@ -59825,6 +60349,10 @@
         },
         "chambers_of_xeric": {
           "value": 55,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
           "level": null
         },
         "chaos_elemental": {
@@ -60282,6 +60810,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 257,
           "level": null
@@ -60735,6 +61267,10 @@
         },
         "chambers_of_xeric": {
           "value": 101,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 45,
           "level": null
         },
         "chaos_elemental": {
@@ -61192,6 +61728,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -61647,6 +62187,10 @@
           "value": 426,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 89,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 30,
           "level": null
@@ -62099,6 +62643,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -62557,6 +63105,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -63010,6 +63562,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -63467,6 +64023,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -63707,19 +64267,19 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 317.99626,
+          "value": 318.02937,
           "level": null
         },
         "ehb": {
-          "value": 210.8478899999999,
+          "value": 211.11816,
           "level": null
         },
         "overall": {
-          "value": 124958753,
+          "value": 125015352,
           "level": 2042
         },
         "attack": {
-          "value": 5716367,
+          "value": 5719647,
           "level": 90
         },
         "defence": {
@@ -63727,15 +64287,15 @@
           "level": 85
         },
         "strength": {
-          "value": 9640409,
+          "value": 9647968,
           "level": 95
         },
         "hitpoints": {
-          "value": 17585940,
+          "value": 17600038,
           "level": 99
         },
         "ranged": {
-          "value": 19821582,
+          "value": 19850358,
           "level": 99
         },
         "prayer": {
@@ -63743,7 +64303,7 @@
           "level": 80
         },
         "magic": {
-          "value": 14287482,
+          "value": 14290073,
           "level": 99
         },
         "cooking": {
@@ -63775,7 +64335,7 @@
           "level": 79
         },
         "mining": {
-          "value": 5675068,
+          "value": 5675338,
           "level": 90
         },
         "herblore": {
@@ -63783,7 +64343,7 @@
           "level": 85
         },
         "agility": {
-          "value": 1546776,
+          "value": 1546781,
           "level": 77
         },
         "thieving": {
@@ -63807,7 +64367,7 @@
           "level": 80
         },
         "construction": {
-          "value": 2460457,
+          "value": 2460477,
           "level": 82
         },
         "sailing": {
@@ -63920,6 +64480,10 @@
         },
         "chambers_of_xeric": {
           "value": 27,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 11,
           "level": null
         },
         "chaos_elemental": {
@@ -64107,7 +64671,7 @@
           "level": null
         },
         "tombs_of_amascut": {
-          "value": 15,
+          "value": 16,
           "level": null
         },
         "tombs_of_amascut_expert": {
@@ -64375,6 +64939,10 @@
         },
         "chambers_of_xeric": {
           "value": 17,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -64832,6 +65400,10 @@
           "value": 6,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 213,
           "level": null
@@ -65284,6 +65856,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -65742,6 +66318,10 @@
           "value": 65,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 137,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -66195,6 +66775,10 @@
         },
         "chambers_of_xeric": {
           "value": 4,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -66652,6 +67236,10 @@
           "value": 100,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 6,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -67105,6 +67693,10 @@
         },
         "chambers_of_xeric": {
           "value": 44,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 6,
           "level": null
         },
         "chaos_elemental": {
@@ -67562,6 +68154,10 @@
           "value": 39,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 22,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 198,
           "level": null
@@ -68014,6 +68610,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -68472,6 +69072,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -68925,6 +69529,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -69382,6 +69990,10 @@
           "value": 214,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -69835,6 +70447,10 @@
         },
         "chambers_of_xeric": {
           "value": 21,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -70292,6 +70908,10 @@
           "value": 125,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 66,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -70744,6 +71364,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -71202,6 +71826,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 10,
           "level": null
@@ -71655,6 +72283,10 @@
         },
         "chambers_of_xeric": {
           "value": 12,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -72112,6 +72744,10 @@
           "value": 53,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -72567,6 +73203,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -73019,6 +73659,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -73477,6 +74121,10 @@
           "value": 103,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -73929,6 +74577,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -74387,6 +75039,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -74840,6 +75496,10 @@
         },
         "chambers_of_xeric": {
           "value": 27,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -75297,6 +75957,10 @@
           "value": 74,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -75752,6 +76416,10 @@
           "value": 556,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 19,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -76204,6 +76872,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -76662,6 +77334,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -77114,6 +77790,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -77572,6 +78252,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -78024,6 +78708,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -78482,6 +79170,10 @@
           "value": 62,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -78934,6 +79626,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -79392,6 +80088,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -79845,6 +80545,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -80302,6 +81006,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -80754,6 +81462,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -81212,6 +81924,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -81452,35 +82168,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 857.36014,
+          "value": 857.80746,
           "level": null
         },
         "ehb": {
-          "value": 98.39784000000002,
+          "value": 98.60784000000001,
           "level": null
         },
         "overall": {
-          "value": 195070926,
+          "value": 195198407,
           "level": 2151
         },
         "attack": {
-          "value": 14023907,
+          "value": 14028731,
           "level": 99
         },
         "defence": {
-          "value": 14582120,
+          "value": 14586944,
           "level": 99
         },
         "strength": {
-          "value": 16918513,
+          "value": 16925813,
           "level": 99
         },
         "hitpoints": {
-          "value": 24158064,
+          "value": 24170902,
           "level": 99
         },
         "ranged": {
-          "value": 17124106,
+          "value": 17154644,
           "level": 99
         },
         "prayer": {
@@ -81488,7 +82204,7 @@
           "level": 88
         },
         "magic": {
-          "value": 15969171,
+          "value": 15971268,
           "level": 99
         },
         "cooking": {
@@ -81496,7 +82212,7 @@
           "level": 88
         },
         "woodcutting": {
-          "value": 1700610,
+          "value": 1704110,
           "level": 78
         },
         "fletching": {
@@ -81528,7 +82244,7 @@
           "level": 81
         },
         "agility": {
-          "value": 1862101,
+          "value": 1862110,
           "level": 79
         },
         "thieving": {
@@ -81536,11 +82252,11 @@
           "level": 83
         },
         "slayer": {
-          "value": 9875356,
+          "value": 9888916,
           "level": 96
         },
         "farming": {
-          "value": 14134772,
+          "value": 14182763,
           "level": 99
         },
         "runecrafting": {
@@ -81667,6 +82383,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -81724,7 +82444,7 @@
           "level": null
         },
         "hespori": {
-          "value": 96,
+          "value": 97,
           "level": null
         },
         "kalphite_queen": {
@@ -81848,7 +82568,7 @@
           "level": null
         },
         "thermonuclear_smoke_devil": {
-          "value": 259,
+          "value": 278,
           "level": null
         },
         "tombs_of_amascut": {
@@ -81907,19 +82627,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1364.08943,
+          "value": 1365.95137,
           "level": null
         },
         "ehb": {
-          "value": 307.76478,
+          "value": 307.78478,
           "level": null
         },
         "overall": {
-          "value": 285018200,
+          "value": 285333514,
           "level": 2311
         },
         "attack": {
-          "value": 8940323,
+          "value": 8941467,
           "level": 95
         },
         "defence": {
@@ -81931,19 +82651,19 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 22760809,
+          "value": 22761194,
           "level": 99
         },
         "ranged": {
-          "value": 17180128,
+          "value": 17180140,
           "level": 99
         },
         "prayer": {
-          "value": 5520530,
+          "value": 5582075,
           "level": 90
         },
         "magic": {
-          "value": 19450422,
+          "value": 19465534,
           "level": 99
         },
         "cooking": {
@@ -81967,7 +82687,7 @@
           "level": 94
         },
         "crafting": {
-          "value": 14533035,
+          "value": 14546655,
           "level": 99
         },
         "smithing": {
@@ -81975,7 +82695,7 @@
           "level": 93
         },
         "mining": {
-          "value": 13169598,
+          "value": 13176523,
           "level": 99
         },
         "herblore": {
@@ -81995,11 +82715,11 @@
           "level": 92
         },
         "farming": {
-          "value": 18674802,
+          "value": 18727550,
           "level": 99
         },
         "runecrafting": {
-          "value": 9786534,
+          "value": 9950357,
           "level": 96
         },
         "hunter": {
@@ -82063,7 +82783,7 @@
           "level": null
         },
         "guardians_of_the_rift": {
-          "value": 377,
+          "value": 394,
           "level": null
         },
         "colosseum_glory": {
@@ -82071,7 +82791,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 554,
+          "value": 555,
           "level": null
         },
         "abyssal_sire": {
@@ -82119,6 +82839,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -82179,7 +82903,7 @@
           "level": null
         },
         "hespori": {
-          "value": 57,
+          "value": 58,
           "level": null
         },
         "kalphite_queen": {
@@ -82575,6 +83299,10 @@
         },
         "chambers_of_xeric": {
           "value": 2,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -83029,6 +83757,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -83487,6 +84219,10 @@
           "value": 156,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 348,
           "level": null
@@ -83939,6 +84675,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -84397,6 +85137,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -84849,6 +85593,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -85307,6 +86055,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -85547,31 +86299,31 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 476.9479799999999,
+          "value": 477.4044,
           "level": null
         },
         "ehb": {
-          "value": 17.19063,
+          "value": 18.04063,
           "level": null
         },
         "overall": {
-          "value": 57020742,
-          "level": 1912
+          "value": 57146250,
+          "level": 1913
         },
         "attack": {
-          "value": 1448869,
-          "level": 76
+          "value": 1519009,
+          "level": 77
         },
         "defence": {
-          "value": 1123171,
+          "value": 1123304,
           "level": 74
         },
         "strength": {
-          "value": 2278368,
+          "value": 2301605,
           "level": 81
         },
         "hitpoints": {
-          "value": 2233338,
+          "value": 2264457,
           "level": 81
         },
         "ranged": {
@@ -85583,7 +86335,7 @@
           "level": 75
         },
         "magic": {
-          "value": 2537243,
+          "value": 2537958,
           "level": 82
         },
         "cooking": {
@@ -85619,7 +86371,7 @@
           "level": 92
         },
         "herblore": {
-          "value": 1135451,
+          "value": 1135615,
           "level": 74
         },
         "agility": {
@@ -85711,7 +86463,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 353,
+          "value": 354,
           "level": null
         },
         "abyssal_sire": {
@@ -85759,6 +86511,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -85919,7 +86675,7 @@
           "level": null
         },
         "the_hueycoatl": {
-          "value": 35,
+          "value": 52,
           "level": null
         },
         "the_leviathan": {
@@ -86214,6 +86970,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -86672,6 +87432,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 26,
           "level": null
@@ -87124,6 +87888,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -87582,6 +88350,10 @@
           "value": 1245,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 440,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -88034,6 +88806,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -88492,6 +89268,10 @@
           "value": 119,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -88945,6 +89725,10 @@
         },
         "chambers_of_xeric": {
           "value": 5,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -89402,6 +90186,10 @@
           "value": 1078,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 143,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 181,
           "level": null
@@ -89857,6 +90645,10 @@
           "value": 76,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 17,
           "level": null
@@ -90309,6 +91101,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -90767,6 +91563,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -91219,6 +92019,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -91677,6 +92481,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -92129,6 +92937,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -92587,6 +93399,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -93039,6 +93855,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -93497,6 +94317,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -93952,6 +94776,10 @@
           "value": 61,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -94404,6 +95232,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -94862,6 +95694,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -95317,6 +96153,10 @@
           "value": 44,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -95769,6 +96609,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -96227,6 +97071,10 @@
           "value": 8,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -96680,6 +97528,10 @@
         },
         "chambers_of_xeric": {
           "value": 2,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -97137,6 +97989,10 @@
           "value": 688,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 25,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 29,
           "level": null
@@ -97589,6 +98445,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -98047,6 +98907,10 @@
           "value": 17,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -98499,6 +99363,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -98957,6 +99825,10 @@
           "value": 39,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -99409,6 +100281,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -99867,6 +100743,10 @@
           "value": 49,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -100322,6 +101202,10 @@
           "value": 59,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 36,
           "level": null
@@ -100774,6 +101658,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -101232,6 +102120,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -101687,6 +102579,10 @@
           "value": 15,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -102139,6 +103035,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -102597,6 +103497,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -103049,6 +103953,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -103507,6 +104415,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 47,
           "level": null
@@ -103959,6 +104871,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -104417,6 +105333,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 87,
           "level": null
@@ -104870,6 +105790,10 @@
         },
         "chambers_of_xeric": {
           "value": 10,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -105327,6 +106251,10 @@
           "value": 9,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 15,
           "level": null
@@ -105779,6 +106707,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -106237,6 +107169,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 10,
           "level": null
@@ -106477,35 +107413,35 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1167.74286,
+          "value": 1167.80107,
           "level": null
         },
         "ehb": {
-          "value": 318.14643,
+          "value": 318.44882,
           "level": null
         },
         "overall": {
-          "value": 438215222,
+          "value": 438284773,
           "level": 2376
         },
         "attack": {
-          "value": 15162178,
+          "value": 15163977,
           "level": 99
         },
         "defence": {
-          "value": 15809488,
+          "value": 15813298,
           "level": 99
         },
         "strength": {
-          "value": 32578995,
+          "value": 32586342,
           "level": 99
         },
         "hitpoints": {
-          "value": 41144032,
+          "value": 41153936,
           "level": 99
         },
         "ranged": {
-          "value": 39616681,
+          "value": 39627436,
           "level": 99
         },
         "prayer": {
@@ -106513,7 +107449,7 @@
           "level": 99
         },
         "magic": {
-          "value": 20524864,
+          "value": 20528421,
           "level": 99
         },
         "cooking": {
@@ -106521,7 +107457,7 @@
           "level": 99
         },
         "woodcutting": {
-          "value": 15628130,
+          "value": 15628891,
           "level": 99
         },
         "fletching": {
@@ -106533,11 +107469,11 @@
           "level": 99
         },
         "firemaking": {
-          "value": 13036591,
+          "value": 13036775,
           "level": 99
         },
         "crafting": {
-          "value": 15791871,
+          "value": 15792091,
           "level": 99
         },
         "smithing": {
@@ -106549,7 +107485,7 @@
           "level": 99
         },
         "herblore": {
-          "value": 13434888,
+          "value": 13436199,
           "level": 99
         },
         "agility": {
@@ -106557,15 +107493,15 @@
           "level": 99
         },
         "thieving": {
-          "value": 15079517,
+          "value": 15080517,
           "level": 99
         },
         "slayer": {
-          "value": 16890055,
+          "value": 16891868,
           "level": 99
         },
         "farming": {
-          "value": 28141691,
+          "value": 28163981,
           "level": 99
         },
         "runecrafting": {
@@ -106573,7 +107509,7 @@
           "level": 99
         },
         "hunter": {
-          "value": 13137553,
+          "value": 13142353,
           "level": 99
         },
         "construction": {
@@ -106593,7 +107529,7 @@
           "level": null
         },
         "clue_scrolls_all": {
-          "value": 372,
+          "value": 373,
           "level": null
         },
         "clue_scrolls_beginner": {
@@ -106605,7 +107541,7 @@
           "level": null
         },
         "clue_scrolls_medium": {
-          "value": 93,
+          "value": 94,
           "level": null
         },
         "clue_scrolls_hard": {
@@ -106689,7 +107625,11 @@
           "level": null
         },
         "chambers_of_xeric": {
-          "value": 99,
+          "value": 100,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
           "level": null
         },
         "chaos_elemental": {
@@ -106749,7 +107689,7 @@
           "level": null
         },
         "hespori": {
-          "value": 185,
+          "value": 186,
           "level": null
         },
         "kalphite_queen": {
@@ -107145,6 +108085,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -107602,6 +108546,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -108054,6 +109002,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -108512,6 +109464,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -108964,6 +109920,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -109422,6 +110382,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -109874,6 +110838,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -110332,6 +111300,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -110785,6 +111757,10 @@
         },
         "chambers_of_xeric": {
           "value": 16,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -111242,6 +112218,10 @@
           "value": 773,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 76,
           "level": null
@@ -111694,6 +112674,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -112152,6 +113136,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -112604,6 +113592,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -113062,6 +114054,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -113514,6 +114510,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -113972,6 +114972,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -114424,6 +115428,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -114882,6 +115890,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -115334,6 +116346,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -115792,6 +116808,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -116245,6 +117265,10 @@
         },
         "chambers_of_xeric": {
           "value": 2,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -116702,6 +117726,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 30,
           "level": null
@@ -117154,6 +118182,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -117612,6 +118644,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -118067,6 +119103,10 @@
           "value": 494,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -118519,6 +119559,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -118977,6 +120021,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -119429,6 +120477,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -119887,6 +120939,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -120340,6 +121396,10 @@
         },
         "chambers_of_xeric": {
           "value": 41,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
           "level": null
         },
         "chaos_elemental": {
@@ -120797,6 +121857,10 @@
           "value": 305,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 5,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -121250,6 +122314,10 @@
         },
         "chambers_of_xeric": {
           "value": 62,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 16,
           "level": null
         },
         "chaos_elemental": {
@@ -121707,6 +122775,10 @@
           "value": 44,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -122159,6 +123231,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -122617,6 +123693,10 @@
           "value": 18,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 25,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -122857,15 +123937,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 938.8809,
+          "value": 939.51509,
           "level": null
         },
         "ehb": {
-          "value": 448.4705099999999,
+          "value": 449.2636199999999,
           "level": null
         },
         "overall": {
-          "value": 248511517,
+          "value": 248921242,
           "level": 2144
         },
         "attack": {
@@ -122877,23 +123957,23 @@
           "level": 99
         },
         "strength": {
-          "value": 31453780,
+          "value": 31524477,
           "level": 99
         },
         "hitpoints": {
-          "value": 40200778,
+          "value": 40266343,
           "level": 99
         },
         "ranged": {
-          "value": 40430013,
+          "value": 40608767,
           "level": 99
         },
         "prayer": {
-          "value": 3513751,
+          "value": 3514081,
           "level": 85
         },
         "magic": {
-          "value": 20056370,
+          "value": 20058892,
           "level": 99
         },
         "cooking": {
@@ -122933,7 +124013,7 @@
           "level": 93
         },
         "agility": {
-          "value": 2285085,
+          "value": 2285895,
           "level": 81
         },
         "thieving": {
@@ -122941,7 +124021,7 @@
           "level": 78
         },
         "slayer": {
-          "value": 14729042,
+          "value": 14820028,
           "level": 99
         },
         "farming": {
@@ -122953,7 +124033,7 @@
           "level": 74
         },
         "hunter": {
-          "value": 2535238,
+          "value": 2535299,
           "level": 82
         },
         "construction": {
@@ -123029,7 +124109,7 @@
           "level": null
         },
         "alchemical_hydra": {
-          "value": 258,
+          "value": 281,
           "level": null
         },
         "amoxliatl": {
@@ -123070,6 +124150,10 @@
         },
         "chambers_of_xeric": {
           "value": 96,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 7,
           "level": null
         },
         "chaos_elemental": {
@@ -123527,6 +124611,10 @@
           "value": 12,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -123979,6 +125067,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -124437,6 +125529,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -124892,6 +125988,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -125132,15 +126232,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1031.38931,
+          "value": 1031.4231,
           "level": null
         },
         "ehb": {
-          "value": 332.42516,
+          "value": 332.79553,
           "level": null
         },
         "overall": {
-          "value": 236803774,
+          "value": 236895504,
           "level": 2197
         },
         "attack": {
@@ -125156,11 +126256,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 31115618,
+          "value": 31140698,
           "level": 99
         },
         "ranged": {
-          "value": 38329991,
+          "value": 38382422,
           "level": 99
         },
         "prayer": {
@@ -125168,7 +126268,7 @@
           "level": 86
         },
         "magic": {
-          "value": 18150879,
+          "value": 18165098,
           "level": 99
         },
         "cooking": {
@@ -125347,6 +126447,10 @@
           "value": 211,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -125460,7 +126564,7 @@
           "level": null
         },
         "phantom_muspah": {
-          "value": 385,
+          "value": 395,
           "level": null
         },
         "sarachnis": {
@@ -125800,6 +126904,10 @@
         },
         "chambers_of_xeric": {
           "value": 261,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -126257,6 +127365,10 @@
           "value": 236,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 58,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 31,
           "level": null
@@ -126712,6 +127824,10 @@
           "value": 109,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 31,
           "level": null
@@ -127164,6 +128280,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -127622,6 +128742,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -127862,7 +128986,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 655.1656599999999,
+          "value": 655.1929699999998,
           "level": null
         },
         "ehb": {
@@ -127870,7 +128994,7 @@
           "level": null
         },
         "overall": {
-          "value": 121361506,
+          "value": 121363479,
           "level": 2016
         },
         "attack": {
@@ -127898,7 +129022,7 @@
           "level": 75
         },
         "magic": {
-          "value": 11809560,
+          "value": 11809621,
           "level": 98
         },
         "cooking": {
@@ -127934,7 +129058,7 @@
           "level": 88
         },
         "herblore": {
-          "value": 1868967,
+          "value": 1870879,
           "level": 79
         },
         "agility": {
@@ -128006,7 +129130,7 @@
           "level": null
         },
         "last_man_standing": {
-          "value": 1492,
+          "value": 1510,
           "level": null
         },
         "pvp_arena": {
@@ -128026,7 +129150,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 258,
+          "value": 259,
           "level": null
         },
         "abyssal_sire": {
@@ -128075,6 +129199,10 @@
         },
         "chambers_of_xeric": {
           "value": 6,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 29,
           "level": null
         },
         "chaos_elemental": {
@@ -128529,6 +129657,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -128987,6 +130119,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 5,
           "level": null
@@ -129440,6 +130576,10 @@
         },
         "chambers_of_xeric": {
           "value": 195,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -129897,6 +131037,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -130137,31 +131281,31 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 386.51887,
+          "value": 386.77074,
           "level": null
         },
         "ehb": {
-          "value": 207.16829,
+          "value": 207.51829,
           "level": null
         },
         "overall": {
-          "value": 143887761,
+          "value": 144031186,
           "level": 2078
         },
         "attack": {
-          "value": 11259037,
+          "value": 11259249,
           "level": 97
         },
         "defence": {
-          "value": 4417740,
+          "value": 4417952,
           "level": 88
         },
         "strength": {
-          "value": 18499131,
+          "value": 18585583,
           "level": 99
         },
         "hitpoints": {
-          "value": 21843684,
+          "value": 21872625,
           "level": 99
         },
         "ranged": {
@@ -130173,7 +131317,7 @@
           "level": 82
         },
         "magic": {
-          "value": 14419954,
+          "value": 14422194,
           "level": 99
         },
         "cooking": {
@@ -130221,7 +131365,7 @@
           "level": 87
         },
         "slayer": {
-          "value": 9261915,
+          "value": 9287283,
           "level": 95
         },
         "farming": {
@@ -130317,7 +131461,7 @@
           "level": null
         },
         "araxxor": {
-          "value": 1000,
+          "value": 1014,
           "level": null
         },
         "artio": {
@@ -130350,6 +131494,10 @@
         },
         "chambers_of_xeric": {
           "value": 98,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 4,
           "level": null
         },
         "chaos_elemental": {
@@ -130807,6 +131955,10 @@
           "value": 82,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -131259,6 +132411,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -131717,6 +132873,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -132170,6 +133330,10 @@
         },
         "chambers_of_xeric": {
           "value": 203,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -132627,6 +133791,10 @@
           "value": 218,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 57,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 202,
           "level": null
@@ -133082,6 +134250,10 @@
           "value": 25,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -133534,6 +134706,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -133992,6 +135168,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -134445,6 +135625,10 @@
         },
         "chambers_of_xeric": {
           "value": 401,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 50,
           "level": null
         },
         "chaos_elemental": {
@@ -134902,6 +136086,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 11,
           "level": null
@@ -135355,6 +136543,10 @@
         },
         "chambers_of_xeric": {
           "value": 157,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -135812,6 +137004,10 @@
           "value": 12,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -136265,6 +137461,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -136722,6 +137922,10 @@
           "value": 996,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -137175,6 +138379,10 @@
         },
         "chambers_of_xeric": {
           "value": 5,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -137632,6 +138840,10 @@
           "value": 63,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -138087,6 +139299,10 @@
           "value": 129,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 366,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 15,
           "level": null
@@ -138539,6 +139755,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -138997,6 +140217,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -139452,6 +140676,10 @@
           "value": 25,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 115,
           "level": null
@@ -139904,6 +141132,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -140362,6 +141594,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 11,
           "level": null
@@ -140814,6 +142050,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -141272,6 +142512,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -141727,6 +142971,10 @@
           "value": 21,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -142179,6 +143427,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -142637,6 +143889,10 @@
           "value": 19,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -143090,6 +144346,10 @@
         },
         "chambers_of_xeric": {
           "value": 126,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 11,
           "level": null
         },
         "chaos_elemental": {
@@ -143547,6 +144807,10 @@
           "value": 157,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 60,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -144000,6 +145264,10 @@
         },
         "chambers_of_xeric": {
           "value": 8,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -144457,6 +145725,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 20,
           "level": null
@@ -144909,6 +146181,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -145367,6 +146643,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 72,
           "level": null
@@ -145819,6 +147099,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -146277,6 +147561,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -146729,6 +148017,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -147187,6 +148479,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -147639,6 +148935,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -148097,6 +149397,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -148549,6 +149853,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -149007,6 +150315,10 @@
           "value": 35,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -149247,23 +150559,23 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 3650.7505,
+          "value": 3650.84012,
           "level": null
         },
         "ehb": {
-          "value": 3457.02318,
+          "value": 3457.68985,
           "level": null
         },
         "overall": {
-          "value": 1348126174,
+          "value": 1348156305,
           "level": 2376
         },
         "attack": {
-          "value": 112839753,
+          "value": 112841312,
           "level": 99
         },
         "defence": {
-          "value": 49330032,
+          "value": 49331071,
           "level": 99
         },
         "strength": {
@@ -149283,11 +150595,11 @@
           "level": 99
         },
         "magic": {
-          "value": 98686642,
+          "value": 98690241,
           "level": 99
         },
         "cooking": {
-          "value": 40808742,
+          "value": 40829567,
           "level": 99
         },
         "woodcutting": {
@@ -149319,7 +150631,7 @@
           "level": 99
         },
         "herblore": {
-          "value": 34026220,
+          "value": 34029329,
           "level": 99
         },
         "agility": {
@@ -149460,6 +150772,10 @@
         },
         "chambers_of_xeric": {
           "value": 383,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 31,
           "level": null
         },
         "chaos_elemental": {
@@ -149639,7 +150955,7 @@
           "level": null
         },
         "theatre_of_blood_hard_mode": {
-          "value": 127,
+          "value": 129,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -149914,6 +151230,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -150372,6 +151692,10 @@
           "value": 93,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 2,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -150824,6 +152148,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -151282,6 +152610,10 @@
           "value": 42,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -151734,6 +153066,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -152192,6 +153528,10 @@
           "value": 29,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -152647,6 +153987,10 @@
           "value": 125,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -153099,6 +154443,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -153557,6 +154905,10 @@
           "value": 436,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 33,
           "level": null
@@ -154009,6 +155361,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -154467,6 +155823,10 @@
           "value": 42,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 56,
           "level": null
@@ -154920,6 +156280,10 @@
         },
         "chambers_of_xeric": {
           "value": 5,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -155377,6 +156741,10 @@
           "value": 169,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -155829,6 +157197,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -156287,6 +157659,10 @@
           "value": 299,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 14,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -156739,6 +158115,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -157197,6 +158577,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -157649,6 +159033,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -158107,6 +159495,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -158559,6 +159951,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -159017,6 +160413,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -159470,6 +160870,10 @@
         },
         "chambers_of_xeric": {
           "value": 75,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 5,
           "level": null
         },
         "chaos_elemental": {
@@ -159927,6 +161331,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -160379,6 +161787,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -160837,6 +162249,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -161290,6 +162706,10 @@
         },
         "chambers_of_xeric": {
           "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 4,
           "level": null
         },
         "chaos_elemental": {
@@ -161747,6 +163167,10 @@
           "value": 69,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -162200,6 +163624,10 @@
         },
         "chambers_of_xeric": {
           "value": 155,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -162657,6 +164085,10 @@
           "value": 432,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 43,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -163112,6 +164544,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -163352,19 +164788,19 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 289.2095400000001,
+          "value": 289.91031,
           "level": null
         },
         "ehb": {
-          "value": 31.90184,
+          "value": 31.99073,
           "level": null
         },
         "overall": {
-          "value": 80384580,
-          "level": 1918
+          "value": 80590597,
+          "level": 1922
         },
         "attack": {
-          "value": 6580739,
+          "value": 6591057,
           "level": 92
         },
         "defence": {
@@ -163376,7 +164812,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 8448264,
+          "value": 8451701,
           "level": 94
         },
         "ranged": {
@@ -163384,16 +164820,16 @@
           "level": 82
         },
         "prayer": {
-          "value": 1164505,
+          "value": 1164945,
           "level": 74
         },
         "magic": {
-          "value": 2021853,
+          "value": 2022560,
           "level": 80
         },
         "cooking": {
-          "value": 1289161,
-          "level": 75
+          "value": 1396131,
+          "level": 76
         },
         "woodcutting": {
           "value": 2866866,
@@ -163412,7 +164848,7 @@
           "level": 80
         },
         "crafting": {
-          "value": 2440052,
+          "value": 2440252,
           "level": 82
         },
         "smithing": {
@@ -163424,11 +164860,11 @@
           "level": 99
         },
         "herblore": {
-          "value": 1342034,
+          "value": 1343037,
           "level": 76
         },
         "agility": {
-          "value": 1183429,
+          "value": 1183434,
           "level": 74
         },
         "thieving": {
@@ -163436,11 +164872,11 @@
           "level": 75
         },
         "slayer": {
-          "value": 1466172,
+          "value": 1468647,
           "level": 76
         },
         "farming": {
-          "value": 6399666,
+          "value": 6463772,
           "level": 91
         },
         "runecrafting": {
@@ -163448,7 +164884,7 @@
           "level": 73
         },
         "hunter": {
-          "value": 3019957,
+          "value": 3023833,
           "level": 84
         },
         "construction": {
@@ -163456,8 +164892,8 @@
           "level": 73
         },
         "sailing": {
-          "value": 49834,
-          "level": 42
+          "value": 62314,
+          "level": 45
         },
         "bounty_hunter_hunter": {
           "value": 0,
@@ -163516,7 +164952,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 213,
+          "value": 214,
           "level": null
         },
         "abyssal_sire": {
@@ -163564,6 +165000,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -163700,7 +165140,7 @@
           "level": null
         },
         "skotizo": {
-          "value": 0,
+          "value": 4,
           "level": null
         },
         "sol_heredit": {
@@ -164020,6 +165460,10 @@
         },
         "chambers_of_xeric": {
           "value": 2,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -164474,6 +165918,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -164932,6 +166380,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -165384,6 +166836,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -165842,6 +167298,10 @@
           "value": 188,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -166295,6 +167755,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -166752,6 +168216,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 198,
           "level": null
@@ -167204,6 +168672,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -167662,6 +169134,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -168117,6 +169593,10 @@
           "value": 988,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 88,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -168569,6 +170049,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -169027,6 +170511,10 @@
           "value": 78,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -169479,6 +170967,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -169937,6 +171429,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 2,
           "level": null
@@ -170389,6 +171885,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -170847,6 +172347,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 18,
           "level": null
@@ -171302,6 +172806,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -171754,6 +173262,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -172212,6 +173724,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -172667,6 +174183,10 @@
           "value": 461,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 66,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 28,
           "level": null
@@ -173119,6 +174639,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -173577,6 +175101,10 @@
           "value": 483,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 8,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -174032,6 +175560,10 @@
           "value": 6,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -174484,6 +176016,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -174942,6 +176478,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -175395,6 +176935,10 @@
         },
         "chambers_of_xeric": {
           "value": 3,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -175852,6 +177396,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -176304,6 +177852,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -176762,6 +178314,10 @@
           "value": 4,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -177217,6 +178773,10 @@
           "value": 381,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 50,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 156,
           "level": null
@@ -177669,6 +179229,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -178127,6 +179691,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -178579,6 +180147,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -179037,6 +180609,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 14,
           "level": null
@@ -179489,6 +181065,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -179947,6 +181527,10 @@
           "value": 1791,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 310,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 152,
           "level": null
@@ -180400,6 +181984,10 @@
         },
         "chambers_of_xeric": {
           "value": 13,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -180857,6 +182445,10 @@
           "value": 98,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 6,
           "level": null
@@ -181312,6 +182904,10 @@
           "value": 98,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 5,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -181764,6 +183360,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -182222,6 +183822,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -182675,6 +184279,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -183132,6 +184740,10 @@
           "value": 200,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -183584,6 +185196,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -184042,6 +185658,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -184495,6 +186115,10 @@
         },
         "chambers_of_xeric": {
           "value": 82,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 13,
           "level": null
         },
         "chaos_elemental": {
@@ -184952,6 +186576,10 @@
           "value": 22,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -185404,6 +187032,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -185862,6 +187494,10 @@
           "value": 152,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 4,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -186314,6 +187950,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -186772,6 +188412,10 @@
           "value": 445,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -187224,6 +188868,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -187682,6 +189330,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -188137,6 +189789,10 @@
           "value": 43,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 4,
           "level": null
@@ -188589,6 +190245,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -189047,6 +190707,10 @@
           "value": 16,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -189502,6 +191166,10 @@
           "value": 52,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 98,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 3,
           "level": null
@@ -189742,7 +191410,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 130.58005,
+          "value": 130.58661,
           "level": null
         },
         "ehb": {
@@ -189750,7 +191418,7 @@
           "level": null
         },
         "overall": {
-          "value": 10530873,
+          "value": 10531365,
           "level": 1404
         },
         "attack": {
@@ -189766,11 +191434,11 @@
           "level": 60
         },
         "hitpoints": {
-          "value": 346804,
+          "value": 346876,
           "level": 62
         },
         "ranged": {
-          "value": 444659,
+          "value": 444875,
           "level": 64
         },
         "prayer": {
@@ -189778,7 +191446,7 @@
           "level": 59
         },
         "magic": {
-          "value": 591384,
+          "value": 591544,
           "level": 67
         },
         "cooking": {
@@ -189826,7 +191494,7 @@
           "level": 66
         },
         "slayer": {
-          "value": 42663,
+          "value": 42707,
           "level": 41
         },
         "farming": {
@@ -189954,6 +191622,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -190412,6 +192084,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 33,
           "level": null
@@ -190864,6 +192540,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -191322,6 +193002,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -191774,6 +193458,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -192232,6 +193920,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -192684,6 +194376,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -193142,6 +194838,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -193594,6 +195294,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -194052,6 +195756,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -194504,6 +196212,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -194962,6 +196674,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -195417,6 +197133,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -195869,6 +197589,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -196327,6 +198051,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -196779,6 +198507,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -197237,6 +198969,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -197689,6 +199425,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -198147,6 +199887,10 @@
           "value": 4,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -198602,6 +200346,10 @@
           "value": 1081,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 451,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 35,
           "level": null
@@ -199054,6 +200802,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -199512,6 +201264,10 @@
           "value": 6,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 31,
           "level": null
@@ -199964,6 +201720,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -200422,6 +202182,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -200877,6 +202641,10 @@
           "value": 39,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 26,
           "level": null
@@ -201329,6 +203097,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -201787,6 +203559,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -202239,6 +204015,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -202697,6 +204477,10 @@
           "value": 12,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 2,
           "level": null
@@ -203149,6 +204933,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -203607,6 +205395,10 @@
           "value": 29,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -204059,6 +205851,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -204517,6 +206313,10 @@
           "value": 152,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 30,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 19,
           "level": null
@@ -204969,6 +206769,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -205427,6 +207231,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -205882,6 +207690,10 @@
           "value": 1,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -206334,6 +208146,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -206792,6 +208608,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -207245,6 +209065,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -207702,6 +209526,10 @@
           "value": 114,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 265,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 52,
           "level": null
@@ -208154,6 +209982,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -208612,6 +210444,10 @@
           "value": 9,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -209067,6 +210903,10 @@
           "value": 3,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -209519,6 +211359,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -209977,6 +211821,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -210429,6 +212277,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -210887,6 +212739,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -211340,6 +213196,10 @@
         },
         "chambers_of_xeric": {
           "value": 17,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
           "level": null
         },
         "chaos_elemental": {
@@ -211797,6 +213657,10 @@
           "value": 245,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 25,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -212250,6 +214114,10 @@
         },
         "chambers_of_xeric": {
           "value": 1,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -212707,6 +214575,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -212947,35 +214819,35 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1390.31137,
+          "value": 1390.32102,
           "level": null
         },
         "ehb": {
-          "value": 1470.04974,
+          "value": 1470.69557,
           "level": null
         },
         "overall": {
-          "value": 877181397,
+          "value": 877343170,
           "level": 2376
         },
         "attack": {
-          "value": 68061815,
+          "value": 68107735,
           "level": 99
         },
         "defence": {
-          "value": 22742052,
+          "value": 22745412,
           "level": 99
         },
         "strength": {
-          "value": 102211017,
+          "value": 102224996,
           "level": 99
         },
         "hitpoints": {
-          "value": 122009210,
+          "value": 122050856,
           "level": 99
         },
         "ranged": {
-          "value": 112686555,
+          "value": 112730677,
           "level": 99
         },
         "prayer": {
@@ -212983,7 +214855,7 @@
           "level": 99
         },
         "magic": {
-          "value": 62663213,
+          "value": 62675749,
           "level": 99
         },
         "cooking": {
@@ -213015,7 +214887,7 @@
           "level": 99
         },
         "mining": {
-          "value": 14601670,
+          "value": 14601880,
           "level": 99
         },
         "herblore": {
@@ -213160,6 +215032,10 @@
         },
         "chambers_of_xeric": {
           "value": 160,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 177,
           "level": null
         },
         "chaos_elemental": {
@@ -213335,7 +215211,7 @@
           "level": null
         },
         "theatre_of_blood": {
-          "value": 244,
+          "value": 245,
           "level": null
         },
         "theatre_of_blood_hard_mode": {
@@ -213351,7 +215227,7 @@
           "level": null
         },
         "tombs_of_amascut_expert": {
-          "value": 266,
+          "value": 267,
           "level": null
         },
         "tzkal_zuk": {
@@ -213614,6 +215490,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -214072,6 +215952,10 @@
           "value": 68,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -214524,6 +216408,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -214982,6 +216870,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -215434,6 +217326,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -215892,6 +217788,10 @@
           "value": 411,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 7,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 33,
           "level": null
@@ -216344,6 +218244,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -216802,6 +218706,10 @@
           "value": 511,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 108,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -217257,6 +219165,10 @@
           "value": 290,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 27,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 33,
           "level": null
@@ -217709,6 +219621,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -218167,6 +220083,10 @@
           "value": 343,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 10,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -218622,6 +220542,10 @@
           "value": 16,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 6,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -218862,7 +220786,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 382.97974,
+          "value": 383.4343000000001,
           "level": null
         },
         "ehb": {
@@ -218870,7 +220794,7 @@
           "level": null
         },
         "overall": {
-          "value": 54906488,
+          "value": 55048805,
           "level": 1923
         },
         "attack": {
@@ -218922,7 +220846,7 @@
           "level": 75
         },
         "crafting": {
-          "value": 2706866,
+          "value": 2842866,
           "level": 83
         },
         "smithing": {
@@ -218930,7 +220854,7 @@
           "level": 84
         },
         "mining": {
-          "value": 2476064,
+          "value": 2482381,
           "level": 82
         },
         "herblore": {
@@ -219026,7 +220950,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 243,
+          "value": 244,
           "level": null
         },
         "abyssal_sire": {
@@ -219074,6 +220998,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -219532,6 +221460,10 @@
           "value": 81,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 3,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -219984,6 +221916,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -220442,6 +222378,10 @@
           "value": 70,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -220897,6 +222837,10 @@
           "value": 4,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 1,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 25,
           "level": null
@@ -221137,31 +223081,31 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 940.03811,
+          "value": 940.0384299999998,
           "level": null
         },
         "ehb": {
-          "value": 312.0540799999999,
+          "value": 313.02844,
           "level": null
         },
         "overall": {
-          "value": 355843125,
+          "value": 356064582,
           "level": 2344
         },
         "attack": {
-          "value": 14071680,
+          "value": 14071684,
           "level": 99
         },
         "defence": {
-          "value": 13851071,
+          "value": 13851075,
           "level": 99
         },
         "strength": {
-          "value": 24417228,
+          "value": 24578785,
           "level": 99
         },
         "hitpoints": {
-          "value": 34434456,
+          "value": 34488276,
           "level": 99
         },
         "ranged": {
@@ -221173,7 +223117,7 @@
           "level": 95
         },
         "magic": {
-          "value": 19649791,
+          "value": 19655863,
           "level": 99
         },
         "cooking": {
@@ -221350,6 +223294,10 @@
         },
         "chambers_of_xeric": {
           "value": 42,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -221807,6 +223755,10 @@
           "value": 156,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 92,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -222260,6 +224212,10 @@
         },
         "chambers_of_xeric": {
           "value": 48,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 61,
           "level": null
         },
         "chaos_elemental": {
@@ -222717,6 +224673,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 1,
           "level": null
@@ -222957,43 +224917,43 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 636.9124300000001,
+          "value": 637.3518200000001,
           "level": null
         },
         "ehb": {
-          "value": 354.8279899999999,
+          "value": 355.2890999999998,
           "level": null
         },
         "overall": {
-          "value": 311817305,
+          "value": 311988178,
           "level": 2244
         },
         "attack": {
-          "value": 14993558,
+          "value": 15021896,
           "level": 99
         },
         "defence": {
-          "value": 13658045,
+          "value": 13658076,
           "level": 99
         },
         "strength": {
-          "value": 33358001,
+          "value": 33402389,
           "level": 99
         },
         "hitpoints": {
-          "value": 44674209,
+          "value": 44699041,
           "level": 99
         },
         "ranged": {
-          "value": 56218229,
+          "value": 56218901,
           "level": 99
         },
         "prayer": {
-          "value": 11032081,
+          "value": 11032546,
           "level": 97
         },
         "magic": {
-          "value": 17431214,
+          "value": 17450954,
           "level": 99
         },
         "cooking": {
@@ -223001,7 +224961,7 @@
           "level": 96
         },
         "woodcutting": {
-          "value": 6573997,
+          "value": 6574776,
           "level": 92
         },
         "fletching": {
@@ -223013,11 +224973,11 @@
           "level": 91
         },
         "firemaking": {
-          "value": 7214509,
+          "value": 7214549,
           "level": 93
         },
         "crafting": {
-          "value": 7739258,
+          "value": 7739928,
           "level": 93
         },
         "smithing": {
@@ -223025,23 +224985,23 @@
           "level": 90
         },
         "mining": {
-          "value": 6669784,
+          "value": 6669994,
           "level": 92
         },
         "herblore": {
-          "value": 10737673,
+          "value": 10738595,
           "level": 97
         },
         "agility": {
-          "value": 3904255,
+          "value": 3927239,
           "level": 86
         },
         "thieving": {
-          "value": 6300965,
+          "value": 6300985,
           "level": 91
         },
         "slayer": {
-          "value": 13208169,
+          "value": 13220541,
           "level": 99
         },
         "farming": {
@@ -223053,7 +225013,7 @@
           "level": 86
         },
         "hunter": {
-          "value": 5631168,
+          "value": 5645568,
           "level": 90
         },
         "construction": {
@@ -223061,7 +225021,7 @@
           "level": 85
         },
         "sailing": {
-          "value": 2078233,
+          "value": 2078243,
           "level": 80
         },
         "bounty_hunter_hunter": {
@@ -223073,7 +225033,7 @@
           "level": null
         },
         "clue_scrolls_all": {
-          "value": 975,
+          "value": 1045,
           "level": null
         },
         "clue_scrolls_beginner": {
@@ -223085,19 +225045,19 @@
           "level": null
         },
         "clue_scrolls_medium": {
-          "value": 132,
+          "value": 133,
           "level": null
         },
         "clue_scrolls_hard": {
-          "value": 212,
+          "value": 262,
           "level": null
         },
         "clue_scrolls_elite": {
-          "value": 128,
+          "value": 145,
           "level": null
         },
         "clue_scrolls_master": {
-          "value": 32,
+          "value": 34,
           "level": null
         },
         "last_man_standing": {
@@ -223121,7 +225081,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 642,
+          "value": 656,
           "level": null
         },
         "abyssal_sire": {
@@ -223170,6 +225130,10 @@
         },
         "chambers_of_xeric": {
           "value": 53,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 7,
           "level": null
         },
         "chaos_elemental": {
@@ -223627,6 +225591,10 @@
           "value": 160,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 29,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 42,
           "level": null
@@ -224082,6 +226050,10 @@
           "value": 21,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 26,
           "level": null
@@ -224534,6 +226506,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
@@ -224992,6 +226968,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -225445,6 +227425,10 @@
         },
         "chambers_of_xeric": {
           "value": 55,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
           "level": null
         },
         "chaos_elemental": {
@@ -225902,6 +227886,10 @@
           "value": 2,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -226357,6 +228345,10 @@
           "value": 0,
           "level": null
         },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
         "chaos_elemental": {
           "value": 0,
           "level": null
@@ -226597,7 +228589,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 61.00828999999999,
+          "value": 61.54864999999999,
           "level": null
         },
         "ehb": {
@@ -226605,8 +228597,8 @@
           "level": null
         },
         "overall": {
-          "value": 7278437,
-          "level": 1258
+          "value": 7336625,
+          "level": 1259
         },
         "attack": {
           "value": 468025,
@@ -226633,7 +228625,7 @@
           "level": 47
         },
         "magic": {
-          "value": 271936,
+          "value": 271984,
           "level": 59
         },
         "cooking": {
@@ -226661,12 +228653,12 @@
           "level": 43
         },
         "smithing": {
-          "value": 748277,
+          "value": 749012,
           "level": 70
         },
         "mining": {
-          "value": 435646,
-          "level": 64
+          "value": 493051,
+          "level": 65
         },
         "herblore": {
           "value": 18956,
@@ -226809,6 +228801,10 @@
           "level": null
         },
         "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
           "value": 0,
           "level": null
         },
