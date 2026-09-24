@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T23:18:44.010Z",
+  "updatedAt": "2026-09-24T00:24:58.159Z",
   "members": [
     {
       "username": "Corvids",
@@ -7,15 +7,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 735.3249200000001,
+          "value": 735.3403500000001,
           "level": null
         },
         "ehb": {
-          "value": 403.825,
+          "value": 404.06346,
           "level": null
         },
         "overall": {
-          "value": 303258818,
+          "value": 303311385,
           "level": 2261
         },
         "attack": {
@@ -23,7 +23,7 @@
           "level": 99
         },
         "defence": {
-          "value": 18318410,
+          "value": 18330560,
           "level": 99
         },
         "strength": {
@@ -31,7 +31,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 38185169,
+          "value": 38201347,
           "level": 99
         },
         "ranged": {
@@ -43,7 +43,7 @@
           "level": 88
         },
         "magic": {
-          "value": 22416746,
+          "value": 22440985,
           "level": 99
         },
         "cooking": {
@@ -347,7 +347,7 @@
           "level": null
         },
         "scorpia": {
-          "value": 186,
+          "value": 217,
           "level": null
         },
         "scurrius": {
@@ -399,6 +399,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -857,6 +861,10 @@
           "value": 2,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 313,
           "level": null
@@ -1310,6 +1318,10 @@
         },
         "theatre_of_blood": {
           "value": 47,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -1767,6 +1779,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -1827,7 +1843,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 117.69342,
+          "value": 117.69716,
           "level": null
         },
         "ehb": {
@@ -1835,7 +1851,7 @@
           "level": null
         },
         "overall": {
-          "value": 27047675,
+          "value": 27052995,
           "level": 1722
         },
         "attack": {
@@ -1863,7 +1879,7 @@
           "level": 72
         },
         "magic": {
-          "value": 2722914,
+          "value": 2723004,
           "level": 83
         },
         "cooking": {
@@ -1899,7 +1915,7 @@
           "level": 71
         },
         "herblore": {
-          "value": 1230193,
+          "value": 1230693,
           "level": 75
         },
         "agility": {
@@ -1915,7 +1931,7 @@
           "level": 70
         },
         "farming": {
-          "value": 1556241,
+          "value": 1560971,
           "level": 77
         },
         "runecrafting": {
@@ -2219,6 +2235,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -2677,6 +2697,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -2737,7 +2761,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1121.43363,
+          "value": 1121.62215,
           "level": null
         },
         "ehb": {
@@ -2745,7 +2769,7 @@
           "level": null
         },
         "overall": {
-          "value": 249402129,
+          "value": 249424906,
           "level": 2236
         },
         "attack": {
@@ -2757,15 +2781,15 @@
           "level": 94
         },
         "strength": {
-          "value": 18875091,
+          "value": 18878846,
           "level": 99
         },
         "hitpoints": {
-          "value": 26746692,
+          "value": 26747996,
           "level": 99
         },
         "ranged": {
-          "value": 33326146,
+          "value": 33326306,
           "level": 99
         },
         "prayer": {
@@ -2773,19 +2797,19 @@
           "level": 85
         },
         "magic": {
-          "value": 16220562,
+          "value": 16223558,
           "level": 99
         },
         "cooking": {
-          "value": 6558792,
+          "value": 6558942,
           "level": 92
         },
         "woodcutting": {
-          "value": 13046380,
+          "value": 13046560,
           "level": 99
         },
         "fletching": {
-          "value": 7744155,
+          "value": 7744249,
           "level": 93
         },
         "fishing": {
@@ -2797,7 +2821,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 9032443,
+          "value": 9032475,
           "level": 95
         },
         "smithing": {
@@ -2809,11 +2833,11 @@
           "level": 95
         },
         "herblore": {
-          "value": 7974081,
+          "value": 7976386,
           "level": 94
         },
         "agility": {
-          "value": 4386493,
+          "value": 4398294,
           "level": 88
         },
         "thieving": {
@@ -3129,6 +3153,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -3587,6 +3615,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -3647,15 +3679,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1505.52302,
+          "value": 1506.4177,
           "level": null
         },
         "ehb": {
-          "value": 442.71203,
+          "value": 444.97848,
           "level": null
         },
         "overall": {
-          "value": 372693338,
+          "value": 373570856,
           "level": 2320
         },
         "attack": {
@@ -3663,19 +3695,19 @@
           "level": 99
         },
         "defence": {
-          "value": 13695897,
+          "value": 13699125,
           "level": 99
         },
         "strength": {
-          "value": 26967649,
+          "value": 27446716,
           "level": 99
         },
         "hitpoints": {
-          "value": 43826716,
+          "value": 44010470,
           "level": 99
         },
         "ranged": {
-          "value": 45745895,
+          "value": 45805716,
           "level": 99
         },
         "prayer": {
@@ -3683,7 +3715,7 @@
           "level": 91
         },
         "magic": {
-          "value": 29170023,
+          "value": 29178800,
           "level": 99
         },
         "cooking": {
@@ -3695,7 +3727,7 @@
           "level": 99
         },
         "fletching": {
-          "value": 13156324,
+          "value": 13156602,
           "level": 99
         },
         "fishing": {
@@ -3707,11 +3739,11 @@
           "level": 99
         },
         "crafting": {
-          "value": 13671181,
+          "value": 13671781,
           "level": 99
         },
         "smithing": {
-          "value": 5627627,
+          "value": 5627727,
           "level": 90
         },
         "mining": {
@@ -3723,7 +3755,7 @@
           "level": 96
         },
         "agility": {
-          "value": 7023825,
+          "value": 7023828,
           "level": 92
         },
         "thieving": {
@@ -3731,7 +3763,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 17680533,
+          "value": 17826279,
           "level": 99
         },
         "farming": {
@@ -3743,7 +3775,7 @@
           "level": 90
         },
         "hunter": {
-          "value": 13947511,
+          "value": 13957861,
           "level": 99
         },
         "construction": {
@@ -3811,7 +3843,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 639,
+          "value": 640,
           "level": null
         },
         "abyssal_sire": {
@@ -3827,7 +3859,7 @@
           "level": null
         },
         "araxxor": {
-          "value": 804,
+          "value": 883,
           "level": null
         },
         "artio": {
@@ -3871,7 +3903,7 @@
           "level": null
         },
         "chaos_fanatic": {
-          "value": 10,
+          "value": 25,
           "level": null
         },
         "commander_zilyana": {
@@ -4039,6 +4071,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -4497,6 +4533,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 342,
           "level": null
@@ -4949,6 +4989,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -5407,6 +5451,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -5860,6 +5908,10 @@
         },
         "theatre_of_blood": {
           "value": 33,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -6317,6 +6369,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 275,
           "level": null
@@ -6377,15 +6433,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1202.98267,
+          "value": 1203.00587,
           "level": null
         },
         "ehb": {
-          "value": 492.49369,
+          "value": 492.9745899999999,
           "level": null
         },
         "overall": {
-          "value": 539108921,
+          "value": 539180110,
           "level": 2376
         },
         "attack": {
@@ -6393,19 +6449,19 @@
           "level": 99
         },
         "defence": {
-          "value": 20273165,
+          "value": 20289320,
           "level": 99
         },
         "strength": {
-          "value": 48408953,
+          "value": 48409005,
           "level": 99
         },
         "hitpoints": {
-          "value": 53861504,
+          "value": 53884106,
           "level": 99
         },
         "ranged": {
-          "value": 47080867,
+          "value": 47084062,
           "level": 99
         },
         "prayer": {
@@ -6413,7 +6469,7 @@
           "level": 99
         },
         "magic": {
-          "value": 28052337,
+          "value": 28081522,
           "level": 99
         },
         "cooking": {
@@ -6541,7 +6597,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 1069,
+          "value": 1072,
           "level": null
         },
         "abyssal_sire": {
@@ -6597,7 +6653,7 @@
           "level": null
         },
         "chaos_elemental": {
-          "value": 25,
+          "value": 28,
           "level": null
         },
         "chaos_fanatic": {
@@ -6613,7 +6669,7 @@
           "level": null
         },
         "crazy_archaeologist": {
-          "value": 130,
+          "value": 144,
           "level": null
         },
         "dagannoth_prime": {
@@ -6717,7 +6773,7 @@
           "level": null
         },
         "scorpia": {
-          "value": 420,
+          "value": 455,
           "level": null
         },
         "scurrius": {
@@ -6769,6 +6825,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -7227,6 +7287,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -7679,6 +7743,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -8137,6 +8205,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 581,
           "level": null
@@ -8589,6 +8661,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -9047,6 +9123,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -9107,15 +9187,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1341.82677,
+          "value": 1342.30228,
           "level": null
         },
         "ehb": {
-          "value": 292.90166,
+          "value": 293.90166,
           "level": null
         },
         "overall": {
-          "value": 523295620,
+          "value": 523547774,
           "level": 2376
         },
         "attack": {
@@ -9131,11 +9211,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 53070726,
+          "value": 53123621,
           "level": 99
         },
         "ranged": {
-          "value": 48705847,
+          "value": 48864531,
           "level": 99
         },
         "prayer": {
@@ -9143,7 +9223,7 @@
           "level": 99
         },
         "magic": {
-          "value": 34230824,
+          "value": 34231799,
           "level": 99
         },
         "cooking": {
@@ -9191,7 +9271,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 28730044,
+          "value": 28769644,
           "level": 99
         },
         "farming": {
@@ -9279,7 +9359,7 @@
           "level": null
         },
         "alchemical_hydra": {
-          "value": 860,
+          "value": 890,
           "level": null
         },
         "amoxliatl": {
@@ -9499,6 +9579,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -9957,6 +10041,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 700,
           "level": null
@@ -10410,6 +10498,10 @@
         },
         "theatre_of_blood": {
           "value": 790,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 518,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -10867,6 +10959,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 250,
           "level": null
@@ -10927,15 +11023,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 684.08288,
+          "value": 684.1948000000001,
           "level": null
         },
         "ehb": {
-          "value": 317.7888999999999,
+          "value": 318.1137199999999,
           "level": null
         },
         "overall": {
-          "value": 169746771,
+          "value": 169835079,
           "level": 2066
         },
         "attack": {
@@ -11319,6 +11415,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -11777,6 +11877,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 401,
           "level": null
@@ -12229,6 +12333,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -12687,6 +12795,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -13139,6 +13251,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -13597,6 +13713,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -14050,6 +14170,10 @@
         },
         "theatre_of_blood": {
           "value": 395,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 11,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -14507,6 +14631,10 @@
           "value": 6,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 650,
           "level": null
@@ -14567,7 +14695,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2056.811,
+          "value": 2056.8147,
           "level": null
         },
         "ehb": {
@@ -14575,7 +14703,7 @@
           "level": null
         },
         "overall": {
-          "value": 638915891,
+          "value": 638939355,
           "level": 2376
         },
         "attack": {
@@ -14583,7 +14711,7 @@
           "level": 99
         },
         "defence": {
-          "value": 21433008,
+          "value": 21439122,
           "level": 99
         },
         "strength": {
@@ -14591,7 +14719,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 92633183,
+          "value": 92641327,
           "level": 99
         },
         "ranged": {
@@ -14603,7 +14731,7 @@
           "level": 99
         },
         "magic": {
-          "value": 38684241,
+          "value": 38692580,
           "level": 99
         },
         "cooking": {
@@ -14671,7 +14799,7 @@
           "level": 99
         },
         "sailing": {
-          "value": 13124030,
+          "value": 13124897,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -14960,6 +15088,10 @@
         },
         "theatre_of_blood": {
           "value": 68,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -15417,6 +15549,10 @@
           "value": 16,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 501,
           "level": null
@@ -15872,6 +16008,10 @@
           "value": 2,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1886,
           "level": null
@@ -15932,19 +16072,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2062.32304,
+          "value": 2062.39429,
           "level": null
         },
         "ehb": {
-          "value": 527.8247700000001,
+          "value": 528.3807700000001,
           "level": null
         },
         "overall": {
-          "value": 482381200,
+          "value": 482584804,
           "level": 2376
         },
         "attack": {
-          "value": 19965127,
+          "value": 20029623,
           "level": 99
         },
         "defence": {
@@ -15956,19 +16096,19 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 47018539,
+          "value": 47067787,
           "level": 99
         },
         "ranged": {
-          "value": 49106655,
+          "value": 49190071,
           "level": 99
         },
         "prayer": {
-          "value": 13380991,
+          "value": 13381871,
           "level": 99
         },
         "magic": {
-          "value": 24426716,
+          "value": 24431274,
           "level": 99
         },
         "cooking": {
@@ -16008,7 +16148,7 @@
           "level": 99
         },
         "agility": {
-          "value": 13121600,
+          "value": 13121616,
           "level": 99
         },
         "thieving": {
@@ -16024,7 +16164,7 @@
           "level": 99
         },
         "runecrafting": {
-          "value": 13203026,
+          "value": 13204016,
           "level": 99
         },
         "hunter": {
@@ -16048,11 +16188,11 @@
           "level": null
         },
         "clue_scrolls_all": {
-          "value": 1133,
+          "value": 1143,
           "level": null
         },
         "clue_scrolls_beginner": {
-          "value": 135,
+          "value": 145,
           "level": null
         },
         "clue_scrolls_easy": {
@@ -16124,7 +16264,7 @@
           "level": null
         },
         "brutus": {
-          "value": 1198,
+          "value": 1337,
           "level": null
         },
         "bryophyta": {
@@ -16324,6 +16464,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -16782,6 +16926,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 3789,
           "level": null
@@ -17234,6 +17382,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -17692,6 +17844,10 @@
           "value": 85,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 38,
           "level": null
@@ -18145,6 +18301,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -18602,6 +18762,10 @@
           "value": 8,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -19055,6 +19219,10 @@
         },
         "theatre_of_blood": {
           "value": 339,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -19512,6 +19680,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 688,
           "level": null
@@ -19572,15 +19744,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1145.77318,
+          "value": 1145.78305,
           "level": null
         },
         "ehb": {
-          "value": 646.0018999999998,
+          "value": 647.2018999999998,
           "level": null
         },
         "overall": {
-          "value": 497695057,
+          "value": 498230410,
           "level": 2376
         },
         "attack": {
@@ -19588,19 +19760,19 @@
           "level": 99
         },
         "defence": {
-          "value": 14570957,
+          "value": 14572468,
           "level": 99
         },
         "strength": {
-          "value": 39276253,
+          "value": 39508358,
           "level": 99
         },
         "hitpoints": {
-          "value": 61157497,
+          "value": 61303663,
           "level": 99
         },
         "ranged": {
-          "value": 78714324,
+          "value": 78740868,
           "level": 99
         },
         "prayer": {
@@ -19608,7 +19780,7 @@
           "level": 99
         },
         "magic": {
-          "value": 44526096,
+          "value": 44654567,
           "level": 99
         },
         "cooking": {
@@ -19648,7 +19820,7 @@
           "level": 99
         },
         "agility": {
-          "value": 13052954,
+          "value": 13053510,
           "level": 99
         },
         "thieving": {
@@ -19880,7 +20052,7 @@
           "level": null
         },
         "maggot_king": {
-          "value": 850,
+          "value": 886,
           "level": null
         },
         "mimic": {
@@ -19965,6 +20137,10 @@
         },
         "theatre_of_blood": {
           "value": 43,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -20419,6 +20595,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -20877,6 +21057,10 @@
           "value": 30,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1109,
           "level": null
@@ -21330,6 +21514,10 @@
         },
         "theatre_of_blood": {
           "value": 1228,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 100,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -21787,6 +21975,10 @@
           "value": 367,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 1,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 406,
           "level": null
@@ -22240,6 +22432,10 @@
         },
         "theatre_of_blood": {
           "value": 115,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -22697,6 +22893,10 @@
           "value": 178,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 646,
           "level": null
@@ -23150,6 +23350,10 @@
         },
         "theatre_of_blood": {
           "value": 8,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -23607,6 +23811,10 @@
           "value": 202,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 2,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 488,
           "level": null
@@ -24060,6 +24268,10 @@
         },
         "theatre_of_blood": {
           "value": 62,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -24517,6 +24729,10 @@
           "value": 131,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 112,
           "level": null
@@ -24972,6 +25188,10 @@
           "value": 101,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 75,
           "level": null
@@ -25424,6 +25644,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -25882,6 +26106,10 @@
           "value": 30,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 215,
           "level": null
@@ -26334,6 +26562,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -26792,6 +27024,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -26852,15 +27088,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1027.97128,
+          "value": 1028.59208,
           "level": null
         },
         "ehb": {
-          "value": 191.83964,
+          "value": 192.48779,
           "level": null
         },
         "overall": {
-          "value": 198359408,
+          "value": 198517088,
           "level": 2159
         },
         "attack": {
@@ -26876,19 +27112,19 @@
           "level": 96
         },
         "hitpoints": {
-          "value": 20782237,
+          "value": 20813027,
           "level": 99
         },
         "ranged": {
-          "value": 30404398,
+          "value": 30496849,
           "level": 99
         },
         "prayer": {
-          "value": 2536805,
+          "value": 2540655,
           "level": 82
         },
         "magic": {
-          "value": 11458532,
+          "value": 11464932,
           "level": 97
         },
         "cooking": {
@@ -26928,7 +27164,7 @@
           "level": 94
         },
         "agility": {
-          "value": 3088816,
+          "value": 3088855,
           "level": 84
         },
         "thieving": {
@@ -26936,7 +27172,7 @@
           "level": 83
         },
         "slayer": {
-          "value": 10656461,
+          "value": 10680611,
           "level": 96
         },
         "farming": {
@@ -27060,7 +27296,7 @@
           "level": null
         },
         "cerberus": {
-          "value": 773,
+          "value": 808,
           "level": null
         },
         "chambers_of_xeric": {
@@ -27247,6 +27483,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 154,
           "level": null
@@ -27307,16 +27547,16 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 500.26033,
+          "value": 500.27555,
           "level": null
         },
         "ehb": {
-          "value": 76.73563,
+          "value": 78.03035999999999,
           "level": null
         },
         "overall": {
-          "value": 85228455,
-          "level": 2005
+          "value": 85343519,
+          "level": 2006
         },
         "attack": {
           "value": 2008396,
@@ -27331,8 +27571,8 @@
           "level": 89
         },
         "hitpoints": {
-          "value": 4809374,
-          "level": 88
+          "value": 4854706,
+          "level": 89
         },
         "ranged": {
           "value": 3776060,
@@ -27343,7 +27583,7 @@
           "level": 80
         },
         "magic": {
-          "value": 5401661,
+          "value": 5469933,
           "level": 90
         },
         "cooking": {
@@ -27399,7 +27639,7 @@
           "level": 92
         },
         "runecrafting": {
-          "value": 1057958,
+          "value": 1059418,
           "level": 73
         },
         "hunter": {
@@ -27471,7 +27711,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 378,
+          "value": 380,
           "level": null
         },
         "abyssal_sire": {
@@ -27543,7 +27783,7 @@
           "level": null
         },
         "crazy_archaeologist": {
-          "value": 42,
+          "value": 165,
           "level": null
         },
         "dagannoth_prime": {
@@ -27699,6 +27939,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -28157,6 +28401,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -28609,6 +28857,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -29067,6 +29319,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -29127,19 +29383,19 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 143.22278,
+          "value": 143.2253,
           "level": null
         },
         "ehb": {
-          "value": 8.461770000000001,
+          "value": 8.616319999999998,
           "level": null
         },
         "overall": {
-          "value": 36352940,
+          "value": 36399766,
           "level": 1741
         },
         "attack": {
-          "value": 1815974,
+          "value": 1847904,
           "level": 79
         },
         "defence": {
@@ -29151,11 +29407,11 @@
           "level": 80
         },
         "hitpoints": {
-          "value": 2565930,
+          "value": 2577513,
           "level": 82
         },
         "ranged": {
-          "value": 1272646,
+          "value": 1275574,
           "level": 75
         },
         "prayer": {
@@ -29163,7 +29419,7 @@
           "level": 70
         },
         "magic": {
-          "value": 1420402,
+          "value": 1420787,
           "level": 76
         },
         "cooking": {
@@ -29519,6 +29775,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -29977,6 +30237,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -30432,6 +30696,10 @@
           "value": 3,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 375,
           "level": null
@@ -30884,6 +31152,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -31342,6 +31614,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -31794,6 +32070,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -32252,6 +32532,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 246,
           "level": null
@@ -32704,6 +32988,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -33162,6 +33450,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 306,
           "level": null
@@ -33615,6 +33907,10 @@
         },
         "theatre_of_blood": {
           "value": 3,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -34072,6 +34368,10 @@
           "value": 141,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -34524,6 +34824,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -34982,6 +35286,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 73,
           "level": null
@@ -35434,6 +35742,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -35892,6 +36204,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 100,
           "level": null
@@ -36344,6 +36660,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -36802,6 +37122,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -37254,6 +37578,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -37712,6 +38040,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 62,
           "level": null
@@ -38164,6 +38496,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -38622,6 +38958,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 100,
           "level": null
@@ -38682,15 +39022,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 813.46894,
+          "value": 813.8125699999999,
           "level": null
         },
         "ehb": {
-          "value": 212.7396200000001,
+          "value": 213.3296200000001,
           "level": null
         },
         "overall": {
-          "value": 163532227,
+          "value": 163646462,
           "level": 2134
         },
         "attack": {
@@ -38698,7 +39038,7 @@
           "level": 95
         },
         "defence": {
-          "value": 9918720,
+          "value": 9933298,
           "level": 96
         },
         "strength": {
@@ -38706,7 +39046,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 21464020,
+          "value": 21483428,
           "level": 99
         },
         "ranged": {
@@ -38718,7 +39058,7 @@
           "level": 90
         },
         "magic": {
-          "value": 12719727,
+          "value": 12785446,
           "level": 98
         },
         "cooking": {
@@ -38766,7 +39106,7 @@
           "level": 92
         },
         "slayer": {
-          "value": 9728750,
+          "value": 9743280,
           "level": 96
         },
         "farming": {
@@ -39077,8 +39417,12 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
-          "value": 149,
+          "value": 208,
           "level": null
         },
         "tombs_of_amascut": {
@@ -39137,15 +39481,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1814.96188,
+          "value": 1815.44807,
           "level": null
         },
         "ehb": {
-          "value": 318.4012300000001,
+          "value": 319.7541700000001,
           "level": null
         },
         "overall": {
-          "value": 438969509,
+          "value": 439279900,
           "level": 2344
         },
         "attack": {
@@ -39157,11 +39501,11 @@
           "level": 99
         },
         "strength": {
-          "value": 39579679,
+          "value": 39749159,
           "level": 99
         },
         "hitpoints": {
-          "value": 38086131,
+          "value": 38142581,
           "level": 99
         },
         "ranged": {
@@ -39173,7 +39517,7 @@
           "level": 99
         },
         "magic": {
-          "value": 17459953,
+          "value": 17460863,
           "level": 99
         },
         "cooking": {
@@ -39189,7 +39533,7 @@
           "level": 95
         },
         "fishing": {
-          "value": 10694278,
+          "value": 10708947,
           "level": 97
         },
         "firemaking": {
@@ -39213,7 +39557,7 @@
           "level": 99
         },
         "agility": {
-          "value": 7962728,
+          "value": 7962740,
           "level": 94
         },
         "thieving": {
@@ -39221,7 +39565,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 25693458,
+          "value": 25761768,
           "level": 99
         },
         "farming": {
@@ -39241,7 +39585,7 @@
           "level": 95
         },
         "sailing": {
-          "value": 21878177,
+          "value": 21878737,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -39529,6 +39873,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -39987,6 +40335,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 11,
           "level": null
@@ -40047,19 +40399,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1470.5805,
+          "value": 1470.63802,
           "level": null
         },
         "ehb": {
-          "value": 675.7726200000001,
+          "value": 676.2861300000001,
           "level": null
         },
         "overall": {
-          "value": 409425703,
+          "value": 409495652,
           "level": 2277
         },
         "attack": {
-          "value": 17423613,
+          "value": 17432769,
           "level": 99
         },
         "defence": {
@@ -40067,11 +40419,11 @@
           "level": 99
         },
         "strength": {
-          "value": 39571678,
+          "value": 39612066,
           "level": 99
         },
         "hitpoints": {
-          "value": 60350858,
+          "value": 60367357,
           "level": 99
         },
         "ranged": {
@@ -40083,7 +40435,7 @@
           "level": 95
         },
         "magic": {
-          "value": 32533366,
+          "value": 32536466,
           "level": 99
         },
         "cooking": {
@@ -40115,11 +40467,11 @@
           "level": 91
         },
         "mining": {
-          "value": 8097085,
+          "value": 8097355,
           "level": 94
         },
         "herblore": {
-          "value": 13035532,
+          "value": 13035972,
           "level": 99
         },
         "agility": {
@@ -40135,7 +40487,7 @@
           "level": 99
         },
         "farming": {
-          "value": 14722681,
+          "value": 14722777,
           "level": 99
         },
         "runecrafting": {
@@ -40307,7 +40659,7 @@
           "level": null
         },
         "duke_sucellus": {
-          "value": 1251,
+          "value": 1270,
           "level": null
         },
         "general_graardor": {
@@ -40442,6 +40794,10 @@
           "value": 2,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 536,
           "level": null
@@ -40502,7 +40858,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1534.73776,
+          "value": 1534.75956,
           "level": null
         },
         "ehb": {
@@ -40510,7 +40866,7 @@
           "level": null
         },
         "overall": {
-          "value": 334699079,
+          "value": 334702078,
           "level": 2338
         },
         "attack": {
@@ -40554,7 +40910,7 @@
           "level": 99
         },
         "fishing": {
-          "value": 10300581,
+          "value": 10303580,
           "level": 96
         },
         "firemaking": {
@@ -40894,6 +41250,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -41352,6 +41712,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 25,
           "level": null
@@ -41807,6 +42171,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 392,
           "level": null
@@ -42035,7 +42403,7 @@
           "level": null
         },
         "abyssal_sire": {
-          "value": 846,
+          "value": 885,
           "level": null
         },
         "alchemical_hydra": {
@@ -42260,6 +42628,10 @@
         },
         "theatre_of_blood": {
           "value": 147,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -42717,6 +43089,10 @@
           "value": 102,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 35,
           "level": null
@@ -43169,6 +43545,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -43627,6 +44007,10 @@
           "value": 153,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 397,
           "level": null
@@ -44079,6 +44463,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -44537,6 +44925,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 121,
           "level": null
@@ -44990,6 +45382,10 @@
         },
         "theatre_of_blood": {
           "value": 11,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -45447,6 +45843,10 @@
           "value": 18,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -45899,6 +46299,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -46357,6 +46761,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -46809,6 +47217,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -47267,6 +47679,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -47719,6 +48135,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -48177,6 +48597,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 112,
           "level": null
@@ -48237,7 +48661,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 683.3342,
+          "value": 683.60484,
           "level": null
         },
         "ehb": {
@@ -48245,11 +48669,11 @@
           "level": null
         },
         "overall": {
-          "value": 156088558,
+          "value": 156147867,
           "level": 2140
         },
         "attack": {
-          "value": 11524755,
+          "value": 11562374,
           "level": 97
         },
         "defence": {
@@ -48261,7 +48685,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 17535604,
+          "value": 17548137,
           "level": 99
         },
         "ranged": {
@@ -48309,7 +48733,7 @@
           "level": 90
         },
         "herblore": {
-          "value": 3704870,
+          "value": 3704892,
           "level": 86
         },
         "agility": {
@@ -48321,7 +48745,7 @@
           "level": 96
         },
         "slayer": {
-          "value": 3338342,
+          "value": 3347477,
           "level": 85
         },
         "farming": {
@@ -48629,6 +49053,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -49087,6 +49515,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1,
           "level": null
@@ -49540,6 +49972,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -49997,6 +50433,10 @@
           "value": 81,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -50452,6 +50892,10 @@
           "value": 381,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 11,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 600,
           "level": null
@@ -50904,6 +51348,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -51362,6 +51810,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -51817,6 +52269,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 106,
           "level": null
@@ -51877,7 +52333,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 460.87992,
+          "value": 461.12332,
           "level": null
         },
         "ehb": {
@@ -51885,7 +52341,7 @@
           "level": null
         },
         "overall": {
-          "value": 206477550,
+          "value": 206509351,
           "level": 2168
         },
         "attack": {
@@ -51913,7 +52369,7 @@
           "level": 87
         },
         "magic": {
-          "value": 14627538,
+          "value": 14627568,
           "level": 99
         },
         "cooking": {
@@ -51929,7 +52385,7 @@
           "level": 91
         },
         "fishing": {
-          "value": 2806595,
+          "value": 2837536,
           "level": 83
         },
         "firemaking": {
@@ -51953,7 +52409,7 @@
           "level": 91
         },
         "agility": {
-          "value": 2813627,
+          "value": 2814457,
           "level": 83
         },
         "thieving": {
@@ -52270,6 +52726,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -52727,6 +53187,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -53179,6 +53643,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -53637,6 +54105,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 922,
           "level": null
@@ -54089,6 +54561,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -54547,6 +55023,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -54999,6 +55479,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -55457,6 +55941,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 162,
           "level": null
@@ -55909,6 +56397,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -56367,6 +56859,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 354,
           "level": null
@@ -56822,6 +57318,10 @@
           "value": 144,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 1,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 100,
           "level": null
@@ -57274,6 +57774,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -57732,6 +58236,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 155,
           "level": null
@@ -57792,15 +58300,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1156.66082,
+          "value": 1156.68167,
           "level": null
         },
         "ehb": {
-          "value": 335.1938200000001,
+          "value": 335.5985800000001,
           "level": null
         },
         "overall": {
-          "value": 270459126,
+          "value": 270505954,
           "level": 2183
         },
         "attack": {
@@ -57816,11 +58324,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 37683903,
+          "value": 37694697,
           "level": 99
         },
         "ranged": {
-          "value": 45626700,
+          "value": 45659126,
           "level": 99
         },
         "prayer": {
@@ -57828,7 +58336,7 @@
           "level": 85
         },
         "magic": {
-          "value": 19850736,
+          "value": 19854344,
           "level": 99
         },
         "cooking": {
@@ -58187,6 +58695,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 181,
           "level": null
@@ -58236,7 +58748,7 @@
           "level": null
         },
         "zulrah": {
-          "value": 733,
+          "value": 750,
           "level": null
         }
       }
@@ -58640,6 +59152,10 @@
         },
         "theatre_of_blood": {
           "value": 32,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -59094,6 +59610,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -59552,6 +60072,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 197,
           "level": null
@@ -60007,6 +60531,10 @@
           "value": 9,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 262,
           "level": null
@@ -60459,6 +60987,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -60917,6 +61449,10 @@
           "value": 33,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 28,
           "level": null
@@ -61369,6 +61905,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -61827,6 +62367,10 @@
           "value": 132,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 28,
           "level": null
@@ -62279,6 +62823,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -62737,6 +63285,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 126,
           "level": null
@@ -63189,6 +63741,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -63647,6 +64203,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -63707,7 +64267,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 319.2930199999999,
+          "value": 319.8538399999999,
           "level": null
         },
         "ehb": {
@@ -63715,27 +64275,27 @@
           "level": null
         },
         "overall": {
-          "value": 125687952,
-          "level": 2044
+          "value": 126058169,
+          "level": 2045
         },
         "attack": {
           "value": 5752119,
           "level": 90
         },
         "defence": {
-          "value": 3614691,
+          "value": 3670629,
           "level": 86
         },
         "strength": {
-          "value": 9840449,
+          "value": 9881942,
           "level": 96
         },
         "hitpoints": {
-          "value": 17737841,
+          "value": 17832398,
           "level": 99
         },
         "ranged": {
-          "value": 19899208,
+          "value": 19919461,
           "level": 99
         },
         "prayer": {
@@ -63743,7 +64303,7 @@
           "level": 80
         },
         "magic": {
-          "value": 14360732,
+          "value": 14463982,
           "level": 99
         },
         "cooking": {
@@ -63779,11 +64339,11 @@
           "level": 90
         },
         "herblore": {
-          "value": 3383201,
+          "value": 3383235,
           "level": 85
         },
         "agility": {
-          "value": 1546784,
+          "value": 1546787,
           "level": 77
         },
         "thieving": {
@@ -63791,8 +64351,8 @@
           "level": 85
         },
         "slayer": {
-          "value": 5864593,
-          "level": 90
+          "value": 5919282,
+          "level": 91
         },
         "farming": {
           "value": 5884787,
@@ -64100,6 +64660,10 @@
         },
         "theatre_of_blood": {
           "value": 2,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -64554,6 +65118,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -65012,6 +65580,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 432,
           "level": null
@@ -65464,6 +66036,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -65922,6 +66498,10 @@
           "value": 166,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 3,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -66374,6 +66954,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -66832,6 +67416,10 @@
           "value": 29,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -67287,6 +67875,10 @@
           "value": 17,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 27,
           "level": null
@@ -67739,6 +68331,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -68197,6 +68793,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -68649,6 +69249,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -69107,6 +69711,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 567,
           "level": null
@@ -69560,6 +70168,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -70017,6 +70629,10 @@
           "value": 35,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -70472,6 +71088,10 @@
           "value": 211,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 1,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 139,
           "level": null
@@ -70924,6 +71544,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -71382,6 +72006,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -71834,6 +72462,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -72292,6 +72924,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -72352,16 +72988,16 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 365.1614199999999,
+          "value": 365.4456099999999,
           "level": null
         },
         "ehb": {
-          "value": 88.96945999999998,
+          "value": 89.08524999999999,
           "level": null
         },
         "overall": {
-          "value": 65349685,
-          "level": 1919
+          "value": 65408399,
+          "level": 1920
         },
         "attack": {
           "value": 2423053,
@@ -72372,23 +73008,23 @@
           "level": 85
         },
         "strength": {
-          "value": 7274518,
+          "value": 7287887,
           "level": 93
         },
         "hitpoints": {
-          "value": 7529210,
+          "value": 7541948,
           "level": 93
         },
         "ranged": {
-          "value": 5342784,
-          "level": 89
+          "value": 5355503,
+          "level": 90
         },
         "prayer": {
-          "value": 1344845,
+          "value": 1345755,
           "level": 76
         },
         "magic": {
-          "value": 5569460,
+          "value": 5581903,
           "level": 90
         },
         "cooking": {
@@ -72436,7 +73072,7 @@
           "level": 75
         },
         "slayer": {
-          "value": 1791906,
+          "value": 1798441,
           "level": 78
         },
         "farming": {
@@ -72744,6 +73380,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -73202,6 +73842,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -73654,6 +74298,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -74112,6 +74760,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -74564,6 +75216,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -75022,6 +75678,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 345,
           "level": null
@@ -75474,6 +76134,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -75932,6 +76596,10 @@
           "value": 22,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -76384,6 +77052,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -76842,6 +77514,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 179,
           "level": null
@@ -77294,6 +77970,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -77752,6 +78432,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -78204,6 +78888,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -78662,6 +79350,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 50,
           "level": null
@@ -79117,6 +79809,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -79569,6 +80265,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -80027,6 +80727,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -80479,6 +81183,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -80937,6 +81645,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -81389,6 +82101,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -81847,6 +82563,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 337,
           "level": null
@@ -82299,6 +83019,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -82757,6 +83481,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 176,
           "level": null
@@ -83209,6 +83937,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -83667,6 +84399,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1900,
           "level": null
@@ -84119,6 +84855,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -84577,6 +85317,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1,
           "level": null
@@ -85029,6 +85773,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -85487,6 +86235,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -85939,6 +86691,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -86397,6 +87153,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -86849,6 +87609,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -87307,6 +88071,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -87762,6 +88530,10 @@
           "value": 945,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 186,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 294,
           "level": null
@@ -88214,6 +88986,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -88672,6 +89448,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -89124,6 +89904,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -89582,6 +90366,10 @@
           "value": 773,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 201,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1217,
           "level": null
@@ -90037,6 +90825,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -90489,6 +91281,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -90947,6 +91743,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 167,
           "level": null
@@ -91399,6 +92199,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -91857,6 +92661,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -92309,6 +93117,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -92767,6 +93579,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -93219,6 +94035,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -93677,6 +94497,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -94129,6 +94953,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -94587,6 +95415,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -95039,6 +95871,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -95497,6 +96333,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -95949,6 +96789,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -96407,6 +97251,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -96859,6 +97707,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -97317,6 +98169,10 @@
           "value": 36,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 276,
           "level": null
@@ -97769,6 +98625,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -98227,6 +99087,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -98679,6 +99543,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -99137,6 +100005,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -99589,6 +100461,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -100047,6 +100923,10 @@
           "value": 2,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -100499,6 +101379,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -100957,6 +101841,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -101409,6 +102297,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -101867,6 +102759,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 80,
           "level": null
@@ -102319,6 +103215,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -102777,6 +103677,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -103229,6 +104133,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -103687,6 +104595,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -104139,6 +105051,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -104597,6 +105513,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -105052,6 +105972,10 @@
           "value": 2,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -105504,6 +106428,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -105962,6 +106890,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -106414,6 +107346,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -106872,6 +107808,10 @@
           "value": 71,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 319,
           "level": null
@@ -107324,6 +108264,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -107782,6 +108726,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -108234,6 +109182,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -108692,6 +109644,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -109147,6 +110103,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -109207,7 +110167,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 214.94203,
+          "value": 215.16264,
           "level": null
         },
         "ehb": {
@@ -109215,7 +110175,7 @@
           "level": null
         },
         "overall": {
-          "value": 62420199,
+          "value": 62445494,
           "level": 1918
         },
         "attack": {
@@ -109243,7 +110203,7 @@
           "level": 74
         },
         "magic": {
-          "value": 3494353,
+          "value": 3494457,
           "level": 85
         },
         "cooking": {
@@ -109275,7 +110235,7 @@
           "level": 75
         },
         "mining": {
-          "value": 2349061,
+          "value": 2374251,
           "level": 81
         },
         "herblore": {
@@ -109283,7 +110243,7 @@
           "level": 79
         },
         "agility": {
-          "value": 1510540,
+          "value": 1510541,
           "level": 77
         },
         "thieving": {
@@ -109371,7 +110331,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 320,
+          "value": 321,
           "level": null
         },
         "abyssal_sire": {
@@ -109599,6 +110559,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -110057,6 +111021,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -110509,6 +111477,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -110967,6 +111939,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -111419,6 +112395,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -111877,6 +112857,10 @@
           "value": 60,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1560,
           "level": null
@@ -112329,6 +113313,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -112787,6 +113775,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -113239,6 +114231,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -113697,6 +114693,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -114149,6 +115149,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -114607,6 +115611,10 @@
           "value": 3,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 107,
           "level": null
@@ -115059,6 +116067,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -115517,6 +116529,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -115969,6 +116985,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -116427,6 +117447,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -116487,15 +117511,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 418.88931,
+          "value": 419.32261,
           "level": null
         },
         "ehb": {
-          "value": 251.00534,
+          "value": 251.70534,
           "level": null
         },
         "overall": {
-          "value": 172563327,
+          "value": 172839721,
           "level": 2111
         },
         "attack": {
@@ -116503,19 +117527,19 @@
           "level": 90
         },
         "defence": {
-          "value": 9213509,
+          "value": 9227719,
           "level": 95
         },
         "strength": {
-          "value": 18907614,
+          "value": 19047452,
           "level": 99
         },
         "hitpoints": {
-          "value": 25889634,
+          "value": 25945275,
           "level": 99
         },
         "ranged": {
-          "value": 21436864,
+          "value": 21449856,
           "level": 99
         },
         "prayer": {
@@ -116523,7 +117547,7 @@
           "level": 82
         },
         "magic": {
-          "value": 19860411,
+          "value": 19863157,
           "level": 99
         },
         "cooking": {
@@ -116571,7 +117595,7 @@
           "level": 79
         },
         "slayer": {
-          "value": 9599673,
+          "value": 9650640,
           "level": 95
         },
         "farming": {
@@ -116651,7 +117675,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 388,
+          "value": 389,
           "level": null
         },
         "abyssal_sire": {
@@ -116667,7 +117691,7 @@
           "level": null
         },
         "araxxor": {
-          "value": 427,
+          "value": 455,
           "level": null
         },
         "artio": {
@@ -116882,6 +117906,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 5,
           "level": null
@@ -116942,16 +117970,16 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 701.3239699999998,
+          "value": 704.4377199999998,
           "level": null
         },
         "ehb": {
-          "value": 22.12489,
+          "value": 22.62489,
           "level": null
         },
         "overall": {
-          "value": 115990928,
-          "level": 2037
+          "value": 116251503,
+          "level": 2039
         },
         "attack": {
           "value": 5445569,
@@ -116966,7 +117994,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 10728627,
+          "value": 10739707,
           "level": 97
         },
         "ranged": {
@@ -116978,11 +118006,11 @@
           "level": 73
         },
         "magic": {
-          "value": 4550504,
+          "value": 4588499,
           "level": 88
         },
         "cooking": {
-          "value": 1386946,
+          "value": 1419546,
           "level": 76
         },
         "woodcutting": {
@@ -116994,8 +118022,8 @@
           "level": 82
         },
         "fishing": {
-          "value": 1331835,
-          "level": 75
+          "value": 1510735,
+          "level": 77
         },
         "firemaking": {
           "value": 13214047,
@@ -117130,7 +118158,7 @@
           "level": null
         },
         "barrows_chests": {
-          "value": 124,
+          "value": 134,
           "level": null
         },
         "brutus": {
@@ -117334,6 +118362,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -117792,6 +118824,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -118244,6 +119280,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -118702,6 +119742,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -119154,6 +120198,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -119612,6 +120660,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -120064,6 +121116,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -120522,6 +121578,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -120977,6 +122037,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -121037,43 +122101,43 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 268.0132800000001,
+          "value": 268.50136,
           "level": null
         },
         "ehb": {
-          "value": 165.5679699999999,
+          "value": 167.54372,
           "level": null
         },
         "overall": {
-          "value": 116456221,
+          "value": 116892865,
           "level": 1967
         },
         "attack": {
-          "value": 7134640,
+          "value": 7141125,
           "level": 92
         },
         "defence": {
-          "value": 5651802,
+          "value": 5677186,
           "level": 90
         },
         "strength": {
-          "value": 15120027,
+          "value": 15157676,
           "level": 99
         },
         "hitpoints": {
-          "value": 21018488,
+          "value": 21125870,
           "level": 99
         },
         "ranged": {
-          "value": 18051084,
+          "value": 18230873,
           "level": 99
         },
         "prayer": {
-          "value": 2143285,
+          "value": 2148565,
           "level": 80
         },
         "magic": {
-          "value": 13107958,
+          "value": 13146268,
           "level": 99
         },
         "cooking": {
@@ -121105,7 +122169,7 @@
           "level": 74
         },
         "mining": {
-          "value": 1316686,
+          "value": 1317401,
           "level": 75
         },
         "herblore": {
@@ -121121,7 +122185,7 @@
           "level": 76
         },
         "slayer": {
-          "value": 9377456,
+          "value": 9413096,
           "level": 95
         },
         "farming": {
@@ -121137,7 +122201,7 @@
           "level": 77
         },
         "construction": {
-          "value": 2449283,
+          "value": 2449293,
           "level": 82
         },
         "sailing": {
@@ -121209,7 +122273,7 @@
           "level": null
         },
         "alchemical_hydra": {
-          "value": 169,
+          "value": 196,
           "level": null
         },
         "amoxliatl": {
@@ -121425,11 +122489,15 @@
           "level": null
         },
         "the_whisperer": {
-          "value": 63,
+          "value": 72,
           "level": null
         },
         "theatre_of_blood": {
           "value": 34,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -121441,7 +122509,7 @@
           "level": null
         },
         "tombs_of_amascut_expert": {
-          "value": 38,
+          "value": 40,
           "level": null
         },
         "tzkal_zuk": {
@@ -121884,6 +122952,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -122342,6 +123414,10 @@
           "value": 67,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -122402,7 +123478,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 584.24158,
+          "value": 584.7756899999999,
           "level": null
         },
         "ehb": {
@@ -122410,7 +123486,7 @@
           "level": null
         },
         "overall": {
-          "value": 242711031,
+          "value": 242782007,
           "level": 2222
         },
         "attack": {
@@ -122454,7 +123530,7 @@
           "level": 86
         },
         "fishing": {
-          "value": 6138914,
+          "value": 6209762,
           "level": 91
         },
         "firemaking": {
@@ -122506,7 +123582,7 @@
           "level": 99
         },
         "sailing": {
-          "value": 4013315,
+          "value": 4013443,
           "level": 87
         },
         "bounty_hunter_hunter": {
@@ -122795,6 +123871,10 @@
         },
         "theatre_of_blood": {
           "value": 12,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -123249,6 +124329,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -123707,6 +124791,10 @@
           "value": 19,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -124159,6 +125247,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -124617,6 +125709,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -125069,6 +126165,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -125527,6 +126627,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -125979,6 +127083,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -126437,6 +127545,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -126890,6 +128002,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -127347,6 +128463,10 @@
           "value": 80,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 2882,
           "level": null
@@ -127799,6 +128919,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -128257,6 +129381,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -128712,6 +129840,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -128762,461 +129894,6 @@
         },
         "zulrah": {
           "value": 1,
-          "level": null
-        }
-      }
-    },
-    {
-      "username": "routh hurwtz",
-      "role": "ruby",
-      "type": "ironman",
-      "metrics": {
-        "ehp": {
-          "value": 655.8122099999999,
-          "level": null
-        },
-        "ehb": {
-          "value": 111.23592,
-          "level": null
-        },
-        "overall": {
-          "value": 122058822,
-          "level": 2017
-        },
-        "attack": {
-          "value": 5903026,
-          "level": 91
-        },
-        "defence": {
-          "value": 5952926,
-          "level": 91
-        },
-        "strength": {
-          "value": 10631945,
-          "level": 96
-        },
-        "hitpoints": {
-          "value": 15787544,
-          "level": 99
-        },
-        "ranged": {
-          "value": 13070349,
-          "level": 99
-        },
-        "prayer": {
-          "value": 1232220,
-          "level": 75
-        },
-        "magic": {
-          "value": 11819440,
-          "level": 98
-        },
-        "cooking": {
-          "value": 1615481,
-          "level": 77
-        },
-        "woodcutting": {
-          "value": 1714471,
-          "level": 78
-        },
-        "fletching": {
-          "value": 1502080,
-          "level": 77
-        },
-        "fishing": {
-          "value": 2490572,
-          "level": 82
-        },
-        "firemaking": {
-          "value": 2804823,
-          "level": 83
-        },
-        "crafting": {
-          "value": 4372447,
-          "level": 87
-        },
-        "smithing": {
-          "value": 2379674,
-          "level": 81
-        },
-        "mining": {
-          "value": 4422684,
-          "level": 88
-        },
-        "herblore": {
-          "value": 1871141,
-          "level": 79
-        },
-        "agility": {
-          "value": 5441589,
-          "level": 90
-        },
-        "thieving": {
-          "value": 16247549,
-          "level": 99
-        },
-        "slayer": {
-          "value": 5964752,
-          "level": 91
-        },
-        "farming": {
-          "value": 1628084,
-          "level": 77
-        },
-        "runecrafting": {
-          "value": 357285,
-          "level": 62
-        },
-        "hunter": {
-          "value": 3719453,
-          "level": 86
-        },
-        "construction": {
-          "value": 854577,
-          "level": 71
-        },
-        "sailing": {
-          "value": 274710,
-          "level": 60
-        },
-        "bounty_hunter_hunter": {
-          "value": 0,
-          "level": null
-        },
-        "bounty_hunter_rogue": {
-          "value": 0,
-          "level": null
-        },
-        "clue_scrolls_all": {
-          "value": 60,
-          "level": null
-        },
-        "clue_scrolls_beginner": {
-          "value": 0,
-          "level": null
-        },
-        "clue_scrolls_easy": {
-          "value": 0,
-          "level": null
-        },
-        "clue_scrolls_medium": {
-          "value": 8,
-          "level": null
-        },
-        "clue_scrolls_hard": {
-          "value": 52,
-          "level": null
-        },
-        "clue_scrolls_elite": {
-          "value": 0,
-          "level": null
-        },
-        "clue_scrolls_master": {
-          "value": 0,
-          "level": null
-        },
-        "last_man_standing": {
-          "value": 1520,
-          "level": null
-        },
-        "pvp_arena": {
-          "value": 3011,
-          "level": null
-        },
-        "soul_wars_zeal": {
-          "value": 0,
-          "level": null
-        },
-        "guardians_of_the_rift": {
-          "value": 46,
-          "level": null
-        },
-        "colosseum_glory": {
-          "value": 28751,
-          "level": null
-        },
-        "collections_logged": {
-          "value": 259,
-          "level": null
-        },
-        "abyssal_sire": {
-          "value": 0,
-          "level": null
-        },
-        "alchemical_hydra": {
-          "value": 0,
-          "level": null
-        },
-        "amoxliatl": {
-          "value": 0,
-          "level": null
-        },
-        "araxxor": {
-          "value": 0,
-          "level": null
-        },
-        "artio": {
-          "value": 502,
-          "level": null
-        },
-        "barrows_chests": {
-          "value": 6,
-          "level": null
-        },
-        "brutus": {
-          "value": 24,
-          "level": null
-        },
-        "bryophyta": {
-          "value": 5,
-          "level": null
-        },
-        "callisto": {
-          "value": 110,
-          "level": null
-        },
-        "calvarion": {
-          "value": 123,
-          "level": null
-        },
-        "cerberus": {
-          "value": 0,
-          "level": null
-        },
-        "chambers_of_xeric": {
-          "value": 6,
-          "level": null
-        },
-        "chambers_of_xeric_challenge_mode": {
-          "value": 29,
-          "level": null
-        },
-        "chaos_elemental": {
-          "value": 1,
-          "level": null
-        },
-        "chaos_fanatic": {
-          "value": 1,
-          "level": null
-        },
-        "commander_zilyana": {
-          "value": 0,
-          "level": null
-        },
-        "corporeal_beast": {
-          "value": 0,
-          "level": null
-        },
-        "crazy_archaeologist": {
-          "value": 28,
-          "level": null
-        },
-        "dagannoth_prime": {
-          "value": 15,
-          "level": null
-        },
-        "dagannoth_rex": {
-          "value": 46,
-          "level": null
-        },
-        "dagannoth_supreme": {
-          "value": 14,
-          "level": null
-        },
-        "deranged_archaeologist": {
-          "value": 0,
-          "level": null
-        },
-        "doom_of_mokhaiotl": {
-          "value": 79,
-          "level": null
-        },
-        "duke_sucellus": {
-          "value": 1,
-          "level": null
-        },
-        "general_graardor": {
-          "value": 0,
-          "level": null
-        },
-        "giant_mole": {
-          "value": 0,
-          "level": null
-        },
-        "grotesque_guardians": {
-          "value": 0,
-          "level": null
-        },
-        "hespori": {
-          "value": 5,
-          "level": null
-        },
-        "kalphite_queen": {
-          "value": 1,
-          "level": null
-        },
-        "king_black_dragon": {
-          "value": 14,
-          "level": null
-        },
-        "kraken": {
-          "value": 15,
-          "level": null
-        },
-        "kreearra": {
-          "value": 0,
-          "level": null
-        },
-        "kril_tsutsaroth": {
-          "value": 0,
-          "level": null
-        },
-        "lunar_chests": {
-          "value": 2,
-          "level": null
-        },
-        "mad_angel": {
-          "value": 0,
-          "level": null
-        },
-        "maggot_king": {
-          "value": 0,
-          "level": null
-        },
-        "mimic": {
-          "value": 0,
-          "level": null
-        },
-        "nex": {
-          "value": 0,
-          "level": null
-        },
-        "nightmare": {
-          "value": 0,
-          "level": null
-        },
-        "phosanis_nightmare": {
-          "value": 0,
-          "level": null
-        },
-        "obor": {
-          "value": 5,
-          "level": null
-        },
-        "phantom_muspah": {
-          "value": 0,
-          "level": null
-        },
-        "sarachnis": {
-          "value": 0,
-          "level": null
-        },
-        "scorpia": {
-          "value": 8,
-          "level": null
-        },
-        "scurrius": {
-          "value": 1,
-          "level": null
-        },
-        "shellbane_gryphon": {
-          "value": 0,
-          "level": null
-        },
-        "skotizo": {
-          "value": 6,
-          "level": null
-        },
-        "sol_heredit": {
-          "value": 1,
-          "level": null
-        },
-        "spindel": {
-          "value": 106,
-          "level": null
-        },
-        "tempoross": {
-          "value": 105,
-          "level": null
-        },
-        "the_gauntlet": {
-          "value": 5,
-          "level": null
-        },
-        "the_corrupted_gauntlet": {
-          "value": 394,
-          "level": null
-        },
-        "the_hueycoatl": {
-          "value": 10,
-          "level": null
-        },
-        "the_leviathan": {
-          "value": 1,
-          "level": null
-        },
-        "the_royal_titans": {
-          "value": 27,
-          "level": null
-        },
-        "the_whisperer": {
-          "value": 1,
-          "level": null
-        },
-        "theatre_of_blood": {
-          "value": 28,
-          "level": null
-        },
-        "thermonuclear_smoke_devil": {
-          "value": 0,
-          "level": null
-        },
-        "tombs_of_amascut": {
-          "value": 1,
-          "level": null
-        },
-        "tombs_of_amascut_expert": {
-          "value": 0,
-          "level": null
-        },
-        "tzkal_zuk": {
-          "value": 2,
-          "level": null
-        },
-        "tztok_jad": {
-          "value": 1,
-          "level": null
-        },
-        "vardorvis": {
-          "value": 2,
-          "level": null
-        },
-        "venenatis": {
-          "value": 68,
-          "level": null
-        },
-        "vetion": {
-          "value": 231,
-          "level": null
-        },
-        "vorkath": {
-          "value": 0,
-          "level": null
-        },
-        "wintertodt": {
-          "value": 182,
-          "level": null
-        },
-        "yama": {
-          "value": 5,
-          "level": null
-        },
-        "zalcano": {
-          "value": 0,
-          "level": null
-        },
-        "zulrah": {
-          "value": 52,
           "level": null
         }
       }
@@ -129619,6 +130296,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -130077,6 +130758,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -130532,6 +131217,10 @@
           "value": 13,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 166,
           "level": null
@@ -130984,6 +131673,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -131442,6 +132135,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 50,
           "level": null
@@ -131894,6 +132591,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -132352,6 +133053,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -132804,6 +133509,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -133262,6 +133971,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 23,
           "level": null
@@ -133717,6 +134430,10 @@
           "value": 508,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 127,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 118,
           "level": null
@@ -134169,6 +134886,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -134627,6 +135348,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 73,
           "level": null
@@ -135079,6 +135804,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -135537,6 +136266,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 317,
           "level": null
@@ -135989,6 +136722,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -136447,6 +137184,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1,
           "level": null
@@ -136902,6 +137643,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 101,
           "level": null
@@ -137354,6 +138099,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -137812,6 +138561,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1,
           "level": null
@@ -138265,6 +139018,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -138722,6 +139479,10 @@
           "value": 40,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 821,
           "level": null
@@ -139174,6 +139935,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -139632,6 +140397,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -140084,6 +140853,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -140542,6 +141315,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -140994,6 +141771,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -141452,6 +142233,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -141904,6 +142689,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -142362,6 +143151,10 @@
           "value": 3,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -142814,6 +143607,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -143272,6 +144069,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -143725,6 +144526,10 @@
         },
         "theatre_of_blood": {
           "value": 11,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -144182,6 +144987,10 @@
           "value": 123,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 310,
           "level": null
@@ -144634,6 +145443,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -145092,6 +145905,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -145544,6 +146361,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -146002,6 +146823,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -146062,15 +146887,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 232.63972,
+          "value": 232.67734,
           "level": null
         },
         "ehb": {
-          "value": 60.35907000000001,
+          "value": 61.05352000000001,
           "level": null
         },
         "overall": {
-          "value": 72089297,
+          "value": 72135214,
           "level": 1937
         },
         "attack": {
@@ -146078,19 +146903,19 @@
           "level": 81
         },
         "defence": {
-          "value": 5091505,
+          "value": 5096659,
           "level": 89
         },
         "strength": {
-          "value": 7883283,
+          "value": 7884315,
           "level": 93
         },
         "hitpoints": {
-          "value": 9023869,
+          "value": 9035830,
           "level": 95
         },
         "ranged": {
-          "value": 7590998,
+          "value": 7605254,
           "level": 93
         },
         "prayer": {
@@ -146098,15 +146923,15 @@
           "level": 72
         },
         "magic": {
-          "value": 4559799,
+          "value": 4567549,
           "level": 88
         },
         "cooking": {
-          "value": 2475610,
+          "value": 2477170,
           "level": 82
         },
         "woodcutting": {
-          "value": 1691181,
+          "value": 1691531,
           "level": 78
         },
         "fletching": {
@@ -146114,7 +146939,7 @@
           "level": 70
         },
         "fishing": {
-          "value": 1742337,
+          "value": 1743297,
           "level": 78
         },
         "firemaking": {
@@ -146122,19 +146947,19 @@
           "level": 81
         },
         "crafting": {
-          "value": 3349749,
+          "value": 3350949,
           "level": 85
         },
         "smithing": {
-          "value": 1112684,
+          "value": 1113884,
           "level": 74
         },
         "mining": {
-          "value": 5154110,
+          "value": 5154460,
           "level": 89
         },
         "herblore": {
-          "value": 1934147,
+          "value": 1934247,
           "level": 79
         },
         "agility": {
@@ -146150,7 +146975,7 @@
           "level": 84
         },
         "farming": {
-          "value": 4219757,
+          "value": 4219801,
           "level": 87
         },
         "runecrafting": {
@@ -146434,7 +147259,7 @@
           "level": null
         },
         "the_corrupted_gauntlet": {
-          "value": 214,
+          "value": 219,
           "level": null
         },
         "the_hueycoatl": {
@@ -146454,6 +147279,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -146912,6 +147741,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -147364,6 +148197,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -147822,6 +148659,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -148274,6 +149115,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -148732,6 +149577,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -149184,6 +150033,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -149642,6 +150495,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 121,
           "level": null
@@ -150097,6 +150954,10 @@
           "value": 1396,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 130,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 10382,
           "level": null
@@ -150549,6 +151410,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -151007,6 +151872,10 @@
           "value": 23,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 87,
           "level": null
@@ -151459,6 +152328,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -151917,6 +152790,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -152369,6 +153246,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -152827,6 +153708,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -153279,6 +154164,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -153737,6 +154626,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -154189,6 +155082,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -154647,6 +155544,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -155099,6 +156000,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -155557,6 +156462,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -156009,6 +156918,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -156467,6 +157380,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -156922,6 +157839,10 @@
           "value": 194,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 35,
           "level": null
@@ -157374,6 +158295,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -157832,6 +158757,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -158284,6 +159213,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -158742,6 +159675,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -159194,6 +160131,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -159652,6 +160593,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -160107,6 +161052,10 @@
           "value": 5,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 148,
           "level": null
@@ -160559,6 +161508,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -161017,6 +161970,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -161469,6 +162426,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -161927,6 +162888,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -162379,6 +163344,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -162837,6 +163806,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 127,
           "level": null
@@ -163292,6 +164265,10 @@
           "value": 63,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 700,
           "level": null
@@ -163352,7 +164329,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 408.30348,
+          "value": 411.74105,
           "level": null
         },
         "ehb": {
@@ -163360,8 +164337,8 @@
           "level": null
         },
         "overall": {
-          "value": 63865611,
-          "level": 1898
+          "value": 64120926,
+          "level": 1900
         },
         "attack": {
           "value": 2447700,
@@ -163388,7 +164365,7 @@
           "level": 70
         },
         "magic": {
-          "value": 4494802,
+          "value": 4494872,
           "level": 88
         },
         "cooking": {
@@ -163424,8 +164401,8 @@
           "level": 77
         },
         "herblore": {
-          "value": 2182623,
-          "level": 80
+          "value": 2422723,
+          "level": 82
         },
         "agility": {
           "value": 3985974,
@@ -163440,7 +164417,7 @@
           "level": 78
         },
         "farming": {
-          "value": 6405509,
+          "value": 6420654,
           "level": 91
         },
         "runecrafting": {
@@ -163747,6 +164724,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -163807,7 +164788,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 291.36028,
+          "value": 291.8732900000001,
           "level": null
         },
         "ehb": {
@@ -163815,8 +164796,8 @@
           "level": null
         },
         "overall": {
-          "value": 81619085,
-          "level": 1927
+          "value": 81725605,
+          "level": 1928
         },
         "attack": {
           "value": 6591057,
@@ -163851,8 +164832,8 @@
           "level": 81
         },
         "woodcutting": {
-          "value": 2936287,
-          "level": 83
+          "value": 3042807,
+          "level": 84
         },
         "fletching": {
           "value": 822481,
@@ -164199,6 +165180,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -164657,6 +165642,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 86,
           "level": null
@@ -165109,6 +166098,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -165567,6 +166560,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -166019,6 +167016,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -166477,6 +167478,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -166929,6 +167934,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -167387,6 +168396,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 230,
           "level": null
@@ -167839,6 +168852,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -168297,6 +169314,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -168752,6 +169773,10 @@
           "value": 152,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 344,
           "level": null
@@ -169204,6 +170229,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -169662,6 +170691,10 @@
           "value": 60,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -170114,6 +171147,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -170572,6 +171609,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -171024,6 +172065,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -171482,6 +172527,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -171934,6 +172983,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -172392,6 +173445,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -172844,6 +173901,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -173302,6 +174363,10 @@
           "value": 116,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 9,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -173754,6 +174819,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -174212,6 +175281,10 @@
           "value": 390,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 11,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 464,
           "level": null
@@ -174664,6 +175737,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -175122,6 +176199,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -175574,6 +176655,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -176032,6 +177117,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -176484,6 +177573,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -176942,6 +178035,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -177397,6 +178494,10 @@
           "value": 116,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 509,
           "level": null
@@ -177849,6 +178950,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -178307,6 +179412,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -178759,6 +179868,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -179217,6 +180330,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -179669,6 +180786,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -180127,6 +181248,10 @@
           "value": 2011,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 137,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 450,
           "level": null
@@ -180579,6 +181704,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -181037,6 +182166,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 29,
           "level": null
@@ -181492,6 +182625,10 @@
           "value": 104,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 3,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -181944,6 +183081,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -182402,6 +183543,10 @@
           "value": 2,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -182854,6 +183999,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -183312,6 +184461,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -183764,6 +184917,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -184222,6 +185379,10 @@
           "value": 121,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 146,
           "level": null
@@ -184674,6 +185835,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -185132,6 +186297,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -185584,6 +186753,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -186042,6 +187215,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -186497,6 +187674,10 @@
           "value": 3,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 238,
           "level": null
@@ -186949,6 +188130,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -187407,6 +188592,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -187859,6 +189048,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -188317,6 +189510,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -188769,6 +189966,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -189227,6 +190428,10 @@
           "value": 34,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 5,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -189679,6 +190884,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -190137,6 +191346,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -190589,6 +191802,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -191047,6 +192264,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -191499,6 +192720,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -191957,6 +193182,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -192409,6 +193638,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -192867,6 +194100,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -193319,6 +194556,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -193777,6 +195018,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -194229,6 +195474,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -194687,6 +195936,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -195142,6 +196395,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -195202,7 +196459,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 2226.48199,
+          "value": 2226.48894,
           "level": null
         },
         "ehb": {
@@ -195210,7 +196467,7 @@
           "level": null
         },
         "overall": {
-          "value": 425519902,
+          "value": 425523707,
           "level": 2376
         },
         "attack": {
@@ -195226,11 +196483,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 39906811,
+          "value": 39907612,
           "level": 99
         },
         "ranged": {
-          "value": 49798297,
+          "value": 49800701,
           "level": 99
         },
         "prayer": {
@@ -195286,7 +196543,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 18234228,
+          "value": 18234828,
           "level": 99
         },
         "farming": {
@@ -195594,6 +196851,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -196052,6 +197313,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -196504,6 +197769,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -196962,6 +198231,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -197414,6 +198687,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -197872,6 +199149,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -198327,6 +199608,10 @@
           "value": 491,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 598,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 1028,
           "level": null
@@ -198779,6 +200064,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -199237,6 +200526,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 406,
           "level": null
@@ -199689,6 +200982,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -200147,6 +201444,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -200599,6 +201900,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -201057,6 +202362,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -201509,6 +202818,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -201967,6 +203280,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -202419,6 +203736,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -202877,6 +204198,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -203329,6 +204654,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -203787,6 +205116,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -204242,6 +205575,10 @@
           "value": 9,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -204694,6 +206031,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -205152,6 +206493,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -205604,6 +206949,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -206062,6 +207411,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -206514,6 +207867,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -206972,6 +208329,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -207427,6 +208788,10 @@
           "value": 45,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 5,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 467,
           "level": null
@@ -207879,6 +209244,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -208337,6 +209706,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -208789,6 +210162,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -209247,6 +210624,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -209699,6 +211080,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -210157,6 +211542,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -210609,6 +211998,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -211067,6 +212460,10 @@
           "value": 44,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -211520,6 +212917,10 @@
         },
         "theatre_of_blood": {
           "value": 252,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -211977,6 +213378,10 @@
           "value": 49,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 28,
           "level": null
@@ -212432,6 +213837,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -212492,19 +213901,19 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1392.18308,
+          "value": 1392.94712,
           "level": null
         },
         "ehb": {
-          "value": 1478.28315,
+          "value": 1479.58315,
           "level": null
         },
         "overall": {
-          "value": 879413506,
+          "value": 879954298,
           "level": 2376
         },
         "attack": {
-          "value": 68419018,
+          "value": 68447447,
           "level": 99
         },
         "defence": {
@@ -212512,11 +213921,11 @@
           "level": 99
         },
         "strength": {
-          "value": 103107171,
+          "value": 103406930,
           "level": 99
         },
         "hitpoints": {
-          "value": 122503543,
+          "value": 122612900,
           "level": 99
         },
         "ranged": {
@@ -212528,7 +213937,7 @@
           "level": 99
         },
         "magic": {
-          "value": 62746853,
+          "value": 62757087,
           "level": 99
         },
         "cooking": {
@@ -212576,7 +213985,7 @@
           "level": 99
         },
         "slayer": {
-          "value": 30816530,
+          "value": 30909543,
           "level": 99
         },
         "farming": {
@@ -212672,7 +214081,7 @@
           "level": null
         },
         "araxxor": {
-          "value": 3203,
+          "value": 3255,
           "level": null
         },
         "artio": {
@@ -212885,6 +214294,10 @@
         },
         "theatre_of_blood": {
           "value": 254,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -213339,6 +214752,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -213797,6 +215214,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 20,
           "level": null
@@ -214249,6 +215670,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -214707,6 +216132,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -215159,6 +216588,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -215617,6 +217050,10 @@
           "value": 11,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 22,
           "level": null
@@ -216069,6 +217506,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -216527,6 +217968,10 @@
           "value": 520,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 12,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 221,
           "level": null
@@ -216982,6 +218427,10 @@
           "value": 259,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 8,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 3,
           "level": null
@@ -217434,6 +218883,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -217892,6 +219345,10 @@
           "value": 157,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -218347,6 +219804,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -218407,7 +219868,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 383.56634,
+          "value": 384.0506800000001,
           "level": null
         },
         "ehb": {
@@ -218415,8 +219876,8 @@
           "level": null
         },
         "overall": {
-          "value": 55091069,
-          "level": 1923
+          "value": 55246055,
+          "level": 1924
         },
         "attack": {
           "value": 1927105,
@@ -218467,15 +219928,15 @@
           "level": 75
         },
         "crafting": {
-          "value": 2883666,
-          "level": 83
+          "value": 3033266,
+          "level": 84
         },
         "smithing": {
           "value": 3086341,
           "level": 84
         },
         "mining": {
-          "value": 2483845,
+          "value": 2489231,
           "level": 82
         },
         "herblore": {
@@ -218571,7 +220032,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 244,
+          "value": 245,
           "level": null
         },
         "abyssal_sire": {
@@ -218799,6 +220260,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -219257,6 +220722,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -219709,6 +221178,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -220167,6 +221640,10 @@
           "value": 53,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -220622,6 +222099,10 @@
           "value": 1,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 134,
           "level": null
@@ -220682,15 +222163,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 940.06015,
+          "value": 940.1822199999999,
           "level": null
         },
         "ehb": {
-          "value": 316.23408,
+          "value": 318.55408,
           "level": null
         },
         "overall": {
-          "value": 356772258,
+          "value": 357009958,
           "level": 2344
         },
         "attack": {
@@ -220698,7 +222179,7 @@
           "level": 99
         },
         "defence": {
-          "value": 13867264,
+          "value": 13894552,
           "level": 99
         },
         "strength": {
@@ -220706,11 +222187,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 34666819,
+          "value": 34737087,
           "level": 99
         },
         "ranged": {
-          "value": 33979373,
+          "value": 34080950,
           "level": 99
         },
         "prayer": {
@@ -220718,7 +222199,7 @@
           "level": 95
         },
         "magic": {
-          "value": 19697538,
+          "value": 19734988,
           "level": 99
         },
         "cooking": {
@@ -220730,7 +222211,7 @@
           "level": 99
         },
         "fletching": {
-          "value": 13064502,
+          "value": 13064614,
           "level": 99
         },
         "fishing": {
@@ -220742,7 +222223,7 @@
           "level": 95
         },
         "crafting": {
-          "value": 13134120,
+          "value": 13134915,
           "level": 99
         },
         "smithing": {
@@ -220754,7 +222235,7 @@
           "level": 95
         },
         "herblore": {
-          "value": 13279011,
+          "value": 13279221,
           "level": 99
         },
         "agility": {
@@ -220846,7 +222327,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 700,
+          "value": 702,
           "level": null
         },
         "abyssal_sire": {
@@ -220906,7 +222387,7 @@
           "level": null
         },
         "chaos_fanatic": {
-          "value": 89,
+          "value": 125,
           "level": null
         },
         "commander_zilyana": {
@@ -221074,6 +222555,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -221532,6 +223017,10 @@
           "value": 76,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -221987,6 +223476,10 @@
           "value": 578,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 97,
           "level": null
@@ -222439,6 +223932,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -222897,6 +224394,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -223350,6 +224851,10 @@
         },
         "theatre_of_blood": {
           "value": 35,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -223807,6 +225312,10 @@
           "value": 320,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 8,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 121,
           "level": null
@@ -224259,6 +225768,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -224717,6 +226230,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -225172,6 +226689,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -225232,7 +226753,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 122.11895,
+          "value": 122.11902,
           "level": null
         },
         "ehb": {
@@ -225240,7 +226761,7 @@
           "level": null
         },
         "overall": {
-          "value": 22699256,
+          "value": 22763113,
           "level": 1484
         },
         "attack": {
@@ -225252,11 +226773,11 @@
           "level": 70
         },
         "strength": {
-          "value": 828064,
+          "value": 876003,
           "level": 71
         },
         "hitpoints": {
-          "value": 1025019,
+          "value": 1040937,
           "level": 73
         },
         "ranged": {
@@ -225624,6 +227145,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
@@ -226082,6 +227607,10 @@
           "value": 130,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 8,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 317,
           "level": null
@@ -226535,6 +228064,10 @@
         },
         "theatre_of_blood": {
           "value": 1,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
           "level": null
         },
         "thermonuclear_smoke_devil": {
@@ -226992,6 +228525,10 @@
           "value": 0,
           "level": null
         },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
         "thermonuclear_smoke_devil": {
           "value": 0,
           "level": null
@@ -227444,6 +228981,10 @@
           "level": null
         },
         "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
           "value": 0,
           "level": null
         },
