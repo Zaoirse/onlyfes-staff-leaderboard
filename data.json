@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:21:40.299Z",
+  "updatedAt": "2026-09-30T03:22:13.147Z",
   "members": [
     {
       "username": "Corvids",
@@ -287,7 +287,7 @@
           "level": null
         },
         "kalphite_queen": {
-          "value": 59,
+          "value": 61,
           "level": null
         },
         "king_black_dragon": {
@@ -339,7 +339,7 @@
           "level": null
         },
         "phantom_muspah": {
-          "value": 370,
+          "value": 371,
           "level": null
         },
         "sarachnis": {
@@ -395,7 +395,7 @@
           "level": null
         },
         "the_whisperer": {
-          "value": 8,
+          "value": 11,
           "level": null
         },
         "theatre_of_blood": {
@@ -1843,7 +1843,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 119.85556,
+          "value": 119.85627,
           "level": null
         },
         "ehb": {
@@ -1851,7 +1851,7 @@
           "level": null
         },
         "overall": {
-          "value": 28832013,
+          "value": 28853048,
           "level": 1735
         },
         "attack": {
@@ -1879,7 +1879,7 @@
           "level": 72
         },
         "magic": {
-          "value": 2797410,
+          "value": 2817865,
           "level": 83
         },
         "cooking": {
@@ -1943,7 +1943,7 @@
           "level": 71
         },
         "construction": {
-          "value": 816393,
+          "value": 816973,
           "level": 71
         },
         "sailing": {
@@ -4597,35 +4597,35 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 681.6360900000001,
+          "value": 681.9877500000001,
           "level": null
         },
         "ehb": {
-          "value": 326.1943699999999,
+          "value": 327.4443699999999,
           "level": null
         },
         "overall": {
-          "value": 262262705,
+          "value": 262473368,
           "level": 2239
         },
         "attack": {
-          "value": 11887252,
+          "value": 11953480,
           "level": 98
         },
         "defence": {
-          "value": 13808028,
+          "value": 13809423,
           "level": 99
         },
         "strength": {
-          "value": 15034326,
+          "value": 15053154,
           "level": 99
         },
         "hitpoints": {
-          "value": 33787615,
+          "value": 33821149,
           "level": 99
         },
         "ranged": {
-          "value": 34466882,
+          "value": 34476940,
           "level": 99
         },
         "prayer": {
@@ -4633,7 +4633,7 @@
           "level": 88
         },
         "magic": {
-          "value": 27088852,
+          "value": 27092905,
           "level": 99
         },
         "cooking": {
@@ -4649,7 +4649,7 @@
           "level": 90
         },
         "fishing": {
-          "value": 4208113,
+          "value": 4248073,
           "level": 87
         },
         "firemaking": {
@@ -4657,7 +4657,7 @@
           "level": 90
         },
         "crafting": {
-          "value": 10904462,
+          "value": 10904662,
           "level": 97
         },
         "smithing": {
@@ -4669,7 +4669,7 @@
           "level": 93
         },
         "herblore": {
-          "value": 8881014,
+          "value": 8881964,
           "level": 95
         },
         "agility": {
@@ -4685,7 +4685,7 @@
           "level": 97
         },
         "farming": {
-          "value": 13986082,
+          "value": 14013993,
           "level": 99
         },
         "runecrafting": {
@@ -4693,7 +4693,7 @@
           "level": 86
         },
         "hunter": {
-          "value": 4096223,
+          "value": 4100099,
           "level": 87
         },
         "construction": {
@@ -4701,7 +4701,7 @@
           "level": 87
         },
         "sailing": {
-          "value": 4821194,
+          "value": 4824864,
           "level": 88
         },
         "bounty_hunter_hunter": {
@@ -24793,35 +24793,35 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1148.67537,
+          "value": 1148.70103,
           "level": null
         },
         "ehb": {
-          "value": 669.4643899999998,
+          "value": 669.8421699999998,
           "level": null
         },
         "overall": {
-          "value": 505941192,
+          "value": 505984851,
           "level": 2376
         },
         "attack": {
-          "value": 14511419,
+          "value": 14511439,
           "level": 99
         },
         "defence": {
-          "value": 14817581,
+          "value": 14822245,
           "level": 99
         },
         "strength": {
-          "value": 42064269,
+          "value": 42069148,
           "level": 99
         },
         "hitpoints": {
-          "value": 63231645,
+          "value": 63242854,
           "level": 99
         },
         "ranged": {
-          "value": 79452611,
+          "value": 79462711,
           "level": 99
         },
         "prayer": {
@@ -24829,15 +24829,15 @@
           "level": 99
         },
         "magic": {
-          "value": 45821791,
+          "value": 45828678,
           "level": 99
         },
         "cooking": {
-          "value": 14448182,
+          "value": 14449472,
           "level": 99
         },
         "woodcutting": {
-          "value": 14099364,
+          "value": 14099574,
           "level": 99
         },
         "fletching": {
@@ -24845,7 +24845,7 @@
           "level": 99
         },
         "fishing": {
-          "value": 13095241,
+          "value": 13095931,
           "level": 99
         },
         "firemaking": {
@@ -24853,19 +24853,19 @@
           "level": 99
         },
         "crafting": {
-          "value": 13128585,
+          "value": 13129565,
           "level": 99
         },
         "smithing": {
-          "value": 13036829,
+          "value": 13037809,
           "level": 99
         },
         "mining": {
-          "value": 13082351,
+          "value": 13082541,
           "level": 99
         },
         "herblore": {
-          "value": 13053893,
+          "value": 13055423,
           "level": 99
         },
         "agility": {
@@ -24881,7 +24881,7 @@
           "level": 99
         },
         "farming": {
-          "value": 13548940,
+          "value": 13548970,
           "level": 99
         },
         "runecrafting": {
@@ -25161,11 +25161,11 @@
           "level": null
         },
         "the_gauntlet": {
-          "value": 14,
+          "value": 15,
           "level": null
         },
         "the_corrupted_gauntlet": {
-          "value": 258,
+          "value": 260,
           "level": null
         },
         "the_hueycoatl": {
@@ -42235,15 +42235,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1828.60313,
+          "value": 1829.16283,
           "level": null
         },
         "ehb": {
-          "value": 335.23482,
+          "value": 335.26184,
           "level": null
         },
         "overall": {
-          "value": 445138214,
+          "value": 445293707,
           "level": 2344
         },
         "attack": {
@@ -42255,11 +42255,11 @@
           "level": 99
         },
         "strength": {
-          "value": 40875919,
+          "value": 40879194,
           "level": 99
         },
         "hitpoints": {
-          "value": 39096758,
+          "value": 39097849,
           "level": 99
         },
         "ranged": {
@@ -42271,7 +42271,7 @@
           "level": 99
         },
         "magic": {
-          "value": 17786785,
+          "value": 17803815,
           "level": 99
         },
         "cooking": {
@@ -42303,11 +42303,11 @@
           "level": 97
         },
         "mining": {
-          "value": 9054100,
+          "value": 9054120,
           "level": 95
         },
         "herblore": {
-          "value": 14853566,
+          "value": 14853606,
           "level": 99
         },
         "agility": {
@@ -42319,11 +42319,11 @@
           "level": 99
         },
         "slayer": {
-          "value": 26514662,
+          "value": 26514967,
           "level": 99
         },
         "farming": {
-          "value": 39979622,
+          "value": 39979630,
           "level": 99
         },
         "runecrafting": {
@@ -42339,7 +42339,7 @@
           "level": 95
         },
         "sailing": {
-          "value": 22286806,
+          "value": 22420530,
           "level": 99
         },
         "bounty_hunter_hunter": {
@@ -42495,7 +42495,7 @@
           "level": null
         },
         "duke_sucellus": {
-          "value": 1,
+          "value": 2,
           "level": null
         },
         "general_graardor": {
@@ -44530,7 +44530,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1100.08274,
+          "value": 1100.24086,
           "level": null
         },
         "ehb": {
@@ -44538,7 +44538,7 @@
           "level": null
         },
         "overall": {
-          "value": 351304427,
+          "value": 351321614,
           "level": 2176
         },
         "attack": {
@@ -44598,7 +44598,7 @@
           "level": 83
         },
         "mining": {
-          "value": 4787788,
+          "value": 4804975,
           "level": 88
         },
         "herblore": {
@@ -49579,7 +49579,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 910.5929699999998,
+          "value": 910.6250999999999,
           "level": null
         },
         "ehb": {
@@ -49587,31 +49587,31 @@
           "level": null
         },
         "overall": {
-          "value": 184388086,
+          "value": 184478965,
           "level": 2179
         },
         "attack": {
-          "value": 7044471,
+          "value": 7047361,
           "level": 92
         },
         "defence": {
-          "value": 6800578,
+          "value": 6806954,
           "level": 92
         },
         "strength": {
-          "value": 13703630,
+          "value": 13726854,
           "level": 99
         },
         "hitpoints": {
-          "value": 16991938,
+          "value": 17014203,
           "level": 99
         },
         "ranged": {
-          "value": 17219570,
+          "value": 17253934,
           "level": 99
         },
         "prayer": {
-          "value": 2327472,
+          "value": 2329232,
           "level": 81
         },
         "magic": {
@@ -88594,19 +88594,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 544.98329,
+          "value": 545.47696,
           "level": null
         },
         "ehb": {
-          "value": 126.89287,
+          "value": 126.91287,
           "level": null
         },
         "overall": {
-          "value": 137718448,
-          "level": 2060
+          "value": 138050919,
+          "level": 2061
         },
         "attack": {
-          "value": 10830542,
+          "value": 10831742,
           "level": 97
         },
         "defence": {
@@ -88618,11 +88618,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 16297167,
+          "value": 16297571,
           "level": 99
         },
         "ranged": {
-          "value": 15346529,
+          "value": 15346541,
           "level": 99
         },
         "prayer": {
@@ -88630,7 +88630,7 @@
           "level": 75
         },
         "magic": {
-          "value": 5102358,
+          "value": 5102564,
           "level": 89
         },
         "cooking": {
@@ -88642,7 +88642,7 @@
           "level": 96
         },
         "fletching": {
-          "value": 2223283,
+          "value": 2223843,
           "level": 81
         },
         "fishing": {
@@ -88654,7 +88654,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 3126569,
+          "value": 3240149,
           "level": 84
         },
         "smithing": {
@@ -88662,7 +88662,7 @@
           "level": 83
         },
         "mining": {
-          "value": 6187925,
+          "value": 6192742,
           "level": 91
         },
         "herblore": {
@@ -88670,7 +88670,7 @@
           "level": 83
         },
         "agility": {
-          "value": 1521378,
+          "value": 1521383,
           "level": 77
         },
         "thieving": {
@@ -88682,15 +88682,15 @@
           "level": 78
         },
         "farming": {
-          "value": 10619186,
-          "level": 96
+          "value": 10826377,
+          "level": 97
         },
         "runecrafting": {
           "value": 1010423,
           "level": 73
         },
         "hunter": {
-          "value": 6406455,
+          "value": 6410951,
           "level": 91
         },
         "construction": {
@@ -88870,7 +88870,7 @@
           "level": null
         },
         "hespori": {
-          "value": 76,
+          "value": 77,
           "level": null
         },
         "kalphite_queen": {
@@ -107413,31 +107413,31 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 266.25801,
+          "value": 266.27788,
           "level": null
         },
         "ehb": {
-          "value": 64.57737,
+          "value": 64.8107,
           "level": null
         },
         "overall": {
-          "value": 84204107,
+          "value": 84274835,
           "level": 2014
         },
         "attack": {
-          "value": 5543339,
+          "value": 5558885,
           "level": 90
         },
         "defence": {
-          "value": 5379646,
+          "value": 5395192,
           "level": 90
         },
         "strength": {
-          "value": 6899608,
+          "value": 6920095,
           "level": 92
         },
         "hitpoints": {
-          "value": 8645036,
+          "value": 8662229,
           "level": 94
         },
         "ranged": {
@@ -107449,7 +107449,7 @@
           "level": 82
         },
         "magic": {
-          "value": 6781557,
+          "value": 6783493,
           "level": 92
         },
         "cooking": {
@@ -107489,7 +107489,7 @@
           "level": 82
         },
         "agility": {
-          "value": 2024924,
+          "value": 2024944,
           "level": 80
         },
         "thieving": {
@@ -107717,7 +107717,7 @@
           "level": null
         },
         "mad_angel": {
-          "value": 43,
+          "value": 57,
           "level": null
         },
         "maggot_king": {
@@ -112462,7 +112462,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 219.47996,
+          "value": 219.67592,
           "level": null
         },
         "ehb": {
@@ -112470,35 +112470,35 @@
           "level": null
         },
         "overall": {
-          "value": 63324669,
+          "value": 63389235,
           "level": 1924
         },
         "attack": {
-          "value": 2665812,
+          "value": 2670739,
           "level": 82
         },
         "defence": {
-          "value": 2233972,
+          "value": 2238899,
           "level": 81
         },
         "strength": {
-          "value": 10497615,
+          "value": 10506770,
           "level": 96
         },
         "hitpoints": {
-          "value": 7126587,
+          "value": 7138382,
           "level": 92
         },
         "ranged": {
-          "value": 3610462,
+          "value": 3626856,
           "level": 86
         },
         "prayer": {
-          "value": 1101964,
+          "value": 1102844,
           "level": 74
         },
         "magic": {
-          "value": 3500157,
+          "value": 3500278,
           "level": 85
         },
         "cooking": {
@@ -112530,11 +112530,11 @@
           "level": 75
         },
         "mining": {
-          "value": 2573647,
+          "value": 2581486,
           "level": 82
         },
         "herblore": {
-          "value": 1802206,
+          "value": 1802214,
           "level": 79
         },
         "agility": {
@@ -112546,7 +112546,7 @@
           "level": 76
         },
         "slayer": {
-          "value": 1895825,
+          "value": 1904345,
           "level": 79
         },
         "farming": {
@@ -112921,7 +112921,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 352.2765299999999,
+          "value": 352.36916,
           "level": null
         },
         "ehb": {
@@ -112929,7 +112929,7 @@
           "level": null
         },
         "overall": {
-          "value": 63200899,
+          "value": 63210968,
           "level": 1877
         },
         "attack": {
@@ -112989,7 +112989,7 @@
           "level": 73
         },
         "mining": {
-          "value": 5845258,
+          "value": 5855327,
           "level": 90
         },
         "herblore": {
@@ -120724,7 +120724,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 709.9239499999999,
+          "value": 712.0794099999998,
           "level": null
         },
         "ehb": {
@@ -120732,8 +120732,8 @@
           "level": null
         },
         "overall": {
-          "value": 117855594,
-          "level": 2044
+          "value": 118081539,
+          "level": 2046
         },
         "attack": {
           "value": 5445707,
@@ -120764,8 +120764,8 @@
           "level": 90
         },
         "cooking": {
-          "value": 1520626,
-          "level": 77
+          "value": 1640176,
+          "level": 78
         },
         "woodcutting": {
           "value": 6892124,
@@ -120776,8 +120776,8 @@
           "level": 82
         },
         "fishing": {
-          "value": 1753796,
-          "level": 78
+          "value": 1860191,
+          "level": 79
         },
         "firemaking": {
           "value": 13214047,
@@ -166165,15 +166165,15 @@
       "type": "hardcore",
       "metrics": {
         "ehp": {
-          "value": 654.9447399999999,
+          "value": 655.02164,
           "level": null
         },
         "ehb": {
-          "value": 77.68518999999999,
+          "value": 77.74074,
           "level": null
         },
         "overall": {
-          "value": 164200153,
+          "value": 164231395,
           "level": 2093
         },
         "attack": {
@@ -166185,11 +166185,11 @@
           "level": 87
         },
         "strength": {
-          "value": 11824193,
+          "value": 11826266,
           "level": 98
         },
         "hitpoints": {
-          "value": 10296750,
+          "value": 10297440,
           "level": 96
         },
         "ranged": {
@@ -166225,7 +166225,7 @@
           "level": 91
         },
         "crafting": {
-          "value": 2503199,
+          "value": 2518799,
           "level": 82
         },
         "smithing": {
@@ -166237,7 +166237,7 @@
           "level": 85
         },
         "herblore": {
-          "value": 5799043,
+          "value": 5799812,
           "level": 90
         },
         "agility": {
@@ -166253,7 +166253,7 @@
           "level": 75
         },
         "farming": {
-          "value": 24813104,
+          "value": 24821338,
           "level": 99
         },
         "runecrafting": {
@@ -166261,7 +166261,7 @@
           "level": 66
         },
         "hunter": {
-          "value": 5011154,
+          "value": 5015030,
           "level": 89
         },
         "construction": {
@@ -166465,7 +166465,7 @@
           "level": null
         },
         "lunar_chests": {
-          "value": 912,
+          "value": 913,
           "level": null
         },
         "mad_angel": {
