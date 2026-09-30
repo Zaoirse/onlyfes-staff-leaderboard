@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:20:29.445Z",
+  "updatedAt": "2026-09-30T00:28:01.717Z",
   "members": [
     {
       "username": "Corvids",
@@ -7,15 +7,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 736.8233200000001,
+          "value": 736.8247100000001,
           "level": null
         },
         "ehb": {
-          "value": 412.41024,
+          "value": 412.69229,
           "level": null
         },
         "overall": {
-          "value": 305508599,
+          "value": 305547788,
           "level": 2261
         },
         "attack": {
@@ -27,11 +27,11 @@
           "level": 99
         },
         "strength": {
-          "value": 26435046,
+          "value": 26462472,
           "level": 99
         },
         "hitpoints": {
-          "value": 38731313,
+          "value": 38740448,
           "level": 99
         },
         "ranged": {
@@ -43,7 +43,7 @@
           "level": 88
         },
         "magic": {
-          "value": 22674807,
+          "value": 22677027,
           "level": 99
         },
         "cooking": {
@@ -75,11 +75,11 @@
           "level": 87
         },
         "mining": {
-          "value": 13147539,
+          "value": 13147659,
           "level": 99
         },
         "herblore": {
-          "value": 6120861,
+          "value": 6121101,
           "level": 91
         },
         "agility": {
@@ -95,7 +95,7 @@
           "level": 99
         },
         "farming": {
-          "value": 13639483,
+          "value": 13639531,
           "level": 99
         },
         "runecrafting": {
@@ -267,7 +267,7 @@
           "level": null
         },
         "duke_sucellus": {
-          "value": 587,
+          "value": 598,
           "level": null
         },
         "general_graardor": {
@@ -388,6 +388,10 @@
         },
         "the_leviathan": {
           "value": 109,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 383,
           "level": null
         },
         "the_whisperer": {
@@ -845,6 +849,10 @@
           "value": 35,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 607,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -1298,6 +1306,10 @@
         },
         "the_leviathan": {
           "value": 105,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 330,
           "level": null
         },
         "the_whisperer": {
@@ -1755,6 +1767,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 201,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -2210,6 +2226,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 45,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -2282,7 +2302,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 525.75954,
+          "value": 526.14459,
           "level": null
         },
         "ehb": {
@@ -2290,7 +2310,7 @@
           "level": null
         },
         "overall": {
-          "value": 91280148,
+          "value": 91337427,
           "level": 2025
         },
         "attack": {
@@ -2318,7 +2338,7 @@
           "level": 80
         },
         "magic": {
-          "value": 4615733,
+          "value": 4617778,
           "level": 88
         },
         "cooking": {
@@ -2334,7 +2354,7 @@
           "level": 80
         },
         "fishing": {
-          "value": 3126848,
+          "value": 3169652,
           "level": 84
         },
         "firemaking": {
@@ -2354,7 +2374,7 @@
           "level": 85
         },
         "herblore": {
-          "value": 2883381,
+          "value": 2889431,
           "level": 83
         },
         "agility": {
@@ -2370,7 +2390,7 @@
           "level": 86
         },
         "farming": {
-          "value": 3977548,
+          "value": 3983928,
           "level": 87
         },
         "runecrafting": {
@@ -2663,6 +2683,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 209,
           "level": null
         },
         "the_whisperer": {
@@ -3120,6 +3144,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 424,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -3575,6 +3603,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 3,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -3647,35 +3679,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1513.345,
+          "value": 1513.52889,
           "level": null
         },
         "ehb": {
-          "value": 454.8390100000001,
+          "value": 455.4336000000001,
           "level": null
         },
         "overall": {
-          "value": 376772371,
+          "value": 376966076,
           "level": 2321
         },
         "attack": {
-          "value": 14186158,
+          "value": 14187567,
           "level": 99
         },
         "defence": {
-          "value": 13805213,
+          "value": 13806665,
           "level": 99
         },
         "strength": {
-          "value": 27966436,
+          "value": 28059729,
           "level": 99
         },
         "hitpoints": {
-          "value": 44479907,
+          "value": 44523731,
           "level": 99
         },
         "ranged": {
-          "value": 46348025,
+          "value": 46379408,
           "level": 99
         },
         "prayer": {
@@ -3683,7 +3715,7 @@
           "level": 91
         },
         "magic": {
-          "value": 29400779,
+          "value": 29406525,
           "level": 99
         },
         "cooking": {
@@ -3715,7 +3747,7 @@
           "level": 90
         },
         "mining": {
-          "value": 10253916,
+          "value": 10269594,
           "level": 96
         },
         "herblore": {
@@ -3723,7 +3755,7 @@
           "level": 96
         },
         "agility": {
-          "value": 7072657,
+          "value": 7073577,
           "level": 92
         },
         "thieving": {
@@ -3807,7 +3839,7 @@
           "level": null
         },
         "colosseum_glory": {
-          "value": 14254,
+          "value": 14432,
           "level": null
         },
         "collections_logged": {
@@ -4030,6 +4062,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 128,
+          "level": null
+        },
         "the_whisperer": {
           "value": 23,
           "level": null
@@ -4063,7 +4099,7 @@
           "level": null
         },
         "vardorvis": {
-          "value": 492,
+          "value": 514,
           "level": null
         },
         "venenatis": {
@@ -4483,6 +4519,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 102,
           "level": null
         },
         "the_whisperer": {
@@ -4940,6 +4980,10 @@
           "value": 117,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 399,
+          "level": null
+        },
         "the_whisperer": {
           "value": 179,
           "level": null
@@ -5393,6 +5437,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 221,
           "level": null
         },
         "the_whisperer": {
@@ -5850,6 +5898,10 @@
           "value": 114,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 241,
+          "level": null
+        },
         "the_whisperer": {
           "value": 14,
           "level": null
@@ -6305,6 +6357,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 540,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -6377,15 +6433,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1207.48655,
+          "value": 1207.49961,
           "level": null
         },
         "ehb": {
-          "value": 510.2531799999999,
+          "value": 510.7531799999999,
           "level": null
         },
         "overall": {
-          "value": 543866072,
+          "value": 543905281,
           "level": 2376
         },
         "attack": {
@@ -6393,7 +6449,7 @@
           "level": 99
         },
         "defence": {
-          "value": 20643738,
+          "value": 20653700,
           "level": 99
         },
         "strength": {
@@ -6401,11 +6457,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 54799281,
+          "value": 54812714,
           "level": 99
         },
         "ranged": {
-          "value": 48395546,
+          "value": 48396074,
           "level": 99
         },
         "prayer": {
@@ -6413,7 +6469,7 @@
           "level": 99
         },
         "magic": {
-          "value": 28599332,
+          "value": 28614618,
           "level": 99
         },
         "cooking": {
@@ -6760,8 +6816,12 @@
           "value": 200,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 302,
+          "level": null
+        },
         "the_whisperer": {
-          "value": 316,
+          "value": 327,
           "level": null
         },
         "theatre_of_blood": {
@@ -7213,6 +7273,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 22,
           "level": null
         },
         "the_whisperer": {
@@ -7670,6 +7734,10 @@
           "value": 136,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 1236,
+          "level": null
+        },
         "the_whisperer": {
           "value": 7,
           "level": null
@@ -8123,6 +8191,10 @@
         },
         "the_leviathan": {
           "value": 52,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 448,
           "level": null
         },
         "the_whisperer": {
@@ -8580,6 +8652,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 330,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -8652,7 +8728,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 2029.14864,
+          "value": 2031.19323,
           "level": null
         },
         "ehb": {
@@ -8660,7 +8736,7 @@
           "level": null
         },
         "overall": {
-          "value": 439141977,
+          "value": 439560095,
           "level": 2221
         },
         "attack": {
@@ -8696,7 +8772,7 @@
           "level": 83
         },
         "woodcutting": {
-          "value": 165713708,
+          "value": 166131826,
           "level": 99
         },
         "fletching": {
@@ -9033,6 +9109,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 0,
           "level": null
         },
         "the_whisperer": {
@@ -9490,6 +9570,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 566,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -9943,6 +10027,10 @@
         },
         "the_leviathan": {
           "value": 23,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 444,
           "level": null
         },
         "the_whisperer": {
@@ -10400,6 +10488,10 @@
           "value": 100,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 380,
+          "level": null
+        },
         "the_whisperer": {
           "value": 10,
           "level": null
@@ -10853,6 +10945,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 164,
           "level": null
         },
         "the_whisperer": {
@@ -11310,6 +11406,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 557,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -11763,6 +11863,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 120,
           "level": null
         },
         "the_whisperer": {
@@ -12220,6 +12324,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 100,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -12673,6 +12781,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 134,
           "level": null
         },
         "the_whisperer": {
@@ -13130,6 +13242,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 434,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -13583,6 +13699,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 326,
           "level": null
         },
         "the_whisperer": {
@@ -14040,6 +14160,10 @@
           "value": 61,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 581,
+          "level": null
+        },
         "the_whisperer": {
           "value": 184,
           "level": null
@@ -14495,6 +14619,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 149,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -14799,7 +14927,7 @@
           "level": null
         },
         "corporeal_beast": {
-          "value": 527,
+          "value": 530,
           "level": null
         },
         "crazy_archaeologist": {
@@ -14891,7 +15019,7 @@
           "level": null
         },
         "phosanis_nightmare": {
-          "value": 973,
+          "value": 975,
           "level": null
         },
         "obor": {
@@ -14950,12 +15078,16 @@
           "value": 1450,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 420,
+          "level": null
+        },
         "the_whisperer": {
           "value": 170,
           "level": null
         },
         "theatre_of_blood": {
-          "value": 808,
+          "value": 812,
           "level": null
         },
         "theatre_of_blood_hard_mode": {
@@ -15403,6 +15535,10 @@
         },
         "the_leviathan": {
           "value": 85,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 768,
           "level": null
         },
         "the_whisperer": {
@@ -15860,6 +15996,10 @@
           "value": 894,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 73,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1151,
           "level": null
@@ -15932,35 +16072,35 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 273.26958,
+          "value": 273.40791,
           "level": null
         },
         "ehb": {
-          "value": 182.74774,
+          "value": 184.2680099999999,
           "level": null
         },
         "overall": {
-          "value": 121121896,
+          "value": 121430476,
           "level": 1969
         },
         "attack": {
-          "value": 7376141,
+          "value": 7390334,
           "level": 93
         },
         "defence": {
-          "value": 5730184,
+          "value": 5736710,
           "level": 90
         },
         "strength": {
-          "value": 15805814,
+          "value": 15900952,
           "level": 99
         },
         "hitpoints": {
-          "value": 22079155,
+          "value": 22155336,
           "level": 99
         },
         "ranged": {
-          "value": 20019306,
+          "value": 20120103,
           "level": 99
         },
         "prayer": {
@@ -15968,7 +16108,7 @@
           "level": 80
         },
         "magic": {
-          "value": 13308986,
+          "value": 13318940,
           "level": 99
         },
         "cooking": {
@@ -16000,7 +16140,7 @@
           "level": 74
         },
         "mining": {
-          "value": 1407800,
+          "value": 1408165,
           "level": 76
         },
         "herblore": {
@@ -16008,7 +16148,7 @@
           "level": 80
         },
         "agility": {
-          "value": 1418250,
+          "value": 1418256,
           "level": 76
         },
         "thieving": {
@@ -16016,11 +16156,11 @@
           "level": 76
         },
         "slayer": {
-          "value": 9643547,
+          "value": 9645066,
           "level": 95
         },
         "farming": {
-          "value": 3428042,
+          "value": 3431913,
           "level": 85
         },
         "runecrafting": {
@@ -16032,7 +16172,7 @@
           "level": 77
         },
         "construction": {
-          "value": 2449343,
+          "value": 2449373,
           "level": 82
         },
         "sailing": {
@@ -16096,7 +16236,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 290,
+          "value": 291,
           "level": null
         },
         "abyssal_sire": {
@@ -16315,12 +16455,16 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 123,
+          "level": null
+        },
         "the_whisperer": {
           "value": 72,
           "level": null
         },
         "theatre_of_blood": {
-          "value": 45,
+          "value": 49,
           "level": null
         },
         "theatre_of_blood_hard_mode": {
@@ -16332,7 +16476,7 @@
           "level": null
         },
         "tombs_of_amascut": {
-          "value": 4,
+          "value": 5,
           "level": null
         },
         "tombs_of_amascut_expert": {
@@ -16768,6 +16912,10 @@
         },
         "the_leviathan": {
           "value": 822,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 272,
           "level": null
         },
         "the_whisperer": {
@@ -17225,6 +17373,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 106,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -17678,6 +17830,10 @@
         },
         "the_leviathan": {
           "value": 24,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 334,
           "level": null
         },
         "the_whisperer": {
@@ -18135,6 +18291,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 362,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -18588,6 +18748,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 480,
           "level": null
         },
         "the_whisperer": {
@@ -19045,6 +19209,10 @@
           "value": 560,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 27,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1065,
           "level": null
@@ -19498,6 +19666,10 @@
         },
         "the_leviathan": {
           "value": 1428,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 633,
           "level": null
         },
         "the_whisperer": {
@@ -19955,6 +20127,10 @@
           "value": 878,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 672,
+          "level": null
+        },
         "the_whisperer": {
           "value": 2000,
           "level": null
@@ -20408,6 +20584,10 @@
         },
         "the_leviathan": {
           "value": 568,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 123,
           "level": null
         },
         "the_whisperer": {
@@ -20865,6 +21045,10 @@
           "value": 987,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 181,
+          "level": null
+        },
         "the_whisperer": {
           "value": 765,
           "level": null
@@ -21318,6 +21502,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 182,
           "level": null
         },
         "the_whisperer": {
@@ -21775,6 +21963,10 @@
           "value": 932,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 306,
+          "level": null
+        },
         "the_whisperer": {
           "value": 592,
           "level": null
@@ -22228,6 +22420,10 @@
         },
         "the_leviathan": {
           "value": 455,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 252,
           "level": null
         },
         "the_whisperer": {
@@ -22685,6 +22881,10 @@
           "value": 23,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 108,
+          "level": null
+        },
         "the_whisperer": {
           "value": 4,
           "level": null
@@ -22757,15 +22957,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1205.77998,
+          "value": 1205.78017,
           "level": null
         },
         "ehb": {
-          "value": 619.5589800000001,
+          "value": 620.1743700000001,
           "level": null
         },
         "overall": {
-          "value": 499519607,
+          "value": 499661114,
           "level": 2376
         },
         "attack": {
@@ -22777,11 +22977,11 @@
           "level": 99
         },
         "strength": {
-          "value": 49183355,
+          "value": 49286200,
           "level": 99
         },
         "hitpoints": {
-          "value": 53968215,
+          "value": 54002477,
           "level": 99
         },
         "ranged": {
@@ -22793,7 +22993,7 @@
           "level": 99
         },
         "magic": {
-          "value": 34141017,
+          "value": 34145417,
           "level": 99
         },
         "cooking": {
@@ -23140,6 +23340,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 226,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -23173,7 +23377,7 @@
           "level": null
         },
         "vardorvis": {
-          "value": 89,
+          "value": 113,
           "level": null
         },
         "venenatis": {
@@ -23595,6 +23799,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 120,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -23667,7 +23875,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 6848.726049999999,
+          "value": 6850.540159999999,
           "level": null
         },
         "ehb": {
@@ -23675,7 +23883,7 @@
           "level": null
         },
         "overall": {
-          "value": 2106007713,
+          "value": 2106314386,
           "level": 2376
         },
         "attack": {
@@ -23703,7 +23911,7 @@
           "level": 99
         },
         "magic": {
-          "value": 60886885,
+          "value": 60887917,
           "level": 99
         },
         "cooking": {
@@ -23727,15 +23935,15 @@
           "level": 99
         },
         "crafting": {
-          "value": 34064072,
+          "value": 34064292,
           "level": 99
         },
         "smithing": {
-          "value": 20142707,
+          "value": 20142770,
           "level": 99
         },
         "mining": {
-          "value": 118085967,
+          "value": 118307352,
           "level": 99
         },
         "herblore": {
@@ -23755,7 +23963,7 @@
           "level": 99
         },
         "farming": {
-          "value": 96936798,
+          "value": 97015971,
           "level": 99
         },
         "runecrafting": {
@@ -23763,7 +23971,7 @@
           "level": 99
         },
         "hunter": {
-          "value": 48466641,
+          "value": 48471441,
           "level": 99
         },
         "construction": {
@@ -24048,6 +24256,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 114,
           "level": null
         },
         "the_whisperer": {
@@ -24505,6 +24717,10 @@
           "value": 391,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 316,
+          "level": null
+        },
         "the_whisperer": {
           "value": 108,
           "level": null
@@ -24958,6 +25174,10 @@
         },
         "the_leviathan": {
           "value": 58,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 320,
           "level": null
         },
         "the_whisperer": {
@@ -25415,6 +25635,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 1147,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -25868,6 +26092,10 @@
         },
         "the_leviathan": {
           "value": 1070,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 264,
           "level": null
         },
         "the_whisperer": {
@@ -26325,6 +26553,10 @@
           "value": 1800,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 1100,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1200,
           "level": null
@@ -26778,6 +27010,10 @@
         },
         "the_leviathan": {
           "value": 457,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 36,
           "level": null
         },
         "the_whisperer": {
@@ -27235,6 +27471,10 @@
           "value": 3029,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 304,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1252,
           "level": null
@@ -27688,6 +27928,10 @@
         },
         "the_leviathan": {
           "value": 651,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 484,
           "level": null
         },
         "the_whisperer": {
@@ -28145,6 +28389,10 @@
           "value": 428,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 266,
+          "level": null
+        },
         "the_whisperer": {
           "value": 616,
           "level": null
@@ -28598,6 +28846,10 @@
         },
         "the_leviathan": {
           "value": 1156,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 366,
           "level": null
         },
         "the_whisperer": {
@@ -29055,6 +29307,10 @@
           "value": 237,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 261,
+          "level": null
+        },
         "the_whisperer": {
           "value": 57,
           "level": null
@@ -29508,6 +29764,10 @@
         },
         "the_leviathan": {
           "value": 253,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 30,
           "level": null
         },
         "the_whisperer": {
@@ -29965,6 +30225,10 @@
           "value": 269,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 86,
+          "level": null
+        },
         "the_whisperer": {
           "value": 73,
           "level": null
@@ -30420,6 +30684,10 @@
           "value": 34,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 289,
+          "level": null
+        },
         "the_whisperer": {
           "value": 4,
           "level": null
@@ -30872,6 +31140,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -31330,6 +31602,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 378,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -31785,6 +32061,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 100,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -32237,6 +32517,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -32695,6 +32979,10 @@
           "value": 8,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 461,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -33148,6 +33436,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 253,
           "level": null
         },
         "the_whisperer": {
@@ -33605,6 +33897,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 191,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -34057,6 +34353,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -34515,6 +34815,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 227,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -34968,6 +35272,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 349,
           "level": null
         },
         "the_whisperer": {
@@ -35425,6 +35733,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 221,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -35878,6 +36190,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 619,
           "level": null
         },
         "the_whisperer": {
@@ -36335,6 +36651,10 @@
           "value": 50,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 209,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -36788,6 +37108,10 @@
         },
         "the_leviathan": {
           "value": 56,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 174,
           "level": null
         },
         "the_whisperer": {
@@ -37245,6 +37569,10 @@
           "value": 6,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 262,
+          "level": null
+        },
         "the_whisperer": {
           "value": 2,
           "level": null
@@ -37698,6 +38026,10 @@
         },
         "the_leviathan": {
           "value": 711,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 98,
           "level": null
         },
         "the_whisperer": {
@@ -38155,6 +38487,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 437,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -38610,6 +38946,10 @@
           "value": 951,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 96,
+          "level": null
+        },
         "the_whisperer": {
           "value": 106,
           "level": null
@@ -38682,35 +39022,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1230.60252,
+          "value": 1230.65326,
           "level": null
         },
         "ehb": {
-          "value": 680.26062,
+          "value": 681.9356999999998,
           "level": null
         },
         "overall": {
-          "value": 313072694,
+          "value": 313535534,
           "level": 2220
         },
         "attack": {
-          "value": 13260828,
+          "value": 13262085,
           "level": 99
         },
         "defence": {
-          "value": 13230041,
+          "value": 13231298,
           "level": 99
         },
         "strength": {
-          "value": 33525086,
+          "value": 33780974,
           "level": 99
         },
         "hitpoints": {
-          "value": 44311518,
+          "value": 44428592,
           "level": 99
         },
         "ranged": {
-          "value": 49760715,
+          "value": 49815076,
           "level": 99
         },
         "prayer": {
@@ -38718,7 +39058,7 @@
           "level": 88
         },
         "magic": {
-          "value": 22281680,
+          "value": 22314054,
           "level": 99
         },
         "cooking": {
@@ -38750,7 +39090,7 @@
           "level": 87
         },
         "mining": {
-          "value": 12640810,
+          "value": 12641325,
           "level": 98
         },
         "herblore": {
@@ -38758,7 +39098,7 @@
           "level": 93
         },
         "agility": {
-          "value": 4010787,
+          "value": 4010857,
           "level": 87
         },
         "thieving": {
@@ -38778,11 +39118,11 @@
           "level": 86
         },
         "hunter": {
-          "value": 2890343,
+          "value": 2890367,
           "level": 83
         },
         "construction": {
-          "value": 3198063,
+          "value": 3198083,
           "level": 84
         },
         "sailing": {
@@ -38986,7 +39326,7 @@
           "level": null
         },
         "mad_angel": {
-          "value": 187,
+          "value": 223,
           "level": null
         },
         "maggot_king": {
@@ -39065,6 +39405,10 @@
           "value": 40,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 289,
+          "level": null
+        },
         "the_whisperer": {
           "value": 37,
           "level": null
@@ -39086,7 +39430,7 @@
           "level": null
         },
         "tombs_of_amascut_expert": {
-          "value": 91,
+          "value": 93,
           "level": null
         },
         "tzkal_zuk": {
@@ -39098,7 +39442,7 @@
           "level": null
         },
         "vardorvis": {
-          "value": 222,
+          "value": 233,
           "level": null
         },
         "venenatis": {
@@ -39118,7 +39462,7 @@
           "level": null
         },
         "yama": {
-          "value": 690,
+          "value": 692,
           "level": null
         },
         "zalcano": {
@@ -39518,6 +39862,10 @@
         },
         "the_leviathan": {
           "value": 9,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 289,
           "level": null
         },
         "the_whisperer": {
@@ -39975,6 +40323,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 109,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -40428,6 +40780,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 178,
           "level": null
         },
         "the_whisperer": {
@@ -40885,6 +41241,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 601,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -41340,6 +41700,10 @@
           "value": 101,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 362,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -41412,7 +41776,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 823.67053,
+          "value": 823.9423600000001,
           "level": null
         },
         "ehb": {
@@ -41420,7 +41784,7 @@
           "level": null
         },
         "overall": {
-          "value": 166197761,
+          "value": 166281003,
           "level": 2137
         },
         "attack": {
@@ -41448,7 +41812,7 @@
           "level": 90
         },
         "magic": {
-          "value": 13068437,
+          "value": 13070351,
           "level": 99
         },
         "cooking": {
@@ -41492,7 +41856,7 @@
           "level": 81
         },
         "thieving": {
-          "value": 7366572,
+          "value": 7447900,
           "level": 93
         },
         "slayer": {
@@ -41793,6 +42157,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 390,
           "level": null
         },
         "the_whisperer": {
@@ -42250,6 +42618,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 165,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -42703,6 +43075,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 44,
           "level": null
         },
         "the_whisperer": {
@@ -43160,6 +43536,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 511,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -43613,6 +43993,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 296,
           "level": null
         },
         "the_whisperer": {
@@ -44070,6 +44454,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 76,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -44142,35 +44530,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1099.77066,
+          "value": 1099.81061,
           "level": null
         },
         "ehb": {
-          "value": 809.5858699999999,
+          "value": 810.2525399999998,
           "level": null
         },
         "overall": {
-          "value": 351058842,
+          "value": 351183178,
           "level": 2176
         },
         "attack": {
-          "value": 24112976,
+          "value": 24129267,
           "level": 99
         },
         "defence": {
-          "value": 17206905,
+          "value": 17212826,
           "level": 99
         },
         "strength": {
-          "value": 46839217,
+          "value": 46849307,
           "level": 99
         },
         "hitpoints": {
-          "value": 62137739,
+          "value": 62168997,
           "level": 99
         },
         "ranged": {
-          "value": 72425173,
+          "value": 72461501,
           "level": 99
         },
         "prayer": {
@@ -44178,7 +44566,7 @@
           "level": 89
         },
         "magic": {
-          "value": 25081493,
+          "value": 25095393,
           "level": 99
         },
         "cooking": {
@@ -44210,11 +44598,11 @@
           "level": 83
         },
         "mining": {
-          "value": 4760126,
+          "value": 4760581,
           "level": 88
         },
         "herblore": {
-          "value": 7251105,
+          "value": 7251624,
           "level": 93
         },
         "agility": {
@@ -44230,7 +44618,7 @@
           "level": 99
         },
         "farming": {
-          "value": 5519889,
+          "value": 5529443,
           "level": 90
         },
         "runecrafting": {
@@ -44242,7 +44630,7 @@
           "level": 83
         },
         "construction": {
-          "value": 3778242,
+          "value": 3778262,
           "level": 86
         },
         "sailing": {
@@ -44525,6 +44913,10 @@
           "value": 120,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 851,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -44546,7 +44938,7 @@
           "level": null
         },
         "tombs_of_amascut_expert": {
-          "value": 267,
+          "value": 269,
           "level": null
         },
         "tzkal_zuk": {
@@ -44978,6 +45370,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 190,
           "level": null
         },
         "the_whisperer": {
@@ -45435,6 +45831,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 404,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -45888,6 +46288,10 @@
         },
         "the_leviathan": {
           "value": 26,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 500,
           "level": null
         },
         "the_whisperer": {
@@ -46345,6 +46749,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 268,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -46798,6 +47206,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 114,
           "level": null
         },
         "the_whisperer": {
@@ -47255,6 +47667,10 @@
           "value": 430,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 200,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -47708,6 +48124,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 2,
           "level": null
         },
         "the_whisperer": {
@@ -48165,6 +48585,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 903,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -48618,6 +49042,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 472,
           "level": null
         },
         "the_whisperer": {
@@ -49075,6 +49503,10 @@
           "value": 107,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 221,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -49147,7 +49579,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 910.5431399999999,
+          "value": 910.5693699999998,
           "level": null
         },
         "ehb": {
@@ -49155,7 +49587,7 @@
           "level": null
         },
         "overall": {
-          "value": 184246122,
+          "value": 184320005,
           "level": 2179
         },
         "attack": {
@@ -49163,23 +49595,23 @@
           "level": 92
         },
         "defence": {
-          "value": 6790567,
+          "value": 6795360,
           "level": 92
         },
         "strength": {
-          "value": 13660980,
+          "value": 13683764,
           "level": 99
         },
         "hitpoints": {
-          "value": 16957194,
+          "value": 16975260,
           "level": 99
         },
         "ranged": {
-          "value": 17167904,
+          "value": 17194571,
           "level": 99
         },
         "prayer": {
-          "value": 2324592,
+          "value": 2326152,
           "level": 81
         },
         "magic": {
@@ -49219,7 +49651,7 @@
           "level": 96
         },
         "herblore": {
-          "value": 2977950,
+          "value": 2977963,
           "level": 84
         },
         "agility": {
@@ -49528,6 +49960,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 212,
           "level": null
         },
         "the_whisperer": {
@@ -49985,6 +50421,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 538,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -50440,6 +50880,10 @@
           "value": 44,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 461,
+          "level": null
+        },
         "the_whisperer": {
           "value": 3,
           "level": null
@@ -50512,7 +50956,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 687.6421799999999,
+          "value": 688.2851899999998,
           "level": null
         },
         "ehb": {
@@ -50520,7 +50964,7 @@
           "level": null
         },
         "overall": {
-          "value": 156997592,
+          "value": 157100467,
           "level": 2142
         },
         "attack": {
@@ -50536,7 +50980,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 17708657,
+          "value": 17734190,
           "level": 99
         },
         "ranged": {
@@ -50548,7 +50992,7 @@
           "level": 84
         },
         "magic": {
-          "value": 8260020,
+          "value": 8315642,
           "level": 94
         },
         "cooking": {
@@ -50596,7 +51040,7 @@
           "level": 96
         },
         "slayer": {
-          "value": 3474624,
+          "value": 3496344,
           "level": 85
         },
         "farming": {
@@ -50893,6 +51337,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 112,
           "level": null
         },
         "the_whisperer": {
@@ -51350,6 +51798,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 234,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -51803,6 +52255,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 357,
           "level": null
         },
         "the_whisperer": {
@@ -52260,6 +52716,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 33,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -52713,6 +53173,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 110,
           "level": null
         },
         "the_whisperer": {
@@ -53170,6 +53634,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -53623,6 +54091,10 @@
         },
         "the_leviathan": {
           "value": 69,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 465,
           "level": null
         },
         "the_whisperer": {
@@ -54080,6 +54552,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 761,
+          "level": null
+        },
         "the_whisperer": {
           "value": 73,
           "level": null
@@ -54533,6 +55009,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 164,
           "level": null
         },
         "the_whisperer": {
@@ -54990,6 +55470,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 425,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -55443,6 +55927,10 @@
         },
         "the_leviathan": {
           "value": 51,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 206,
           "level": null
         },
         "the_whisperer": {
@@ -55900,6 +56388,10 @@
           "value": 25,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 140,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -56355,6 +56847,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 595,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -56807,6 +57303,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 1,
           "level": null
         },
@@ -57265,6 +57765,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 518,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -57718,6 +58222,10 @@
         },
         "the_leviathan": {
           "value": 51,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 665,
           "level": null
         },
         "the_whisperer": {
@@ -58175,6 +58683,10 @@
           "value": 108,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 363,
+          "level": null
+        },
         "the_whisperer": {
           "value": 168,
           "level": null
@@ -58627,6 +59139,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 197,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 197,
           "level": null
         },
@@ -59085,6 +59601,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 549,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -59540,6 +60060,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 400,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -59612,7 +60136,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1165.08131,
+          "value": 1166.67966,
           "level": null
         },
         "ehb": {
@@ -59620,8 +60144,8 @@
           "level": null
         },
         "overall": {
-          "value": 274293334,
-          "level": 2184
+          "value": 274677519,
+          "level": 2185
         },
         "attack": {
           "value": 16221234,
@@ -59648,7 +60172,7 @@
           "level": 85
         },
         "magic": {
-          "value": 20068965,
+          "value": 20069550,
           "level": 99
         },
         "cooking": {
@@ -59716,8 +60240,8 @@
           "level": 83
         },
         "sailing": {
-          "value": 8604803,
-          "level": 94
+          "value": 8988403,
+          "level": 95
         },
         "bounty_hunter_hunter": {
           "value": 0,
@@ -59993,6 +60517,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 70,
           "level": null
         },
         "the_whisperer": {
@@ -60450,6 +60978,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 247,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -60903,6 +61435,10 @@
         },
         "the_leviathan": {
           "value": 17,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 488,
           "level": null
         },
         "the_whisperer": {
@@ -61360,6 +61896,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 604,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -61813,6 +62353,10 @@
         },
         "the_leviathan": {
           "value": 5,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 428,
           "level": null
         },
         "the_whisperer": {
@@ -62270,6 +62814,10 @@
           "value": 11,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 326,
+          "level": null
+        },
         "the_whisperer": {
           "value": 346,
           "level": null
@@ -62723,6 +63271,10 @@
         },
         "the_leviathan": {
           "value": 55,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 305,
           "level": null
         },
         "the_whisperer": {
@@ -63180,6 +63732,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 217,
+          "level": null
+        },
         "the_whisperer": {
           "value": 51,
           "level": null
@@ -63633,6 +64189,10 @@
         },
         "the_leviathan": {
           "value": 1238,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 501,
           "level": null
         },
         "the_whisperer": {
@@ -64090,6 +64650,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 434,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -64543,6 +65107,10 @@
         },
         "the_leviathan": {
           "value": 4,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 196,
           "level": null
         },
         "the_whisperer": {
@@ -65000,6 +65568,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 481,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -65453,6 +66025,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 97,
           "level": null
         },
         "the_whisperer": {
@@ -65910,6 +66486,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 547,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -66363,6 +66943,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 351,
           "level": null
         },
         "the_whisperer": {
@@ -66820,6 +67404,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 254,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -67275,6 +67863,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 175,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -67347,15 +67939,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 735.7029299999999,
+          "value": 735.7107399999999,
           "level": null
         },
         "ehb": {
-          "value": 560.0536799999999,
+          "value": 561.6161799999999,
           "level": null
         },
         "overall": {
-          "value": 213602060,
+          "value": 213819108,
           "level": 2125
         },
         "attack": {
@@ -67363,19 +67955,19 @@
           "level": 99
         },
         "defence": {
-          "value": 12045702,
+          "value": 12068683,
           "level": 98
         },
         "strength": {
-          "value": 17436247,
+          "value": 17547187,
           "level": 99
         },
         "hitpoints": {
-          "value": 33049097,
+          "value": 33102693,
           "level": 99
         },
         "ranged": {
-          "value": 33097989,
+          "value": 33109633,
           "level": 99
         },
         "prayer": {
@@ -67383,7 +67975,7 @@
           "level": 80
         },
         "magic": {
-          "value": 20212156,
+          "value": 20230043,
           "level": 99
         },
         "cooking": {
@@ -67730,12 +68322,16 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 249,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
         },
         "theatre_of_blood": {
-          "value": 243,
+          "value": 248,
           "level": null
         },
         "theatre_of_blood_hard_mode": {
@@ -68183,6 +68779,10 @@
         },
         "the_leviathan": {
           "value": 46,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 106,
           "level": null
         },
         "the_whisperer": {
@@ -68640,6 +69240,10 @@
           "value": 830,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 264,
+          "level": null
+        },
         "the_whisperer": {
           "value": 38,
           "level": null
@@ -69095,6 +69699,10 @@
           "value": 3,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 317,
+          "level": null
+        },
         "the_whisperer": {
           "value": 2,
           "level": null
@@ -69167,19 +69775,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 939.40275,
+          "value": 939.70499,
           "level": null
         },
         "ehb": {
-          "value": 371.9478199999999,
+          "value": 372.1320299999999,
           "level": null
         },
         "overall": {
-          "value": 212579563,
+          "value": 212652877,
           "level": 2134
         },
         "attack": {
-          "value": 12184410,
+          "value": 12186554,
           "level": 98
         },
         "defence": {
@@ -69187,11 +69795,11 @@
           "level": 92
         },
         "strength": {
-          "value": 21687880,
+          "value": 21730234,
           "level": 99
         },
         "hitpoints": {
-          "value": 29121365,
+          "value": 29136189,
           "level": 99
         },
         "ranged": {
@@ -69203,7 +69811,7 @@
           "level": 82
         },
         "magic": {
-          "value": 13233754,
+          "value": 13234722,
           "level": 99
         },
         "cooking": {
@@ -69251,7 +69859,7 @@
           "level": 97
         },
         "slayer": {
-          "value": 12674197,
+          "value": 12687221,
           "level": 98
         },
         "farming": {
@@ -69347,7 +69955,7 @@
           "level": null
         },
         "araxxor": {
-          "value": 1275,
+          "value": 1282,
           "level": null
         },
         "artio": {
@@ -69548,6 +70156,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 268,
           "level": null
         },
         "the_whisperer": {
@@ -70005,6 +70617,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 158,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -70458,6 +71074,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 157,
           "level": null
         },
         "the_whisperer": {
@@ -70915,6 +71535,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 143,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -71368,6 +71992,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 425,
           "level": null
         },
         "the_whisperer": {
@@ -71825,6 +72453,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 80,
+          "level": null
+        },
         "the_whisperer": {
           "value": 2,
           "level": null
@@ -72278,6 +72910,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 72,
           "level": null
         },
         "the_whisperer": {
@@ -72735,6 +73371,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 263,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -73188,6 +73828,10 @@
         },
         "the_leviathan": {
           "value": 4,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 320,
           "level": null
         },
         "the_whisperer": {
@@ -73645,6 +74289,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 110,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -74098,6 +74746,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 338,
           "level": null
         },
         "the_whisperer": {
@@ -74555,6 +75207,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 361,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -75008,6 +75664,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 594,
           "level": null
         },
         "the_whisperer": {
@@ -75465,6 +76125,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 748,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -75920,6 +76584,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 50,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -76372,6 +77040,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -76830,6 +77502,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 245,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -77283,6 +77959,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 0,
           "level": null
         },
         "the_whisperer": {
@@ -77740,6 +78420,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -78193,6 +78877,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 312,
           "level": null
         },
         "the_whisperer": {
@@ -78650,6 +79338,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 304,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -79103,6 +79795,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 57,
           "level": null
         },
         "the_whisperer": {
@@ -79560,6 +80256,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 38,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -80013,6 +80713,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 567,
           "level": null
         },
         "the_whisperer": {
@@ -80470,6 +81174,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 36,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -80925,6 +81633,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -81377,6 +82089,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -81835,6 +82551,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 195,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -82288,6 +83008,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 437,
           "level": null
         },
         "the_whisperer": {
@@ -82745,6 +83469,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 368,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -83197,6 +83925,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -83655,6 +84387,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 125,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -84108,6 +84844,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 397,
           "level": null
         },
         "the_whisperer": {
@@ -84565,6 +85305,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 375,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -85017,6 +85761,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -85475,6 +86223,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 176,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -85928,6 +86680,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 292,
           "level": null
         },
         "the_whisperer": {
@@ -86385,6 +87141,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 321,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -86838,6 +87598,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 124,
           "level": null
         },
         "the_whisperer": {
@@ -87295,6 +88059,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 461,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -87748,6 +88516,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 172,
           "level": null
         },
         "the_whisperer": {
@@ -88205,6 +88977,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 431,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -88658,6 +89434,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 609,
           "level": null
         },
         "the_whisperer": {
@@ -89115,6 +89895,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 267,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -89568,6 +90352,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 300,
           "level": null
         },
         "the_whisperer": {
@@ -90025,6 +90813,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 202,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -90097,7 +90889,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 320.09208,
+          "value": 320.46597,
           "level": null
         },
         "ehb": {
@@ -90105,7 +90897,7 @@
           "level": null
         },
         "overall": {
-          "value": 119015965,
+          "value": 119188469,
           "level": 2056
         },
         "attack": {
@@ -90121,19 +90913,19 @@
           "level": 92
         },
         "hitpoints": {
-          "value": 13326699,
+          "value": 13362521,
           "level": 99
         },
         "ranged": {
-          "value": 12290493,
+          "value": 12397958,
           "level": 98
         },
         "prayer": {
-          "value": 3235823,
+          "value": 3235853,
           "level": 84
         },
         "magic": {
-          "value": 12552277,
+          "value": 12554784,
           "level": 98
         },
         "cooking": {
@@ -90181,7 +90973,7 @@
           "level": 76
         },
         "slayer": {
-          "value": 5767552,
+          "value": 5794232,
           "level": 90
         },
         "farming": {
@@ -90478,6 +91270,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 339,
           "level": null
         },
         "the_whisperer": {
@@ -90935,6 +91731,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 533,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -91388,6 +92188,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 209,
           "level": null
         },
         "the_whisperer": {
@@ -91845,6 +92649,10 @@
           "value": 162,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 215,
+          "level": null
+        },
         "the_whisperer": {
           "value": 18,
           "level": null
@@ -92300,6 +93108,10 @@
           "value": 333,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 221,
+          "level": null
+        },
         "the_whisperer": {
           "value": 2028,
           "level": null
@@ -92752,6 +93564,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -93210,6 +94026,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 6,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -93663,6 +94483,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 19,
           "level": null
         },
         "the_whisperer": {
@@ -94120,6 +94944,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 475,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -94573,6 +95401,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 388,
           "level": null
         },
         "the_whisperer": {
@@ -95030,6 +95862,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 350,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -95482,6 +96318,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -95940,6 +96780,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 259,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -96395,6 +97239,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -96847,6 +97695,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -97305,6 +98157,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 64,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -97758,6 +98614,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 304,
           "level": null
         },
         "the_whisperer": {
@@ -98215,6 +99075,10 @@
           "value": 52,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 102,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -98668,6 +99532,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 366,
           "level": null
         },
         "the_whisperer": {
@@ -99125,6 +99993,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 184,
+          "level": null
+        },
         "the_whisperer": {
           "value": 49,
           "level": null
@@ -99578,6 +100450,10 @@
         },
         "the_leviathan": {
           "value": 116,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 249,
           "level": null
         },
         "the_whisperer": {
@@ -100035,6 +100911,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 197,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -100488,6 +101368,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 348,
           "level": null
         },
         "the_whisperer": {
@@ -100945,6 +101829,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 150,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -101398,6 +102286,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 14,
           "level": null
         },
         "the_whisperer": {
@@ -101855,6 +102747,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 136,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -102308,6 +103204,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 166,
           "level": null
         },
         "the_whisperer": {
@@ -102765,6 +103665,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 297,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -103218,6 +104122,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 237,
           "level": null
         },
         "the_whisperer": {
@@ -103675,6 +104583,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 344,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -104128,6 +105040,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 454,
           "level": null
         },
         "the_whisperer": {
@@ -104585,6 +105501,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 252,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -105038,6 +105958,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 326,
           "level": null
         },
         "the_whisperer": {
@@ -105495,6 +106419,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 118,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -105948,6 +106876,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 157,
           "level": null
         },
         "the_whisperer": {
@@ -106405,6 +107337,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 211,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -106858,6 +107794,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 216,
           "level": null
         },
         "the_whisperer": {
@@ -107315,6 +108255,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 20,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -107768,6 +108712,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 325,
           "level": null
         },
         "the_whisperer": {
@@ -108225,6 +109173,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 40,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -108678,6 +109630,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 201,
           "level": null
         },
         "the_whisperer": {
@@ -109135,6 +110091,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 231,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -109588,6 +110548,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 36,
           "level": null
         },
         "the_whisperer": {
@@ -110045,6 +111009,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 220,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -110498,6 +111466,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 292,
           "level": null
         },
         "the_whisperer": {
@@ -110955,6 +111927,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 140,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -111408,6 +112384,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 156,
           "level": null
         },
         "the_whisperer": {
@@ -111865,6 +112845,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 226,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -112318,6 +113302,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 320,
           "level": null
         },
         "the_whisperer": {
@@ -112775,6 +113763,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 322,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -113228,6 +114220,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 524,
           "level": null
         },
         "the_whisperer": {
@@ -113685,6 +114681,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 493,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -114138,6 +115138,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 572,
           "level": null
         },
         "the_whisperer": {
@@ -114595,6 +115599,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 386,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -115050,6 +116058,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 342,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -115502,6 +116514,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 1,
           "level": null
         },
@@ -115960,6 +116976,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 161,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -116413,6 +117433,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 27,
           "level": null
         },
         "the_whisperer": {
@@ -116870,6 +117894,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 237,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -117323,6 +118351,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 228,
           "level": null
         },
         "the_whisperer": {
@@ -117780,6 +118812,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 49,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -118235,6 +119271,10 @@
           "value": 1307,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 437,
+          "level": null
+        },
         "the_whisperer": {
           "value": 363,
           "level": null
@@ -118687,6 +119727,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -119145,6 +120189,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 191,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -119600,6 +120648,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 131,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -120052,6 +121104,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -120510,6 +121566,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 235,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -120965,6 +122025,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -121037,15 +122101,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 646.0936,
+          "value": 646.0953000000001,
           "level": null
         },
         "ehb": {
-          "value": 51.94222000000001,
+          "value": 51.99777,
           "level": null
         },
         "overall": {
-          "value": 228000788,
+          "value": 228013624,
           "level": 2231
         },
         "attack": {
@@ -121057,11 +122121,11 @@
           "level": 99
         },
         "strength": {
-          "value": 13372602,
+          "value": 13381761,
           "level": 99
         },
         "hitpoints": {
-          "value": 16432536,
+          "value": 16435586,
           "level": 99
         },
         "ranged": {
@@ -121077,7 +122141,7 @@
           "level": 90
         },
         "cooking": {
-          "value": 14655705,
+          "value": 14655975,
           "level": 99
         },
         "woodcutting": {
@@ -121089,7 +122153,7 @@
           "level": 95
         },
         "fishing": {
-          "value": 13268597,
+          "value": 13268702,
           "level": 99
         },
         "firemaking": {
@@ -121133,7 +122197,7 @@
           "level": 81
         },
         "hunter": {
-          "value": 13188857,
+          "value": 13189109,
           "level": 99
         },
         "construction": {
@@ -121337,7 +122401,7 @@
           "level": null
         },
         "lunar_chests": {
-          "value": 169,
+          "value": 170,
           "level": null
         },
         "mad_angel": {
@@ -121418,6 +122482,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 185,
           "level": null
         },
         "the_whisperer": {
@@ -121875,6 +122943,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -122330,6 +123402,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 60,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -122782,6 +123858,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -123240,6 +124320,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -123693,6 +124777,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 162,
           "level": null
         },
         "the_whisperer": {
@@ -124150,6 +125238,10 @@
           "value": 1806,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 397,
+          "level": null
+        },
         "the_whisperer": {
           "value": 366,
           "level": null
@@ -124603,6 +125695,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 88,
           "level": null
         },
         "the_whisperer": {
@@ -125060,6 +126156,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 43,
+          "level": null
+        },
         "the_whisperer": {
           "value": 5,
           "level": null
@@ -125512,6 +126612,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -125970,6 +127074,10 @@
           "value": 4,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 143,
+          "level": null
+        },
         "the_whisperer": {
           "value": 3,
           "level": null
@@ -126423,6 +127531,10 @@
         },
         "the_leviathan": {
           "value": 3,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 400,
           "level": null
         },
         "the_whisperer": {
@@ -126880,6 +127992,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 162,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -127332,6 +128448,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -127790,6 +128910,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -128243,6 +129367,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 35,
           "level": null
         },
         "the_whisperer": {
@@ -128700,6 +129828,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 273,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -129153,6 +130285,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 102,
           "level": null
         },
         "the_whisperer": {
@@ -129610,6 +130746,10 @@
           "value": 3,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 705,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -130065,6 +131205,10 @@
           "value": 170,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 322,
+          "level": null
+        },
         "the_whisperer": {
           "value": 334,
           "level": null
@@ -130517,6 +131661,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -130975,6 +132123,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 116,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -131427,6 +132579,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -131885,6 +133041,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 297,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -132338,6 +133498,10 @@
         },
         "the_leviathan": {
           "value": 764,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 194,
           "level": null
         },
         "the_whisperer": {
@@ -132795,6 +133959,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -132867,15 +134035,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 393.06595,
+          "value": 393.43191,
           "level": null
         },
         "ehb": {
-          "value": 226.0195900000001,
+          "value": 228.19992,
           "level": null
         },
         "overall": {
-          "value": 148329938,
+          "value": 148602993,
           "level": 2084
         },
         "attack": {
@@ -132883,19 +134051,19 @@
           "level": 97
         },
         "defence": {
-          "value": 4482657,
+          "value": 4496094,
           "level": 88
         },
         "strength": {
-          "value": 19935700,
+          "value": 20031134,
           "level": 99
         },
         "hitpoints": {
-          "value": 22635419,
+          "value": 22698514,
           "level": 99
         },
         "ranged": {
-          "value": 15862380,
+          "value": 15902592,
           "level": 99
         },
         "prayer": {
@@ -132903,15 +134071,15 @@
           "level": 82
         },
         "magic": {
-          "value": 14782149,
+          "value": 14801742,
           "level": 99
         },
         "cooking": {
-          "value": 2504298,
+          "value": 2507733,
           "level": 82
         },
         "woodcutting": {
-          "value": 5572242,
+          "value": 5573222,
           "level": 90
         },
         "fletching": {
@@ -132919,7 +134087,7 @@
           "level": 81
         },
         "fishing": {
-          "value": 2119290,
+          "value": 2121240,
           "level": 80
         },
         "firemaking": {
@@ -132927,23 +134095,23 @@
           "level": 80
         },
         "crafting": {
-          "value": 1926264,
+          "value": 1929822,
           "level": 79
         },
         "smithing": {
-          "value": 2346527,
+          "value": 2350025,
           "level": 81
         },
         "mining": {
-          "value": 2156257,
+          "value": 2157247,
           "level": 80
         },
         "herblore": {
-          "value": 3227675,
+          "value": 3228145,
           "level": 84
         },
         "agility": {
-          "value": 1828174,
+          "value": 1829534,
           "level": 79
         },
         "thieving": {
@@ -132951,11 +134119,11 @@
           "level": 87
         },
         "slayer": {
-          "value": 9688062,
+          "value": 9712965,
           "level": 96
         },
         "farming": {
-          "value": 5593129,
+          "value": 5593269,
           "level": 90
         },
         "runecrafting": {
@@ -133047,7 +134215,7 @@
           "level": null
         },
         "araxxor": {
-          "value": 1220,
+          "value": 1234,
           "level": null
         },
         "artio": {
@@ -133127,7 +134295,7 @@
           "level": null
         },
         "duke_sucellus": {
-          "value": 137,
+          "value": 141,
           "level": null
         },
         "general_graardor": {
@@ -133235,11 +134403,11 @@
           "level": null
         },
         "the_gauntlet": {
-          "value": 6,
+          "value": 8,
           "level": null
         },
         "the_corrupted_gauntlet": {
-          "value": 345,
+          "value": 356,
           "level": null
         },
         "the_hueycoatl": {
@@ -133248,6 +134416,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 112,
           "level": null
         },
         "the_whisperer": {
@@ -133705,6 +134877,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 25,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -134158,6 +135334,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 139,
           "level": null
         },
         "the_whisperer": {
@@ -134615,6 +135795,10 @@
           "value": 59,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -135068,6 +136252,10 @@
         },
         "the_leviathan": {
           "value": 79,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 43,
           "level": null
         },
         "the_whisperer": {
@@ -135525,6 +136713,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 104,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -135978,6 +137170,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 293,
           "level": null
         },
         "the_whisperer": {
@@ -136435,6 +137631,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 482,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -136887,6 +138087,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -137345,6 +138549,10 @@
           "value": 1032,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 146,
+          "level": null
+        },
         "the_whisperer": {
           "value": 610,
           "level": null
@@ -137800,6 +139008,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 207,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -138252,6 +139464,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -138710,6 +139926,10 @@
           "value": 33,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 59,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -139162,6 +140382,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -139620,6 +140844,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 154,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -140073,6 +141301,10 @@
         },
         "the_leviathan": {
           "value": 967,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 216,
           "level": null
         },
         "the_whisperer": {
@@ -140530,6 +141762,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 294,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -140982,6 +142218,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -141440,6 +142680,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 318,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -141893,6 +143137,10 @@
         },
         "the_leviathan": {
           "value": 82,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 436,
           "level": null
         },
         "the_whisperer": {
@@ -142350,6 +143598,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 141,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -142805,6 +144057,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -143257,6 +144513,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -143715,6 +144975,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 231,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -144168,6 +145432,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 247,
           "level": null
         },
         "the_whisperer": {
@@ -144625,6 +145893,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 239,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -145078,6 +146350,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 228,
           "level": null
         },
         "the_whisperer": {
@@ -145535,6 +146811,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 169,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -145988,6 +147268,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 194,
           "level": null
         },
         "the_whisperer": {
@@ -146445,6 +147729,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 135,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -146898,6 +148186,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 30,
           "level": null
         },
         "the_whisperer": {
@@ -147355,6 +148647,10 @@
           "value": 416,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 8,
+          "level": null
+        },
         "the_whisperer": {
           "value": 678,
           "level": null
@@ -147808,6 +149104,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 590,
           "level": null
         },
         "the_whisperer": {
@@ -148265,6 +149565,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 154,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -148718,6 +150022,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 28,
           "level": null
         },
         "the_whisperer": {
@@ -149175,6 +150483,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -149628,6 +150940,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 149,
           "level": null
         },
         "the_whisperer": {
@@ -150085,6 +151401,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 222,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -150538,6 +151858,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 453,
           "level": null
         },
         "the_whisperer": {
@@ -150995,6 +152319,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 350,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -151450,6 +152778,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 406,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -151902,6 +153234,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -152360,6 +153696,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 22,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -152813,6 +154153,10 @@
         },
         "the_leviathan": {
           "value": 2200,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 557,
           "level": null
         },
         "the_whisperer": {
@@ -153270,6 +154614,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 270,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -153723,6 +155071,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 67,
           "level": null
         },
         "the_whisperer": {
@@ -154180,6 +155532,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 455,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -154635,6 +155991,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 14,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -155087,6 +156447,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -155545,6 +156909,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 36,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -155998,6 +157366,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 105,
           "level": null
         },
         "the_whisperer": {
@@ -156455,6 +157827,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 141,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -156908,6 +158284,10 @@
         },
         "the_leviathan": {
           "value": 158,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 210,
           "level": null
         },
         "the_whisperer": {
@@ -157365,6 +158745,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 93,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -157818,6 +159202,10 @@
         },
         "the_leviathan": {
           "value": 1075,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 0,
           "level": null
         },
         "the_whisperer": {
@@ -158275,6 +159663,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 549,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -158728,6 +160120,10 @@
         },
         "the_leviathan": {
           "value": 188,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 256,
           "level": null
         },
         "the_whisperer": {
@@ -159185,6 +160581,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 61,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -159257,15 +160657,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1458.22028,
+          "value": 1458.29697,
           "level": null
         },
         "ehb": {
-          "value": 834.8895600000002,
+          "value": 835.2895600000002,
           "level": null
         },
         "overall": {
-          "value": 422237968,
+          "value": 422431469,
           "level": 2296
         },
         "attack": {
@@ -159277,15 +160677,15 @@
           "level": 99
         },
         "strength": {
-          "value": 43535614,
+          "value": 43598102,
           "level": 99
         },
         "hitpoints": {
-          "value": 61285419,
+          "value": 61328086,
           "level": 99
         },
         "ranged": {
-          "value": 68070041,
+          "value": 68135593,
           "level": 99
         },
         "prayer": {
@@ -159293,7 +160693,7 @@
           "level": 92
         },
         "magic": {
-          "value": 38899762,
+          "value": 38901270,
           "level": 99
         },
         "cooking": {
@@ -159317,7 +160717,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 13548104,
+          "value": 13548324,
           "level": 99
         },
         "smithing": {
@@ -159329,11 +160729,11 @@
           "level": 98
         },
         "herblore": {
-          "value": 12585164,
+          "value": 12585259,
           "level": 98
         },
         "agility": {
-          "value": 6522578,
+          "value": 6522584,
           "level": 92
         },
         "thieving": {
@@ -159345,15 +160745,15 @@
           "level": 99
         },
         "farming": {
-          "value": 18802295,
+          "value": 18817580,
           "level": 99
         },
         "runecrafting": {
-          "value": 4662974,
+          "value": 4663854,
           "level": 88
         },
         "hunter": {
-          "value": 5660058,
+          "value": 5664858,
           "level": 90
         },
         "construction": {
@@ -159565,7 +160965,7 @@
           "level": null
         },
         "maggot_king": {
-          "value": 60,
+          "value": 66,
           "level": null
         },
         "mimic": {
@@ -159573,7 +160973,7 @@
           "level": null
         },
         "nex": {
-          "value": 175,
+          "value": 179,
           "level": null
         },
         "nightmare": {
@@ -159638,6 +161038,10 @@
         },
         "the_leviathan": {
           "value": 1141,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 194,
           "level": null
         },
         "the_whisperer": {
@@ -160095,6 +161499,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 19,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -160547,6 +161955,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -161005,6 +162417,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -161460,6 +162876,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 293,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -161532,7 +162952,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 146.42825,
+          "value": 146.69788,
           "level": null
         },
         "ehb": {
@@ -161540,11 +162960,11 @@
           "level": null
         },
         "overall": {
-          "value": 30284951,
-          "level": 1082
+          "value": 30313695,
+          "level": 1095
         },
         "attack": {
-          "value": 43719,
+          "value": 43871,
           "level": 41
         },
         "defence": {
@@ -161556,7 +162976,7 @@
           "level": 32
         },
         "hitpoints": {
-          "value": 37967,
+          "value": 38016,
           "level": 40
         },
         "ranged": {
@@ -161576,8 +162996,8 @@
           "level": 40
         },
         "woodcutting": {
-          "value": 449401,
-          "level": 64
+          "value": 454101,
+          "level": 65
         },
         "fletching": {
           "value": 603853,
@@ -161588,11 +163008,11 @@
           "level": 39
         },
         "firemaking": {
-          "value": 13055299,
+          "value": 13059299,
           "level": 99
         },
         "crafting": {
-          "value": 233361,
+          "value": 235399,
           "level": 58
         },
         "smithing": {
@@ -161612,7 +163032,7 @@
           "level": 57
         },
         "thieving": {
-          "value": 13039704,
+          "value": 13040000,
           "level": 99
         },
         "slayer": {
@@ -161620,8 +163040,8 @@
           "level": 1
         },
         "farming": {
-          "value": 7829,
-          "level": 24
+          "value": 25338,
+          "level": 36
         },
         "runecrafting": {
           "value": 0,
@@ -161696,7 +163116,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 38,
+          "value": 39,
           "level": null
         },
         "abyssal_sire": {
@@ -161912,6 +163332,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -162370,6 +163794,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 19,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -162822,6 +164250,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -163280,6 +164712,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 118,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -163733,6 +165169,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 275,
           "level": null
         },
         "the_whisperer": {
@@ -164190,6 +165630,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 203,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -164642,6 +166086,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -165100,6 +166548,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 157,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -165552,6 +167004,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -166010,6 +167466,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 151,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -166463,6 +167923,10 @@
         },
         "the_leviathan": {
           "value": 2,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 175,
           "level": null
         },
         "the_whisperer": {
@@ -166920,6 +168384,10 @@
           "value": 38,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 242,
+          "level": null
+        },
         "the_whisperer": {
           "value": 9,
           "level": null
@@ -167373,6 +168841,10 @@
         },
         "the_leviathan": {
           "value": 1650,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 150,
           "level": null
         },
         "the_whisperer": {
@@ -167830,6 +169302,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 96,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -168283,6 +169759,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 213,
           "level": null
         },
         "the_whisperer": {
@@ -168740,6 +170220,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 429,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -169192,6 +170676,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -169650,6 +171138,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 12,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -170103,6 +171595,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 310,
           "level": null
         },
         "the_whisperer": {
@@ -170560,6 +172056,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 300,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -171015,6 +172515,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 298,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -171467,6 +172971,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -171925,6 +173433,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 7,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -172378,6 +173890,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 74,
           "level": null
         },
         "the_whisperer": {
@@ -172835,6 +174351,10 @@
           "value": 90,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 31,
+          "level": null
+        },
         "the_whisperer": {
           "value": 57,
           "level": null
@@ -173288,6 +174808,10 @@
         },
         "the_leviathan": {
           "value": 12,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 359,
           "level": null
         },
         "the_whisperer": {
@@ -173745,6 +175269,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 269,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -174198,6 +175726,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 1152,
           "level": null
         },
         "the_whisperer": {
@@ -174655,6 +176187,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 284,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -175108,6 +176644,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 52,
           "level": null
         },
         "the_whisperer": {
@@ -175565,6 +177105,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 60,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -176018,6 +177562,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 264,
           "level": null
         },
         "the_whisperer": {
@@ -176475,6 +178023,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 271,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -176927,6 +178479,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -177385,6 +178941,10 @@
           "value": 50,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 219,
+          "level": null
+        },
         "the_whisperer": {
           "value": 211,
           "level": null
@@ -177837,6 +179397,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -178295,6 +179859,10 @@
           "value": 637,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 113,
+          "level": null
+        },
         "the_whisperer": {
           "value": 336,
           "level": null
@@ -178748,6 +180316,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 303,
           "level": null
         },
         "the_whisperer": {
@@ -179205,6 +180777,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 148,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -179658,6 +181234,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 127,
           "level": null
         },
         "the_whisperer": {
@@ -180115,6 +181695,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 386,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -180570,6 +182154,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 220,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -181022,6 +182610,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -181480,6 +183072,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -181933,6 +183529,10 @@
         },
         "the_leviathan": {
           "value": 50,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 576,
           "level": null
         },
         "the_whisperer": {
@@ -182390,6 +183990,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 51,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -182843,6 +184447,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 58,
           "level": null
         },
         "the_whisperer": {
@@ -183300,6 +184908,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 316,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -183755,6 +185367,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 132,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -184207,6 +185823,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -184665,6 +186285,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -184737,31 +186361,31 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2444.43791,
+          "value": 2444.44338,
           "level": null
         },
         "ehb": {
-          "value": 3171.27289,
+          "value": 3172.21039,
           "level": null
         },
         "overall": {
-          "value": 1017309849,
+          "value": 1017461023,
           "level": 2376
         },
         "attack": {
-          "value": 33772664,
+          "value": 33773115,
           "level": 99
         },
         "defence": {
-          "value": 38450870,
+          "value": 38452997,
           "level": 99
         },
         "strength": {
-          "value": 186475769,
+          "value": 186566269,
           "level": 99
         },
         "hitpoints": {
-          "value": 187329388,
+          "value": 187372390,
           "level": 99
         },
         "ranged": {
@@ -184773,7 +186397,7 @@
           "level": 99
         },
         "magic": {
-          "value": 73501265,
+          "value": 73516359,
           "level": 99
         },
         "cooking": {
@@ -185120,12 +186744,16 @@
           "value": 93,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 280,
+          "level": null
+        },
         "the_whisperer": {
           "value": 218,
           "level": null
         },
         "theatre_of_blood": {
-          "value": 2013,
+          "value": 2016,
           "level": null
         },
         "theatre_of_blood_hard_mode": {
@@ -185573,6 +187201,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 187,
           "level": null
         },
         "the_whisperer": {
@@ -186030,6 +187662,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 600,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -186485,6 +188121,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 9,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -186937,6 +188577,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -187395,6 +189039,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -187850,6 +189498,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 131,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -188302,6 +189954,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -188760,6 +190416,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 354,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -189213,6 +190873,10 @@
         },
         "the_leviathan": {
           "value": 50,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 35,
           "level": null
         },
         "the_whisperer": {
@@ -189670,6 +191334,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 405,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -190122,6 +191790,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -190580,6 +192252,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 736,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -191035,6 +192711,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -191107,7 +192787,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1480.38462,
+          "value": 1482.23038,
           "level": null
         },
         "ehb": {
@@ -191115,8 +192795,8 @@
           "level": null
         },
         "overall": {
-          "value": 411596019,
-          "level": 2279
+          "value": 411961355,
+          "level": 2280
         },
         "attack": {
           "value": 17505687,
@@ -191143,7 +192823,7 @@
           "level": 91
         },
         "magic": {
-          "value": 31281341,
+          "value": 31296321,
           "level": 99
         },
         "cooking": {
@@ -191167,7 +192847,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 9355757,
+          "value": 9375557,
           "level": 95
         },
         "smithing": {
@@ -191175,7 +192855,7 @@
           "level": 89
         },
         "mining": {
-          "value": 9101104,
+          "value": 9182284,
           "level": 95
         },
         "herblore": {
@@ -191207,8 +192887,8 @@
           "level": 97
         },
         "construction": {
-          "value": 4154021,
-          "level": 87
+          "value": 4403397,
+          "level": 88
         },
         "sailing": {
           "value": 6368094,
@@ -191488,6 +193168,10 @@
         },
         "the_leviathan": {
           "value": 2,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 271,
           "level": null
         },
         "the_whisperer": {
@@ -191942,6 +193626,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -192400,6 +194088,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 5,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -192855,6 +194547,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 216,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -193307,6 +195003,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -193765,6 +195465,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 199,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -194220,6 +195924,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 260,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -194672,6 +196380,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -195130,6 +196842,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 168,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -195583,6 +197299,10 @@
         },
         "the_leviathan": {
           "value": 50,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 240,
           "level": null
         },
         "the_whisperer": {
@@ -196040,6 +197760,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 84,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -196492,6 +198216,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -196950,6 +198678,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -197402,6 +199134,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -197860,6 +199596,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 1,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -198312,6 +200052,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -198770,6 +200514,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -199223,6 +200971,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 225,
           "level": null
         },
         "the_whisperer": {
@@ -199680,6 +201432,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 1,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -200135,6 +201891,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 264,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -200587,6 +202347,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -201045,6 +202809,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -201497,6 +203265,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -201955,6 +203727,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -202410,6 +204186,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -202482,7 +204262,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 19.88367,
+          "value": 20.42199,
           "level": null
         },
         "ehb": {
@@ -202490,11 +204270,11 @@
           "level": null
         },
         "overall": {
-          "value": 1463797,
-          "level": 890
+          "value": 1498343,
+          "level": 893
         },
         "attack": {
-          "value": 73379,
+          "value": 73451,
           "level": 46
         },
         "defence": {
@@ -202506,7 +204286,7 @@
           "level": 59
         },
         "hitpoints": {
-          "value": 102292,
+          "value": 102316,
           "level": 50
         },
         "ranged": {
@@ -202522,8 +204302,8 @@
           "level": 51
         },
         "cooking": {
-          "value": 114565,
-          "level": 51
+          "value": 133865,
+          "level": 52
         },
         "woodcutting": {
           "value": 64572,
@@ -202534,8 +204314,8 @@
           "level": 15
         },
         "fishing": {
-          "value": 67113,
-          "level": 45
+          "value": 82263,
+          "level": 47
         },
         "firemaking": {
           "value": 68315,
@@ -202862,6 +204642,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -203320,6 +205104,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 500,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -203775,6 +205563,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 466,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -204227,6 +206019,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -204685,6 +206481,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 342,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -205140,6 +206940,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 584,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -205592,6 +207396,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -206050,6 +207858,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -206505,6 +208317,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 104,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -206957,6 +208773,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -207415,6 +209235,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 335,
+          "level": null
+        },
         "the_whisperer": {
           "value": 2,
           "level": null
@@ -207487,7 +209311,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 2426.097380000001,
+          "value": 2426.1025,
           "level": null
         },
         "ehb": {
@@ -207495,11 +209319,11 @@
           "level": null
         },
         "overall": {
-          "value": 546629408,
+          "value": 546666142,
           "level": 2376
         },
         "attack": {
-          "value": 22959451,
+          "value": 22959683,
           "level": 99
         },
         "defence": {
@@ -207511,7 +209335,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 66269526,
+          "value": 66269603,
           "level": 99
         },
         "ranged": {
@@ -207523,7 +209347,7 @@
           "level": 99
         },
         "magic": {
-          "value": 35096885,
+          "value": 35131543,
           "level": 99
         },
         "cooking": {
@@ -207567,7 +209391,7 @@
           "level": 99
         },
         "thieving": {
-          "value": 13687158,
+          "value": 13688925,
           "level": 99
         },
         "slayer": {
@@ -207868,6 +209692,10 @@
         },
         "the_leviathan": {
           "value": 591,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 242,
           "level": null
         },
         "the_whisperer": {
@@ -208325,6 +210153,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 270,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -208778,6 +210610,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 317,
           "level": null
         },
         "the_whisperer": {
@@ -209235,6 +211071,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 73,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -209687,6 +211527,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -210145,6 +211989,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 58,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -210600,6 +212448,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 74,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -210672,7 +212524,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 481.12609,
+          "value": 481.24203,
           "level": null
         },
         "ehb": {
@@ -210680,7 +212532,7 @@
           "level": null
         },
         "overall": {
-          "value": 82955005,
+          "value": 82991650,
           "level": 1975
         },
         "attack": {
@@ -210732,7 +212584,7 @@
           "level": 75
         },
         "crafting": {
-          "value": 4130953,
+          "value": 4166848,
           "level": 87
         },
         "smithing": {
@@ -210740,7 +212592,7 @@
           "level": 73
         },
         "mining": {
-          "value": 1438406,
+          "value": 1439156,
           "level": 76
         },
         "herblore": {
@@ -211053,6 +212905,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 230,
           "level": null
         },
         "the_whisperer": {
@@ -211507,6 +213363,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -211965,6 +213825,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -212418,6 +214282,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 211,
           "level": null
         },
         "the_whisperer": {
@@ -212875,6 +214743,10 @@
           "value": 4,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 110,
+          "level": null
+        },
         "the_whisperer": {
           "value": 5,
           "level": null
@@ -213327,6 +215199,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -213785,6 +215661,10 @@
           "value": 836,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 880,
+          "level": null
+        },
         "the_whisperer": {
           "value": 305,
           "level": null
@@ -214237,6 +216117,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -214695,6 +216579,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 709,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -215147,6 +217035,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -215605,6 +217497,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 25,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -216058,6 +217954,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 14,
           "level": null
         },
         "the_whisperer": {
@@ -216515,6 +218415,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 52,
+          "level": null
+        },
         "the_whisperer": {
           "value": 100,
           "level": null
@@ -216968,6 +218872,10 @@
         },
         "the_leviathan": {
           "value": 299,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 316,
           "level": null
         },
         "the_whisperer": {
@@ -217425,6 +219333,10 @@
           "value": 183,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 405,
+          "level": null
+        },
         "the_whisperer": {
           "value": 142,
           "level": null
@@ -217878,6 +219790,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 233,
           "level": null
         },
         "the_whisperer": {
@@ -218335,6 +220251,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 111,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -218787,6 +220707,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -219245,6 +221169,10 @@
           "value": 1,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 2,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -219698,6 +221626,10 @@
         },
         "the_leviathan": {
           "value": 11,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 208,
           "level": null
         },
         "the_whisperer": {
@@ -220155,6 +222087,10 @@
           "value": 2,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 255,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -220227,7 +222163,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1057.67607,
+          "value": 1058.27566,
           "level": null
         },
         "ehb": {
@@ -220235,8 +222171,8 @@
           "level": null
         },
         "overall": {
-          "value": 210893385,
-          "level": 2202
+          "value": 210944870,
+          "level": 2203
         },
         "attack": {
           "value": 13220505,
@@ -220263,7 +222199,7 @@
           "level": 85
         },
         "magic": {
-          "value": 12775472,
+          "value": 12775992,
           "level": 98
         },
         "cooking": {
@@ -220331,8 +222267,8 @@
           "level": 83
         },
         "sailing": {
-          "value": 785312,
-          "level": 70
+          "value": 836277,
+          "level": 71
         },
         "bounty_hunter_hunter": {
           "value": 0,
@@ -220608,6 +222544,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 10,
           "level": null
         },
         "the_whisperer": {
@@ -221065,6 +223005,10 @@
           "value": 363,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 239,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1642,
           "level": null
@@ -221518,6 +223462,10 @@
         },
         "the_leviathan": {
           "value": 1478,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 78,
           "level": null
         },
         "the_whisperer": {
@@ -221975,6 +223923,10 @@
           "value": 425,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 236,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -222428,6 +224380,10 @@
         },
         "the_leviathan": {
           "value": 1104,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 278,
           "level": null
         },
         "the_whisperer": {
@@ -222885,6 +224841,10 @@
           "value": 5,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 133,
+          "level": null
+        },
         "the_whisperer": {
           "value": 14,
           "level": null
@@ -223338,6 +225298,10 @@
         },
         "the_leviathan": {
           "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 34,
           "level": null
         },
         "the_whisperer": {
@@ -223795,6 +225759,10 @@
           "value": 3,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 102,
+          "level": null
+        },
         "the_whisperer": {
           "value": 1,
           "level": null
@@ -224247,6 +226215,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -224705,6 +226677,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -225158,6 +227134,10 @@
         },
         "the_leviathan": {
           "value": 1,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 289,
           "level": null
         },
         "the_whisperer": {
@@ -225615,6 +227595,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 99,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -226067,6 +228051,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
@@ -226525,6 +228513,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -226980,6 +228972,10 @@
           "value": 0,
           "level": null
         },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
         "the_whisperer": {
           "value": 0,
           "level": null
@@ -227432,6 +229428,10 @@
           "level": null
         },
         "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
           "value": 0,
           "level": null
         },
