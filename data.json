@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:30:15.112Z",
+  "updatedAt": "2026-10-06T01:24:48.861Z",
   "members": [
     {
       "username": "Corvids",
@@ -7,15 +7,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 737.52853,
+          "value": 737.59612,
           "level": null
         },
         "ehb": {
-          "value": 414.1393,
+          "value": 414.8833,
           "level": null
         },
         "overall": {
-          "value": 306962299,
+          "value": 307069957,
           "level": 2261
         },
         "attack": {
@@ -31,11 +31,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 39048272,
+          "value": 39074944,
           "level": 99
         },
         "ranged": {
-          "value": 34913550,
+          "value": 34993672,
           "level": 99
         },
         "prayer": {
@@ -43,7 +43,7 @@
           "level": 88
         },
         "magic": {
-          "value": 23155815,
+          "value": 23156626,
           "level": 99
         },
         "cooking": {
@@ -103,7 +103,7 @@
           "level": 83
         },
         "hunter": {
-          "value": 9696483,
+          "value": 9696536,
           "level": 96
         },
         "construction": {
@@ -275,7 +275,7 @@
           "level": null
         },
         "giant_mole": {
-          "value": 122,
+          "value": 215,
           "level": null
         },
         "grotesque_guardians": {
@@ -304,6 +304,10 @@
         },
         "kril_tsutsaroth": {
           "value": 230,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 381,
           "level": null
         },
         "mad_angel": {
@@ -761,6 +765,10 @@
           "value": 30,
           "level": null
         },
+        "lunar_chests": {
+          "value": 275,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -1214,6 +1222,10 @@
         },
         "kril_tsutsaroth": {
           "value": 247,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 147,
           "level": null
         },
         "mad_angel": {
@@ -1671,6 +1683,10 @@
           "value": 22,
           "level": null
         },
+        "lunar_chests": {
+          "value": 62,
+          "level": null
+        },
         "mad_angel": {
           "value": 259,
           "level": null
@@ -2124,6 +2140,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 242,
           "level": null
         },
         "mad_angel": {
@@ -2581,6 +2601,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 279,
+          "level": null
+        },
         "mad_angel": {
           "value": 132,
           "level": null
@@ -3034,6 +3058,10 @@
         },
         "kril_tsutsaroth": {
           "value": 198,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 266,
           "level": null
         },
         "mad_angel": {
@@ -3491,6 +3519,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 81,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -3944,6 +3976,10 @@
         },
         "kril_tsutsaroth": {
           "value": 55,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 88,
           "level": null
         },
         "mad_angel": {
@@ -4401,6 +4437,10 @@
           "value": 77,
           "level": null
         },
+        "lunar_chests": {
+          "value": 131,
+          "level": null
+        },
         "mad_angel": {
           "value": 6,
           "level": null
@@ -4557,19 +4597,19 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 687.7917199999999,
+          "value": 688.37894,
           "level": null
         },
         "ehb": {
-          "value": 335.5889099999999,
+          "value": 336.25558,
           "level": null
         },
         "overall": {
-          "value": 266474423,
+          "value": 266870763,
           "level": 2242
         },
         "attack": {
-          "value": 12481648,
+          "value": 12616425,
           "level": 98
         },
         "defence": {
@@ -4581,11 +4621,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 34279388,
+          "value": 34344752,
           "level": 99
         },
         "ranged": {
-          "value": 35234820,
+          "value": 35327890,
           "level": 99
         },
         "prayer": {
@@ -4593,7 +4633,7 @@
           "level": 88
         },
         "magic": {
-          "value": 27155235,
+          "value": 27169600,
           "level": 99
         },
         "cooking": {
@@ -4601,11 +4641,11 @@
           "level": 95
         },
         "woodcutting": {
-          "value": 5903139,
+          "value": 5904339,
           "level": 91
         },
         "fletching": {
-          "value": 5483934,
+          "value": 5484254,
           "level": 90
         },
         "fishing": {
@@ -4629,7 +4669,7 @@
           "level": 93
         },
         "herblore": {
-          "value": 9025628,
+          "value": 9059403,
           "level": 95
         },
         "agility": {
@@ -4641,11 +4681,11 @@
           "level": 87
         },
         "slayer": {
-          "value": 10752817,
+          "value": 10797833,
           "level": 97
         },
         "farming": {
-          "value": 14090903,
+          "value": 14099356,
           "level": 99
         },
         "runecrafting": {
@@ -4856,6 +4896,10 @@
           "value": 18,
           "level": null
         },
+        "lunar_chests": {
+          "value": 203,
+          "level": null
+        },
         "mad_angel": {
           "value": 100,
           "level": null
@@ -4973,7 +5017,7 @@
           "level": null
         },
         "vardorvis": {
-          "value": 672,
+          "value": 698,
           "level": null
         },
         "venenatis": {
@@ -5309,6 +5353,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 328,
           "level": null
         },
         "mad_angel": {
@@ -5766,6 +5814,10 @@
           "value": 131,
           "level": null
         },
+        "lunar_chests": {
+          "value": 304,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -6219,6 +6271,10 @@
         },
         "kril_tsutsaroth": {
           "value": 100,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 221,
           "level": null
         },
         "mad_angel": {
@@ -6676,6 +6732,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 191,
+          "level": null
+        },
         "mad_angel": {
           "value": 172,
           "level": null
@@ -7129,6 +7189,10 @@
         },
         "kril_tsutsaroth": {
           "value": 229,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 214,
           "level": null
         },
         "mad_angel": {
@@ -7586,6 +7650,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 295,
+          "level": null
+        },
         "mad_angel": {
           "value": 22,
           "level": null
@@ -8038,6 +8106,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -8496,6 +8568,10 @@
           "value": 119,
           "level": null
         },
+        "lunar_chests": {
+          "value": 13,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -8949,6 +9025,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 481,
           "level": null
         },
         "mad_angel": {
@@ -9406,6 +9486,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -9859,6 +9943,10 @@
         },
         "kril_tsutsaroth": {
           "value": 179,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 459,
           "level": null
         },
         "mad_angel": {
@@ -10316,6 +10404,10 @@
           "value": 138,
           "level": null
         },
+        "lunar_chests": {
+          "value": 298,
+          "level": null
+        },
         "mad_angel": {
           "value": 82,
           "level": null
@@ -10357,7 +10449,7 @@
           "level": null
         },
         "scurrius": {
-          "value": 719,
+          "value": 739,
           "level": null
         },
         "shellbane_gryphon": {
@@ -10768,6 +10860,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 100,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 100,
           "level": null
         },
@@ -11226,6 +11322,10 @@
           "value": 68,
           "level": null
         },
+        "lunar_chests": {
+          "value": 459,
+          "level": null
+        },
         "mad_angel": {
           "value": 215,
           "level": null
@@ -11679,6 +11779,10 @@
         },
         "kril_tsutsaroth": {
           "value": 380,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 240,
           "level": null
         },
         "mad_angel": {
@@ -12136,6 +12240,10 @@
           "value": 361,
           "level": null
         },
+        "lunar_chests": {
+          "value": 161,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -12589,6 +12697,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 227,
           "level": null
         },
         "mad_angel": {
@@ -13046,6 +13158,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 374,
+          "level": null
+        },
         "mad_angel": {
           "value": 70,
           "level": null
@@ -13499,6 +13615,10 @@
         },
         "kril_tsutsaroth": {
           "value": 183,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 261,
           "level": null
         },
         "mad_angel": {
@@ -13956,6 +14076,10 @@
           "value": 5,
           "level": null
         },
+        "lunar_chests": {
+          "value": 306,
+          "level": null
+        },
         "mad_angel": {
           "value": 19,
           "level": null
@@ -14409,6 +14533,10 @@
         },
         "kril_tsutsaroth": {
           "value": 210,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 54,
           "level": null
         },
         "mad_angel": {
@@ -14866,6 +14994,10 @@
           "value": 230,
           "level": null
         },
+        "lunar_chests": {
+          "value": 242,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -15319,6 +15451,10 @@
         },
         "kril_tsutsaroth": {
           "value": 350,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 210,
           "level": null
         },
         "mad_angel": {
@@ -15776,6 +15912,10 @@
           "value": 319,
           "level": null
         },
+        "lunar_chests": {
+          "value": 242,
+          "level": null
+        },
         "mad_angel": {
           "value": 92,
           "level": null
@@ -16229,6 +16369,10 @@
         },
         "kril_tsutsaroth": {
           "value": 571,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 232,
           "level": null
         },
         "mad_angel": {
@@ -16686,6 +16830,10 @@
           "value": 54,
           "level": null
         },
+        "lunar_chests": {
+          "value": 109,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -17139,6 +17287,10 @@
         },
         "kril_tsutsaroth": {
           "value": 937,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 297,
           "level": null
         },
         "mad_angel": {
@@ -17596,6 +17748,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 322,
+          "level": null
+        },
         "mad_angel": {
           "value": 31,
           "level": null
@@ -18049,6 +18205,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 131,
           "level": null
         },
         "mad_angel": {
@@ -18506,6 +18666,10 @@
           "value": 40,
           "level": null
         },
+        "lunar_chests": {
+          "value": 197,
+          "level": null
+        },
         "mad_angel": {
           "value": 75,
           "level": null
@@ -18959,6 +19123,10 @@
         },
         "kril_tsutsaroth": {
           "value": 360,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 164,
           "level": null
         },
         "mad_angel": {
@@ -19416,6 +19584,10 @@
           "value": 1220,
           "level": null
         },
+        "lunar_chests": {
+          "value": 22,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -19869,6 +20041,10 @@
         },
         "kril_tsutsaroth": {
           "value": 322,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 366,
           "level": null
         },
         "mad_angel": {
@@ -20326,6 +20502,10 @@
           "value": 245,
           "level": null
         },
+        "lunar_chests": {
+          "value": 246,
+          "level": null
+        },
         "mad_angel": {
           "value": 343,
           "level": null
@@ -20779,6 +20959,10 @@
         },
         "kril_tsutsaroth": {
           "value": 69,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 278,
           "level": null
         },
         "mad_angel": {
@@ -21236,6 +21420,10 @@
           "value": 902,
           "level": null
         },
+        "lunar_chests": {
+          "value": 387,
+          "level": null
+        },
         "mad_angel": {
           "value": 76,
           "level": null
@@ -21689,6 +21877,10 @@
         },
         "kril_tsutsaroth": {
           "value": 287,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 110,
           "level": null
         },
         "mad_angel": {
@@ -22146,6 +22338,10 @@
           "value": 3511,
           "level": null
         },
+        "lunar_chests": {
+          "value": 337,
+          "level": null
+        },
         "mad_angel": {
           "value": 307,
           "level": null
@@ -22599,6 +22795,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1490,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 280,
           "level": null
         },
         "mad_angel": {
@@ -23056,6 +23256,10 @@
           "value": 83,
           "level": null
         },
+        "lunar_chests": {
+          "value": 494,
+          "level": null
+        },
         "mad_angel": {
           "value": 44,
           "level": null
@@ -23509,6 +23713,10 @@
         },
         "kril_tsutsaroth": {
           "value": 726,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 187,
           "level": null
         },
         "mad_angel": {
@@ -23966,6 +24174,10 @@
           "value": 46,
           "level": null
         },
+        "lunar_chests": {
+          "value": 260,
+          "level": null
+        },
         "mad_angel": {
           "value": 51,
           "level": null
@@ -24419,6 +24631,10 @@
         },
         "kril_tsutsaroth": {
           "value": 700,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 188,
           "level": null
         },
         "mad_angel": {
@@ -24876,6 +25092,10 @@
           "value": 210,
           "level": null
         },
+        "lunar_chests": {
+          "value": 50,
+          "level": null
+        },
         "mad_angel": {
           "value": 39,
           "level": null
@@ -25329,6 +25549,10 @@
         },
         "kril_tsutsaroth": {
           "value": 142,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 284,
           "level": null
         },
         "mad_angel": {
@@ -25786,6 +26010,10 @@
           "value": 217,
           "level": null
         },
+        "lunar_chests": {
+          "value": 400,
+          "level": null
+        },
         "mad_angel": {
           "value": 165,
           "level": null
@@ -26239,6 +26467,10 @@
         },
         "kril_tsutsaroth": {
           "value": 875,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 179,
           "level": null
         },
         "mad_angel": {
@@ -26696,6 +26928,10 @@
           "value": 1100,
           "level": null
         },
+        "lunar_chests": {
+          "value": 600,
+          "level": null
+        },
         "mad_angel": {
           "value": 100,
           "level": null
@@ -27149,6 +27385,10 @@
         },
         "kril_tsutsaroth": {
           "value": 267,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 25,
           "level": null
         },
         "mad_angel": {
@@ -27606,6 +27846,10 @@
           "value": 305,
           "level": null
         },
+        "lunar_chests": {
+          "value": 427,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -28059,6 +28303,10 @@
         },
         "kril_tsutsaroth": {
           "value": 102,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 170,
           "level": null
         },
         "mad_angel": {
@@ -28516,6 +28764,10 @@
           "value": 158,
           "level": null
         },
+        "lunar_chests": {
+          "value": 392,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -28969,6 +29221,10 @@
         },
         "kril_tsutsaroth": {
           "value": 111,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 25,
           "level": null
         },
         "mad_angel": {
@@ -29426,6 +29682,10 @@
           "value": 303,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -29879,6 +30139,10 @@
         },
         "kril_tsutsaroth": {
           "value": 215,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 79,
           "level": null
         },
         "mad_angel": {
@@ -30336,6 +30600,10 @@
           "value": 487,
           "level": null
         },
+        "lunar_chests": {
+          "value": 312,
+          "level": null
+        },
         "mad_angel": {
           "value": 196,
           "level": null
@@ -30789,6 +31057,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 333,
           "level": null
         },
         "mad_angel": {
@@ -31246,6 +31518,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 5,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -31402,7 +31678,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 533.4504900000001,
+          "value": 534.20502,
           "level": null
         },
         "ehb": {
@@ -31410,7 +31686,7 @@
           "level": null
         },
         "overall": {
-          "value": 93777642,
+          "value": 93965961,
           "level": 2027
         },
         "attack": {
@@ -31430,7 +31706,7 @@
           "level": 90
         },
         "ranged": {
-          "value": 5421186,
+          "value": 5448778,
           "level": 90
         },
         "prayer": {
@@ -31438,7 +31714,7 @@
           "level": 80
         },
         "magic": {
-          "value": 5660637,
+          "value": 5661217,
           "level": 90
         },
         "cooking": {
@@ -31454,7 +31730,7 @@
           "level": 75
         },
         "fishing": {
-          "value": 1778784,
+          "value": 1797767,
           "level": 78
         },
         "firemaking": {
@@ -31462,11 +31738,11 @@
           "level": 76
         },
         "crafting": {
-          "value": 4118296,
+          "value": 4121796,
           "level": 87
         },
         "smithing": {
-          "value": 4882847,
+          "value": 4886347,
           "level": 89
         },
         "mining": {
@@ -31498,7 +31774,7 @@
           "level": 74
         },
         "hunter": {
-          "value": 4991989,
+          "value": 5016664,
           "level": 89
         },
         "construction": {
@@ -31506,7 +31782,7 @@
           "level": 84
         },
         "sailing": {
-          "value": 8364861,
+          "value": 8474350,
           "level": 94
         },
         "bounty_hunter_hunter": {
@@ -31699,6 +31975,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 383,
           "level": null
         },
         "mad_angel": {
@@ -32156,6 +32436,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 284,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -32609,6 +32893,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 256,
           "level": null
         },
         "mad_angel": {
@@ -33066,6 +33354,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 66,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -33519,6 +33811,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 37,
           "level": null
         },
         "mad_angel": {
@@ -33976,6 +34272,10 @@
           "value": 489,
           "level": null
         },
+        "lunar_chests": {
+          "value": 47,
+          "level": null
+        },
         "mad_angel": {
           "value": 32,
           "level": null
@@ -34429,6 +34729,10 @@
         },
         "kril_tsutsaroth": {
           "value": 603,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 96,
           "level": null
         },
         "mad_angel": {
@@ -34886,6 +35190,10 @@
           "value": 152,
           "level": null
         },
+        "lunar_chests": {
+          "value": 252,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -35339,6 +35647,10 @@
         },
         "kril_tsutsaroth": {
           "value": 84,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 215,
           "level": null
         },
         "mad_angel": {
@@ -35796,6 +36108,10 @@
           "value": 150,
           "level": null
         },
+        "lunar_chests": {
+          "value": 254,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -36249,6 +36565,10 @@
         },
         "kril_tsutsaroth": {
           "value": 191,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 13,
           "level": null
         },
         "mad_angel": {
@@ -36706,6 +37026,10 @@
           "value": 67,
           "level": null
         },
+        "lunar_chests": {
+          "value": 120,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -37159,6 +37483,10 @@
         },
         "kril_tsutsaroth": {
           "value": 100,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 35,
           "level": null
         },
         "mad_angel": {
@@ -37616,6 +37944,10 @@
           "value": 190,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1200,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -38069,6 +38401,10 @@
         },
         "kril_tsutsaroth": {
           "value": 302,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 82,
           "level": null
         },
         "mad_angel": {
@@ -38526,6 +38862,10 @@
           "value": 27,
           "level": null
         },
+        "lunar_chests": {
+          "value": 221,
+          "level": null
+        },
         "mad_angel": {
           "value": 253,
           "level": null
@@ -38979,6 +39319,10 @@
         },
         "kril_tsutsaroth": {
           "value": 180,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 239,
           "level": null
         },
         "mad_angel": {
@@ -39436,6 +39780,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 68,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -39889,6 +40237,10 @@
         },
         "kril_tsutsaroth": {
           "value": 184,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 317,
           "level": null
         },
         "mad_angel": {
@@ -40346,6 +40698,10 @@
           "value": 197,
           "level": null
         },
+        "lunar_chests": {
+          "value": 203,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -40799,6 +41155,10 @@
         },
         "kril_tsutsaroth": {
           "value": 42,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 38,
           "level": null
         },
         "mad_angel": {
@@ -41256,6 +41616,10 @@
           "value": 14,
           "level": null
         },
+        "lunar_chests": {
+          "value": 327,
+          "level": null
+        },
         "mad_angel": {
           "value": 112,
           "level": null
@@ -41709,6 +42073,10 @@
         },
         "kril_tsutsaroth": {
           "value": 29,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 596,
           "level": null
         },
         "mad_angel": {
@@ -42166,6 +42534,10 @@
           "value": 26,
           "level": null
         },
+        "lunar_chests": {
+          "value": 80,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -42619,6 +42991,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 303,
           "level": null
         },
         "mad_angel": {
@@ -43076,6 +43452,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 30,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -43529,6 +43909,10 @@
         },
         "kril_tsutsaroth": {
           "value": 429,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 175,
           "level": null
         },
         "mad_angel": {
@@ -43986,6 +44370,10 @@
           "value": 186,
           "level": null
         },
+        "lunar_chests": {
+          "value": 473,
+          "level": null
+        },
         "mad_angel": {
           "value": 154,
           "level": null
@@ -44439,6 +44827,10 @@
         },
         "kril_tsutsaroth": {
           "value": 322,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 123,
           "level": null
         },
         "mad_angel": {
@@ -44896,6 +45288,10 @@
           "value": 77,
           "level": null
         },
+        "lunar_chests": {
+          "value": 169,
+          "level": null
+        },
         "mad_angel": {
           "value": 9,
           "level": null
@@ -45349,6 +45745,10 @@
         },
         "kril_tsutsaroth": {
           "value": 350,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 405,
           "level": null
         },
         "mad_angel": {
@@ -45806,6 +46206,10 @@
           "value": 19,
           "level": null
         },
+        "lunar_chests": {
+          "value": 325,
+          "level": null
+        },
         "mad_angel": {
           "value": 30,
           "level": null
@@ -46259,6 +46663,10 @@
         },
         "kril_tsutsaroth": {
           "value": 33,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 32,
           "level": null
         },
         "mad_angel": {
@@ -46716,6 +47124,10 @@
           "value": 389,
           "level": null
         },
+        "lunar_chests": {
+          "value": 600,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -47169,6 +47581,10 @@
         },
         "kril_tsutsaroth": {
           "value": 87,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 429,
           "level": null
         },
         "mad_angel": {
@@ -47626,6 +48042,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 323,
+          "level": null
+        },
         "mad_angel": {
           "value": 14,
           "level": null
@@ -48081,6 +48501,10 @@
           "value": 280,
           "level": null
         },
+        "lunar_chests": {
+          "value": 30,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -48237,15 +48661,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 919.7123999999999,
+          "value": 920.19477,
           "level": null
         },
         "ehb": {
-          "value": 180.1635399999999,
+          "value": 180.8635399999999,
           "level": null
         },
         "overall": {
-          "value": 186679780,
+          "value": 186764249,
           "level": 2182
         },
         "attack": {
@@ -48261,7 +48685,7 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 17443477,
+          "value": 17459399,
           "level": 99
         },
         "ranged": {
@@ -48273,7 +48697,7 @@
           "level": 81
         },
         "magic": {
-          "value": 8323011,
+          "value": 8374760,
           "level": 94
         },
         "cooking": {
@@ -48305,7 +48729,7 @@
           "level": 89
         },
         "mining": {
-          "value": 10528326,
+          "value": 10529059,
           "level": 96
         },
         "herblore": {
@@ -48321,7 +48745,7 @@
           "level": 85
         },
         "slayer": {
-          "value": 6651358,
+          "value": 6667423,
           "level": 92
         },
         "farming": {
@@ -48525,7 +48949,7 @@
           "level": null
         },
         "kraken": {
-          "value": 181,
+          "value": 244,
           "level": null
         },
         "kreearra": {
@@ -48534,6 +48958,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 275,
           "level": null
         },
         "mad_angel": {
@@ -48991,6 +49419,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 503,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -49444,6 +49876,10 @@
         },
         "kril_tsutsaroth": {
           "value": 103,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 273,
           "level": null
         },
         "mad_angel": {
@@ -49901,6 +50337,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 163,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -50354,6 +50794,10 @@
         },
         "kril_tsutsaroth": {
           "value": 48,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 54,
           "level": null
         },
         "mad_angel": {
@@ -50811,6 +51255,10 @@
           "value": 10,
           "level": null
         },
+        "lunar_chests": {
+          "value": 153,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -51264,6 +51712,10 @@
         },
         "kril_tsutsaroth": {
           "value": 109,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 54,
           "level": null
         },
         "mad_angel": {
@@ -51721,6 +52173,10 @@
           "value": 114,
           "level": null
         },
+        "lunar_chests": {
+          "value": 56,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -52174,6 +52630,10 @@
         },
         "kril_tsutsaroth": {
           "value": 105,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 337,
           "level": null
         },
         "mad_angel": {
@@ -52631,6 +53091,10 @@
           "value": 3,
           "level": null
         },
+        "lunar_chests": {
+          "value": 283,
+          "level": null
+        },
         "mad_angel": {
           "value": 3,
           "level": null
@@ -53084,6 +53548,10 @@
         },
         "kril_tsutsaroth": {
           "value": 180,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 118,
           "level": null
         },
         "mad_angel": {
@@ -53541,6 +54009,10 @@
           "value": 42,
           "level": null
         },
+        "lunar_chests": {
+          "value": 395,
+          "level": null
+        },
         "mad_angel": {
           "value": 210,
           "level": null
@@ -53994,6 +54466,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 414,
           "level": null
         },
         "mad_angel": {
@@ -54451,6 +54927,10 @@
           "value": 252,
           "level": null
         },
+        "lunar_chests": {
+          "value": 369,
+          "level": null
+        },
         "mad_angel": {
           "value": 20,
           "level": null
@@ -54904,6 +55384,10 @@
         },
         "kril_tsutsaroth": {
           "value": 77,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 213,
           "level": null
         },
         "mad_angel": {
@@ -55361,6 +55845,10 @@
           "value": 14,
           "level": null
         },
+        "lunar_chests": {
+          "value": 520,
+          "level": null
+        },
         "mad_angel": {
           "value": 45,
           "level": null
@@ -55517,7 +56005,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 786.66977,
+          "value": 786.73878,
           "level": null
         },
         "ehb": {
@@ -55525,7 +56013,7 @@
           "level": null
         },
         "overall": {
-          "value": 149453152,
+          "value": 149475269,
           "level": 2147
         },
         "attack": {
@@ -55577,7 +56065,7 @@
           "level": 90
         },
         "crafting": {
-          "value": 5905014,
+          "value": 5926774,
           "level": 91
         },
         "smithing": {
@@ -55585,7 +56073,7 @@
           "level": 85
         },
         "mining": {
-          "value": 6604300,
+          "value": 6604657,
           "level": 92
         },
         "herblore": {
@@ -55814,6 +56302,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 501,
           "level": null
         },
         "mad_angel": {
@@ -56271,6 +56763,10 @@
           "value": 5,
           "level": null
         },
+        "lunar_chests": {
+          "value": 108,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -56724,6 +57220,10 @@
         },
         "kril_tsutsaroth": {
           "value": 3,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 276,
           "level": null
         },
         "mad_angel": {
@@ -57181,6 +57681,10 @@
           "value": 431,
           "level": null
         },
+        "lunar_chests": {
+          "value": 223,
+          "level": null
+        },
         "mad_angel": {
           "value": 457,
           "level": null
@@ -57634,6 +58138,10 @@
         },
         "kril_tsutsaroth": {
           "value": 296,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 521,
           "level": null
         },
         "mad_angel": {
@@ -58091,6 +58599,10 @@
           "value": 31,
           "level": null
         },
+        "lunar_chests": {
+          "value": 51,
+          "level": null
+        },
         "mad_angel": {
           "value": 37,
           "level": null
@@ -58544,6 +59056,10 @@
         },
         "kril_tsutsaroth": {
           "value": 25,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 1,
           "level": null
         },
         "mad_angel": {
@@ -59001,6 +59517,10 @@
           "value": 415,
           "level": null
         },
+        "lunar_chests": {
+          "value": 245,
+          "level": null
+        },
         "mad_angel": {
           "value": 31,
           "level": null
@@ -59157,7 +59677,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1177.77271,
+          "value": 1177.83361,
           "level": null
         },
         "ehb": {
@@ -59165,7 +59685,7 @@
           "level": null
         },
         "overall": {
-          "value": 277198428,
+          "value": 277210886,
           "level": 2187
         },
         "attack": {
@@ -59193,7 +59713,7 @@
           "level": 85
         },
         "magic": {
-          "value": 20079436,
+          "value": 20079569,
           "level": 99
         },
         "cooking": {
@@ -59201,7 +59721,7 @@
           "level": 99
         },
         "woodcutting": {
-          "value": 23254277,
+          "value": 23266602,
           "level": 99
         },
         "fletching": {
@@ -59454,6 +59974,10 @@
         },
         "kril_tsutsaroth": {
           "value": 38,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 293,
           "level": null
         },
         "mad_angel": {
@@ -59911,6 +60435,10 @@
           "value": 119,
           "level": null
         },
+        "lunar_chests": {
+          "value": 316,
+          "level": null
+        },
         "mad_angel": {
           "value": 8,
           "level": null
@@ -60364,6 +60892,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 322,
           "level": null
         },
         "mad_angel": {
@@ -60821,6 +61353,10 @@
           "value": 13,
           "level": null
         },
+        "lunar_chests": {
+          "value": 337,
+          "level": null
+        },
         "mad_angel": {
           "value": 6,
           "level": null
@@ -60977,7 +61513,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1140.32967,
+          "value": 1141.68817,
           "level": null
         },
         "ehb": {
@@ -60985,7 +61521,7 @@
           "level": null
         },
         "overall": {
-          "value": 298500374,
+          "value": 298910647,
           "level": 2191
         },
         "attack": {
@@ -61037,7 +61573,7 @@
           "level": 89
         },
         "crafting": {
-          "value": 11896508,
+          "value": 12288228,
           "level": 98
         },
         "smithing": {
@@ -61045,11 +61581,11 @@
           "level": 85
         },
         "mining": {
-          "value": 8423346,
+          "value": 8440969,
           "level": 94
         },
         "herblore": {
-          "value": 7233546,
+          "value": 7234476,
           "level": 93
         },
         "agility": {
@@ -61274,6 +61810,10 @@
         },
         "kril_tsutsaroth": {
           "value": 362,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 246,
           "level": null
         },
         "mad_angel": {
@@ -61731,6 +62271,10 @@
           "value": 64,
           "level": null
         },
+        "lunar_chests": {
+          "value": 231,
+          "level": null
+        },
         "mad_angel": {
           "value": 37,
           "level": null
@@ -62184,6 +62728,10 @@
         },
         "kril_tsutsaroth": {
           "value": 47,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 256,
           "level": null
         },
         "mad_angel": {
@@ -62641,6 +63189,10 @@
           "value": 100,
           "level": null
         },
+        "lunar_chests": {
+          "value": 235,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -63094,6 +63646,10 @@
         },
         "kril_tsutsaroth": {
           "value": 166,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 63,
           "level": null
         },
         "mad_angel": {
@@ -63551,6 +64107,10 @@
           "value": 50,
           "level": null
         },
+        "lunar_chests": {
+          "value": 202,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -64004,6 +64564,10 @@
         },
         "kril_tsutsaroth": {
           "value": 200,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 255,
           "level": null
         },
         "mad_angel": {
@@ -64461,6 +65025,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 332,
+          "level": null
+        },
         "mad_angel": {
           "value": 29,
           "level": null
@@ -64914,6 +65482,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 360,
           "level": null
         },
         "mad_angel": {
@@ -65371,6 +65943,10 @@
           "value": 307,
           "level": null
         },
+        "lunar_chests": {
+          "value": 201,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -65824,6 +66400,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 276,
           "level": null
         },
         "mad_angel": {
@@ -66281,6 +66861,10 @@
           "value": 239,
           "level": null
         },
+        "lunar_chests": {
+          "value": 60,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -66734,6 +67318,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 229,
           "level": null
         },
         "mad_angel": {
@@ -67191,6 +67779,10 @@
           "value": 183,
           "level": null
         },
+        "lunar_chests": {
+          "value": 343,
+          "level": null
+        },
         "mad_angel": {
           "value": 29,
           "level": null
@@ -67644,6 +68236,10 @@
         },
         "kril_tsutsaroth": {
           "value": 76,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 176,
           "level": null
         },
         "mad_angel": {
@@ -68101,6 +68697,10 @@
           "value": 4,
           "level": null
         },
+        "lunar_chests": {
+          "value": 90,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -68257,15 +68857,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 405.57847,
+          "value": 405.6071,
           "level": null
         },
         "ehb": {
-          "value": 412.26337,
+          "value": 413.26337,
           "level": null
         },
         "overall": {
-          "value": 220304287,
+          "value": 220390374,
           "level": 2099
         },
         "attack": {
@@ -68273,7 +68873,7 @@
           "level": 99
         },
         "defence": {
-          "value": 10546014,
+          "value": 10568482,
           "level": 96
         },
         "strength": {
@@ -68281,11 +68881,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 37480657,
+          "value": 37510640,
           "level": 99
         },
         "ranged": {
-          "value": 43221894,
+          "value": 43222070,
           "level": 99
         },
         "prayer": {
@@ -68293,7 +68893,7 @@
           "level": 84
         },
         "magic": {
-          "value": 15408502,
+          "value": 15441962,
           "level": 99
         },
         "cooking": {
@@ -68556,6 +69156,10 @@
           "value": 237,
           "level": null
         },
+        "lunar_chests": {
+          "value": 161,
+          "level": null
+        },
         "mad_angel": {
           "value": 62,
           "level": null
@@ -68641,7 +69245,7 @@
           "level": null
         },
         "the_whisperer": {
-          "value": 50,
+          "value": 72,
           "level": null
         },
         "theatre_of_blood": {
@@ -69009,6 +69613,10 @@
         },
         "kril_tsutsaroth": {
           "value": 110,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 287,
           "level": null
         },
         "mad_angel": {
@@ -69466,6 +70074,10 @@
           "value": 39,
           "level": null
         },
+        "lunar_chests": {
+          "value": 30,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -69919,6 +70531,10 @@
         },
         "kril_tsutsaroth": {
           "value": 2,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 241,
           "level": null
         },
         "mad_angel": {
@@ -70376,6 +70992,10 @@
           "value": 21,
           "level": null
         },
+        "lunar_chests": {
+          "value": 269,
+          "level": null
+        },
         "mad_angel": {
           "value": 75,
           "level": null
@@ -70831,6 +71451,10 @@
           "value": 39,
           "level": null
         },
+        "lunar_chests": {
+          "value": 263,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -71283,6 +71907,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 45,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 45,
           "level": null
         },
@@ -71741,6 +72369,10 @@
           "value": 208,
           "level": null
         },
+        "lunar_chests": {
+          "value": 238,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -72194,6 +72826,10 @@
         },
         "kril_tsutsaroth": {
           "value": 160,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 211,
           "level": null
         },
         "mad_angel": {
@@ -72651,6 +73287,10 @@
           "value": 20,
           "level": null
         },
+        "lunar_chests": {
+          "value": 160,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -73104,6 +73744,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 338,
           "level": null
         },
         "mad_angel": {
@@ -73561,6 +74205,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 168,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -74016,6 +74664,10 @@
           "value": 198,
           "level": null
         },
+        "lunar_chests": {
+          "value": 319,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -74172,19 +74824,19 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 636.72471,
+          "value": 638.20875,
           "level": null
         },
         "ehb": {
-          "value": 176.43634,
+          "value": 176.75987,
           "level": null
         },
         "overall": {
-          "value": 132101916,
-          "level": 2028
+          "value": 132259114,
+          "level": 2029
         },
         "attack": {
-          "value": 6155294,
+          "value": 6210537,
           "level": 91
         },
         "defence": {
@@ -74192,15 +74844,15 @@
           "level": 91
         },
         "strength": {
-          "value": 13546960,
+          "value": 13548480,
           "level": 99
         },
         "hitpoints": {
-          "value": 19941516,
+          "value": 19967450,
           "level": 99
         },
         "ranged": {
-          "value": 18464210,
+          "value": 18485346,
           "level": 99
         },
         "prayer": {
@@ -74208,7 +74860,7 @@
           "level": 79
         },
         "magic": {
-          "value": 13702550,
+          "value": 13704691,
           "level": 99
         },
         "cooking": {
@@ -74248,7 +74900,7 @@
           "level": 90
         },
         "agility": {
-          "value": 1360202,
+          "value": 1360205,
           "level": 76
         },
         "thieving": {
@@ -74256,8 +74908,8 @@
           "level": 77
         },
         "slayer": {
-          "value": 6484498,
-          "level": 91
+          "value": 6535719,
+          "level": 92
         },
         "farming": {
           "value": 6349959,
@@ -74444,7 +75096,7 @@
           "level": null
         },
         "grotesque_guardians": {
-          "value": 93,
+          "value": 104,
           "level": null
         },
         "hespori": {
@@ -74469,6 +75121,10 @@
         },
         "kril_tsutsaroth": {
           "value": 30,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 346,
           "level": null
         },
         "mad_angel": {
@@ -74926,6 +75582,10 @@
           "value": 3,
           "level": null
         },
+        "lunar_chests": {
+          "value": 523,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -75379,6 +76039,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 329,
           "level": null
         },
         "mad_angel": {
@@ -75836,6 +76500,10 @@
           "value": 17,
           "level": null
         },
+        "lunar_chests": {
+          "value": 171,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -76291,6 +76959,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 60,
+          "level": null
+        },
         "mad_angel": {
           "value": 69,
           "level": null
@@ -76743,6 +77415,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -77201,6 +77877,10 @@
           "value": 51,
           "level": null
         },
+        "lunar_chests": {
+          "value": 213,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -77654,6 +78334,10 @@
         },
         "kril_tsutsaroth": {
           "value": 79,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 276,
           "level": null
         },
         "mad_angel": {
@@ -78111,6 +78795,10 @@
           "value": 177,
           "level": null
         },
+        "lunar_chests": {
+          "value": 253,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -78564,6 +79252,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 328,
           "level": null
         },
         "mad_angel": {
@@ -79021,6 +79713,10 @@
           "value": 28,
           "level": null
         },
+        "lunar_chests": {
+          "value": 258,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -79474,6 +80170,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 283,
           "level": null
         },
         "mad_angel": {
@@ -79931,6 +80631,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 77,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -80384,6 +81088,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 159,
           "level": null
         },
         "mad_angel": {
@@ -80841,6 +81549,10 @@
           "value": 8,
           "level": null
         },
+        "lunar_chests": {
+          "value": 399,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -81293,6 +82005,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -81751,6 +82467,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 371,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -82204,6 +82924,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 431,
           "level": null
         },
         "mad_angel": {
@@ -82661,6 +83385,10 @@
           "value": 119,
           "level": null
         },
+        "lunar_chests": {
+          "value": 215,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -83116,6 +83844,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 391,
+          "level": null
+        },
         "mad_angel": {
           "value": 5,
           "level": null
@@ -83568,6 +84300,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -84026,6 +84762,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 531,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -84479,6 +85219,10 @@
         },
         "kril_tsutsaroth": {
           "value": 11,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 141,
           "level": null
         },
         "mad_angel": {
@@ -84936,6 +85680,10 @@
           "value": 126,
           "level": null
         },
+        "lunar_chests": {
+          "value": 718,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -85389,6 +86137,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 26,
           "level": null
         },
         "mad_angel": {
@@ -85846,6 +86598,10 @@
           "value": 192,
           "level": null
         },
+        "lunar_chests": {
+          "value": 194,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -86299,6 +87055,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 47,
           "level": null
         },
         "mad_angel": {
@@ -86756,6 +87516,10 @@
           "value": 5,
           "level": null
         },
+        "lunar_chests": {
+          "value": 383,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -87209,6 +87973,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 391,
           "level": null
         },
         "mad_angel": {
@@ -87666,6 +88434,10 @@
           "value": 29,
           "level": null
         },
+        "lunar_chests": {
+          "value": 441,
+          "level": null
+        },
         "mad_angel": {
           "value": 3,
           "level": null
@@ -88121,6 +88893,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 3,
           "level": null
@@ -88277,7 +89053,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 561.68435,
+          "value": 562.82605,
           "level": null
         },
         "ehb": {
@@ -88285,8 +89061,8 @@
           "level": null
         },
         "overall": {
-          "value": 143850764,
-          "level": 2072
+          "value": 143938318,
+          "level": 2073
         },
         "attack": {
           "value": 10835477,
@@ -88353,11 +89129,11 @@
           "level": 83
         },
         "agility": {
-          "value": 1585628,
-          "level": 77
+          "value": 1673044,
+          "level": 78
         },
         "thieving": {
-          "value": 2280372,
+          "value": 2280510,
           "level": 81
         },
         "slayer": {
@@ -88574,6 +89350,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 239,
           "level": null
         },
         "mad_angel": {
@@ -89031,6 +89811,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 125,
+          "level": null
+        },
         "mad_angel": {
           "value": 6,
           "level": null
@@ -89484,6 +90268,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 383,
           "level": null
         },
         "mad_angel": {
@@ -89941,6 +90729,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 154,
+          "level": null
+        },
         "mad_angel": {
           "value": 36,
           "level": null
@@ -90394,6 +91186,10 @@
         },
         "kril_tsutsaroth": {
           "value": 432,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 54,
           "level": null
         },
         "mad_angel": {
@@ -90851,6 +91647,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 166,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -91304,6 +92104,10 @@
         },
         "kril_tsutsaroth": {
           "value": 260,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 320,
           "level": null
         },
         "mad_angel": {
@@ -91761,6 +92565,10 @@
           "value": 32,
           "level": null
         },
+        "lunar_chests": {
+          "value": 322,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -92214,6 +93022,10 @@
         },
         "kril_tsutsaroth": {
           "value": 129,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 377,
           "level": null
         },
         "mad_angel": {
@@ -92671,6 +93483,10 @@
           "value": 842,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 16,
           "level": null
@@ -93124,6 +93940,10 @@
         },
         "kril_tsutsaroth": {
           "value": 84,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 349,
           "level": null
         },
         "mad_angel": {
@@ -93581,6 +94401,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 69,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -94034,6 +94858,10 @@
         },
         "kril_tsutsaroth": {
           "value": 141,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 83,
           "level": null
         },
         "mad_angel": {
@@ -94491,6 +95319,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 98,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -94944,6 +95776,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 465,
           "level": null
         },
         "mad_angel": {
@@ -95401,6 +96237,10 @@
           "value": 3,
           "level": null
         },
+        "lunar_chests": {
+          "value": 206,
+          "level": null
+        },
         "mad_angel": {
           "value": 266,
           "level": null
@@ -95854,6 +96694,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 324,
           "level": null
         },
         "mad_angel": {
@@ -96311,6 +97155,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 208,
+          "level": null
+        },
         "mad_angel": {
           "value": 16,
           "level": null
@@ -96764,6 +97612,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 25,
           "level": null
         },
         "mad_angel": {
@@ -97221,6 +98073,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 320,
+          "level": null
+        },
         "mad_angel": {
           "value": 15,
           "level": null
@@ -97674,6 +98530,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 291,
           "level": null
         },
         "mad_angel": {
@@ -98131,6 +98991,10 @@
           "value": 62,
           "level": null
         },
+        "lunar_chests": {
+          "value": 129,
+          "level": null
+        },
         "mad_angel": {
           "value": 117,
           "level": null
@@ -98584,6 +99448,10 @@
         },
         "kril_tsutsaroth": {
           "value": 84,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 230,
           "level": null
         },
         "mad_angel": {
@@ -99041,6 +99909,10 @@
           "value": 100,
           "level": null
         },
+        "lunar_chests": {
+          "value": 174,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -99494,6 +100366,10 @@
         },
         "kril_tsutsaroth": {
           "value": 108,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 555,
           "level": null
         },
         "mad_angel": {
@@ -99951,6 +100827,10 @@
           "value": 257,
           "level": null
         },
+        "lunar_chests": {
+          "value": 211,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -100404,6 +101284,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 101,
           "level": null
         },
         "mad_angel": {
@@ -100861,6 +101745,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 20,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -101314,6 +102202,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 276,
           "level": null
         },
         "mad_angel": {
@@ -101771,6 +102663,10 @@
           "value": 7,
           "level": null
         },
+        "lunar_chests": {
+          "value": 220,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -102224,6 +103120,10 @@
         },
         "kril_tsutsaroth": {
           "value": 63,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 300,
           "level": null
         },
         "mad_angel": {
@@ -102681,6 +103581,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 518,
+          "level": null
+        },
         "mad_angel": {
           "value": 91,
           "level": null
@@ -103134,6 +104038,10 @@
         },
         "kril_tsutsaroth": {
           "value": 59,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 117,
           "level": null
         },
         "mad_angel": {
@@ -103591,6 +104499,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 185,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -104044,6 +104956,10 @@
         },
         "kril_tsutsaroth": {
           "value": 418,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 373,
           "level": null
         },
         "mad_angel": {
@@ -104501,6 +105417,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 154,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -104954,6 +105874,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 357,
           "level": null
         },
         "mad_angel": {
@@ -105411,6 +106335,10 @@
           "value": 276,
           "level": null
         },
+        "lunar_chests": {
+          "value": 11,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -105864,6 +106792,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 252,
           "level": null
         },
         "mad_angel": {
@@ -106321,6 +107253,10 @@
           "value": 169,
           "level": null
         },
+        "lunar_chests": {
+          "value": 142,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -106774,6 +107710,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 252,
           "level": null
         },
         "mad_angel": {
@@ -107231,6 +108171,10 @@
           "value": 93,
           "level": null
         },
+        "lunar_chests": {
+          "value": 160,
+          "level": null
+        },
         "mad_angel": {
           "value": 84,
           "level": null
@@ -107684,6 +108628,10 @@
         },
         "kril_tsutsaroth": {
           "value": 7,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 82,
           "level": null
         },
         "mad_angel": {
@@ -108141,6 +109089,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 116,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -108594,6 +109546,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 152,
           "level": null
         },
         "mad_angel": {
@@ -109051,6 +110007,10 @@
           "value": 3,
           "level": null
         },
+        "lunar_chests": {
+          "value": 411,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -109504,6 +110464,10 @@
         },
         "kril_tsutsaroth": {
           "value": 64,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 237,
           "level": null
         },
         "mad_angel": {
@@ -109961,6 +110925,10 @@
           "value": 58,
           "level": null
         },
+        "lunar_chests": {
+          "value": 138,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -110414,6 +111382,10 @@
         },
         "kril_tsutsaroth": {
           "value": 115,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 8,
           "level": null
         },
         "mad_angel": {
@@ -110871,6 +111843,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 518,
+          "level": null
+        },
         "mad_angel": {
           "value": 73,
           "level": null
@@ -111324,6 +112300,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 337,
           "level": null
         },
         "mad_angel": {
@@ -111781,6 +112761,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 326,
+          "level": null
+        },
         "mad_angel": {
           "value": 208,
           "level": null
@@ -112234,6 +113218,10 @@
         },
         "kril_tsutsaroth": {
           "value": 2,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 225,
           "level": null
         },
         "mad_angel": {
@@ -112691,6 +113679,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 520,
+          "level": null
+        },
         "mad_angel": {
           "value": 66,
           "level": null
@@ -113144,6 +114136,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 187,
           "level": null
         },
         "mad_angel": {
@@ -113601,6 +114597,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 220,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -114054,6 +115054,10 @@
         },
         "kril_tsutsaroth": {
           "value": 6,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 258,
           "level": null
         },
         "mad_angel": {
@@ -114511,6 +115515,10 @@
           "value": 3,
           "level": null
         },
+        "lunar_chests": {
+          "value": 75,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -114964,6 +115972,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 155,
           "level": null
         },
         "mad_angel": {
@@ -115421,6 +116433,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 500,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -115874,6 +116890,10 @@
         },
         "kril_tsutsaroth": {
           "value": 190,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 247,
           "level": null
         },
         "mad_angel": {
@@ -116331,6 +117351,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 263,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -116784,6 +117808,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 219,
           "level": null
         },
         "mad_angel": {
@@ -117241,6 +118269,10 @@
           "value": 108,
           "level": null
         },
+        "lunar_chests": {
+          "value": 107,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -117694,6 +118726,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 316,
           "level": null
         },
         "mad_angel": {
@@ -118151,6 +119187,10 @@
           "value": 523,
           "level": null
         },
+        "lunar_chests": {
+          "value": 310,
+          "level": null
+        },
         "mad_angel": {
           "value": 145,
           "level": null
@@ -118603,6 +119643,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -119061,6 +120105,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -119514,6 +120562,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 342,
           "level": null
         },
         "mad_angel": {
@@ -119971,6 +121023,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 178,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -120424,6 +121480,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 277,
           "level": null
         },
         "mad_angel": {
@@ -120881,6 +121941,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 8,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -121334,6 +122398,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 186,
           "level": null
         },
         "mad_angel": {
@@ -121791,6 +122859,10 @@
           "value": 40,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -122244,6 +123316,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 11,
           "level": null
         },
         "mad_angel": {
@@ -122701,6 +123777,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 10,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -123154,6 +124234,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 1,
           "level": null
         },
         "mad_angel": {
@@ -123611,6 +124695,10 @@
           "value": 155,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -124064,6 +125152,10 @@
         },
         "kril_tsutsaroth": {
           "value": 41,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 244,
           "level": null
         },
         "mad_angel": {
@@ -124521,6 +125613,10 @@
           "value": 89,
           "level": null
         },
+        "lunar_chests": {
+          "value": 336,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -124976,6 +126072,10 @@
           "value": 135,
           "level": null
         },
+        "lunar_chests": {
+          "value": 152,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -125428,6 +126528,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -125886,6 +126990,10 @@
           "value": 194,
           "level": null
         },
+        "lunar_chests": {
+          "value": 240,
+          "level": null
+        },
         "mad_angel": {
           "value": 17,
           "level": null
@@ -126339,6 +127447,10 @@
         },
         "kril_tsutsaroth": {
           "value": 215,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 478,
           "level": null
         },
         "mad_angel": {
@@ -126796,6 +127908,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 201,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -127249,6 +128365,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 7,
           "level": null
         },
         "mad_angel": {
@@ -127706,6 +128826,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -128159,6 +129283,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 243,
           "level": null
         },
         "mad_angel": {
@@ -128616,6 +129744,10 @@
           "value": 92,
           "level": null
         },
+        "lunar_chests": {
+          "value": 20,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -129071,6 +130203,10 @@
           "value": 207,
           "level": null
         },
+        "lunar_chests": {
+          "value": 80,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -129227,7 +130363,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 722.79671,
+          "value": 722.87675,
           "level": null
         },
         "ehb": {
@@ -129235,7 +130371,7 @@
           "level": null
         },
         "overall": {
-          "value": 391286261,
+          "value": 391446414,
           "level": 2255
         },
         "attack": {
@@ -129247,11 +130383,11 @@
           "level": 99
         },
         "strength": {
-          "value": 56812012,
+          "value": 56812058,
           "level": 99
         },
         "hitpoints": {
-          "value": 58570807,
+          "value": 58570822,
           "level": 99
         },
         "ranged": {
@@ -129259,7 +130395,7 @@
           "level": 99
         },
         "prayer": {
-          "value": 7293974,
+          "value": 7454066,
           "level": 93
         },
         "magic": {
@@ -129524,6 +130660,10 @@
         },
         "kril_tsutsaroth": {
           "value": 83,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 79,
           "level": null
         },
         "mad_angel": {
@@ -129981,6 +131121,10 @@
           "value": 434,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -130433,6 +131577,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -130891,6 +132039,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -131344,6 +132496,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 117,
           "level": null
         },
         "mad_angel": {
@@ -131801,6 +132957,10 @@
           "value": 145,
           "level": null
         },
+        "lunar_chests": {
+          "value": 32,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -132254,6 +133414,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 1,
           "level": null
         },
         "mad_angel": {
@@ -132711,6 +133875,10 @@
           "value": 4,
           "level": null
         },
+        "lunar_chests": {
+          "value": 250,
+          "level": null
+        },
         "mad_angel": {
           "value": 13,
           "level": null
@@ -133164,6 +134332,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 40,
           "level": null
         },
         "mad_angel": {
@@ -133621,6 +134793,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 203,
+          "level": null
+        },
         "mad_angel": {
           "value": 53,
           "level": null
@@ -134073,6 +135249,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -134531,6 +135711,10 @@
           "value": 100,
           "level": null
         },
+        "lunar_chests": {
+          "value": 64,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -134984,6 +136168,10 @@
         },
         "kril_tsutsaroth": {
           "value": 122,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 25,
           "level": null
         },
         "mad_angel": {
@@ -135441,6 +136629,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 273,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -135894,6 +137086,10 @@
         },
         "kril_tsutsaroth": {
           "value": 4,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 38,
           "level": null
         },
         "mad_angel": {
@@ -136351,6 +137547,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 173,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -136804,6 +138004,10 @@
         },
         "kril_tsutsaroth": {
           "value": 237,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 142,
           "level": null
         },
         "mad_angel": {
@@ -137261,6 +138465,10 @@
           "value": 2,
           "level": null
         },
+        "lunar_chests": {
+          "value": 299,
+          "level": null
+        },
         "mad_angel": {
           "value": 15,
           "level": null
@@ -137714,6 +138922,10 @@
         },
         "kril_tsutsaroth": {
           "value": 75,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 175,
           "level": null
         },
         "mad_angel": {
@@ -138171,6 +139383,10 @@
           "value": 169,
           "level": null
         },
+        "lunar_chests": {
+          "value": 331,
+          "level": null
+        },
         "mad_angel": {
           "value": 13,
           "level": null
@@ -138624,6 +139840,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 1,
           "level": null
         },
         "mad_angel": {
@@ -139081,6 +140301,10 @@
           "value": 125,
           "level": null
         },
+        "lunar_chests": {
+          "value": 467,
+          "level": null
+        },
         "mad_angel": {
           "value": 6,
           "level": null
@@ -139534,6 +140758,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 172,
           "level": null
         },
         "mad_angel": {
@@ -139991,6 +141219,10 @@
           "value": 140,
           "level": null
         },
+        "lunar_chests": {
+          "value": 105,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -140444,6 +141676,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 581,
           "level": null
         },
         "mad_angel": {
@@ -140901,6 +142137,10 @@
           "value": 30,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -141354,6 +142594,10 @@
         },
         "kril_tsutsaroth": {
           "value": 74,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 31,
           "level": null
         },
         "mad_angel": {
@@ -141811,6 +143055,10 @@
           "value": 335,
           "level": null
         },
+        "lunar_chests": {
+          "value": 80,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -142264,6 +143512,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 340,
           "level": null
         },
         "mad_angel": {
@@ -142721,6 +143973,10 @@
           "value": 214,
           "level": null
         },
+        "lunar_chests": {
+          "value": 151,
+          "level": null
+        },
         "mad_angel": {
           "value": 6,
           "level": null
@@ -143174,6 +144430,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 20,
           "level": null
         },
         "mad_angel": {
@@ -143631,6 +144891,10 @@
           "value": 28,
           "level": null
         },
+        "lunar_chests": {
+          "value": 276,
+          "level": null
+        },
         "mad_angel": {
           "value": 61,
           "level": null
@@ -144084,6 +145348,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 116,
           "level": null
         },
         "mad_angel": {
@@ -144541,6 +145809,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 129,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -144994,6 +146266,10 @@
         },
         "kril_tsutsaroth": {
           "value": 2,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 216,
           "level": null
         },
         "mad_angel": {
@@ -145451,6 +146727,10 @@
           "value": 11,
           "level": null
         },
+        "lunar_chests": {
+          "value": 165,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -145904,6 +147184,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 292,
           "level": null
         },
         "mad_angel": {
@@ -146361,6 +147645,10 @@
           "value": 128,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -146814,6 +148102,10 @@
         },
         "kril_tsutsaroth": {
           "value": 8,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 30,
           "level": null
         },
         "mad_angel": {
@@ -147271,6 +148563,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 252,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -147724,6 +149020,10 @@
         },
         "kril_tsutsaroth": {
           "value": 4,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 128,
           "level": null
         },
         "mad_angel": {
@@ -148181,6 +149481,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 384,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -148633,6 +149937,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -149091,6 +150399,10 @@
           "value": 26,
           "level": null
         },
+        "lunar_chests": {
+          "value": 294,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -149544,6 +150856,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 236,
           "level": null
         },
         "mad_angel": {
@@ -150001,6 +151317,10 @@
           "value": 21,
           "level": null
         },
+        "lunar_chests": {
+          "value": 39,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -150454,6 +151774,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 261,
           "level": null
         },
         "mad_angel": {
@@ -150911,6 +152235,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 267,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -151363,6 +152691,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -151821,6 +153153,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -152274,6 +153610,10 @@
         },
         "kril_tsutsaroth": {
           "value": 10286,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 195,
           "level": null
         },
         "mad_angel": {
@@ -152731,6 +154071,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 33,
+          "level": null
+        },
         "mad_angel": {
           "value": 19,
           "level": null
@@ -153184,6 +154528,10 @@
         },
         "kril_tsutsaroth": {
           "value": 358,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 95,
           "level": null
         },
         "mad_angel": {
@@ -153641,6 +154989,10 @@
           "value": 3,
           "level": null
         },
+        "lunar_chests": {
+          "value": 403,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -154094,6 +155446,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 55,
           "level": null
         },
         "mad_angel": {
@@ -154551,6 +155907,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 119,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -155004,6 +156364,10 @@
         },
         "kril_tsutsaroth": {
           "value": 158,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 151,
           "level": null
         },
         "mad_angel": {
@@ -155461,6 +156825,10 @@
           "value": 339,
           "level": null
         },
+        "lunar_chests": {
+          "value": 385,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -155914,6 +157282,10 @@
         },
         "kril_tsutsaroth": {
           "value": 56,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 259,
           "level": null
         },
         "mad_angel": {
@@ -156371,6 +157743,10 @@
           "value": 325,
           "level": null
         },
+        "lunar_chests": {
+          "value": 321,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -156824,6 +158200,10 @@
         },
         "kril_tsutsaroth": {
           "value": 23,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 607,
           "level": null
         },
         "mad_angel": {
@@ -157281,6 +158661,10 @@
           "value": 196,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -157734,6 +159118,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 233,
           "level": null
         },
         "mad_angel": {
@@ -158191,6 +159579,10 @@
           "value": 293,
           "level": null
         },
+        "lunar_chests": {
+          "value": 280,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -158646,6 +160038,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 227,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -158802,15 +160198,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1467.43299,
+          "value": 1467.48685,
           "level": null
         },
         "ehb": {
-          "value": 849.8848700000002,
+          "value": 850.2182100000002,
           "level": null
         },
         "overall": {
-          "value": 431707244,
+          "value": 431915320,
           "level": 2297
         },
         "attack": {
@@ -158818,19 +160214,19 @@
           "level": 99
         },
         "defence": {
-          "value": 14347930,
+          "value": 14354032,
           "level": 99
         },
         "strength": {
-          "value": 46561804,
+          "value": 46628738,
           "level": 99
         },
         "hitpoints": {
-          "value": 63387244,
+          "value": 63438859,
           "level": 99
         },
         "ranged": {
-          "value": 71101225,
+          "value": 71183077,
           "level": 99
         },
         "prayer": {
@@ -158838,7 +160234,7 @@
           "level": 92
         },
         "magic": {
-          "value": 39029250,
+          "value": 39030586,
           "level": 99
         },
         "cooking": {
@@ -158862,7 +160258,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 13578447,
+          "value": 13578678,
           "level": 99
         },
         "smithing": {
@@ -158878,7 +160274,7 @@
           "level": 98
         },
         "agility": {
-          "value": 6522918,
+          "value": 6522924,
           "level": 92
         },
         "thieving": {
@@ -159101,12 +160497,16 @@
           "value": 355,
           "level": null
         },
+        "lunar_chests": {
+          "value": 104,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
         },
         "maggot_king": {
-          "value": 400,
+          "value": 413,
           "level": null
         },
         "mimic": {
@@ -159554,6 +160954,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 53,
           "level": null
         },
         "mad_angel": {
@@ -160008,6 +161412,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -160466,6 +161874,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -160921,6 +162333,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 4,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -161373,6 +162789,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -161831,6 +163251,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 43,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -162283,6 +163707,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -162741,6 +164169,10 @@
           "value": 20,
           "level": null
         },
+        "lunar_chests": {
+          "value": 15,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -163194,6 +164626,10 @@
         },
         "kril_tsutsaroth": {
           "value": 163,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 276,
           "level": null
         },
         "mad_angel": {
@@ -163651,6 +165087,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 387,
+          "level": null
+        },
         "mad_angel": {
           "value": 3,
           "level": null
@@ -164103,6 +165543,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -164561,6 +166005,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1126,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -165016,6 +166464,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 37,
           "level": null
@@ -165172,7 +166624,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 642.0170199999999,
+          "value": 643.6081999999999,
           "level": null
         },
         "ehb": {
@@ -165180,7 +166632,7 @@
           "level": null
         },
         "overall": {
-          "value": 101413893,
+          "value": 101612499,
           "level": 2019
         },
         "attack": {
@@ -165232,7 +166684,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 3745877,
+          "value": 3771157,
           "level": 86
         },
         "smithing": {
@@ -165240,7 +166692,7 @@
           "level": 90
         },
         "mining": {
-          "value": 14009381,
+          "value": 14028341,
           "level": 99
         },
         "herblore": {
@@ -165264,7 +166716,7 @@
           "level": 83
         },
         "runecrafting": {
-          "value": 3751702,
+          "value": 3906068,
           "level": 86
         },
         "hunter": {
@@ -165469,6 +166921,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 157,
           "level": null
         },
         "mad_angel": {
@@ -165926,6 +167382,10 @@
           "value": 90,
           "level": null
         },
+        "lunar_chests": {
+          "value": 75,
+          "level": null
+        },
         "mad_angel": {
           "value": 164,
           "level": null
@@ -166379,6 +167839,10 @@
         },
         "kril_tsutsaroth": {
           "value": 135,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 74,
           "level": null
         },
         "mad_angel": {
@@ -166836,6 +168300,10 @@
           "value": 1478,
           "level": null
         },
+        "lunar_chests": {
+          "value": 311,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -167289,6 +168757,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 235,
           "level": null
         },
         "mad_angel": {
@@ -167746,6 +169218,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 292,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -168201,6 +169677,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 588,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -168653,6 +170133,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -169111,6 +170595,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 264,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -169564,6 +171052,10 @@
         },
         "kril_tsutsaroth": {
           "value": 200,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 164,
           "level": null
         },
         "mad_angel": {
@@ -170021,6 +171513,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 388,
+          "level": null
+        },
         "mad_angel": {
           "value": 14,
           "level": null
@@ -170474,6 +171970,10 @@
         },
         "kril_tsutsaroth": {
           "value": 120,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 111,
           "level": null
         },
         "mad_angel": {
@@ -170931,6 +172431,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -171384,6 +172888,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 32,
           "level": null
         },
         "mad_angel": {
@@ -171841,6 +173349,10 @@
           "value": 55,
           "level": null
         },
+        "lunar_chests": {
+          "value": 383,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -172294,6 +173806,10 @@
         },
         "kril_tsutsaroth": {
           "value": 72,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 1,
           "level": null
         },
         "mad_angel": {
@@ -172751,6 +174267,10 @@
           "value": 88,
           "level": null
         },
+        "lunar_chests": {
+          "value": 1,
+          "level": null
+        },
         "mad_angel": {
           "value": 224,
           "level": null
@@ -173204,6 +174724,10 @@
         },
         "kril_tsutsaroth": {
           "value": 24,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 289,
           "level": null
         },
         "mad_angel": {
@@ -173661,6 +175185,10 @@
           "value": 2,
           "level": null
         },
+        "lunar_chests": {
+          "value": 322,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -174114,6 +175642,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 224,
           "level": null
         },
         "mad_angel": {
@@ -174571,6 +176103,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 140,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -175024,6 +176560,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 231,
           "level": null
         },
         "mad_angel": {
@@ -175481,6 +177021,10 @@
           "value": 2,
           "level": null
         },
+        "lunar_chests": {
+          "value": 385,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -175934,6 +177478,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 318,
           "level": null
         },
         "mad_angel": {
@@ -176391,6 +177939,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 68,
+          "level": null
+        },
         "mad_angel": {
           "value": 8,
           "level": null
@@ -176846,6 +178398,10 @@
           "value": 400,
           "level": null
         },
+        "lunar_chests": {
+          "value": 448,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -177298,6 +178854,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -177756,6 +179316,10 @@
           "value": 100,
           "level": null
         },
+        "lunar_chests": {
+          "value": 302,
+          "level": null
+        },
         "mad_angel": {
           "value": 58,
           "level": null
@@ -178209,6 +179773,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 200,
           "level": null
         },
         "mad_angel": {
@@ -178666,6 +180234,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 478,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -179119,6 +180691,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 452,
           "level": null
         },
         "mad_angel": {
@@ -179576,6 +181152,10 @@
           "value": 2,
           "level": null
         },
+        "lunar_chests": {
+          "value": 438,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -180031,6 +181611,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 430,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -180483,6 +182067,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -180941,6 +182529,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 244,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -181394,6 +182986,10 @@
         },
         "kril_tsutsaroth": {
           "value": 196,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 378,
           "level": null
         },
         "mad_angel": {
@@ -181851,6 +183447,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 238,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -182304,6 +183904,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 292,
           "level": null
         },
         "mad_angel": {
@@ -182761,6 +184365,10 @@
           "value": 260,
           "level": null
         },
+        "lunar_chests": {
+          "value": 330,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -183214,6 +184822,10 @@
         },
         "kril_tsutsaroth": {
           "value": 435,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 301,
           "level": null
         },
         "mad_angel": {
@@ -183671,6 +185283,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 291,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -184126,6 +185742,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 3,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -184578,6 +186198,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -185036,6 +186660,10 @@
           "value": 292,
           "level": null
         },
+        "lunar_chests": {
+          "value": 44,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -185489,6 +187117,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 10,
           "level": null
         },
         "mad_angel": {
@@ -185946,6 +187578,10 @@
           "value": 147,
           "level": null
         },
+        "lunar_chests": {
+          "value": 246,
+          "level": null
+        },
         "mad_angel": {
           "value": 42,
           "level": null
@@ -186398,6 +188034,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -186856,6 +188496,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 119,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -187309,6 +188953,10 @@
         },
         "kril_tsutsaroth": {
           "value": 235,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 515,
           "level": null
         },
         "mad_angel": {
@@ -187766,6 +189414,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 187,
+          "level": null
+        },
         "mad_angel": {
           "value": 28,
           "level": null
@@ -188219,6 +189871,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 1,
           "level": null
         },
         "mad_angel": {
@@ -188676,6 +190332,10 @@
           "value": 191,
           "level": null
         },
+        "lunar_chests": {
+          "value": 120,
+          "level": null
+        },
         "mad_angel": {
           "value": 182,
           "level": null
@@ -189129,6 +190789,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 260,
           "level": null
         },
         "mad_angel": {
@@ -189586,6 +191250,10 @@
           "value": 194,
           "level": null
         },
+        "lunar_chests": {
+          "value": 148,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -190038,6 +191706,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -190496,6 +192168,10 @@
           "value": 325,
           "level": null
         },
+        "lunar_chests": {
+          "value": 87,
+          "level": null
+        },
         "mad_angel": {
           "value": 11,
           "level": null
@@ -190948,6 +192624,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -191406,6 +193086,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 100,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -191859,6 +193543,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 254,
           "level": null
         },
         "mad_angel": {
@@ -192316,6 +194004,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 57,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -192769,6 +194461,10 @@
         },
         "kril_tsutsaroth": {
           "value": 16,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 85,
           "level": null
         },
         "mad_angel": {
@@ -193226,6 +194922,10 @@
           "value": 5,
           "level": null
         },
+        "lunar_chests": {
+          "value": 13,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -193681,6 +195381,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -193827,461 +195531,6 @@
         },
         "zulrah": {
           "value": 0,
-          "level": null
-        }
-      }
-    },
-    {
-      "username": "btw Tyl3r",
-      "role": "ruby",
-      "type": "regular",
-      "metrics": {
-        "ehp": {
-          "value": 211.27675,
-          "level": null
-        },
-        "ehb": {
-          "value": 91.40494999999999,
-          "level": null
-        },
-        "overall": {
-          "value": 65259952,
-          "level": 1924
-        },
-        "attack": {
-          "value": 5459127,
-          "level": 90
-        },
-        "defence": {
-          "value": 3850038,
-          "level": 86
-        },
-        "strength": {
-          "value": 4951885,
-          "level": 89
-        },
-        "hitpoints": {
-          "value": 8056686,
-          "level": 94
-        },
-        "ranged": {
-          "value": 6398986,
-          "level": 91
-        },
-        "prayer": {
-          "value": 1000495,
-          "level": 73
-        },
-        "magic": {
-          "value": 5055513,
-          "level": 89
-        },
-        "cooking": {
-          "value": 2130045,
-          "level": 80
-        },
-        "woodcutting": {
-          "value": 1169487,
-          "level": 74
-        },
-        "fletching": {
-          "value": 738650,
-          "level": 70
-        },
-        "fishing": {
-          "value": 1098282,
-          "level": 74
-        },
-        "firemaking": {
-          "value": 3764746,
-          "level": 86
-        },
-        "crafting": {
-          "value": 1657416,
-          "level": 78
-        },
-        "smithing": {
-          "value": 1656445,
-          "level": 78
-        },
-        "mining": {
-          "value": 3149804,
-          "level": 84
-        },
-        "herblore": {
-          "value": 1269298,
-          "level": 75
-        },
-        "agility": {
-          "value": 1223540,
-          "level": 75
-        },
-        "thieving": {
-          "value": 3504857,
-          "level": 85
-        },
-        "slayer": {
-          "value": 1236435,
-          "level": 75
-        },
-        "farming": {
-          "value": 1896615,
-          "level": 79
-        },
-        "runecrafting": {
-          "value": 1620045,
-          "level": 77
-        },
-        "hunter": {
-          "value": 1213208,
-          "level": 75
-        },
-        "construction": {
-          "value": 2725005,
-          "level": 83
-        },
-        "sailing": {
-          "value": 433344,
-          "level": 64
-        },
-        "bounty_hunter_hunter": {
-          "value": 0,
-          "level": null
-        },
-        "bounty_hunter_rogue": {
-          "value": 0,
-          "level": null
-        },
-        "clue_scrolls_all": {
-          "value": 21,
-          "level": null
-        },
-        "clue_scrolls_beginner": {
-          "value": 2,
-          "level": null
-        },
-        "clue_scrolls_easy": {
-          "value": 5,
-          "level": null
-        },
-        "clue_scrolls_medium": {
-          "value": 5,
-          "level": null
-        },
-        "clue_scrolls_hard": {
-          "value": 8,
-          "level": null
-        },
-        "clue_scrolls_elite": {
-          "value": 1,
-          "level": null
-        },
-        "clue_scrolls_master": {
-          "value": 0,
-          "level": null
-        },
-        "last_man_standing": {
-          "value": 564,
-          "level": null
-        },
-        "pvp_arena": {
-          "value": 2652,
-          "level": null
-        },
-        "soul_wars_zeal": {
-          "value": 0,
-          "level": null
-        },
-        "guardians_of_the_rift": {
-          "value": 217,
-          "level": null
-        },
-        "colosseum_glory": {
-          "value": 559,
-          "level": null
-        },
-        "collections_logged": {
-          "value": 235,
-          "level": null
-        },
-        "abyssal_sire": {
-          "value": 0,
-          "level": null
-        },
-        "alchemical_hydra": {
-          "value": 0,
-          "level": null
-        },
-        "amoxliatl": {
-          "value": 48,
-          "level": null
-        },
-        "araxxor": {
-          "value": 0,
-          "level": null
-        },
-        "artio": {
-          "value": 0,
-          "level": null
-        },
-        "barrows_chests": {
-          "value": 13,
-          "level": null
-        },
-        "brutus": {
-          "value": 26,
-          "level": null
-        },
-        "bryophyta": {
-          "value": 1,
-          "level": null
-        },
-        "callisto": {
-          "value": 1,
-          "level": null
-        },
-        "calvarion": {
-          "value": 0,
-          "level": null
-        },
-        "cerberus": {
-          "value": 0,
-          "level": null
-        },
-        "chambers_of_xeric": {
-          "value": 4,
-          "level": null
-        },
-        "chambers_of_xeric_challenge_mode": {
-          "value": 0,
-          "level": null
-        },
-        "chaos_elemental": {
-          "value": 1,
-          "level": null
-        },
-        "chaos_fanatic": {
-          "value": 2,
-          "level": null
-        },
-        "commander_zilyana": {
-          "value": 0,
-          "level": null
-        },
-        "corporeal_beast": {
-          "value": 0,
-          "level": null
-        },
-        "crazy_archaeologist": {
-          "value": 2,
-          "level": null
-        },
-        "dagannoth_prime": {
-          "value": 0,
-          "level": null
-        },
-        "dagannoth_rex": {
-          "value": 57,
-          "level": null
-        },
-        "dagannoth_supreme": {
-          "value": 0,
-          "level": null
-        },
-        "deranged_archaeologist": {
-          "value": 10,
-          "level": null
-        },
-        "doom_of_mokhaiotl": {
-          "value": 0,
-          "level": null
-        },
-        "duke_sucellus": {
-          "value": 1,
-          "level": null
-        },
-        "general_graardor": {
-          "value": 0,
-          "level": null
-        },
-        "giant_mole": {
-          "value": 1,
-          "level": null
-        },
-        "grotesque_guardians": {
-          "value": 0,
-          "level": null
-        },
-        "hespori": {
-          "value": 2,
-          "level": null
-        },
-        "kalphite_queen": {
-          "value": 1,
-          "level": null
-        },
-        "king_black_dragon": {
-          "value": 0,
-          "level": null
-        },
-        "kraken": {
-          "value": 0,
-          "level": null
-        },
-        "kreearra": {
-          "value": 0,
-          "level": null
-        },
-        "kril_tsutsaroth": {
-          "value": 0,
-          "level": null
-        },
-        "mad_angel": {
-          "value": 1,
-          "level": null
-        },
-        "maggot_king": {
-          "value": 0,
-          "level": null
-        },
-        "mimic": {
-          "value": 0,
-          "level": null
-        },
-        "nex": {
-          "value": 0,
-          "level": null
-        },
-        "nightmare": {
-          "value": 0,
-          "level": null
-        },
-        "phosanis_nightmare": {
-          "value": 0,
-          "level": null
-        },
-        "obor": {
-          "value": 0,
-          "level": null
-        },
-        "phantom_muspah": {
-          "value": 0,
-          "level": null
-        },
-        "sarachnis": {
-          "value": 0,
-          "level": null
-        },
-        "scorpia": {
-          "value": 1,
-          "level": null
-        },
-        "scurrius": {
-          "value": 0,
-          "level": null
-        },
-        "shellbane_gryphon": {
-          "value": 0,
-          "level": null
-        },
-        "skotizo": {
-          "value": 0,
-          "level": null
-        },
-        "sol_heredit": {
-          "value": 0,
-          "level": null
-        },
-        "spindel": {
-          "value": 0,
-          "level": null
-        },
-        "tempoross": {
-          "value": 74,
-          "level": null
-        },
-        "the_gauntlet": {
-          "value": 3,
-          "level": null
-        },
-        "the_corrupted_gauntlet": {
-          "value": 268,
-          "level": null
-        },
-        "the_hueycoatl": {
-          "value": 256,
-          "level": null
-        },
-        "the_leviathan": {
-          "value": 1,
-          "level": null
-        },
-        "the_royal_titans": {
-          "value": 168,
-          "level": null
-        },
-        "the_whisperer": {
-          "value": 1,
-          "level": null
-        },
-        "theatre_of_blood": {
-          "value": 0,
-          "level": null
-        },
-        "theatre_of_blood_hard_mode": {
-          "value": 0,
-          "level": null
-        },
-        "thermonuclear_smoke_devil": {
-          "value": 0,
-          "level": null
-        },
-        "tombs_of_amascut": {
-          "value": 27,
-          "level": null
-        },
-        "tombs_of_amascut_expert": {
-          "value": 14,
-          "level": null
-        },
-        "tzkal_zuk": {
-          "value": 0,
-          "level": null
-        },
-        "tztok_jad": {
-          "value": 1,
-          "level": null
-        },
-        "vardorvis": {
-          "value": 1,
-          "level": null
-        },
-        "venenatis": {
-          "value": 20,
-          "level": null
-        },
-        "vetion": {
-          "value": 15,
-          "level": null
-        },
-        "vorkath": {
-          "value": 2,
-          "level": null
-        },
-        "wintertodt": {
-          "value": 73,
-          "level": null
-        },
-        "yama": {
-          "value": 0,
-          "level": null
-        },
-        "zalcano": {
-          "value": 0,
-          "level": null
-        },
-        "zulrah": {
-          "value": 2,
           "level": null
         }
       }
@@ -194589,6 +195838,10 @@
         },
         "kril_tsutsaroth": {
           "value": 4,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 123,
           "level": null
         },
         "mad_angel": {
@@ -195043,6 +196296,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -195501,6 +196758,10 @@
           "value": 68,
           "level": null
         },
+        "lunar_chests": {
+          "value": 313,
+          "level": null
+        },
         "mad_angel": {
           "value": 129,
           "level": null
@@ -195956,6 +197217,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 225,
+          "level": null
+        },
         "mad_angel": {
           "value": 33,
           "level": null
@@ -196408,6 +197673,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -196866,6 +198135,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 340,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -197319,6 +198592,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 3,
           "level": null
         },
         "mad_angel": {
@@ -197776,6 +199053,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 241,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -198231,6 +199512,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 114,
+          "level": null
+        },
         "mad_angel": {
           "value": 8,
           "level": null
@@ -198683,6 +199968,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -199141,6 +200430,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -199594,6 +200887,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 428,
           "level": null
         },
         "mad_angel": {
@@ -200051,6 +201348,10 @@
           "value": 943,
           "level": null
         },
+        "lunar_chests": {
+          "value": 265,
+          "level": null
+        },
         "mad_angel": {
           "value": 404,
           "level": null
@@ -200506,6 +201807,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 352,
+          "level": null
+        },
         "mad_angel": {
           "value": 4,
           "level": null
@@ -200958,6 +202263,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -201416,6 +202725,10 @@
           "value": 62,
           "level": null
         },
+        "lunar_chests": {
+          "value": 378,
+          "level": null
+        },
         "mad_angel": {
           "value": 121,
           "level": null
@@ -201871,6 +203184,10 @@
           "value": 447,
           "level": null
         },
+        "lunar_chests": {
+          "value": 216,
+          "level": null
+        },
         "mad_angel": {
           "value": 33,
           "level": null
@@ -202323,6 +203640,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -202781,6 +204102,10 @@
           "value": 246,
           "level": null
         },
+        "lunar_chests": {
+          "value": 14,
+          "level": null
+        },
         "mad_angel": {
           "value": 47,
           "level": null
@@ -203236,6 +204561,10 @@
           "value": 134,
           "level": null
         },
+        "lunar_chests": {
+          "value": 80,
+          "level": null
+        },
         "mad_angel": {
           "value": 60,
           "level": null
@@ -203688,6 +205017,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -204146,6 +205479,10 @@
           "value": 1,
           "level": null
         },
+        "lunar_chests": {
+          "value": 265,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -204302,16 +205639,16 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 400.44179,
+          "value": 400.44838,
           "level": null
         },
         "ehb": {
-          "value": 29.13162999999999,
+          "value": 29.22253999999999,
           "level": null
         },
         "overall": {
-          "value": 59194756,
-          "level": 1938
+          "value": 59241843,
+          "level": 1939
         },
         "attack": {
           "value": 1986761,
@@ -204322,15 +205659,15 @@
           "level": 80
         },
         "strength": {
-          "value": 4139549,
+          "value": 4163980,
           "level": 87
         },
         "hitpoints": {
-          "value": 4385729,
-          "level": 87
+          "value": 4396987,
+          "level": 88
         },
         "ranged": {
-          "value": 3751793,
+          "value": 3756556,
           "level": 86
         },
         "prayer": {
@@ -204338,7 +205675,7 @@
           "level": 77
         },
         "magic": {
-          "value": 3833238,
+          "value": 3836993,
           "level": 86
         },
         "cooking": {
@@ -204374,7 +205711,7 @@
           "level": 82
         },
         "herblore": {
-          "value": 2426404,
+          "value": 2426509,
           "level": 82
         },
         "agility": {
@@ -204390,7 +205727,7 @@
           "level": 78
         },
         "farming": {
-          "value": 4995519,
+          "value": 4998294,
           "level": 89
         },
         "runecrafting": {
@@ -204601,6 +205938,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 218,
+          "level": null
+        },
         "mad_angel": {
           "value": 7,
           "level": null
@@ -204682,7 +206023,7 @@
           "level": null
         },
         "the_royal_titans": {
-          "value": 162,
+          "value": 167,
           "level": null
         },
         "the_whisperer": {
@@ -205053,6 +206394,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -205511,6 +206856,10 @@
           "value": 40,
           "level": null
         },
+        "lunar_chests": {
+          "value": 137,
+          "level": null
+        },
         "mad_angel": {
           "value": 7,
           "level": null
@@ -205966,6 +207315,10 @@
           "value": 88,
           "level": null
         },
+        "lunar_chests": {
+          "value": 127,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -206418,6 +207771,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -206876,6 +208233,10 @@
           "value": 238,
           "level": null
         },
+        "lunar_chests": {
+          "value": 257,
+          "level": null
+        },
         "mad_angel": {
           "value": 15,
           "level": null
@@ -207331,6 +208692,10 @@
           "value": 196,
           "level": null
         },
+        "lunar_chests": {
+          "value": 107,
+          "level": null
+        },
         "mad_angel": {
           "value": 36,
           "level": null
@@ -207783,6 +209148,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -208241,6 +209610,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 131,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -208694,6 +210067,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 23,
           "level": null
         },
         "mad_angel": {
@@ -209151,6 +210528,10 @@
           "value": 1883,
           "level": null
         },
+        "lunar_chests": {
+          "value": 265,
+          "level": null
+        },
         "mad_angel": {
           "value": 241,
           "level": null
@@ -209606,6 +210987,10 @@
           "value": 124,
           "level": null
         },
+        "lunar_chests": {
+          "value": 304,
+          "level": null
+        },
         "mad_angel": {
           "value": 33,
           "level": null
@@ -210058,6 +211443,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -210516,6 +211905,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 90,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -210968,6 +212361,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -211426,6 +212823,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 112,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -211881,6 +213282,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 230,
+          "level": null
+        },
         "mad_angel": {
           "value": 15,
           "level": null
@@ -212333,6 +213738,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -212791,6 +214200,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -213243,6 +214656,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -213701,6 +215118,10 @@
           "value": 107,
           "level": null
         },
+        "lunar_chests": {
+          "value": 170,
+          "level": null
+        },
         "mad_angel": {
           "value": 19,
           "level": null
@@ -214154,6 +215575,10 @@
         },
         "kril_tsutsaroth": {
           "value": 230,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 239,
           "level": null
         },
         "mad_angel": {
@@ -214611,6 +216036,10 @@
           "value": 8,
           "level": null
         },
+        "lunar_chests": {
+          "value": 115,
+          "level": null
+        },
         "mad_angel": {
           "value": 2,
           "level": null
@@ -215064,6 +216493,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 36,
           "level": null
         },
         "mad_angel": {
@@ -215521,6 +216954,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 200,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -215976,6 +217413,10 @@
           "value": 4,
           "level": null
         },
+        "lunar_chests": {
+          "value": 165,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -216428,6 +217869,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -216886,6 +218331,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -217339,6 +218788,10 @@
         },
         "kril_tsutsaroth": {
           "value": 74,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 8,
           "level": null
         },
         "mad_angel": {
@@ -217796,6 +219249,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 25,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -218249,6 +219706,10 @@
         },
         "kril_tsutsaroth": {
           "value": 757,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 163,
           "level": null
         },
         "mad_angel": {
@@ -218706,6 +220167,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 103,
+          "level": null
+        },
         "mad_angel": {
           "value": 1,
           "level": null
@@ -219158,6 +220623,469 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
+        "mad_angel": {
+          "value": 0,
+          "level": null
+        },
+        "maggot_king": {
+          "value": 0,
+          "level": null
+        },
+        "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
+        "nightmare": {
+          "value": 0,
+          "level": null
+        },
+        "phosanis_nightmare": {
+          "value": 0,
+          "level": null
+        },
+        "obor": {
+          "value": 0,
+          "level": null
+        },
+        "phantom_muspah": {
+          "value": 0,
+          "level": null
+        },
+        "sarachnis": {
+          "value": 0,
+          "level": null
+        },
+        "scorpia": {
+          "value": 0,
+          "level": null
+        },
+        "scurrius": {
+          "value": 0,
+          "level": null
+        },
+        "shellbane_gryphon": {
+          "value": 0,
+          "level": null
+        },
+        "skotizo": {
+          "value": 0,
+          "level": null
+        },
+        "sol_heredit": {
+          "value": 0,
+          "level": null
+        },
+        "spindel": {
+          "value": 0,
+          "level": null
+        },
+        "tempoross": {
+          "value": 0,
+          "level": null
+        },
+        "the_gauntlet": {
+          "value": 0,
+          "level": null
+        },
+        "the_corrupted_gauntlet": {
+          "value": 0,
+          "level": null
+        },
+        "the_hueycoatl": {
+          "value": 0,
+          "level": null
+        },
+        "the_leviathan": {
+          "value": 0,
+          "level": null
+        },
+        "the_royal_titans": {
+          "value": 0,
+          "level": null
+        },
+        "the_whisperer": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood": {
+          "value": 0,
+          "level": null
+        },
+        "theatre_of_blood_hard_mode": {
+          "value": 0,
+          "level": null
+        },
+        "thermonuclear_smoke_devil": {
+          "value": 0,
+          "level": null
+        },
+        "tombs_of_amascut": {
+          "value": 0,
+          "level": null
+        },
+        "tombs_of_amascut_expert": {
+          "value": 0,
+          "level": null
+        },
+        "tzkal_zuk": {
+          "value": 0,
+          "level": null
+        },
+        "tztok_jad": {
+          "value": 0,
+          "level": null
+        },
+        "vardorvis": {
+          "value": 0,
+          "level": null
+        },
+        "venenatis": {
+          "value": 0,
+          "level": null
+        },
+        "vetion": {
+          "value": 0,
+          "level": null
+        },
+        "vorkath": {
+          "value": 0,
+          "level": null
+        },
+        "wintertodt": {
+          "value": 0,
+          "level": null
+        },
+        "yama": {
+          "value": 0,
+          "level": null
+        },
+        "zalcano": {
+          "value": 0,
+          "level": null
+        },
+        "zulrah": {
+          "value": 0,
+          "level": null
+        }
+      }
+    },
+    {
+      "username": "cammyywammyy",
+      "role": "sapphire",
+      "type": "hardcore",
+      "metrics": {
+        "ehp": {
+          "value": 32.8582,
+          "level": null
+        },
+        "ehb": {
+          "value": 0.32863,
+          "level": null
+        },
+        "overall": {
+          "value": 2147718,
+          "level": 981
+        },
+        "attack": {
+          "value": 109707,
+          "level": 50
+        },
+        "defence": {
+          "value": 64143,
+          "level": 45
+        },
+        "strength": {
+          "value": 285140,
+          "level": 60
+        },
+        "hitpoints": {
+          "value": 242593,
+          "level": 58
+        },
+        "ranged": {
+          "value": 231219,
+          "level": 58
+        },
+        "prayer": {
+          "value": 56658,
+          "level": 44
+        },
+        "magic": {
+          "value": 358322,
+          "level": 62
+        },
+        "cooking": {
+          "value": 41608,
+          "level": 41
+        },
+        "woodcutting": {
+          "value": 65672,
+          "level": 45
+        },
+        "fletching": {
+          "value": 14351,
+          "level": 30
+        },
+        "fishing": {
+          "value": 31883,
+          "level": 38
+        },
+        "firemaking": {
+          "value": 61600,
+          "level": 45
+        },
+        "crafting": {
+          "value": 145967,
+          "level": 53
+        },
+        "smithing": {
+          "value": 85654,
+          "level": 48
+        },
+        "mining": {
+          "value": 117823,
+          "level": 51
+        },
+        "herblore": {
+          "value": 50295,
+          "level": 42
+        },
+        "agility": {
+          "value": 51371,
+          "level": 43
+        },
+        "thieving": {
+          "value": 85448,
+          "level": 48
+        },
+        "slayer": {
+          "value": 14434,
+          "level": 30
+        },
+        "farming": {
+          "value": 11252,
+          "level": 28
+        },
+        "runecrafting": {
+          "value": 16239,
+          "level": 31
+        },
+        "hunter": {
+          "value": 1060,
+          "level": 9
+        },
+        "construction": {
+          "value": 5279,
+          "level": 21
+        },
+        "sailing": {
+          "value": 0,
+          "level": 1
+        },
+        "bounty_hunter_hunter": {
+          "value": 0,
+          "level": null
+        },
+        "bounty_hunter_rogue": {
+          "value": 0,
+          "level": null
+        },
+        "clue_scrolls_all": {
+          "value": 10,
+          "level": null
+        },
+        "clue_scrolls_beginner": {
+          "value": 8,
+          "level": null
+        },
+        "clue_scrolls_easy": {
+          "value": 2,
+          "level": null
+        },
+        "clue_scrolls_medium": {
+          "value": 0,
+          "level": null
+        },
+        "clue_scrolls_hard": {
+          "value": 0,
+          "level": null
+        },
+        "clue_scrolls_elite": {
+          "value": 0,
+          "level": null
+        },
+        "clue_scrolls_master": {
+          "value": 0,
+          "level": null
+        },
+        "last_man_standing": {
+          "value": 0,
+          "level": null
+        },
+        "pvp_arena": {
+          "value": 2500,
+          "level": null
+        },
+        "soul_wars_zeal": {
+          "value": 0,
+          "level": null
+        },
+        "guardians_of_the_rift": {
+          "value": 0,
+          "level": null
+        },
+        "colosseum_glory": {
+          "value": 0,
+          "level": null
+        },
+        "collections_logged": {
+          "value": 15,
+          "level": null
+        },
+        "abyssal_sire": {
+          "value": 0,
+          "level": null
+        },
+        "alchemical_hydra": {
+          "value": 0,
+          "level": null
+        },
+        "amoxliatl": {
+          "value": 0,
+          "level": null
+        },
+        "araxxor": {
+          "value": 0,
+          "level": null
+        },
+        "artio": {
+          "value": 0,
+          "level": null
+        },
+        "barrows_chests": {
+          "value": 0,
+          "level": null
+        },
+        "brutus": {
+          "value": 19,
+          "level": null
+        },
+        "bryophyta": {
+          "value": 0,
+          "level": null
+        },
+        "callisto": {
+          "value": 0,
+          "level": null
+        },
+        "calvarion": {
+          "value": 0,
+          "level": null
+        },
+        "cerberus": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric": {
+          "value": 0,
+          "level": null
+        },
+        "chambers_of_xeric_challenge_mode": {
+          "value": 0,
+          "level": null
+        },
+        "chaos_elemental": {
+          "value": 0,
+          "level": null
+        },
+        "chaos_fanatic": {
+          "value": 0,
+          "level": null
+        },
+        "commander_zilyana": {
+          "value": 0,
+          "level": null
+        },
+        "corporeal_beast": {
+          "value": 0,
+          "level": null
+        },
+        "crazy_archaeologist": {
+          "value": 24,
+          "level": null
+        },
+        "dagannoth_prime": {
+          "value": 0,
+          "level": null
+        },
+        "dagannoth_rex": {
+          "value": 0,
+          "level": null
+        },
+        "dagannoth_supreme": {
+          "value": 0,
+          "level": null
+        },
+        "deranged_archaeologist": {
+          "value": 0,
+          "level": null
+        },
+        "doom_of_mokhaiotl": {
+          "value": 0,
+          "level": null
+        },
+        "duke_sucellus": {
+          "value": 0,
+          "level": null
+        },
+        "general_graardor": {
+          "value": 0,
+          "level": null
+        },
+        "giant_mole": {
+          "value": 0,
+          "level": null
+        },
+        "grotesque_guardians": {
+          "value": 0,
+          "level": null
+        },
+        "hespori": {
+          "value": 0,
+          "level": null
+        },
+        "kalphite_queen": {
+          "value": 0,
+          "level": null
+        },
+        "king_black_dragon": {
+          "value": 0,
+          "level": null
+        },
+        "kraken": {
+          "value": 0,
+          "level": null
+        },
+        "kreearra": {
+          "value": 0,
+          "level": null
+        },
+        "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -219616,6 +221544,10 @@
           "value": 105,
           "level": null
         },
+        "lunar_chests": {
+          "value": 73,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -220069,6 +222001,10 @@
         },
         "kril_tsutsaroth": {
           "value": 188,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 449,
           "level": null
         },
         "mad_angel": {
@@ -220526,6 +222462,10 @@
           "value": 17,
           "level": null
         },
+        "lunar_chests": {
+          "value": 110,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -220979,6 +222919,10 @@
         },
         "kril_tsutsaroth": {
           "value": 339,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 59,
           "level": null
         },
         "mad_angel": {
@@ -221436,6 +223380,10 @@
           "value": 221,
           "level": null
         },
+        "lunar_chests": {
+          "value": 33,
+          "level": null
+        },
         "mad_angel": {
           "value": 50,
           "level": null
@@ -221889,6 +223837,10 @@
         },
         "kril_tsutsaroth": {
           "value": 560,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 50,
           "level": null
         },
         "mad_angel": {
@@ -222346,6 +224298,10 @@
           "value": 213,
           "level": null
         },
+        "lunar_chests": {
+          "value": 114,
+          "level": null
+        },
         "mad_angel": {
           "value": 74,
           "level": null
@@ -222799,6 +224755,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 275,
           "level": null
         },
         "mad_angel": {
@@ -223256,6 +225216,10 @@
           "value": 113,
           "level": null
         },
+        "lunar_chests": {
+          "value": 118,
+          "level": null
+        },
         "mad_angel": {
           "value": 190,
           "level": null
@@ -223709,6 +225673,10 @@
         },
         "kril_tsutsaroth": {
           "value": 1000,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 413,
           "level": null
         },
         "mad_angel": {
@@ -224166,6 +226134,10 @@
           "value": 62,
           "level": null
         },
+        "lunar_chests": {
+          "value": 101,
+          "level": null
+        },
         "mad_angel": {
           "value": 52,
           "level": null
@@ -224619,6 +226591,10 @@
         },
         "kril_tsutsaroth": {
           "value": 109,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 53,
           "level": null
         },
         "mad_angel": {
@@ -225076,6 +227052,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 487,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -225528,6 +227508,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -225986,6 +227970,10 @@
           "value": 0,
           "level": null
         },
+        "lunar_chests": {
+          "value": 0,
+          "level": null
+        },
         "mad_angel": {
           "value": 0,
           "level": null
@@ -226438,6 +228426,10 @@
           "level": null
         },
         "kril_tsutsaroth": {
+          "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
           "value": 0,
           "level": null
         },
@@ -226894,6 +228886,10 @@
         },
         "kril_tsutsaroth": {
           "value": 0,
+          "level": null
+        },
+        "lunar_chests": {
+          "value": 19,
           "level": null
         },
         "mad_angel": {
