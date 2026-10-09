@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:24:04.259Z",
+  "updatedAt": "2026-10-09T15:22:39.301Z",
   "members": [
     {
       "username": "CountCorvula",
@@ -320,6 +320,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 6,
           "level": null
         },
         "nightmare": {
@@ -777,6 +781,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 56,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -1232,6 +1240,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 30,
           "level": null
@@ -1372,15 +1384,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1630.49622,
+          "value": 1630.6194,
           "level": null
         },
         "ehb": {
-          "value": 437.7923899999999,
+          "value": 438.4680699999999,
           "level": null
         },
         "overall": {
-          "value": 371132514,
+          "value": 371294271,
           "level": 2347
         },
         "attack": {
@@ -1392,11 +1404,11 @@
           "level": 99
         },
         "strength": {
-          "value": 25631808,
+          "value": 25737685,
           "level": 99
         },
         "hitpoints": {
-          "value": 38236407,
+          "value": 38271679,
           "level": 99
         },
         "ranged": {
@@ -1408,7 +1420,7 @@
           "level": 94
         },
         "magic": {
-          "value": 22164888,
+          "value": 22170650,
           "level": 99
         },
         "cooking": {
@@ -1432,7 +1444,7 @@
           "level": 99
         },
         "crafting": {
-          "value": 13247288,
+          "value": 13248296,
           "level": 99
         },
         "smithing": {
@@ -1440,7 +1452,7 @@
           "level": 92
         },
         "mining": {
-          "value": 15783532,
+          "value": 15784132,
           "level": 99
         },
         "herblore": {
@@ -1448,7 +1460,7 @@
           "level": 99
         },
         "agility": {
-          "value": 7498103,
+          "value": 7499033,
           "level": 93
         },
         "thieving": {
@@ -1464,7 +1476,7 @@
           "level": 99
         },
         "runecrafting": {
-          "value": 9046041,
+          "value": 9058349,
           "level": 95
         },
         "hunter": {
@@ -1687,6 +1699,10 @@
           "value": 7,
           "level": null
         },
+        "nex": {
+          "value": 6,
+          "level": null
+        },
         "nightmare": {
           "value": 30,
           "level": null
@@ -1788,7 +1804,7 @@
           "level": null
         },
         "vardorvis": {
-          "value": 800,
+          "value": 825,
           "level": null
         },
         "venenatis": {
@@ -2139,6 +2155,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -2597,6 +2617,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -3049,6 +3073,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -3507,6 +3535,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 4,
+          "level": null
+        },
         "nightmare": {
           "value": 4,
           "level": null
@@ -3962,6 +3994,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -4414,6 +4450,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -4872,6 +4912,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 4,
           "level": null
@@ -5325,6 +5369,10 @@
         },
         "mimic": {
           "value": 7,
+          "level": null
+        },
+        "nex": {
+          "value": 359,
           "level": null
         },
         "nightmare": {
@@ -5782,6 +5830,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 77,
           "level": null
@@ -6237,6 +6289,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 7,
           "level": null
@@ -6377,15 +6433,15 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1215.40827,
+          "value": 1215.44368,
           "level": null
         },
         "ehb": {
-          "value": 519.0830999999998,
+          "value": 520.4467399999999,
           "level": null
         },
         "overall": {
-          "value": 549408156,
+          "value": 549514112,
           "level": 2376
         },
         "attack": {
@@ -6393,7 +6449,7 @@
           "level": 99
         },
         "defence": {
-          "value": 20806849,
+          "value": 20833817,
           "level": 99
         },
         "strength": {
@@ -6401,11 +6457,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 55876666,
+          "value": 55913034,
           "level": 99
         },
         "ranged": {
-          "value": 50759817,
+          "value": 50761257,
           "level": 99
         },
         "prayer": {
@@ -6413,7 +6469,7 @@
           "level": 99
         },
         "magic": {
-          "value": 28874988,
+          "value": 28916168,
           "level": 99
         },
         "cooking": {
@@ -6692,6 +6748,10 @@
           "value": 16,
           "level": null
         },
+        "nex": {
+          "value": 2,
+          "level": null
+        },
         "nightmare": {
           "value": 56,
           "level": null
@@ -6832,7 +6892,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 626.0824499999999,
+          "value": 628.97269,
           "level": null
         },
         "ehb": {
@@ -6840,8 +6900,8 @@
           "level": null
         },
         "overall": {
-          "value": 106879871,
-          "level": 2042
+          "value": 107115581,
+          "level": 2043
         },
         "attack": {
           "value": 3192487,
@@ -6868,7 +6928,7 @@
           "level": 78
         },
         "magic": {
-          "value": 6967726,
+          "value": 6971436,
           "level": 92
         },
         "cooking": {
@@ -6908,11 +6968,11 @@
           "level": 72
         },
         "agility": {
-          "value": 4819086,
-          "level": 88
+          "value": 5036636,
+          "level": 89
         },
         "thieving": {
-          "value": 5674301,
+          "value": 5686501,
           "level": 90
         },
         "slayer": {
@@ -6932,7 +6992,7 @@
           "level": 89
         },
         "construction": {
-          "value": 2280281,
+          "value": 2282531,
           "level": 81
         },
         "sailing": {
@@ -7145,6 +7205,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -7599,6 +7663,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -8057,6 +8125,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -8509,6 +8581,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -8967,6 +9043,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -9420,6 +9500,10 @@
         },
         "mimic": {
           "value": 9,
+          "level": null
+        },
+        "nex": {
+          "value": 27,
           "level": null
         },
         "nightmare": {
@@ -9877,6 +9961,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 2,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -10332,6 +10420,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 20,
           "level": null
@@ -10784,6 +10876,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -11242,6 +11338,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -11695,6 +11795,10 @@
         },
         "mimic": {
           "value": 3,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -12152,6 +12256,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -12604,6 +12712,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -13062,6 +13174,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 12,
           "level": null
@@ -13517,6 +13633,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -13969,6 +14089,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -14427,6 +14551,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 11,
+          "level": null
+        },
         "nightmare": {
           "value": 35,
           "level": null
@@ -14879,6 +15007,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -15337,6 +15469,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -15790,6 +15926,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 53,
           "level": null
         },
         "nightmare": {
@@ -16247,6 +16387,10 @@
           "value": 6,
           "level": null
         },
+        "nex": {
+          "value": 880,
+          "level": null
+        },
         "nightmare": {
           "value": 35,
           "level": null
@@ -16387,7 +16531,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 280.59302,
+          "value": 280.60829,
           "level": null
         },
         "ehb": {
@@ -16395,7 +16539,7 @@
           "level": null
         },
         "overall": {
-          "value": 128378184,
+          "value": 128381148,
           "level": 1977
         },
         "attack": {
@@ -16431,7 +16575,7 @@
           "level": 81
         },
         "woodcutting": {
-          "value": 1546112,
+          "value": 1549076,
           "level": 77
         },
         "fletching": {
@@ -16700,6 +16844,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 9,
           "level": null
         },
         "nightmare": {
@@ -17157,6 +17305,10 @@
           "value": 22,
           "level": null
         },
+        "nex": {
+          "value": 28,
+          "level": null
+        },
         "nightmare": {
           "value": 12,
           "level": null
@@ -17612,6 +17764,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 7,
           "level": null
@@ -17752,7 +17908,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 2244.70618,
+          "value": 2245.10169,
           "level": null
         },
         "ehb": {
@@ -17760,7 +17916,7 @@
           "level": null
         },
         "overall": {
-          "value": 434616207,
+          "value": 434711417,
           "level": 2376
         },
         "attack": {
@@ -18064,6 +18220,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -18522,6 +18682,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 25,
           "level": null
@@ -18975,6 +19139,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 250,
           "level": null
         },
         "nightmare": {
@@ -19432,6 +19600,10 @@
           "value": 18,
           "level": null
         },
+        "nex": {
+          "value": 1700,
+          "level": null
+        },
         "nightmare": {
           "value": 34,
           "level": null
@@ -19885,6 +20057,10 @@
         },
         "mimic": {
           "value": 15,
+          "level": null
+        },
+        "nex": {
+          "value": 519,
           "level": null
         },
         "nightmare": {
@@ -20342,6 +20518,10 @@
           "value": 12,
           "level": null
         },
+        "nex": {
+          "value": 531,
+          "level": null
+        },
         "nightmare": {
           "value": 95,
           "level": null
@@ -20795,6 +20975,10 @@
         },
         "mimic": {
           "value": 14,
+          "level": null
+        },
+        "nex": {
+          "value": 233,
           "level": null
         },
         "nightmare": {
@@ -21252,6 +21436,10 @@
           "value": 8,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 21,
           "level": null
@@ -21705,6 +21893,10 @@
         },
         "mimic": {
           "value": 14,
+          "level": null
+        },
+        "nex": {
+          "value": 1,
           "level": null
         },
         "nightmare": {
@@ -22162,6 +22354,10 @@
           "value": 21,
           "level": null
         },
+        "nex": {
+          "value": 30,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -22615,6 +22811,10 @@
         },
         "mimic": {
           "value": 16,
+          "level": null
+        },
+        "nex": {
+          "value": 26,
           "level": null
         },
         "nightmare": {
@@ -23072,6 +23272,10 @@
           "value": 5,
           "level": null
         },
+        "nex": {
+          "value": 30,
+          "level": null
+        },
         "nightmare": {
           "value": 33,
           "level": null
@@ -23525,6 +23729,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -23982,6 +24190,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 10,
           "level": null
@@ -24435,6 +24647,10 @@
         },
         "mimic": {
           "value": 34,
+          "level": null
+        },
+        "nex": {
+          "value": 1035,
           "level": null
         },
         "nightmare": {
@@ -24892,6 +25108,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 185,
+          "level": null
+        },
         "nightmare": {
           "value": 3,
           "level": null
@@ -25347,6 +25567,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -25487,35 +25711,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2164.55913,
+          "value": 2164.56297,
           "level": null
         },
         "ehb": {
-          "value": 1000.77504,
+          "value": 1001.14541,
           "level": null
         },
         "overall": {
-          "value": 562293406,
+          "value": 562386425,
           "level": 2376
         },
         "attack": {
-          "value": 29967739,
+          "value": 29967836,
           "level": 99
         },
         "defence": {
-          "value": 18455080,
+          "value": 18455966,
           "level": 99
         },
         "strength": {
-          "value": 62882200,
+          "value": 62943662,
           "level": 99
         },
         "hitpoints": {
-          "value": 68313464,
+          "value": 68336474,
           "level": 99
         },
         "ranged": {
-          "value": 69573819,
+          "value": 69577795,
           "level": 99
         },
         "prayer": {
@@ -25523,7 +25747,7 @@
           "level": 99
         },
         "magic": {
-          "value": 27954528,
+          "value": 27958116,
           "level": 99
         },
         "cooking": {
@@ -25802,6 +26026,10 @@
           "value": 11,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 17,
           "level": null
@@ -25839,7 +26067,7 @@
           "level": null
         },
         "sol_heredit": {
-          "value": 255,
+          "value": 256,
           "level": null
         },
         "spindel": {
@@ -25942,7 +26170,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 1154.61177,
+          "value": 1154.83929,
           "level": null
         },
         "ehb": {
@@ -25950,7 +26178,7 @@
           "level": null
         },
         "overall": {
-          "value": 510248747,
+          "value": 510302120,
           "level": 2376
         },
         "attack": {
@@ -25986,7 +26214,7 @@
           "level": 99
         },
         "woodcutting": {
-          "value": 14582841,
+          "value": 14636130,
           "level": 99
         },
         "fletching": {
@@ -26018,7 +26246,7 @@
           "level": 99
         },
         "agility": {
-          "value": 13059020,
+          "value": 13059104,
           "level": 99
         },
         "thieving": {
@@ -26255,6 +26483,10 @@
         },
         "mimic": {
           "value": 22,
+          "level": null
+        },
+        "nex": {
+          "value": 96,
           "level": null
         },
         "nightmare": {
@@ -26712,6 +26944,10 @@
           "value": 23,
           "level": null
         },
+        "nex": {
+          "value": 2100,
+          "level": null
+        },
         "nightmare": {
           "value": 36,
           "level": null
@@ -27165,6 +27401,10 @@
         },
         "mimic": {
           "value": 17,
+          "level": null
+        },
+        "nex": {
+          "value": 1401,
           "level": null
         },
         "nightmare": {
@@ -27622,6 +27862,10 @@
           "value": 24,
           "level": null
         },
+        "nex": {
+          "value": 1445,
+          "level": null
+        },
         "nightmare": {
           "value": 72,
           "level": null
@@ -28075,6 +28319,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 26,
           "level": null
         },
         "nightmare": {
@@ -28532,6 +28780,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 280,
+          "level": null
+        },
         "nightmare": {
           "value": 20,
           "level": null
@@ -28985,6 +29237,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 282,
           "level": null
         },
         "nightmare": {
@@ -29442,6 +29698,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 54,
+          "level": null
+        },
         "nightmare": {
           "value": 39,
           "level": null
@@ -29895,6 +30155,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -30352,6 +30616,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 249,
+          "level": null
+        },
         "nightmare": {
           "value": 13,
           "level": null
@@ -30807,6 +31075,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 26,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -31259,6 +31531,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -31717,6 +31993,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -32170,6 +32450,10 @@
         },
         "mimic": {
           "value": 4,
+          "level": null
+        },
+        "nex": {
+          "value": 18,
           "level": null
         },
         "nightmare": {
@@ -32627,6 +32911,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -33080,6 +33368,10 @@
         },
         "mimic": {
           "value": 5,
+          "level": null
+        },
+        "nex": {
+          "value": 33,
           "level": null
         },
         "nightmare": {
@@ -33537,6 +33829,10 @@
           "value": 15,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -33990,6 +34286,10 @@
         },
         "mimic": {
           "value": 3,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -34447,6 +34747,10 @@
           "value": 5,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 16,
           "level": null
@@ -34899,6 +35203,10 @@
           "level": null
         },
         "mimic": {
+          "value": 5,
+          "level": null
+        },
+        "nex": {
           "value": 5,
           "level": null
         },
@@ -35357,6 +35665,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 1337,
+          "level": null
+        },
         "nightmare": {
           "value": 29,
           "level": null
@@ -35810,6 +36122,10 @@
         },
         "mimic": {
           "value": 8,
+          "level": null
+        },
+        "nex": {
+          "value": 38,
           "level": null
         },
         "nightmare": {
@@ -36267,6 +36583,10 @@
           "value": 13,
           "level": null
         },
+        "nex": {
+          "value": 30,
+          "level": null
+        },
         "nightmare": {
           "value": 3,
           "level": null
@@ -36722,6 +37042,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 2,
+          "level": null
+        },
         "nightmare": {
           "value": 8,
           "level": null
@@ -37174,6 +37498,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -37632,6 +37960,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -38084,6 +38416,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -38542,6 +38878,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -38997,6 +39337,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -39449,6 +39793,10 @@
           "level": null
         },
         "mimic": {
+          "value": 3,
+          "level": null
+        },
+        "nex": {
           "value": 3,
           "level": null
         },
@@ -39907,6 +40255,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -40047,15 +40399,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1842.03859,
+          "value": 1842.04336,
           "level": null
         },
         "ehb": {
-          "value": 349.0077000000001,
+          "value": 349.22392,
           "level": null
         },
         "overall": {
-          "value": 452337248,
+          "value": 452372616,
           "level": 2346
         },
         "attack": {
@@ -40067,11 +40419,11 @@
           "level": 99
         },
         "strength": {
-          "value": 42866322,
+          "value": 42886860,
           "level": 99
         },
         "hitpoints": {
-          "value": 39879192,
+          "value": 39886033,
           "level": 99
         },
         "ranged": {
@@ -40083,7 +40435,7 @@
           "level": 99
         },
         "magic": {
-          "value": 17934071,
+          "value": 17935303,
           "level": 99
         },
         "cooking": {
@@ -40115,11 +40467,11 @@
           "level": 99
         },
         "mining": {
-          "value": 9063455,
+          "value": 9063535,
           "level": 95
         },
         "herblore": {
-          "value": 14865256,
+          "value": 14865416,
           "level": 99
         },
         "agility": {
@@ -40135,7 +40487,7 @@
           "level": 99
         },
         "farming": {
-          "value": 40152359,
+          "value": 40158876,
           "level": 99
         },
         "runecrafting": {
@@ -40307,7 +40659,7 @@
           "level": null
         },
         "duke_sucellus": {
-          "value": 490,
+          "value": 498,
           "level": null
         },
         "general_graardor": {
@@ -40360,6 +40712,10 @@
         },
         "mimic": {
           "value": 11,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -40814,6 +41170,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -41272,6 +41632,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -41724,6 +42088,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -42182,6 +42550,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -42637,6 +43009,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 230,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -43089,6 +43465,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -43547,6 +43927,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 1256,
+          "level": null
+        },
         "nightmare": {
           "value": 131,
           "level": null
@@ -43999,6 +44383,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -44457,6 +44845,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -44605,7 +44997,7 @@
           "level": null
         },
         "overall": {
-          "value": 346299520,
+          "value": 346299550,
           "level": 2290
         },
         "attack": {
@@ -44633,7 +45025,7 @@
           "level": 91
         },
         "magic": {
-          "value": 19441020,
+          "value": 19441050,
           "level": 99
         },
         "cooking": {
@@ -44910,6 +45302,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 25,
           "level": null
         },
         "nightmare": {
@@ -45367,6 +45763,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 10,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -45822,6 +46222,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -46274,6 +46678,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -46732,6 +47140,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -47184,6 +47596,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -47642,6 +48058,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 6,
           "level": null
@@ -48094,6 +48514,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -48552,6 +48976,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -49005,6 +49433,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 25,
           "level": null
         },
         "nightmare": {
@@ -49462,6 +49894,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 29,
+          "level": null
+        },
         "nightmare": {
           "value": 2,
           "level": null
@@ -49915,6 +50351,10 @@
         },
         "mimic": {
           "value": 4,
+          "level": null
+        },
+        "nex": {
+          "value": 13,
           "level": null
         },
         "nightmare": {
@@ -50372,6 +50812,10 @@
           "value": 5,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -50825,6 +51269,10 @@
         },
         "mimic": {
           "value": 7,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -51282,6 +51730,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 22,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -51735,6 +52187,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 57,
           "level": null
         },
         "nightmare": {
@@ -52192,6 +52648,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -52647,6 +53107,10 @@
           "value": 7,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -52787,15 +53251,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1669.22839,
+          "value": 1669.34634,
           "level": null
         },
         "ehb": {
-          "value": 457.4664700000001,
+          "value": 458.2998000000001,
           "level": null
         },
         "overall": {
-          "value": 375242286,
+          "value": 375357951,
           "level": 2335
         },
         "attack": {
@@ -52803,15 +53267,15 @@
           "level": 99
         },
         "defence": {
-          "value": 16670297,
+          "value": 16679436,
           "level": 99
         },
         "strength": {
-          "value": 27125089,
+          "value": 27151805,
           "level": 99
         },
         "hitpoints": {
-          "value": 38209963,
+          "value": 38231049,
           "level": 99
         },
         "ranged": {
@@ -52819,11 +53283,11 @@
           "level": 99
         },
         "prayer": {
-          "value": 6665852,
+          "value": 6684452,
           "level": 92
         },
         "magic": {
-          "value": 24183223,
+          "value": 24223347,
           "level": 99
         },
         "cooking": {
@@ -53102,6 +53566,10 @@
           "value": 10,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -53111,7 +53579,7 @@
           "level": null
         },
         "obor": {
-          "value": 20,
+          "value": 30,
           "level": null
         },
         "phantom_muspah": {
@@ -53554,6 +54022,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -54012,6 +54484,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -54467,6 +54943,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -54607,7 +55087,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1133.22497,
+          "value": 1138.64121,
           "level": null
         },
         "ehb": {
@@ -54615,7 +55095,7 @@
           "level": null
         },
         "overall": {
-          "value": 227488019,
+          "value": 227999849,
           "level": 2243
         },
         "attack": {
@@ -54683,11 +55163,11 @@
           "level": 92
         },
         "agility": {
-          "value": 11087360,
+          "value": 11590590,
           "level": 97
         },
         "thieving": {
-          "value": 13234616,
+          "value": 13243216,
           "level": 99
         },
         "slayer": {
@@ -54920,6 +55400,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -55377,6 +55861,10 @@
           "value": 11,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 17,
           "level": null
@@ -55830,6 +56318,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 10,
           "level": null
         },
         "nightmare": {
@@ -56287,6 +56779,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 397,
+          "level": null
+        },
         "nightmare": {
           "value": 45,
           "level": null
@@ -56739,6 +57235,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -57197,6 +57697,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 2,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -57649,6 +58153,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -58107,6 +58615,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 6,
           "level": null
@@ -58559,6 +59071,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -59017,6 +59533,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 24,
           "level": null
@@ -59472,6 +59992,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 41,
+          "level": null
+        },
         "nightmare": {
           "value": 10,
           "level": null
@@ -59924,6 +60448,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -60382,6 +60910,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 10,
+          "level": null
+        },
         "nightmare": {
           "value": 5,
           "level": null
@@ -60835,6 +61367,10 @@
         },
         "mimic": {
           "value": 3,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -61292,6 +61828,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 181,
+          "level": null
+        },
         "nightmare": {
           "value": 42,
           "level": null
@@ -61745,6 +62285,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -62202,6 +62746,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 3,
+          "level": null
+        },
         "nightmare": {
           "value": 8,
           "level": null
@@ -62657,6 +63205,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -63109,6 +63661,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -63567,6 +64123,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 2,
           "level": null
@@ -64019,6 +64579,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -64477,6 +65041,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -64929,6 +65497,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -65387,6 +65959,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 27,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -65840,6 +66416,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -66297,6 +66877,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 12,
+          "level": null
+        },
         "nightmare": {
           "value": 15,
           "level": null
@@ -66749,6 +67333,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -67207,6 +67795,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -67659,6 +68251,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -68117,6 +68713,10 @@
           "value": 5,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -68570,6 +69170,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 2,
           "level": null
         },
         "nightmare": {
@@ -69027,6 +69631,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 4,
           "level": null
@@ -69480,6 +70088,10 @@
         },
         "mimic": {
           "value": 3,
+          "level": null
+        },
+        "nex": {
+          "value": 85,
           "level": null
         },
         "nightmare": {
@@ -69937,6 +70549,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -70390,6 +71006,10 @@
         },
         "mimic": {
           "value": 5,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -70847,6 +71467,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -71299,6 +71923,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -71757,6 +72385,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -72209,6 +72841,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -72667,6 +73303,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 9,
           "level": null
@@ -73122,6 +73762,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -73574,6 +74218,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -74032,6 +74680,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -74484,6 +75136,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -74942,6 +75598,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -75394,6 +76054,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -75852,6 +76516,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -76307,6 +76975,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 2,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -76759,6 +77431,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -77217,6 +77893,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -77669,6 +78349,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -78127,6 +78811,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -78579,6 +79267,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -79037,6 +79729,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -79489,6 +80185,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -79947,6 +80647,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -80399,6 +81103,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -80857,6 +81565,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -81309,6 +82021,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -81767,6 +82483,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -82219,6 +82939,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -82677,6 +83401,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -83132,6 +83860,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -83584,6 +84316,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -84042,6 +84778,10 @@
           "value": 6,
           "level": null
         },
+        "nex": {
+          "value": 2176,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -84494,6 +85234,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -84952,6 +85696,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -85404,6 +86152,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -85862,6 +86614,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -86314,6 +87070,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -86772,6 +87532,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -87224,6 +87988,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -87682,6 +88450,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -88134,6 +88906,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -88592,6 +89368,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 66,
+          "level": null
+        },
         "nightmare": {
           "value": 49,
           "level": null
@@ -89044,6 +89824,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -89502,6 +90286,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -89642,7 +90430,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 743.5020600000001,
+          "value": 744.0582600000001,
           "level": null
         },
         "ehb": {
@@ -89650,11 +90438,11 @@
           "level": null
         },
         "overall": {
-          "value": 175395529,
+          "value": 175512423,
           "level": 2135
         },
         "attack": {
-          "value": 9398955,
+          "value": 9445787,
           "level": 95
         },
         "defence": {
@@ -89662,23 +90450,23 @@
           "level": 95
         },
         "strength": {
-          "value": 14321942,
+          "value": 14322022,
           "level": 99
         },
         "hitpoints": {
-          "value": 24011364,
+          "value": 24026980,
           "level": 99
         },
         "ranged": {
-          "value": 19397264,
+          "value": 19407538,
           "level": 99
         },
         "prayer": {
-          "value": 4934528,
+          "value": 4934543,
           "level": 89
         },
         "magic": {
-          "value": 18518743,
+          "value": 18524309,
           "level": 99
         },
         "cooking": {
@@ -89702,11 +90490,11 @@
           "level": 90
         },
         "crafting": {
-          "value": 7367587,
+          "value": 7378333,
           "level": 93
         },
         "smithing": {
-          "value": 3246689,
+          "value": 3257704,
           "level": 84
         },
         "mining": {
@@ -89726,7 +90514,7 @@
           "level": 80
         },
         "slayer": {
-          "value": 7430318,
+          "value": 7447068,
           "level": 93
         },
         "farming": {
@@ -89955,6 +90743,10 @@
         },
         "mimic": {
           "value": 3,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -90409,6 +91201,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -90867,6 +91663,10 @@
           "value": 13,
           "level": null
         },
+        "nex": {
+          "value": 1141,
+          "level": null
+        },
         "nightmare": {
           "value": 34,
           "level": null
@@ -91319,6 +92119,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -91777,6 +92581,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -92229,6 +93037,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -92687,6 +93499,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -93142,6 +93958,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -93594,6 +94414,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -94052,6 +94876,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 3,
           "level": null
@@ -94504,6 +95332,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -94962,6 +95794,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -95414,6 +96250,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -95872,6 +96712,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -96325,6 +97169,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -96782,6 +97630,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 112,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -97237,6 +98089,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 222,
+          "level": null
+        },
         "nightmare": {
           "value": 50,
           "level": null
@@ -97689,6 +98545,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -98147,6 +99007,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -98599,6 +99463,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -99057,6 +99925,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -99509,6 +100381,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -99967,6 +100843,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -100419,6 +101299,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -100877,6 +101761,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -101332,6 +102220,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -101784,6 +102676,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -102242,6 +103138,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -102694,6 +103594,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -103152,6 +104056,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -103607,6 +104515,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 41,
+          "level": null
+        },
         "nightmare": {
           "value": 3,
           "level": null
@@ -104059,6 +104971,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -104517,6 +105433,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -104657,16 +105577,16 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 546.95391,
+          "value": 547.30952,
           "level": null
         },
         "ehb": {
-          "value": 91.81974999999998,
+          "value": 91.99622,
           "level": null
         },
         "overall": {
-          "value": 96685594,
-          "level": 2032
+          "value": 96722933,
+          "level": 2033
         },
         "attack": {
           "value": 2030290,
@@ -104677,15 +105597,15 @@
           "level": 78
         },
         "strength": {
-          "value": 6128503,
+          "value": 6139439,
           "level": 91
         },
         "hitpoints": {
-          "value": 5548781,
+          "value": 5555924,
           "level": 90
         },
         "ranged": {
-          "value": 5774397,
+          "value": 5784917,
           "level": 90
         },
         "prayer": {
@@ -104693,7 +105613,7 @@
           "level": 81
         },
         "magic": {
-          "value": 5682855,
+          "value": 5682885,
           "level": 90
         },
         "cooking": {
@@ -104733,7 +105653,7 @@
           "level": 83
         },
         "agility": {
-          "value": 1819936,
+          "value": 1819939,
           "level": 79
         },
         "thieving": {
@@ -104741,8 +105661,8 @@
           "level": 94
         },
         "slayer": {
-          "value": 1790912,
-          "level": 78
+          "value": 1799619,
+          "level": 79
         },
         "farming": {
           "value": 7639436,
@@ -104821,7 +105741,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 413,
+          "value": 414,
           "level": null
         },
         "abyssal_sire": {
@@ -104929,7 +105849,7 @@
           "level": null
         },
         "grotesque_guardians": {
-          "value": 176,
+          "value": 182,
           "level": null
         },
         "hespori": {
@@ -104969,6 +105889,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -105427,6 +106351,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -105880,6 +106808,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -106337,6 +107269,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 7,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -106789,6 +107725,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -107247,6 +108187,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -107699,6 +108643,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -108157,6 +109105,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 24,
           "level": null
@@ -108610,6 +109562,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -109067,6 +110023,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -109519,6 +110479,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -109977,6 +110941,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -110429,6 +111397,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -110887,6 +111859,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -111339,6 +112315,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -111797,6 +112777,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -112249,6 +113233,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -112707,6 +113695,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 11,
+          "level": null
+        },
         "nightmare": {
           "value": 5,
           "level": null
@@ -113159,6 +114151,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -113617,6 +114613,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -114072,6 +115072,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -114524,6 +115528,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -114982,6 +115990,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -115434,6 +116446,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -115892,6 +116908,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -116345,6 +117365,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 34,
           "level": null
         },
         "nightmare": {
@@ -116802,6 +117826,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -116942,15 +117970,15 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 2087.70329,
+          "value": 2087.70486,
           "level": null
         },
         "ehb": {
-          "value": 1053.5945,
+          "value": 1053.64212,
           "level": null
         },
         "overall": {
-          "value": 623064466,
+          "value": 623069068,
           "level": 2376
         },
         "attack": {
@@ -116958,7 +117986,7 @@
           "level": 99
         },
         "defence": {
-          "value": 17369380,
+          "value": 17370547,
           "level": 99
         },
         "strength": {
@@ -116966,11 +117994,11 @@
           "level": 99
         },
         "hitpoints": {
-          "value": 79470489,
+          "value": 79472058,
           "level": 99
         },
         "ranged": {
-          "value": 74617211,
+          "value": 74617259,
           "level": 99
         },
         "prayer": {
@@ -116978,7 +118006,7 @@
           "level": 99
         },
         "magic": {
-          "value": 42458452,
+          "value": 42460270,
           "level": 99
         },
         "cooking": {
@@ -117257,6 +118285,10 @@
           "value": 18,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 15,
           "level": null
@@ -117326,7 +118358,7 @@
           "level": null
         },
         "the_whisperer": {
-          "value": 473,
+          "value": 474,
           "level": null
         },
         "theatre_of_blood": {
@@ -117709,6 +118741,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -118167,6 +119203,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -118619,6 +119659,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -119077,6 +120121,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -119529,6 +120577,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -119987,6 +121039,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -120439,6 +121495,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -120897,6 +121957,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -121349,6 +122413,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -121807,6 +122875,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -122262,6 +123334,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -122714,6 +123790,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -123172,6 +124252,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -123625,6 +124709,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 349,
           "level": null
         },
         "nightmare": {
@@ -124082,6 +125170,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -124222,7 +125314,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 833.9096900000001,
+          "value": 835.14291,
           "level": null
         },
         "ehb": {
@@ -124230,8 +125322,8 @@
           "level": null
         },
         "overall": {
-          "value": 193568328,
-          "level": 2097
+          "value": 193805344,
+          "level": 2098
         },
         "attack": {
           "value": 13938696,
@@ -124535,6 +125627,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -124989,6 +126085,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -125447,6 +126547,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -125899,6 +127003,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -126357,6 +127465,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -126809,6 +127921,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -127267,6 +128383,10 @@
           "value": 13,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 4,
           "level": null
@@ -127720,6 +128840,10 @@
         },
         "mimic": {
           "value": 12,
+          "level": null
+        },
+        "nex": {
+          "value": 262,
           "level": null
         },
         "nightmare": {
@@ -128177,6 +129301,10 @@
           "value": 6,
           "level": null
         },
+        "nex": {
+          "value": 2540,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -128629,6 +129757,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -129087,6 +130219,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -129539,6 +130675,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -129997,6 +131137,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 45,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -130137,7 +131281,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 610.3288299999999,
+          "value": 611.15591,
           "level": null
         },
         "ehb": {
@@ -130145,8 +131289,8 @@
           "level": null
         },
         "overall": {
-          "value": 111781348,
-          "level": 2044
+          "value": 111924365,
+          "level": 2045
         },
         "attack": {
           "value": 3917312,
@@ -130157,11 +131301,11 @@
           "level": 84
         },
         "strength": {
-          "value": 10111402,
+          "value": 10111422,
           "level": 96
         },
         "hitpoints": {
-          "value": 13361906,
+          "value": 13361912,
           "level": 99
         },
         "ranged": {
@@ -130173,7 +131317,7 @@
           "level": 77
         },
         "magic": {
-          "value": 10794899,
+          "value": 10794990,
           "level": 97
         },
         "cooking": {
@@ -130181,8 +131325,8 @@
           "level": 84
         },
         "woodcutting": {
-          "value": 1850342,
-          "level": 79
+          "value": 1986303,
+          "level": 80
         },
         "fletching": {
           "value": 2676132,
@@ -130197,7 +131341,7 @@
           "level": 80
         },
         "crafting": {
-          "value": 7252559,
+          "value": 7254554,
           "level": 93
         },
         "smithing": {
@@ -130213,11 +131357,11 @@
           "level": 82
         },
         "agility": {
-          "value": 1146859,
+          "value": 1146886,
           "level": 74
         },
         "thieving": {
-          "value": 1328782,
+          "value": 1329645,
           "level": 75
         },
         "slayer": {
@@ -130233,11 +131377,11 @@
           "level": 79
         },
         "hunter": {
-          "value": 2045058,
+          "value": 2045112,
           "level": 80
         },
         "construction": {
-          "value": 3016632,
+          "value": 3020632,
           "level": 84
         },
         "sailing": {
@@ -130449,6 +131593,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -130907,6 +132055,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -131359,6 +132511,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -131817,6 +132973,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -132269,6 +133429,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -132727,6 +133891,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -133182,6 +134350,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 1030,
+          "level": null
+        },
         "nightmare": {
           "value": 54,
           "level": null
@@ -133634,6 +134806,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -134092,6 +135268,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -134544,6 +135724,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -135002,6 +136186,10 @@
           "value": 5,
           "level": null
         },
+        "nex": {
+          "value": 7,
+          "level": null
+        },
         "nightmare": {
           "value": 3,
           "level": null
@@ -135454,6 +136642,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -135912,6 +137104,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -136365,6 +137561,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 91,
           "level": null
         },
         "nightmare": {
@@ -136822,6 +138022,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -137202,15 +138406,15 @@
           "level": null
         },
         "dagannoth_prime": {
-          "value": 64,
+          "value": 89,
           "level": null
         },
         "dagannoth_rex": {
-          "value": 55,
+          "value": 79,
           "level": null
         },
         "dagannoth_supreme": {
-          "value": 57,
+          "value": 82,
           "level": null
         },
         "deranged_archaeologist": {
@@ -137274,6 +138478,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -137732,6 +138940,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -138184,6 +139396,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -138642,6 +139858,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -139094,6 +140314,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -139552,6 +140776,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -140007,6 +141235,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 122,
+          "level": null
+        },
         "nightmare": {
           "value": 9,
           "level": null
@@ -140459,6 +141691,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -140917,6 +142153,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -141369,6 +142609,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -141827,6 +143071,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 55,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -142282,6 +143530,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -142734,6 +143986,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -143192,6 +144448,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -143644,6 +144904,10 @@
           "level": null
         },
         "mimic": {
+          "value": 3,
+          "level": null
+        },
+        "nex": {
           "value": 3,
           "level": null
         },
@@ -144102,6 +145366,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -144555,6 +145823,10 @@
         },
         "mimic": {
           "value": 5,
+          "level": null
+        },
+        "nex": {
+          "value": 45,
           "level": null
         },
         "nightmare": {
@@ -145012,6 +146284,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 107,
+          "level": null
+        },
         "nightmare": {
           "value": 30,
           "level": null
@@ -145464,6 +146740,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -145922,6 +147202,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -146374,6 +147658,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -146832,6 +148120,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -147284,6 +148576,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -147742,6 +149038,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -148197,6 +149497,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -148649,6 +149953,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -149107,6 +150415,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -149559,6 +150871,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -150017,6 +151333,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -150472,6 +151792,10 @@
           "value": 49,
           "level": null
         },
+        "nex": {
+          "value": 2689,
+          "level": null
+        },
         "nightmare": {
           "value": 46,
           "level": null
@@ -150924,6 +152248,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -151382,6 +152710,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 11,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -151837,6 +153169,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -152289,6 +153625,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -152747,6 +154087,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -153199,6 +154543,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -153657,6 +155005,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -154109,6 +155461,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -154567,6 +155923,10 @@
           "value": 10,
           "level": null
         },
+        "nex": {
+          "value": 30,
+          "level": null
+        },
         "nightmare": {
           "value": 2,
           "level": null
@@ -155019,6 +156379,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -155477,6 +156841,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 4,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -155929,6 +157297,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -156387,6 +157759,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -156839,6 +158215,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -157297,6 +158677,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 185,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -157749,6 +159133,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -158207,6 +159595,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -158659,6 +160051,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -159117,6 +160513,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -159569,6 +160969,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -160027,6 +161431,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -160480,6 +161888,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 331,
           "level": null
         },
         "nightmare": {
@@ -160937,6 +162349,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -161077,7 +162493,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 689.6933799999999,
+          "value": 692.4095199999999,
           "level": null
         },
         "ehb": {
@@ -161085,36 +162501,36 @@
           "level": null
         },
         "overall": {
-          "value": 138729710,
-          "level": 2096
+          "value": 139290287,
+          "level": 2099
         },
         "attack": {
-          "value": 5329854,
-          "level": 89
+          "value": 5355927,
+          "level": 90
         },
         "defence": {
-          "value": 6201610,
+          "value": 6227683,
           "level": 91
         },
         "strength": {
-          "value": 10210742,
+          "value": 10236877,
           "level": 96
         },
         "hitpoints": {
-          "value": 14003591,
+          "value": 14134220,
           "level": 99
         },
         "ranged": {
-          "value": 13666867,
+          "value": 13676890,
           "level": 99
         },
         "prayer": {
-          "value": 1682706,
+          "value": 1686741,
           "level": 78
         },
         "magic": {
-          "value": 7180360,
-          "level": 92
+          "value": 7388196,
+          "level": 93
         },
         "cooking": {
           "value": 8065290,
@@ -161145,7 +162561,7 @@
           "level": 82
         },
         "mining": {
-          "value": 12177882,
+          "value": 12240282,
           "level": 98
         },
         "herblore": {
@@ -161161,8 +162577,8 @@
           "level": 86
         },
         "slayer": {
-          "value": 3585025,
-          "level": 85
+          "value": 3652398,
+          "level": 86
         },
         "farming": {
           "value": 6350901,
@@ -161241,7 +162657,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 325,
+          "value": 326,
           "level": null
         },
         "abyssal_sire": {
@@ -161389,6 +162805,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -161847,6 +163267,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -162299,6 +163723,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -162757,6 +164185,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -163209,6 +164641,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -163667,6 +165103,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 31,
+          "level": null
+        },
         "nightmare": {
           "value": 5,
           "level": null
@@ -164119,6 +165559,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -164577,6 +166021,10 @@
           "value": 14,
           "level": null
         },
+        "nex": {
+          "value": 1098,
+          "level": null
+        },
         "nightmare": {
           "value": 25,
           "level": null
@@ -165029,6 +166477,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -165487,6 +166939,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -165939,6 +167395,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -166397,6 +167857,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -166849,6 +168313,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -167307,6 +168775,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -167762,6 +169234,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -168214,6 +169690,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -168672,6 +170152,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -169124,6 +170608,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -169582,6 +171070,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -170035,6 +171527,10 @@
         },
         "mimic": {
           "value": 0,
+          "level": null
+        },
+        "nex": {
+          "value": 254,
           "level": null
         },
         "nightmare": {
@@ -170492,6 +171988,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 390,
+          "level": null
+        },
         "nightmare": {
           "value": 13,
           "level": null
@@ -170944,6 +172444,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -171402,6 +172906,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -171854,6 +173362,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -172312,6 +173824,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -172764,6 +174280,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -173222,6 +174742,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -173674,6 +175198,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -174132,6 +175660,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -174587,6 +176119,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 147,
+          "level": null
+        },
         "nightmare": {
           "value": 16,
           "level": null
@@ -175039,6 +176575,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -175497,6 +177037,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 9,
+          "level": null
+        },
         "nightmare": {
           "value": 65,
           "level": null
@@ -175949,6 +177493,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -176407,6 +177955,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -176859,6 +178411,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -177317,6 +178873,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -177769,6 +179329,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -178227,6 +179791,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -178679,6 +180247,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -179137,6 +180709,10 @@
           "value": 12,
           "level": null
         },
+        "nex": {
+          "value": 48,
+          "level": null
+        },
         "nightmare": {
           "value": 25,
           "level": null
@@ -179589,6 +181165,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -180047,6 +181627,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -180499,6 +182083,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -180957,6 +182545,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -181412,6 +183004,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 29,
+          "level": null
+        },
         "nightmare": {
           "value": 2,
           "level": null
@@ -181864,6 +183460,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -182322,6 +183922,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -182774,6 +184378,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -183232,6 +184840,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 2571,
+          "level": null
+        },
         "nightmare": {
           "value": 59,
           "level": null
@@ -183684,6 +185296,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -184142,6 +185758,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 28,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -184594,6 +186214,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -185052,6 +186676,10 @@
           "value": 7,
           "level": null
         },
+        "nex": {
+          "value": 1,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -185192,7 +186820,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 112.44898,
+          "value": 112.7864,
           "level": null
         },
         "ehb": {
@@ -185200,8 +186828,8 @@
           "level": null
         },
         "overall": {
-          "value": 23433379,
-          "level": 1701
+          "value": 23463975,
+          "level": 1702
         },
         "attack": {
           "value": 1289774,
@@ -185216,7 +186844,7 @@
           "level": 80
         },
         "hitpoints": {
-          "value": 1978562,
+          "value": 1979902,
           "level": 79
         },
         "ranged": {
@@ -185228,8 +186856,8 @@
           "level": 70
         },
         "magic": {
-          "value": 1786232,
-          "level": 78
+          "value": 1800308,
+          "level": 79
         },
         "cooking": {
           "value": 806184,
@@ -185284,7 +186912,7 @@
           "level": 80
         },
         "runecrafting": {
-          "value": 204120,
+          "value": 219300,
           "level": 57
         },
         "hunter": {
@@ -185504,6 +187132,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -185962,6 +187594,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -186417,6 +188053,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 33,
+          "level": null
+        },
         "nightmare": {
           "value": 42,
           "level": null
@@ -186869,6 +188509,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -187327,6 +188971,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -187467,7 +189115,7 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 1489.01052,
+          "value": 1489.0106,
           "level": null
         },
         "ehb": {
@@ -187475,7 +189123,7 @@
           "level": null
         },
         "overall": {
-          "value": 412786983,
+          "value": 412787105,
           "level": 2281
         },
         "attack": {
@@ -187503,7 +189151,7 @@
           "level": 91
         },
         "magic": {
-          "value": 31296351,
+          "value": 31296466,
           "level": 99
         },
         "cooking": {
@@ -187543,7 +189191,7 @@
           "level": 97
         },
         "agility": {
-          "value": 5221381,
+          "value": 5221387,
           "level": 89
         },
         "thieving": {
@@ -187555,7 +189203,7 @@
           "level": 99
         },
         "farming": {
-          "value": 20470151,
+          "value": 20470152,
           "level": 99
         },
         "runecrafting": {
@@ -187780,6 +189428,10 @@
         },
         "mimic": {
           "value": 2,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -188234,6 +189886,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -188692,6 +190348,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -189144,6 +190804,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -189602,6 +191266,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -190057,6 +191725,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -190509,6 +192181,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -190967,6 +192643,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -191419,6 +193099,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -191877,6 +193561,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -192329,6 +194017,10 @@
           "level": null
         },
         "mimic": {
+          "value": 2,
+          "level": null
+        },
+        "nex": {
           "value": 2,
           "level": null
         },
@@ -192787,6 +194479,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -193239,6 +194935,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -193697,6 +195397,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -194149,6 +195853,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -194607,6 +196315,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 2,
           "level": null
@@ -195059,6 +196771,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -195517,6 +197233,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -195969,6 +197689,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -196427,6 +198151,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 2,
           "level": null
@@ -196882,6 +198610,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -197334,6 +199066,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -197792,6 +199528,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -198245,6 +199985,10 @@
         },
         "mimic": {
           "value": 4,
+          "level": null
+        },
+        "nex": {
+          "value": 9,
           "level": null
         },
         "nightmare": {
@@ -198702,6 +200446,10 @@
           "value": 18,
           "level": null
         },
+        "nex": {
+          "value": 2317,
+          "level": null
+        },
         "nightmare": {
           "value": 78,
           "level": null
@@ -199154,6 +200902,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -199612,6 +201364,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -200065,6 +201821,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -200522,6 +202282,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 109,
+          "level": null
+        },
         "nightmare": {
           "value": 27,
           "level": null
@@ -200977,6 +202741,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 359,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -201429,6 +203197,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -201887,6 +203659,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 373,
+          "level": null
+        },
         "nightmare": {
           "value": 110,
           "level": null
@@ -202342,6 +204118,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 116,
+          "level": null
+        },
         "nightmare": {
           "value": 77,
           "level": null
@@ -202794,6 +204574,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -203252,6 +205036,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -203704,6 +205492,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -204162,6 +205954,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -204615,6 +206411,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -205072,6 +206872,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 25,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -205527,6 +207331,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -205667,35 +207475,35 @@
       "type": "ironman",
       "metrics": {
         "ehp": {
-          "value": 539.68761,
+          "value": 539.7976699999999,
           "level": null
         },
         "ehb": {
-          "value": 177.26761,
+          "value": 178.55333,
           "level": null
         },
         "overall": {
-          "value": 124242569,
+          "value": 124387739,
           "level": 2049
         },
         "attack": {
-          "value": 5841263,
+          "value": 5841925,
           "level": 90
         },
         "defence": {
-          "value": 6211641,
+          "value": 6214880,
           "level": 91
         },
         "strength": {
-          "value": 16367935,
+          "value": 16378255,
           "level": 99
         },
         "hitpoints": {
-          "value": 17967669,
+          "value": 17997028,
           "level": 99
         },
         "ranged": {
-          "value": 14861281,
+          "value": 14925861,
           "level": 99
         },
         "prayer": {
@@ -205703,7 +207511,7 @@
           "level": 80
         },
         "magic": {
-          "value": 10754023,
+          "value": 10771819,
           "level": 97
         },
         "cooking": {
@@ -205727,11 +207535,11 @@
           "level": 80
         },
         "crafting": {
-          "value": 5457786,
+          "value": 5462476,
           "level": 90
         },
         "smithing": {
-          "value": 2685581,
+          "value": 2685631,
           "level": 83
         },
         "mining": {
@@ -205739,7 +207547,7 @@
           "level": 78
         },
         "herblore": {
-          "value": 3843624,
+          "value": 3844387,
           "level": 86
         },
         "agility": {
@@ -205747,15 +207555,15 @@
           "level": 77
         },
         "thieving": {
-          "value": 2128749,
+          "value": 2129356,
           "level": 80
         },
         "slayer": {
-          "value": 4561232,
+          "value": 4562112,
           "level": 88
         },
         "farming": {
-          "value": 8387861,
+          "value": 8397930,
           "level": 94
         },
         "runecrafting": {
@@ -205763,11 +207571,11 @@
           "level": 73
         },
         "hunter": {
-          "value": 3061830,
+          "value": 3063335,
           "level": 84
         },
         "construction": {
-          "value": 2816028,
+          "value": 2816678,
           "level": 83
         },
         "sailing": {
@@ -205831,7 +207639,7 @@
           "level": null
         },
         "collections_logged": {
-          "value": 303,
+          "value": 304,
           "level": null
         },
         "abyssal_sire": {
@@ -205879,7 +207687,7 @@
           "level": null
         },
         "chambers_of_xeric": {
-          "value": 82,
+          "value": 83,
           "level": null
         },
         "chambers_of_xeric_challenge_mode": {
@@ -205982,6 +207790,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -206075,7 +207887,7 @@
           "level": null
         },
         "tzkal_zuk": {
-          "value": 0,
+          "value": 1,
           "level": null
         },
         "tztok_jad": {
@@ -206434,6 +208246,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -206892,6 +208708,10 @@
           "value": 8,
           "level": null
         },
+        "nex": {
+          "value": 30,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -207347,6 +209167,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -207487,7 +209311,7 @@
       "type": "ultimate",
       "metrics": {
         "ehp": {
-          "value": 2552.34941,
+          "value": 2553.33854,
           "level": null
         },
         "ehb": {
@@ -207495,7 +209319,7 @@
           "level": null
         },
         "overall": {
-          "value": 555861766,
+          "value": 555943270,
           "level": 2376
         },
         "attack": {
@@ -207579,7 +209403,7 @@
           "level": 99
         },
         "runecrafting": {
-          "value": 16692039,
+          "value": 16773543,
           "level": 99
         },
         "hunter": {
@@ -207800,6 +209624,10 @@
         },
         "mimic": {
           "value": 13,
+          "level": null
+        },
+        "nex": {
+          "value": 25,
           "level": null
         },
         "nightmare": {
@@ -208257,6 +210085,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 1048,
+          "level": null
+        },
         "nightmare": {
           "value": 12,
           "level": null
@@ -208709,6 +210541,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -209167,6 +211003,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -209619,6 +211459,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -210077,6 +211921,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -210217,7 +212065,7 @@
       "type": "regular",
       "metrics": {
         "ehp": {
-          "value": 145.84492,
+          "value": 145.8709,
           "level": null
         },
         "ehb": {
@@ -210225,7 +212073,7 @@
           "level": null
         },
         "overall": {
-          "value": 37830059,
+          "value": 37844478,
           "level": 1759
         },
         "attack": {
@@ -210237,11 +212085,11 @@
           "level": 75
         },
         "strength": {
-          "value": 2164921,
+          "value": 2174097,
           "level": 80
         },
         "hitpoints": {
-          "value": 2887839,
+          "value": 2890888,
           "level": 83
         },
         "ranged": {
@@ -210249,11 +212097,11 @@
           "level": 76
         },
         "prayer": {
-          "value": 750694,
+          "value": 750699,
           "level": 70
         },
         "magic": {
-          "value": 1635359,
+          "value": 1635414,
           "level": 78
         },
         "cooking": {
@@ -210289,11 +212137,11 @@
           "level": 73
         },
         "herblore": {
-          "value": 319919,
+          "value": 320006,
           "level": 61
         },
         "agility": {
-          "value": 972712,
+          "value": 972722,
           "level": 72
         },
         "thieving": {
@@ -210301,7 +212149,7 @@
           "level": 57
         },
         "slayer": {
-          "value": 1010361,
+          "value": 1012398,
           "level": 73
         },
         "farming": {
@@ -210530,6 +212378,10 @@
         },
         "mimic": {
           "value": 1,
+          "level": null
+        },
+        "nex": {
+          "value": 0,
           "level": null
         },
         "nightmare": {
@@ -210984,6 +212836,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -211442,6 +213298,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -211897,6 +213757,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -212037,7 +213901,7 @@
       "type": "hardcore",
       "metrics": {
         "ehp": {
-          "value": 77.17229,
+          "value": 77.17252,
           "level": null
         },
         "ehb": {
@@ -212045,7 +213909,7 @@
           "level": null
         },
         "overall": {
-          "value": 6216788,
+          "value": 6228706,
           "level": 1209
         },
         "attack": {
@@ -212073,7 +213937,7 @@
           "level": 44
         },
         "magic": {
-          "value": 420847,
+          "value": 432417,
           "level": 64
         },
         "cooking": {
@@ -212125,7 +213989,7 @@
           "level": 42
         },
         "farming": {
-          "value": 577011,
+          "value": 577359,
           "level": 67
         },
         "runecrafting": {
@@ -212349,6 +214213,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -212807,6 +214675,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -213262,6 +215134,10 @@
           "value": 8,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 10,
           "level": null
@@ -213714,6 +215590,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -214172,6 +216052,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -214624,6 +216508,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -215082,6 +216970,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -215534,6 +217426,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -215992,6 +217888,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 402,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -216444,6 +218344,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -216902,6 +218806,10 @@
           "value": 2,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -217354,6 +219262,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -217812,6 +219724,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -218264,6 +220180,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -218722,6 +220642,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 12,
+          "level": null
+        },
         "nightmare": {
           "value": 1,
           "level": null
@@ -219177,6 +221101,10 @@
           "value": 3,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -219629,6 +221557,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -220087,6 +222019,10 @@
           "value": 5,
           "level": null
         },
+        "nex": {
+          "value": 203,
+          "level": null
+        },
         "nightmare": {
           "value": 36,
           "level": null
@@ -220540,6 +222476,10 @@
         },
         "mimic": {
           "value": 6,
+          "level": null
+        },
+        "nex": {
+          "value": 445,
           "level": null
         },
         "nightmare": {
@@ -220997,6 +222937,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 516,
+          "level": null
+        },
         "nightmare": {
           "value": 13,
           "level": null
@@ -221449,6 +223393,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -221907,6 +223855,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 209,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -222360,6 +224312,10 @@
         },
         "mimic": {
           "value": 25,
+          "level": null
+        },
+        "nex": {
+          "value": 20,
           "level": null
         },
         "nightmare": {
@@ -222817,6 +224773,10 @@
           "value": 4,
           "level": null
         },
+        "nex": {
+          "value": 17,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -223272,6 +225232,10 @@
           "value": 1,
           "level": null
         },
+        "nex": {
+          "value": 23,
+          "level": null
+        },
         "nightmare": {
           "value": 39,
           "level": null
@@ -223724,6 +225688,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -224182,6 +226150,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -224634,6 +226606,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -225092,6 +227068,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -225544,6 +227524,10 @@
           "level": null
         },
         "mimic": {
+          "value": 0,
+          "level": null
+        },
+        "nex": {
           "value": 0,
           "level": null
         },
@@ -226002,6 +227986,10 @@
           "value": 0,
           "level": null
         },
+        "nex": {
+          "value": 0,
+          "level": null
+        },
         "nightmare": {
           "value": 0,
           "level": null
@@ -226455,6 +228443,10 @@
         },
         "mimic": {
           "value": 5,
+          "level": null
+        },
+        "nex": {
+          "value": 727,
           "level": null
         },
         "nightmare": {
